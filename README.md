@@ -9,6 +9,8 @@ customers can get to your stores.
 
 The map contains train stations where you can build your stores.
 
+Each station has a set of potential connections to other stations and a maximum build height for stores (1, 2, or 3 dots).
+
 ![](tokyo-map.png)
 
 ## The Cards
@@ -24,8 +26,8 @@ During your turn, you can:
 
 * Play a card from your hand and then:
   * Build a store at any empty station in that location.
-  * Upgrade a store that you have in that location
-  * Lure customers from that location to stores
+  * Upgrade a store that you have in that location.
+  * Lure customers from that location to stores, following train tracks to connected stations.
 * Build new track that connects to one of your stores or to your existing track.
 * Discard and draw new cards into your hand.
 
