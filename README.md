@@ -3,30 +3,33 @@
 Shinjuku is a board game where you build department stores in Tokyo and the rail lines so that
 customers can get to your stores.
 
-_Note: This is a work in progress_
+**Note: This game is a work in progress**
+
+## The Map
 
 The map contains train stations where you can build your stores.
 
 ![](tokyo-map.png)
 
-During your turn, you can choose 2 of the following actions:
+## The Cards
 
-* Play a card and build a store in that location.
-* Build new track that connects to one of your stores or to your existing track.
-* Play a card to lure customers to your stores.
-* Draw new cards.
-
-Or you can spend both actions to:
-
-* Expand one of your existing stores.
-
-New customers are added randomly to the board each turn.
-
-Cards are drawn...
+There are 23 different cards – one for each ward (区 or _ku_) in Tokyo.
+There are multiple copies of each card based on the population of that ward.
 
 ![](images/shinjuku.png)
 
-...and the customers appear in that region of Tokyo.
+## Play
+
+During your turn, you can:
+
+* Play a card from your hand and then:
+  * Build a store at any empty station in that location.
+  * Upgrade a store that you have in that location
+  * Lure customers from that location to stores
+* Build new track that connects to one of your stores or to your existing track.
+* Discard and draw new cards into your hand.
+
+New customers are added randomly to the board each turn. Cards are drawn and the customers appear in that region of Tokyo.
 
 When you choose to "lure" customers to your store, they can start from any of the train stations in that region.
 
