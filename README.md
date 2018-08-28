@@ -25,15 +25,25 @@ There are multiple copies of each card based on the population of that ward.
 During your turn, you can:
 
 * Play a card from your hand and then:
-  * Build a store at any empty station in that location.
-  * Upgrade a store that you have in that location.
-  * Lure customers from that location to stores, following train tracks to connected stations.
+  * Build a store at any empty station in that ward.
+  * Upgrade a store that you have in that ward.
+  * Lure customers from that ward to stores, following train tracks to connected stations.
 * Build new track that connects to one of your stores or to your existing track.
 * Discard and draw new cards into your hand.
 
-New customers are added randomly to the board each turn. Cards are drawn and the customers appear in that region of Tokyo.
+## Customers
 
-When you choose to "lure" customers to your store, they can start from any of the train stations in that region.
+New customers are added randomly to the board each turn. Cards are drawn and the customers appear in that ward of Tokyo.
+
+When you choose to "lure" customers to your store, they can start from any of the train stations in that ward.
+
+## Wildcards
+
+Once you build a station in a ward, the cards for that ward become wildcards for you.
+You can use your wildcards to match any ward.
+
+Because the card frequency varies based on the population of that ward, some cards work better
+as wildcards (because you're more likely to encounter them).
 
 ## Playtest images
 
