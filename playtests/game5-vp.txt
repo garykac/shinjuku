@@ -1,0 +1,52 @@
+Shinjuku
+
+Starting locations (2 away from Shinjuku)
+
+Ikebukuro
+Ueno
+Tokyo
+Shimbashi
+Akihabara
+Ebisu
+
+Resolving Customers
+Must go to highest shop that is connected to that customer's starting location
+
+Cost
+Rail
+	Requirements:
+		must be connected to a station where you have a shop or where you are connected
+	Cost: 1 card +
+		2 for 1st segment placed this turn
+		16 for 2nd segment
+		128 for 3rd segment
+
+Shops
+	Requirements:
+		must be in an:
+			empty station, or
+			station with a shop that matches the resource
+		card spend must match the location of the station unless the player already has
+		a connection to that station
+	Cost: ¥10 + 1 card 
+
+Dept store
+	Requirements:
+		must be a 3-shop stack
+		player must have at least one shop in that stack
+	Cost: ¥20 + 1 card + remove 1 shop from stack
+		shop is returned to player (and can be re-built elsewhere)
+	Counts as 1 of every kind of resource
+
+Final Scoring
+
+1vp for every 10円 (or ¥10)
+1vp for each of your 1-shop
+3vp for each player in a 2-shop stack
+6vp for each player in a 3-shop stack
+10vp for each dept store
+
+1vp for each 1-shop that's part of your rail network
+3 for each 2-shop
+6 for each 3-shop
+10vp for each dept store

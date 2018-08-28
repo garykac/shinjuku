@@ -1,0 +1,959 @@
+Yamanote
+	** Shinjuku
+	Shin-Okubo
+	Takadanobaba
+	Majiro
+	** Ikebukuro
+	Otsuka
+	Sugamo
+	Komagome
+	Tabata
+	Nishi-Nippori
+	Nippori
+	Uguisudani
+	** Ueno
+	Okachimachi
+	Akihabara
+	Kanda
+	** Tokyo
+	Yurakucho
+	Shimbashi
+	Hamamatsucho
+	Tamachi
+	** Shinagawa
+	Osaki
+	Gotanda
+	Meguro
+	Ebisu
+	** Shibuya
+	Harajuku
+	Yoyogi
+
+Yurakucho
+Fukutoshin
+Mita (Toei)
+Tobu Tojo
+Odakyu
+Seibu Ikebukuro
+Ginza (Tokyo Metro)
+Hibiya (Tokyo Metro)
+Yurakucho (Tokyo Metro)
+Hanzomon (Tokyo Metro)
+Namboku (Tokyo Metro)
+Sazanami
+Shiosai
+Chiyoda (Tokyo Metro)
+Nikko-Kinugawa
+Odoriku
+Keisei-Oshiage
+Ryomo
+Shimotsuke-Kirifuri
+Namboku
+Toden Arakawa
+Tsukuba
+Shonan-Shinjuku
+Yokosuka
+
+Marunouchi (Tokyo Metro)
+	Ogikubo
+	Minami-Asagaya
+	Shin-Koenji
+	Hagashi-Koenji
+	Shin-Nakano
+	Nakano-Sakaue
+		Nakano-Shimbashi
+		Nakano-Fujimicho		
+		Honancho
+	Nishi-Shinjuku
+	Shinjuku
+	Shinjuku-sanchome
+	Shinjuku-gyoemmae
+	Yotsuya-sanchome
+	Yotsuya
+	Akasaka-mitsuke
+	Kokkai-gijidomae
+	Kasumigaseki
+	Ginza
+	Tokyo
+	Otemachi
+	Awajicho
+	Ochanomizu
+	Hongo-sanchome - not marked on map
+	Korakuen
+	Myogadani
+	Shin-otsuka
+	Ikebukuro
+
+
+
+
+
+
+Asakusa (Toei)
+	Nishi-Magome
+	Magome
+	Nakanobu
+	Togoshi
+	Gotanda
+	Takanawadai
+	Sengakuji
+	Mita
+	Daimon
+	Shimbashi
+	Higashi-ginza
+	Takaracho
+	Nihombashi
+	Ningyocho
+	Higashi-Nihombashi
+	Asakusabashi
+	Kuramae
+	Asakusa
+	Honjo-Azumabashi
+	Oshiage
+
+Chuo Line / Sobu Line
+	Mitaka
+	Kichijoji
+	---
+	Nishi-Ogikubo
+	Ogikubo
+	Asagaya
+	Koenji
+	Nakano
+	Higashi-Nakano
+	Okubo
+	** Shinjuku
+	** Yoyogi
+	Sendagaya
+	Shinanomachi
+	Yotsuya
+	Ichigaya
+	Iidabashi
+	Suidobashi
+	** Ochonomizu
+	** Akihabara
+	Asakusabashi
+	Ryogoku
+	Kinshicho
+	Kameido
+	Hirai
+	Shin-Koiwa
+	Koiwa
+	---
+	Ichikawa
+	Motoyawata
+	Shimosa-Nakayama
+	Nishi-Funabashi
+	Funabashi
+	Higashi-Funabashi
+	...
+
+Hokuso
+	Keisei-Takasago
+	Shin-Shibamata
+	---
+	Yagiri
+	...
+	
+Joban
+	Shinagawa
+	Shimbashi
+	Tokyo
+	Ueno
+	Nippori
+	Mikawashima
+	Minami-Senju
+	Kita-Senju
+	Ayase
+	Kameari
+	Kanamachi
+	---
+	Matsudo
+	...
+	
+Keihin-tohoku
+	...
+	Warabi
+	Nishi-Kawaguchi
+	Kawaguchi
+	---
+	Akabane
+	Higashi-Jujo
+	Oji
+	Kami-Nakazato
+	Tabata
+	Nishi-Nippori
+	Nippori
+	Uguisudani
+	Ueno
+	Okachimachi
+	Akihabara
+	Kanda
+	Tokyo
+	Yurakucho
+	Shimbashi
+	Hamamatsucho
+	Tamachi
+	Shin-Shinagawa (future)
+	Shinagawa
+	Oimachi
+	Omori
+	Kamata
+	Kawasaki
+	...
+
+Keikyu
+	Sengakuji
+	Shinagawa
+	Kitashinagawa
+	Shimbamba
+	Aomono-yokocho
+	Samezu
+	Tachiaigawa
+	Omorikaigan
+	Heiwajima
+	Omorimachi
+	Umeyashiki
+	Keikyu Kamata
+	Zoshiki
+	Rokugodote
+	...
+	Keikyu Kawasaki
+	...
+
+Keikyu-Kuko
+	Keikyu Kamata
+	Kojiya
+	Otori
+	Anamori-inari
+	Tenkubashi
+	Haneda International
+	Haneda Domestic
+
+Keio Line / Keio New Line
+	Shinjuku
+	Hatsudai
+	Hatagaya
+	Sasazuka
+	Daitabashi
+	Meidai-Mae
+	Shimo-Takaido
+	Sakurajosui
+	Kami-Kitazawa
+	Hachimanyama
+	Roka-koen
+	Chitose-Kurasuyama
+	---
+	Sengawa
+
+Keisei
+	Keisei Ueno
+	Nippori
+	Shim-Mikawashima
+	Machiya
+	Senjuohashi
+	Sekiya
+	Horikirishobuen
+	Ohanajaya
+	Aoto
+	Keisei Takasago
+	Keisei Koiwa
+	Edogawa
+	---
+	Konodai
+	Ichikawamama
+	...
+	
+Keisei-Kanamachi
+	Keisei-Takasago
+	Shibamata
+	Keisei-Kanamachi
+	
+Keiyo
+	Tokyo
+	Hatchobori
+	Etchujima
+	Shiomi
+	Shin-Kiba
+	Kasai-Rinkai Koen
+	---
+	Maihama
+	Shin-Urayasu
+	Ichikawashiohama
+	Nishi-Funbashi
+	...
+	
+Oedo (Toei)
+	Tochomae
+	Shinjuku-nishiguchi
+	Higashi-shinjuku
+	Wakamatsu-kawada
+	Ushigome-yanagicho
+	Ushigome-kagurazaka
+	Iidabashi
+	Kasuga
+	Hongo-sanchome
+	Ueno-okachimachi
+	Kuramae
+	Ryogoku
+	Morishita
+	Kiyosumi-shirakawa
+	Monzen-nakacho
+	Tsukishima
+	Kachidoki
+	Tsukijishijo
+	Shiodome
+	Daimon
+	Akebanebashi
+	Azaku-juban
+	Roppongi
+	Aoyama-itchome
+	Kokuritsu-kyogijo
+	Yoyogi
+	Shinjuku
+	Tochomae
+	Nishi-shinjuku-gochome
+	Nakano-sakaue
+	Higashi-Nakano
+	Nakai
+	Ochiai-minami-nagasaki
+	Shin-egota
+	Nerima
+	Toshimaen
+	Nerima-kasugacho
+	Hikarigaoka
+
+Rinkai
+	Shin-Kiba
+	Shinonome
+	Kokusai-Tenjijo
+	Tokyo Teleport
+	Tennozu Isle
+	Shinagawa Seaside
+	Oimachi
+	Osaki
+	
+Saikyo
+	Osaki
+	Ebisu
+	Shibuya
+	Shinjuku
+	Ikebukuro
+	Itabashi
+	Jujo
+	Akabane
+	Kita-Akabane
+	Ukima-Funado
+	---
+	Toda-Koen
+	Toda
+	Kita-Toda
+	Musashi-Urawa
+	Nana-Urawa
+	Minami-Yono
+	Yonohommachi
+	Kita-Yono
+	Omiya
+	
+Shinjuku (Toei)
+	Shinjuku
+	Shinjuku-sanchome
+	Akebonobashi
+	Ichigaya
+	Kudanshita
+	Jimbocho
+	Ogawamachi
+	Iwamotocho
+	Bakuro-yokoyama
+	Hamacho
+	Morishita
+	Kikukawa
+	Sumiyoshi
+	Nishi-ojima
+	Ojima
+	Higashi-ojima
+	Funabori
+	Ichinoe
+	Mizue
+	Shinozaki
+	---
+	Motoyawata
+	
+Tobu-Daishi
+	Daishi-Mae
+	Nishiarai
+
+Tobu Kameido
+	Hikifune
+	Omurai
+	Higashi-Azuma
+	Kameido Suijin
+	Kameido
+
+Tobu Skytree
+	Asakusa
+	Tokyo Skytree
+	Oshiage
+	Hikifune
+	Higashi-Mokujima
+	Kanegafuchi
+	Horikiri
+	Ushida
+	Kita-Senju
+	Kosuge
+	Gotanno
+	Umejima
+	Nishiarai
+	Takenotsuka
+	---
+	Yatsuka
+	Soka
+	...
+	
+Tokyo Monorail
+	Monorail Hamamatsucho
+	Tennozu Isle
+	Oi Keibajo-mae
+	Ryutsu Center
+	Showajima
+	Seibijo
+	Tenkubashi
+	Hanada International Terminal
+	Sen-Seibijo
+	Hanada Terminal 1
+	Haneda Terminal 2
+	
+Tokyu-Ikegami
+	Gotanda
+	Osaki-Hirokoji
+	Togoshi-Ginza
+	Ebara-Nakanobu
+	Hatanodai
+	Nagahara
+	Senzoku-Ike
+	Ishikawadai
+	Yukigaya-Otsuka
+	Ontakesan
+	Kugahara
+	Chidoricho
+	Ikegami
+	Hasunuma
+	Kamata
+	
+Tokyu-Meguro
+	Meguro
+	Fudo-mae
+	Musashi-Koyama
+	Nishi-Koyama
+	Senzoku
+	Ookayama
+	Okusawa
+	Den-en-chofu
+	Tamagawa
+	---
+	Shin-Maruko
+	...
+
+Tokyu-Oimachi
+	Oimachi
+	Shimo-Shinmai
+	Togoshi-koen
+	Nakanobu
+	Ebaramachi
+	Hatanodai
+	Kita-Senzoku
+	Ookayama
+	Midorigaoka
+	Jiyugaoka
+	Kuhombutsu
+	Oyamadai
+	Todoroki
+	Kaminoge
+	Futako-Tamagawa
+	---
+	Futako-Shinchi
+	Takatsu
+	Mizonokuchi
+	
+Tokyu-Tamagawa
+	Tamagawa
+	Numabe
+	Unoki
+	Shimo-Maruko
+	Musashi-Nitta
+	Yaguchi-no-watashi
+	Kamata
+	
+Tokyu-Toyoko
+	Shibuya
+	Daikan-yama
+	Naka-Meguro
+	Yutenji
+	Gakugei-daigaku
+	Toritsu-daigaku
+	Jiyugaoka
+	Den-en-chofu
+	Tamagawa
+	---
+	Shin-Maruko
+	...
+
+Tozai
+	Nakano
+	Ochiai
+	Takadanobaba
+	Waseda
+	Kagurazaka
+	Iidabahi
+	Kudanshita
+	Takebashi
+	Otemachi
+	Nihombashi
+	Kayabacho
+	Mozen-Nakacho
+	Kiba
+	Toyocho
+	Minami-Sunamachi
+	Nishi-Kasai
+	Kasai
+	---
+	Urayasu
+	Minami-Gyotoku
+	...
+	
+Yurikamome
+	Shimbashi
+	Shiodome
+	Takeshiba
+	Hinode
+	Shibaura-futo
+	Odaiba-kaihinkoen
+	Daiba
+	Fune-no-kagakukan
+	Telecom Center
+	Aomi
+	Kokusai-tenjijo-seimon
+	Ariake
+	Ariake-tennis-no-mori
+	Shijo-mae
+	Shin-toyosu
+	Toyosu
+
+
+
+
+=======
+
+https://japantoday.com/category/features/travel/the-51-busiest-train-stations-in-the-world-all-but-6-located-in-japan
+Busiest Train stations in the world:
+Here’s the full list of 51 stations.
+
+1 Shinjuku (Tokyo, Japan)
+2 Shibuya (Tokyo, Japan)
+3 Ikebukuro (Tokyo, Japan)
+4 Umeda (Osaka, Japan)
+5 Yokohama (Kanagawa, Japan)
+6 Kita-Senju (Tokyo, Japan)
+7 Nagoya (Aichi, Japan)
+8 Tokyo (Tokyo, Japan)
+9 Shinagawa (Tokyo, Japan)
+10 Takadanobaba (Tokyo, Japan)
+11 Namba (Osaka, Japan)
+12 Shinbashi (Tokyo, Japan)
+13 Tennoji (Osaka, Japan)
+14 Akihabara (Tokyo, Japan)
+15 Kyoto (Kyoto, Japan)
+16 Sannomiya (Kobe, Japan)
+17 Omiya (Saitama, Japan)
+18 Yurakucho-Hibiya (Tokyo, Japan)
+19 Nishi-Funabashi (Chiba, Japan)
+20 Meguro (Tokyo, Japan)
+21 Daimon-Hamamatsucho (Tokyo, Japan)
+22 Ueno (Tokyo, Japan)
+23 Oshiage (Tokyo, Japan)
+24 Paris Nord (Paris, France)
+25 Taipei Railway Station (Taipei,Taiwan)
+26 Machida (Tokyo, Japan)
+27 Gare de Chatelet (Paris, France)
+28 Kawasaki (Kanagawa, Japan)
+29 Roma Termini Railway Station (Rome, Italy)
+30 Tamachi-Mita (Tokyo, Japan)
+31 Kyobashi (Osaka, Japan)
+32 Funabashi (Chiba, Japan)
+33 Ayase (Tokyo, Japan)
+34 Hamburg Central Station (Hamburg, Germany)
+35 Yoyogi-Uehara (Tokyo, Japan)
+36 Kamata (Kamata, Japan)
+37 Gotanda (Tokyo, Japan)
+38 Kichijoji (Tokyo, Japan)
+39 Kanayama (Aichi, Japan)
+40 Musashikosugi (Kanagawa, Japan)
+41 Fujisawa (Kanagawa, Japan)
+42 Oimachi (Tokyo, Japan)
+43 Nakano (Tokyo, Japan)
+44 Tachikawa (Tokyo, Japan)
+45 Iidabashi (Tokyo, Japan)
+46 Kashiwa (Chiba, Japan)
+47 Hakata (Fukuoka, Japan)
+48 Tsuruhashi (Osaka, Japan)
+49 Nishi-Nippori (Tokyo, Japan)
+50 Nakameguro (Tokyo, Japan)
+51 Zurich Main Station (Zurich, Switzerland)
+
+Source: Himasoku (Japanese)
+
+Tokyo (23 ward) Stations:
+* Shinjuku (Tokyo, Japan)
+* Shibuya (Tokyo, Japan)
+* Ikebukuro (Tokyo, Japan)
+* Kita-Senju (Tokyo, Japan)
+* Tokyo (Tokyo, Japan)
+* Shinagawa (Tokyo, Japan)
+* Takadanobaba (Tokyo, Japan)
+* Shinbashi (Tokyo, Japan)
+* Akihabara (Tokyo, Japan)
+- Yurakucho-Hibiya (Tokyo, Japan) - too close to Tokyo eki
+* Meguro (Tokyo, Japan)
+- Daimon-Hamamatsucho (Tokyo, Japan) - between Shimbashi and Shiagawa
+* Ueno (Tokyo, Japan)
+* Oshiage (Tokyo, Japan)
+- Machida (Tokyo, Japan) - not in 23 special wards
+- Tamachi-Mita (Tokyo, Japan) - between Shimbashi and Shiagawa
+- Ayase (Tokyo, Japan) - off map after Kita-Senju, so no need
+- Yoyogi-Uehara (Tokyo, Japan) - no connections, name confusable with Yoyogi
+- Gotanda (Tokyo, Japan) - on Yamanote between Shinagawa and Meguro
+- Kichijoji (Tokyo, Japan) - not in 23 special wards
+* Oimachi (Tokyo, Japan)
+* Nakano (Tokyo, Japan)
+- Tachikawa (Tokyo, Japan) - not in 23 special wards
+* Iidabashi (Tokyo, Japan)
+* Nishi-Nippori (Tokyo, Japan)
+* Nakameguro (Tokyo, Japan)
+
+
+https://soranews24.com/2013/02/02/more-countries-join-the-new-list-of-100-busiest-train-stations-japan-still-claims-82-of-them/
+http://livedoor.4.blogimg.jp/hatima/imgs/7/8/78a41b99.png
+
+
+http://blog.esuteru.com/archives/6893828.html
+http://d.hatena.ne.jp/keyword/%B1%D8%CA%CC%BE%E8%B9%DF%B5%D2%BF%F4%A5%E9%A5%F3%A5%AD%A5%F3%A5%B0
+Passenger number of passengers by station
+
+Number of passengers getting on and off by averaging stations per day (2008)
+
+Rank number Station name Number of passengers (people)
+
+1st place - 20th place
+01. Shinjuku Station 3, 607, 498 (including Seibu Shinjuku Station.Total of Tokyo Metropolitan Government Station, Shinjuku Sanchome Station, Shinjuku Nishiguchi Station , Nishi Shinjuku Station and Shinjuku Gyoenmae Station in the Shinjuku area total 3,964,616)
+(Chhatrapati Shivaji Terminus ( India ) 3-3.5 million people)
+02. Ikebukuro Station 2,711,067
+03. Osaka Station · Umeda Station 2,411,717 (Including Kitashinchi Station )
+04. Shibuya station (※ 2) 2, 150, 361 (excluding direct contact customers)
+05. Yokohama Station 1,203,963)
+06. Nagoya Station 1,147,237
+07. Tokyo Station (* 3) 1,133,169
+08. Shinagawa Station 913, 182
+09. Takadanobaba Station 906,124
+10. Namba Station ( Osaka ) 867,923 ( Osaka Namba Station , including JR Namba Station )
+11. Shimbashi Station 856,793
+12. Tennoji Station · Osaka Abe Noji Station ( Osaka ) 749,320 (Tennoji Ekimae Station ? Included)
+13. Omiya station ( Saitama ) 632, 438
+14. Kyoto Station ( Kyoto ) 621, 248 ( Kintetsu 08, JR West 07, JR Tokai 06, Subway 05 years)
+15. Ueno station · Keisei Ueno station 621, 788 ( Ueno station alone 574, 513)
+16. Sannomiya Station ( Hyogo ) 612, 693 (2005)
+17. Kita-Senju Station 605, 815 (2003, direct customers including 1,459,060 / 06)
+18. Hamamatsucho Station · Daimon Train Station 634, 180 ( Monorail in 2004, Hamamatsucho Station alone in 431, 288)
+19. Akihabara station 541, 605
+20. Kyobashi Station ( Osaka ) 529,817 (2003)
+( Ayase Station 498,282 Including direct contact customers) * 4
+
+21th-40th
+21. Machida Station 491, 630
+22. Meguro Station 489, 526 (Including direct contact customers 615, 552)
+(Including Oshigami station 481, 933 direct contact customer)
+23. Kawasaki Station · Keikyu Kawasaki Station 457, 319 ( Keikyu 2005)
+24. Tsurubashi Station ( Osaka ) 446, 830 (2003)
+25. Yurakucho Station 451, 426
+( Yoyogi Uehara 443, 415 direct contact customers included)
+26. Kichijoji Station 424, 654
+27. Gotanda station 421, 925
+28. Kamata Station 418, 251
+29. Kashiwa Station ( Chiba ) 393, 826
+(Including Nakano station 382,032 direct pass passenger)
+(Including Naka-Meguro Station 381, 141 direct passers)
+30. Funabashi Station ( Chiba ) 371, 279
+31. Ebisu station 370, 319
+32. Tachikawa station 367, 002 (including Tachikawa Kita Station and Tachikawa South Station (2006))
+33. Nishi Nippori Station 362,205
+34. Fujisawa Station ( Kanagawa ) 357,868 (Including Enoshima Electric Railway (2003))
+35. Iidabashi Station 357, 446
+36. Shin-Osaka Station 357, 220
+37. Kanayama Station ( Nagoya ) 356, 470 (2005)
+38. Otemachi Station 354, 579
+39. Sengakuji Station 344, 269
+40. Osaki Station 341, 162
+
+41th - 60th
+41. Jimbocho Station 341, 331
+42. Musashi Kosugi Station ( Kanagawa ) 335, 509
+43. Hakata Station ( Fukuoka ) 335, 420 ( Subway 2006, JR West , Kyushu 05)
+44. Ichigaya station 335,090
+45. Sapporo Station · Sapporo Station ( Hokkaido ) 333,356 (2005 JR · Municipal Subway Line )
+46. Oimachi Station 329, 814 (2006, Rinkai Line 2004)
+47. Nishi-Funabashi Station ( Chiba ) 328,781 (excluding direct contact customers in 2002. 336,879 including Keisei Nishi-shi station, 633,087 including direct customers)
+48. Kokubunji Station 324, 649
+49. Mizoguchi Station · Musashi Mizokuchi Station ( Kanagawa ) 320, 829
+50. Matsudo Station ( Chiba ) 312, 608
+51. Nippori Station 300, 246
+52. Yodoyabashi Station ( Osaka ) 300,063
+53. Totsuka Station ( Kanagawa ) 292,970
+54. Ueno station ( Kanagawa ) 292, 680
+55. Yotsuya Station 285, 730
+( Wako city station ( Saitama ) 281, 936 including direct contact personnel)
+56. Kinshicho Station 281, 127
+57. Tsudanuma Station · Shinzutanuma Station ( Chiba ) 279,081 (206, 956 at Tsudanuma Station alone)
+58. Shinkiba Station 276,987
+59. Ebina Station ( Kanagawa ) 275, 166
+60. Okachimachi Station · Nakajikacho Station · Ueno Okachimachi Station · Ueno Hirokoji Station 270, 170
+
+61th-80th
+61. Shimokitazawa Station 267, 685
+62. Ginza Station 267, 029
+63. Kanda station 264, 102
+64. Nihonbashi Station ( Tokyo ) 262,036
+65. Ochanomizu Station 261, 829
+66. Shin-Etsuya station · Kanyo - okaya station ( Saitama ) 261,807
+67. Chiba Station · Keisei Chiba Station 260, 633 (236,979 at Chiba Station alone)
+68. Kawagoe Station · Honkawagoe Station ( Saitama ) 247,002
+69. Ogikubo Station 242, 334
+70. Kudanshita station 235, 029
+71. Honcho Station ( Osaka ) 233,068
+72. Sendai Station ( Miyagi ) 227,862
+73. Shin-Yokohama Station ( Kanagawa ) 226,808
+74. Kikuna station ( Kanagawa ) 226,400
+75. Hachioji Station · Keio Hachioji Station 224, 552
+76. Shin-Imamiya Station ( Osaka ) 222,498
+77. Roppongi Station 221, 683
+78. Suidobashi Station 219, 680
+79. Yamato Station ( Kanagawa ) 219, 642
+80. Asamino Station ( Kanagawa ) 217,071
+
+Rank 81 - 100
+81. Honhachiman Station · Keisei Hachiman Station ( Chiba ) 215,946
+82. Hashimoto Station ( Kanagawa ) 206,482
+83. Kamioioka Station ( Kanagawa ) 206, 301
+84. Shinsaibashi Station · Yotsubashi Station ( Osaka ) 200,033
+85. Asakusa Station 190, 456
+86. Odawara station ( Kanagawa ) 189, 599 ( Izu - Hakone Railway · Hakone Tozan Railway is in 2001)
+87. Nagtsuda Station ( Kanagawa ) 186,931
+88. Omori station 186, 114
+89. Oboe station ( Kanagawa ) 183, 752
+90. Asaka Station · North Kitakazu Station ( Saitama ) 181, 316
+91. Mitaka Station 180, 670
+92. Monzen-nakacho Station 177, 190
+93. Akabane Station 176, 702 (Not included in the ticket gate )
+94. Hiroshima Station ( Hiroshima ) 174,941 (including Hiroden Hiroshima Station)
+95. Aoyama 1 - chome Station 172, 754
+96. Hibiya station 171, 081
+97. Nerima station 171, 039
+98. Hatchobori Station ( Tokyo ) 167, 611
+99. Shijo station · Karasuma station ( Kyoto ) 167, 381
+100. Asakusabashi Station 163,557
+(Enter a station not included in the ranking up to * above 105 stations)
+
+100 out of range -
+101. Mitsukoshima station · Shin Nihonbashi station 162, 628
+102. Kawaguchi Station ( Saitama ) 160,304
+103. Urawa Station ( Saitama ) 159,582
+104. Omotesando station 151, 601
+105. Uehonmachi Station · Tanimachi Ku-chome Station ( Osaka ) 151, 267
+106. East Ginza Station 150, 915
+Temmabashi Station ( Osaka ) 150, 197
+108. Akitsu station · Shin - Atsu station 149.504
+109. Harajuku Station 149,046
+110. Kobe Station ( Hyogo ) 143, 710
+111. Shinjuku 3-chome Station 140, 334
+
+
+Tokyo Stations
+
+01* Shinjuku
+02* Ikebukuro
+04* Shibuya
+07* Tokyo
+08* Shinagawa
+09* Takadanobaba
+11* Shimbashi
+15* Ueno station
+17* Kita-Senju
+18- Hamamatsucho - between Shimbashi and Shiagawa
+19* Akihabara
+    Ayase - off map after Kita-Senju, so no need
+21- Machida - not in 23 special wards
+22* Meguro
+25- Yurakucho - too close to Tokyo eki
+    Yoyogi Uehara - no connections, name confusable with Yoyogi
+26- Kichijoji - not in 23 special wards
+27- Gotanda - on Yamanote between Shinagawa and Meguro
+28- Kamata - off map after Omori, so no need
+
+  * Nakano
+  * Naka-Meguro
+31* Ebisu
+32- Tachikawa - not in 23 special wards
+33* Nishi Nippori
+35* Iidabashi
+38- Otemachi - too close to Tokyo eki
+39- Sengakuji - between Shimbashi and Shiagawa
+40- Osaki - on Yamanote between Shinagawa and Meguro
+41- Jimbocho - between Tokyo and Iidabashi
+44- Ichigaya - too close to Yotsuya, between Yotsuya and Iidabashi
+46* Oimachi
+48- Kokubunji - not in 23 special wards
+51- Nippori - between Nishi Nippori and Ueno
+55* Yotsuya - better connection to Tokyo than Ichigaya
+56? Kinshicho
+58* Shinkiba
+60- Okachimachi - too close to Ueno
+61- Shimokitazawa - between Shibuya and Meidai Mae
+62- Ginza
+63- Kanda
+64- Nihonbashi
+65- Ochanomizu - between Akihabara and Iidabashi
+69- Ogikubo
+
+70- Kudanshita
+75- Hachioji
+77* Roppongi
+78- Suidobashi
+85- Asakusa
+88* Omori
+91- Mitaka
+92* Monzen-nakacho
+93- Akabane
+95- Aoyama 1 - chome
+96- Hibiya
+97* Nerima
+98* Hatchobori
+100- Asakusabashi
+101- Mitsukoshima
+104- Omotesando
+106- East Ginza
+108- Akitsu station
+109- Harajuku
+111- Shinjuku 3-chome
+
+==============
+
+http://worldpopulationreview.com/world-cities/tokyo-population/
+2007
+Name	Population	Density (people per sq km)
+Setagaya	855,416	14,728
+Nerima	702,202	14,581
+Ota	674,590	11,345
+Edogawa	661,386	13,265
+Adachi	629,392	11,831
+Suginami	534,981	15,725
+Itabashi	529,059	16,446
+Koto	436,337	10,963
+Katsushika	428,066	12,287
+Shinagawa	353,887	15,576
+Kita	330,646	15,886
+Nakano	312,939	20,098
+Shinjuku	309,463	16,975
+Meguro	267,798	18,218
+Toshima	256,009	19,428
+Sumida	237,433	16,079
+Shibuya	205,512	13,337
+Minato	205,196	10,088
+Bunkyo	194,933	16,009
+Arakawa	194,777	18,262
+Taito	168,277	16,139
+Chuo	104,997	10,345
+Chiyoda	43,802	3,763
+
+https://en.wikipedia.org/wiki/Special_wards_of_Tokyo
+2016
+No.	Name	Kanji	Population	Density (/km2)	Area (km2)	Major districts
+01	Chiyoda	千代田区	59,441	5,100	11.66	Nagatachō, Kasumigaseki, Ōtemachi, Marunouchi, Akihabara, Yūrakuchō, Iidabashi, Kanda
+02	Chūō	中央区	147,620	14,460	10.21	Nihonbashi, Kayabachō, Ginza, Tsukiji, Hatchōbori, Shinkawa, Tsukishima, Kachidoki, Tsukuda
+03	Minato	港区	248,071	12,180	20.37	Odaiba, Shinbashi, Hamamatsuchō, Mita, Roppongi, Toranomon, Aoyama, Azabu
+04	Shinjuku	新宿区	339,211	18,620	18.22	Shinjuku, Takadanobaba, Ōkubo, Kagurazaka, Ichigaya, Yotsuya
+05	Bunkyō	文京区	223,389	19,790	11.29	Hongō, Yayoi, Hakusan
+06	Taitō	台東区	200,486	19,830	10.11	Ueno, Asakusa
+07	Sumida	墨田区	260,358	18,910	13.77	Kinshichō, Morishita, Ryōgoku
+08	Kōtō	江東区	502,579	12,510	40.16	Kiba, Ariake, Kameido, Tōyōchō, Monzennakachō, Fukagawa, Kiyosumi, Shirakawa, Etchūjima, Sunamachi, Aomi
+09	Shinagawa	品川区	392,492	17,180	22.84	Shinagawa, Gotanda, Ōsaki, Hatanodai, Ōimachi, Tennōzu
+10	Meguro	目黒区	280,283	19,110	14.67	Meguro, Nakameguro, Jiyugaoka, Komaba, Aobadai
+11	Ōta	大田区	722,608	11,910	60.66	Ōmori, Kamata, Haneda, Den-en-chōfu
+12	Setagaya	世田谷区	910,868	15,690	58.05	Setagaya, Shimokitazawa, Kinuta, Karasuyama, Tamagawa
+13	Shibuya	渋谷区	227,850	15,080	15.11	Shibuya, Ebisu, Harajuku, Daikanyama, Hiroo, Sendagaya, Yoyogi
+14	Nakano	中野区	332,902	21,350	15.59	Nakano
+15	Suginami	杉並区	570,483	16,750	34.06	Kōenji, Asagaya, Ogikubo
+16	Toshima	豊島区	294,673	22,650	13.01	Ikebukuro, Komagome, Senkawa, Sugamo
+17	Kita	北区	345,063	16,740	20.61	Akabane, Ōji, Tabata
+18	Arakawa	荒川区	213,648	21,030	10.16	Arakawa, Machiya, Nippori, Minamisenju
+19	Itabashi	板橋区	569,225	17,670	32.22	Itabashi, Takashimadaira
+20	Nerima	練馬区	726,748	15,120	48.08	Nerima, Ōizumi, Hikarigaoka
+21	Adachi	足立区	674,067	12,660	53.25	Ayase, Kitasenju, Takenotsuka
+22	Katsushika	葛飾区	447,140	12,850	34.80	Tateishi, Aoto, Kameari, Shibamata
+23	Edogawa	江戸川区	685,899	13,750	49.90	Kasai, Koiwa
+	Overall	9,375,104	15,146	619	
+
+
+http://www.citypopulation.de/php/japan-tokyocity.php
+
+========
+Day vs Night Population
+
+Daytime/nighttime numbers for 2000
+http://www.stat.go.jp/english/data/kokusei/2000/jutsu1/00/01.html
+
+General section on daytime/nighttime population
+http://www.metro.tokyo.jp/ENGLISH/ABOUT/HISTORY/history03.htm
+
+http://www.jterc.or.jp/kenkyusyo/product/tpsr/bn/pdf/no42-02.pdf
+
+
+
+都心3区
+中環11区
+外周9区
+
+=======
+
+Colors HSL (= rgb)
+
+Fill
+Select fill
+Border overlay
+
+Green:
+82 117 224
+82 130 210
+82 130 85 55
+
+Blue: - no longer used
+128 117 224
+128 119 210
+128 119 70 40 = 37/103/103
+
+Yellow:
+44 124 214
+43 125 200
+43 125 85 50 = 126/127/43
+
+Red (Orange):
+20 155 222
+20 155 209
+20 155 85 50 - 137/82/33
+
+Purple (Red):
+216 78 232
+215 77 225
+215 77 76 40
+
+Purple
+168 112 230
+168 112 205
+168 112 110 40
