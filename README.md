@@ -22,11 +22,11 @@ Or you can spend both actions to:
 
 New customers are added randomly to the board each turn.
 
-Cards are drawn:
+Cards are drawn...
 
 ![](images/shinjuku.png)
 
-And the customers appear in that region of Tokyo.
+...and the customers appear in that region of Tokyo.
 
 When you choose to "lure" customers to your store, they can start from any of the train stations in that region.
 
