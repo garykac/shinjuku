@@ -7,15 +7,15 @@ so that customers can get to your stores.
 
 ## Background
 
-If you've ever been to Tokyo, you've probably noticed (at least) two things about the rail transit:
+Shinjuku is the busiest passenger rail line in the world. Of the top 100 busiest stations, the vast
+majority are in Japan and of those, the vast majority are in Tokyo.
+Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines
+rather than having a single entity that manages rail for the entire city.
+Many of these companies are large conglomerates that own not only the rail, but the major department
+stores at the rail stations.
 
-* There is no single company (or government entity) that owns the rail lines
-* Many lines have names that match the large department stores they connect to (e.g., Keio, Odakyu, Tokyu)
-
-This is because many train operators in Tokyo are actually conglomerates that own large department stores and
-the train lines that make it easier for customers to get to their stores.
-
-In this game, you are playing the part of those conglomerates.
+In **Shinjuku**, you are playing the part of those conglomerates to build rail and stores so that
+you can satisfy customers.
 
 ## Components
 
@@ -36,33 +36,32 @@ In this game, you are playing the part of those conglomerates.
 
 For each player:
 
-* Draw 3 cards into your hand
-* Place 2 customers on the board (see the "Customers" section below on how to do that)
+* Draw 5 cards into your hand
+* Place 2 customers on the board (see "Placing Customers" below)
 * Place one of your stores (any kind) onto *any* empty station.
     * This is the only time you don't need to play a card to place a station.
 
 ### Gameplay
 
-During your turn, you can choose any two of the following actions (same action twice is allowed):
+During your turn, you can choose any two of the following actions (must be different actions):
 
-* Play a ward card from your hand and then:
-    * Build a store at any empty station in that ward.
-    * Upgrade a store that you have in that ward.
-    * Lure customers from that ward to stores, following train tracks to connected stations.
-* Build new track that connects to one of your stores or to your existing track. 
-* Discard any number of cards from your hand and draw back up to 3 cards.
+* **Build** Play a ward card and build a store at any empty station in that ward.
+* **Upgrade** Play a ward card and upgrade an existing store that you have in that ward.
+* **Lure** Play a ward card and lure customers from that ward to stores, following train tracks to connected stations.
+* **Expand** Discard a single card and build new track that connects to one of your stores or to your existing track.
+   Or discard 3 cards to build 2 connected segments of track
+* **Refresh** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand.
+   Your turn ends immediately after taking this action, even if you had one more action available.
 
 After taking your 2 actions:
 
 * Place 1 customer on the board as a signal to the next player that they can take their turn
-* Draw your hand back up to 3 cards (if needed)
 
 ### Endgame Scoring
 
 * +1 vp per customer
 * +2 vp for each good type where you have the undisputed max # of customers satisfied
 * +1 vp for each good type where you are tied for the max # of customers satisfied
-* +1 vp for every 3 pieces of track on the board (round down)
 
 ## The Map
 
@@ -85,8 +84,8 @@ There are multiple copies of each card based on the population of that ward.
 
 New customers are added randomly to the board each turn. To do this:
 
-* Draw a card to determine the location of the customer
-* Draw a customer token to determine what the customer is looking for
+* Draw a ward card to determine the location of the customer
+* Draw a customer token to determine what the customer desires
 * Place the customer token in the ward that matches the card
 
 Note that the customer is located in the ward, not in any particular station.
@@ -101,7 +100,7 @@ When you choose the action to lure customers to your store, do the following:
 3. Satisfy customers that match the shops in that station
    * A single shop can satisfy a single customer that matches the shop type
    * A double shop can satisfy two customers that match the shop type
-   * A department store can satisfy three customers that match any 3 different shop types.
+   * A department store can satisfy two customers that match any 2 different shop types.
 4. Optionally, move all unsatisfied customers to another connected station and then repeat steps 3 & 4.
 
 When customers are satisfied, their token is given to the player who owns the store where they were
@@ -123,7 +122,7 @@ you need to play a card that matches the ward where you want to build the new st
 
 To upgrade one of your stores, you need to play a ward card that matches the ward where that store
 is located. Then you place a store token *of a different type* on top of the existing store token.
-This enhanced store can now satisfy 2 customers of the new type.
+This enhanced store can now satisfy up to 2 customers of the new type.
 
 ### Department Stores
 
@@ -131,7 +130,7 @@ The second store upgrade converts the shop into a department store.
 Remove the 2 store tokens (add them back into your pool of store tokens) and replace
 them with the special department store token.
 
-A department store provides all 5 types of goods and can satisfy up to 3 customers as long as they
+A department store provides all 5 types of goods and can satisfy up to 2 customers as long as they
 each want a different good.
 
 ### Upgrade Limitations
@@ -148,7 +147,8 @@ Once you build a station in a ward, the cards for that ward become wildcards for
 You can play one of your wildcard to match any ward.
 
 Because the card frequency varies based on the population of that ward, some cards work better
-as wildcards (because you're more likely to encounter them).
+as wildcards (because you're more likely to encounter them). Each card indicated how many copies
+of it exist in the deck.
 
 ## Playtest images
 
