@@ -25,7 +25,7 @@ you can satisfy customers.
     * 10 want food
     * 9 want clothing
     * 8 want books
-    * 7 wanat toys
+    * 7 want toys
     * 6 want electronics
 * 60 Store tokens (4 colors): 3 for each store type per player color
 * 8 Department store tokens (4 colors): 2 per player color
