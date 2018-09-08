@@ -8,4 +8,6 @@ tokyo-map-v03/*
 tokyo-map-v04/*
 
 # Large images
-tokyo-map-300dpi.png
+tokyo-map-18x20-300dpi.png
+tokyo-map-18x20-bleed-300dpi.png
+tokyo-map-border-300dpi.png
