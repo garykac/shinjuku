@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1896297"
-     inkscape:cx="6.9924709"
-     inkscape:cy="197.31573"
+     inkscape:zoom="2.3792593"
+     inkscape:cx="65.951673"
+     inkscape:cy="168.90813"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer33"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -4330,7 +4330,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="08 Koto"
-     style="display:inline">
+     style="display:none">
     <g
        id="g10327"
        transform="translate(-0.178516,-12)">
@@ -6332,7 +6332,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="01 Chiyoda"
-     style="display:none">
+     style="display:inline">
     <g
        id="g10413"
        transform="translate(-0.30078162,-12)">
@@ -6767,6 +6767,45 @@
   <g
      inkscape:groupmode="layer"
      id="layer32"
-     inkscape:label="Cut"
-     style="display:inline" />
+     inkscape:label="Cut 2.5 x 3.5"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7457"
+       width="225"
+       height="315"
+       x="11.25"
+       y="11.25"
+       rx="16.200001" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Cut 2.4 x 3.46 BGM"
+     id="g10818"
+     inkscape:groupmode="layer">
+    <rect
+       rx="16.0704"
+       y="13.050003"
+       x="12.150002"
+       height="311.39999"
+       width="223.2"
+       id="rect10820"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer33"
+     inkscape:label="Size 2.72 x 3.7 BGM"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#0000c3;fill-opacity:0.36190479;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10823"
+       width="244.8"
+       height="333"
+       x="1.3499985"
+       y="2.25"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/ku-cards/bgm-01-chiyoda.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
 </svg>
