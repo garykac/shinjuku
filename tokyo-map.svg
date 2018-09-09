@@ -2431,11 +2431,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="826.36642"
-     inkscape:cy="667.19307"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="706.66583"
+     inkscape:cy="918.5929"
      inkscape:document-units="px"
-     inkscape:current-layer="g11451"
+     inkscape:current-layer="svg4516"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -7953,7 +7953,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Border 18x20"
-     style="display:none"
+     style="display:inline"
      transform="translate(2.5275545,89.993925)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11333,7 +11333,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="Customer Lure Path Background"
+     inkscape:label="Overlay Background"
      style="display:none"
      transform="translate(2.5275545,89.993925)">
     <rect
@@ -11347,7 +11347,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Customer Lure Path"
+     inkscape:label="Overlay: Customer Lure Path"
      style="display:none"
      transform="translate(2.5275545,89.993925)">
     <g
@@ -11650,6 +11650,75 @@
          style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:type="star" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="Overlay: Hachiko"
+     style="display:none">
+    <g
+       transform="translate(483.49943,346.60944)"
+       id="g4810">
+      <g
+         style="display:inline;fill:#f5d19d;fill-opacity:1"
+         id="g4792"
+         transform="translate(-554.85498,-102.65771)">
+        <circle
+           r="22.5"
+           cy="756.01221"
+           cx="637"
+           id="circle4794"
+           style="display:inline;opacity:1;fill:#f5d19d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <path
+         sodipodi:nodetypes="cssssccccsscscscccsssscscsssssccscsscsc"
+         inkscape:connector-curvature="0"
+         id="path12322"
+         d="m 74.651094,647.04696 c 0.02928,1.26995 0.08916,2.77234 0.275952,4.02881 0.20493,1.37854 0.254542,2.53996 0.275945,3.80806 0.01893,1.12396 -1.639394,7.40903 -2.98022,9.43738 -0.179263,0.27118 -1.158165,-0.0324 -1.821246,0.66227 -0.576111,0.60353 -0.248353,1.73847 -0.220762,2.0972 1.076194,0.19316 2.152388,0.19316 3.642498,0.0828 0.548551,-0.83362 2.874473,-5.57133 4.69493,-8.73808 0.55809,0.5139 1.161551,0.62931 2.011049,0.83922 -1.086463,0.46908 -1.039161,1.266 -1.104272,1.74525 -0.138838,1.02193 0.537873,2.12441 1.076194,2.67668 0.624108,0.64029 1.296947,0.82784 1.738463,1.24177 -1.158976,-0.22077 -2.307667,-0.059 -2.86984,0.33112 -0.666372,0.46243 -0.71746,1.24177 -0.745059,1.93164 1.158976,0.11038 1.7955,0.0882 2.92503,0.0828 2.861827,-0.0138 5.546532,0.0276 7.450558,-0.24836 l 0.110381,-1.60049 1.379729,-0.55188 c 0,0 1.590485,0.81295 2.649086,0.66226 1.141467,-0.16248 2.477286,-0.31937 3.697687,-1.82125 0.979194,-1.20505 1.329058,-2.72238 1.048593,-4.24957 -0.287356,-1.56473 -1.103969,-2.81373 -2.42833,-3.42173 -1.051206,-0.48261 -3.918434,-0.71747 -4.635901,2.59389 2.042006,-0.82784 3.186,-0.57562 3.090601,1.32454 -0.07765,1.54676 -1.43492,1.32455 -1.43492,1.32455 0,0 -0.22821,-2.00813 -0.551888,-3.20098 -0.525727,-1.93743 -1.087312,-3.17387 -2.181941,-4.85666 -1.225663,-1.88425 -2.888196,-3.68781 -4.373045,-5.39562 -1.021391,-1.17476 -2.077767,-2.6325 -3.069047,-4.21541 -0.662943,-1.05862 -1.264842,-3.55447 -1.800157,-4.683 -0.679291,-1.43207 -1.071516,-2.51652 -2.757007,-3.8397 l -0.223214,2.57035 c 0,0 -1.042683,-0.0957 -1.710864,0.16557 -0.987732,0.38625 -1.196927,1.07915 -1.693633,1.41028 -0.84123,0.21129 -3.543812,0.23123 -3.694448,0.39518 -0.181905,0.19799 0.03802,1.97615 0.500052,2.57831 0.360673,0.47007 2.276812,0.60889 3.018285,1.19427 0.273171,0.54634 0.661196,1.48739 0.710761,3.63857 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <rect
+       transform="matrix(0.41474832,-0.90993617,0.90993617,0.41474832,0,0)"
+       y="909.50366"
+       x="-801.16266"
+       height="13.788582"
+       width="73.185555"
+       id="rect4798"
+       style="display:inline;opacity:1;fill:#f5d19d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:1;fill:#f5d19d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12381"
+       width="73.185555"
+       height="13.788582"
+       x="-922.03558"
+       y="538.80267"
+       transform="matrix(0.00153549,-0.99999882,0.99999882,0.00153549,0,0)" />
+    <rect
+       transform="matrix(0.98233693,0.18712068,-0.18712068,0.98233693,0,0)"
+       y="875.42871"
+       x="570.42963"
+       height="13.788582"
+       width="73.185555"
+       id="rect12383"
+       style="display:inline;opacity:1;fill:#f5d19d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:1;fill:#f5d19d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12385"
+       width="73.185555"
+       height="13.788582"
+       x="-1257.5341"
+       y="-22.673098"
+       transform="matrix(-0.51023006,-0.86003796,0.86003796,-0.51023006,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.6857143;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6098-0"
+       width="615.88995"
+       height="447.5986"
+       x="255.97267"
+       y="765.50281"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/hachiko.png"
+       inkscape:export-xdpi="150.00046"
+       inkscape:export-ydpi="150.00046" />
   </g>
   <g
      inkscape:groupmode="layer"
