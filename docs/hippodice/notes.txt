@@ -4,6 +4,9 @@ https://hippodice-competition.net/en/hippodice-authors-competition-2019-started/
 https://hippodice-competition.net/en/terms-of-participation-2019/
 
 
+===========
+DESCRIPTION
+===========
 
 The short game description needs to provide an overview of the game mechanics.
 It can contain photos, drawings and depictions which explain the details and setup of the game.
@@ -21,7 +24,87 @@ The amount of text should be, depending on the complexity of the game, between
 0.5 to 1 DIN A4 page, and additionally illustrated by pictures and graphics.
 
 
+Game Title : Shinjuku
+Game Designer: Gary Kacmarcik
 
+Summary:
+In Shinjuku, you manage a rail conglomerate in Tokyo. You need to build stores for the
+customers to visit and also the rail lines to get them there.
+
+Every turn, new customers will arrive looking to purchase one of 5 different goods.
+If you have a store that sells those goods, then you might be able to lure them to your
+store and earn them as a customer (=VP).
+
+The Cards:
+The central core of Tokyo is divided into 23 wards and each card identifies one of these
+wards. There are multiple copies of each ward card corresponding roughly to the population
+of that ward.
+
+The Map:
+The map shows the stations and the potential connections between them.
+
+Building Stores:
+You can build a new store in an empty station by spending a card that matches the ward
+where that station is located. Stores provide two benefits:
+(1) Any matching customers that pass through that station must visit your store.
+(2) Once you have a store in a ward, matching ward cards become wildcards that you can
+	use to match any ward.
+
+After you’ve built a store, you can expand it subject to station size limits:
+• = single store: serves 1 customer of matching good type
+• • = double store: can serve 2 customers of matching good type
+• • • = department store: can serve 2 customers of any good type
+
+Building Track:
+You can build track by spending a card (any card). When your track is used by other
+players, you gain income (by drawing new cards).
+
+Luring Customers:
+When customers are placed on the map, they are assigned to a ward but are not associated
+with any station. When you take the Lure action, you take all the customers in the ward,
+choose their starting station (within that ward) and then move them along connections,
+visiting stores along the way.
+
+Game Economy:
+The economy of the game is managed by your cards: you need to spend cards to build
+stores/track and to lure customers, and you gain cards as income when other players use
+your track. At the beginning of the game, you will be “cash poor” because you will have
+few wildcards and few income opportunities. As the game progresses and you build out your
+business empire, your card draws will become more frequent and more valuable.
+
+
+------------
+Extra
+
+Luring Customers:
+When customers are placed on the map, they are assigned to a ward but are not associated
+with any station. When you take the Lure action, you take all the customers in the ward,
+choose their starting station (within that ward) and then move them along connections
+visiting stores along the way.
+
+At each station along their path, if there is a store that matches what a customer
+desires, that customer must visit the store (and the customer token is given to the
+player that owns the store). 
+
+The customers can be moved as far as you want along the connections subject to the
+following limitations: No station may be visited twice; The final station visited must
+have a store that satisfies a customer. 
+
+Any remaining customers who did not match stores along the way are moved out of the final
+station and into the ward, merging with any existing customers there. 
+
+
+
+
+
+
+=====
+RULES
+=====
+
+Important:
+Both pdf files need to state the name of the game and name of the game designer.
+Files can be written in German or English.
 
 Upload the complete game rules: PDF file, max. 35 MB, file name: rules_your-gametitle.pdf
 
@@ -30,9 +113,4 @@ Upload the complete game rules: PDF file, max. 35 MB, file name: rules_your-game
 
 
 
-
-Luring Customers: When customers are placed on the map, they are assigned to a ward but are not associated with any station. When you take the Lure action, you take all the customers in the ward, choose their starting station (within that ward) and then move them along connections visiting stores along the way.
-At each station along their path, if there is a store that matches what a customer desires, that customer must visit the store (and the customer token is given to the player that owns the store). 
-The customers can be moved as far as you want along the connections subject to the following limitations: No station may be visited twice; The final station visited must have a store that satisfies a customer. 
-Any remaining customers who did not match stores along the way are moved out of the final station and into the ward, merging with any existing customers there. 
 
