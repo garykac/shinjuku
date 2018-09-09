@@ -9,6 +9,8 @@ so that customers can get to your stores.
 * [Complete Rules (pdf)](docs/hippodice/rules_shinjuku.pdf)
 * [Playtest notes](playtests/playtests.md)
 
+<img src="playtests/images/pt06-0664.jpg" height="300px"/>
+
 ## Background
 
 Tokyo is a city of trains and Shinjuku is the busiest train station in Japan.
