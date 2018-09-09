@@ -5,30 +5,37 @@ so that customers can get to your stores.
 
 **Note: This game is a work in progress**
 
+* [One page description (pdf)](docs/hippodice/description_shinjuku.pdf)
+* [Complete Rules (pdf)](docs/hippodice/rules_shinjuku.pdf)
+* [Playtest notes](playtests/playtests.md)
+
 ## Background
 
-Shinjuku is the busiest passenger rail line in the world. Of the top 100 busiest stations, the vast
-majority are in Japan and of those, the vast majority are in Tokyo.
-Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines
-rather than having a single entity that manages rail for the entire city.
-Many of these companies are large conglomerates that own not only the rail, but the major department
-stores at the rail stations.
+Tokyo is a city of trains and Shinjuku is the busiest train station in Japan.
 
-In **Shinjuku**, you are playing the part of those conglomerates to build rail and stores so that
-you can satisfy customers.
+Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines rather than having a single entity that manages rail for the entire city. Many of these companies are large conglomerates that own not only the rail, but also the major department stores at the rail stations.
+
+In **Shinjuku**, you manage a rail conglomerate in Tokyo. You need to build stores for the customers to visit and also the rail lines to get them there.
+
+Every turn, new customers will arrive looking to purchase one of 5 different goods. If you have a store that sells those goods, then you might be able to lure them to your store and earn them as a customer (=VP).
+
+* 2-5 players (recommended 3-4)
+* 60 minutes
+* Ages 10+
 
 ## Components
 
-* Map of Tokyo with stations and potential connections
+* Map of Tokyo with stations and connections
 * 72 Ward cards
-* 40 Customer tokens (white), each with a marking identifying the type of goods they want to purchase:
-    * 10 want food
-    * 9 want clothing
-    * 8 want books
-    * 7 want toys
-    * 6 want electronics
-* 60 Store tokens (4 colors): 3 for each store type per player color
-* 8 Department store tokens (4 colors): 2 per player color
+* 45 Customer tokens (white), each with a marking identifying the type of goods they want to purchase:
+    * 12 want food (◯)
+    * 10 want clothing (⤫)
+    * 9 want books (△)
+    * 8 want toys (▢)
+    * 6 want electronics (⭐︎)
+* 75 Store tokens (5 colors): 3 for each store type per player color
+* 10 Department store tokens (5 colors): 2 per player color
+* 75 Track markers (5 colors): 15 per player color
 
 ## How to Play
 
@@ -39,7 +46,6 @@ For each player:
 * Draw 5 cards into your hand
 * Place 2 customers on the board (see "Placing Customers" below)
 * Place one of your stores (any kind) onto *any* empty station.
-    * This is the only time you don't need to play a card to place a station.
 
 ### Gameplay
 
@@ -50,8 +56,7 @@ During your turn, you can choose any two of the following actions (must be diffe
 * **Lure** Play a ward card and lure customers from that ward to stores, following train tracks to connected stations.
 * **Expand** Discard a single card and build new track that connects to one of your stores or to your existing track.
    Or discard 3 cards to build 2 connected segments of track
-* **Refresh** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand.
-   Your turn ends immediately after taking this action, even if you had one more action available.
+* **Income** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. Your turn ends immediately after taking this action, even if you had one more action available.
 
 After taking your 2 actions:
 
@@ -59,9 +64,7 @@ After taking your 2 actions:
 
 ### Endgame Scoring
 
-* +1 vp per customer
-* +2 vp for each good type where you have the undisputed max # of customers satisfied
-* +1 vp for each good type where you are tied for the max # of customers satisfied
+Remove the customer type that you have the most of and then count the remaining customers.
 
 ## The Map
 
