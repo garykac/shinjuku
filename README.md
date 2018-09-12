@@ -155,6 +155,3 @@ Because the card frequency varies based on the population of that ward, some car
 as wildcards (because you're more likely to encounter them). Each card indicated how many copies
 of it exist in the deck.
 
-## Playtest images
-
-* https://twitter.com/hackerblinks/status/1032744357642657792
