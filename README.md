@@ -69,7 +69,7 @@ Choose any two of the following actions (must be different actions):
 
 * **Build** Play a ward card and build a store at any empty station in that ward.
 * **Upgrade** Play a matching ward card and a matching customer to upgrade an existing store to a department store.
-* **Lure** Play a ward card and [lure customers](luring-customers) from that ward to stores, following train tracks to connected stations.
+* **Lure** Play a ward card and [lure customers](#luring-customers) from that ward to stores, following train tracks to connected stations.
 * **Expand** Discard a single card and build new track that connects to one of your stores or to your existing track.
    Or discard 3 cards to build 2 connected segments of track
 * **Income** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. Your turn ends immediately after taking this action, even if you had one more action available.
