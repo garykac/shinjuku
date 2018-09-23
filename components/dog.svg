@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
@@ -26,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="370.90124"
-     inkscape:cy="1188.752"
+     inkscape:zoom="0.35"
+     inkscape:cx="-146.88041"
+     inkscape:cy="488.98937"
      inkscape:document-units="px"
      inkscape:current-layer="layer19"
      showgrid="false"
@@ -51,82 +50,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-62.362205)"
-     style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/ref/hachiko/DSCN2919.JPG"
-       xlink:href="ref/hachiko/DSCN2919.JPG"
-       width="1200"
-       height="1600"
-       preserveAspectRatio="none"
-       id="image12066"
-       x="-1225.7142"
-       y="522.36218" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="Layer 2"
-     style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/ref/hachiko/depositphotos_89792708-stock-photo-young-akita-dog-akita-inu.jpg"
-       xlink:href="ref/hachiko/depositphotos_89792708-stock-photo-young-akita-dog-akita-inu.jpg"
-       width="1024"
-       height="1024"
-       preserveAspectRatio="none"
-       id="image12129"
-       x="912.28577"
-       y="-176.28572" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer16"
-     inkscape:label="Layer 3"
-     style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/ref/hachiko/download.png"
-       xlink:href="ref/hachiko/download.png"
-       width="225"
-       height="225"
-       preserveAspectRatio="none"
-       id="image12192"
-       x="-95.35714"
-       y="-253.92859" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer17"
-     inkscape:label="Layer 4"
-     style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/ref/hachiko/hachiko-filled.png"
-       xlink:href="ref/hachiko/hachiko-filled.png"
-       width="1500"
-       height="1500"
-       preserveAspectRatio="none"
-       id="image12255"
-       x="307.14285"
-       y="860" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer18"
-     inkscape:label="Layer 5"
-     style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/ref/hachiko/stock-photo-side-view-of-akita-inu-sitting-years-old-isolated-on-white-137759915.jpg"
-       xlink:href="ref/hachiko/stock-photo-side-view-of-akita-inu-sitting-years-old-isolated-on-white-137759915.jpg"
-       width="540"
-       height="512.40002"
-       preserveAspectRatio="none"
-       id="image12318"
-       x="-674.64288"
-       y="-108.33575" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer19"
