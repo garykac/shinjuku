@@ -1,0 +1,26 @@
+Box dimensions - fold area
+
+847.8 - short
+1116.2 - long
+
+ratio: 1.317
+
+1.3 cars on long side for every 1 on short
+	3 cars short
+	4 cars long
+
+Offset so that the corners fall at the car midpoint.
+
+Since this is a complete loop, each "car" includes 1/2 the space for the coupling on
+either side.
+
+	
+
+Train ref:
+
+http://kakeyama.image.coocan.jp/
+http://kakeyama.image.coocan.jp/commuter.htm
+http://kakeyama.fan.coocan.jp/parts/parts.htm
+
+https://railf.jp/
+
