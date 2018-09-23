@@ -44,18 +44,18 @@ star
 		triangle = 3 per color (x4 = 12)
 		star = 3 per color (x4 = 12)
 
-	9 rows for 1 set = 99 (60 + 32 + 1 hachiko + 6 extra)
-		circle:   19 + 2 = 21
-		cross:    16 + 2 = 18
-		triangle: 14 + 1 = 15
-		star:     11 + 1 = 12
+	9 rows for 1 set = 99 (60 + 40 + 1 hachiko - 2 missing)
+		circle:   19
+		cross:    16
+		triangle: 14
+		star:     11
 		hachiko:   1
-		32 stores (4 colors x 4 stores x 2)
+		40 stores (5 colors x 4 stores x 2)
 	
-	5 rows for 1/2 set = 55 (30 + 16 + 1 hachiko + 8 extra)
-		circle:   9.5 + 1.5 = 11
-		cross:    8   + 2   = 10
-		triangle: 7   + 2   = 9
-		star:     5.5 + 2.5 = 8
+	5 rows for 1/2 set = 55 (30 + 20 + 1 hachiko + 1/2 circle + 1/2 star + 3 extra)
+		circle:   9.5 + 0.5 = 10
+		cross:    8   + 0   = 8
+		triangle: 7   + 0   = 7
+		star:     5.5 + 0.5 = 6
 		hachiko:  1
-		16 stores (4 colors x 4 stores)
+		20 stores (5 colors x 4 stores)
