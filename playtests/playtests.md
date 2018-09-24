@@ -43,7 +43,7 @@
 [Playtest #7 - Sun 2 Sept 2018](2018-09-02-playtest-7.md)
 
 * 2 player GK AK
-* Testing: Remove money and replace with card-draws; Endgame scoring ties
+* Testing: Remove money and replace with card-draws; 72-card deck; Endgame scoring ties
 
 [Playtest #6 - Fri 24 Aug 2018](2018-08-24-playtest-6.md)
 
