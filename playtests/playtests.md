@@ -1,5 +1,10 @@
 # Playtest Notes
 
+[Playtest #16 - Mon 24 Sept 2018](2018-09-24-playtest-16.md)
+
+* 3 player: GK AB JB
+* Testing: Hachiko expansion
+
 [Playtest #15 - Thu 20 Sept 2018](2018-09-20-playtest-15.md)
 
 * 2 player: GK JB
