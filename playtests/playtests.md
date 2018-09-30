@@ -1,9 +1,19 @@
 # Playtest Notes
 
+[Playtest #18 - Tue 25 Sept 2018](2018-09-25-playtest-18.md)
+
+* 4 player: AB ? ? ?
+* Testing: New players; Hachiko expansion without neutral track
+
+[Playtest #17 - Tue 25 Sept 2018](2018-09-25-playtest-17.md)
+
+* 3 player: GK AB JB SR
+* Testing: Place track anywhere; Hachiko expansion with modified Lure action
+
 [Playtest #16 - Mon 24 Sept 2018](2018-09-24-playtest-16.md)
 
 * 3 player: GK AB JB
-* Testing: Hachiko expansion
+* Testing: Hachiko expansion with Reunite action
 
 [Playtest #15 - Thu 20 Sept 2018](2018-09-20-playtest-15.md)
 
