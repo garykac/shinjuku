@@ -1,0 +1,57 @@
+Wildcard probs
+
+72 cards
+n wildcards
+assume 2 kinds of cards: wildcards and non-wildcards
+
+
+Draw 1 card
+============
+
+simple prob: n/72
+
+
+Draw 2 cards
+============
+
+1 wildcard: w_, _w
+	w_ = n/72 * (71-(n-1))/71
+	   = n/72 * (72-n)/71
+	_w = (72-n)/72 * n/71
+	w_ = _w
+
+2 wildcards: ww
+	ww = n/72 * (n-1)/71
+
+Draw 3 cards
+============
+
+1 wildcard: w__, _w_, __w
+	w__ = n/72 * (71-(n-1))/71 * (70-(n-1))/70
+	    = n/72 * (72-n)/71 * (71-n)/70
+
+2 wildcards:
+	ww_ = n/72 * (n-1)/71 * (70-(n-2))/70
+	    = n/72 * (n-1)/71 * (72-n)/70
+
+Draw 5 cards
+============
+
+72 choose 5 = 13991544 possible
+
+1 wildcard: w____, _w___, __w__, ___w_, ____w = 5 possible
+	5c1 = 5
+	w____ = n/72 * (71-(n-1))/71 * (70-(n-1))/70  * (69-(n-1))/69 * (68-(n-1))/68
+	      = n/72 * (72-n)/71 * (71-n)/70  * (70-n)/69 * (69-n)/68
+	_w___ = (72-n)/72 * n/71 * (70-(n-1))/70  * (69-(n-1))/69 * (68-(n-1))/68
+	      = (72-n)/72 * n/71 * (71-n)/70  * (70-n)/69 * (69-n)/68
+	same prob for each
+
+1: 5c1 = 5
+2: 5c2 = 10
+3: 5c3 = 10
+4: 5c4 = 5
+5: 5c5 = 1
+
+	5c5 = 1: wwwww
+	= n/72 * (n-1)/71 * (n-2)/70 * (n-3)/69
