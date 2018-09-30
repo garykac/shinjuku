@@ -17,7 +17,7 @@
    height="18in"
    viewBox="0 0 1080 1620"
    sodipodi:docname="info-cards-18.svg"
-   inkscape:export-filename="/Users/garykac/Downloads/tokyo maps/ku-cards-18/sheet3-18.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/info-cards/info-cards-back-18.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Lines"
-     style="display:inline">
+     style="display:none">
     <g
        id="g6004">
       <rect
@@ -441,7 +441,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Front"
-     style="display:inline">
+     style="display:none">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/info-cards/scoring.png"
        xlink:href="scoring.png"
@@ -627,7 +627,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Back"
-     style="display:none">
+     style="display:inline">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/info-cards/strategy.png"
        xlink:href="strategy.png"
