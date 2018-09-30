@@ -59,3 +59,28 @@ star
 		star:     5.5 + 0.5 = 6
 		hachiko:  1
 		20 stores (5 colors x 4 stores)
+
+
+Colors (from https://www.printplaygames.com/product/15mm-wood-discs/)
+
+Blue:
+	Recommended: cmyk: 88,48,0,0  rgb 31,133,255
+Green
+	Recommended: cmyk: 85,0,95,10  rgb 34,229,12
+Orange
+	Recommended: cmyk: 1,75,97,0  rgb 255,64,8
+	Printed:     cmyk: 0,45,100,0  rgb 255,140,0
+Red
+	Recommended: cmyk: 1,98,92,10  rgb 230,5,18
+	Printed:     cmyk: 0,98,100,10  rgb 229,5,0
+Yellow
+	Recommended: cmyk: 0,8,100,3  rgb: 247,228,0
+
+Other colors:
+Black: (55,55,55,100)
+Brown: (4,80,86,60)
+Gray: (22,20,40,30)
+Natural: (11,25,40,0)
+Pink: (0,70,13,13)
+Purple: (22,74,7,52)
+White: (0,0,0,0)
