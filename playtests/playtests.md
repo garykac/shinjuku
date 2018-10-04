@@ -1,5 +1,15 @@
 # Playtest Notes
 
+[Playtest #20 - Wed 3 Oct 2018](2018-10-03-playtest-20.md)
+
+* 2 player: GK JB
+* Testing: Kaiju expansion
+
+[Playtest #19 - Mon 1 Oct 2018](2018-10-01-playtest-19.md)
+
+* 4 player: GK JB AB SR
+* Testing: Chairman expansion
+
 [Playtest #18 - Tue 25 Sept 2018](2018-09-25-playtest-18.md)
 
 * 4 player: AB ? ? ?
