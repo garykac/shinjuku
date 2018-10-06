@@ -8,7 +8,13 @@ so that customers can get to your stores.
 **STATUS: Rules are stable. Currently in playtest.**
 
 * [One page description (pdf)](docs/hippodice/description_shinjuku.pdf)
-* [Complete Rules (pdf)](docs/hippodice/rules_shinjuku.pdf)
+
+* [Complete Rules (pdf)](docs/rules.pdf)
+
+	* [Hachiko Expansion (pdf)](docs/expansion_hachiko.pdf)
+	* [Chairman Expansion (pdf)](docs/expansion_chairman.pdf)
+	* [Kaiju Expansion (pdf)](docs/expansion_kaiju.pdf)
+
 * [Playtest notes](playtests/playtests.md)
 
 ## Background
@@ -138,19 +144,36 @@ To upgrade a store to a department store, a player must pay:
 * A card matching the location of the store to be upgraded
 * A customer that matches the store being upgraded
 
-The spent customer is returned to the bag and the store being upgraded is returned to the player (and can be used again).
+The spent customer is removed from the game and the store being upgraded is returned to the player (and can be used again).
 
 ### Upgrade Limitations
 
 Only stations marked with a department store icon can be upgraded to a department store.
 
+### Burst of Customers
+
+When a new department store is created, a burst of new customers appears on the map:
+
+| # of players | # of new customers |
+| ------------ | ------------------ |
+|       2      |         4          |
+|       3      |         4          |
+|       4      |         3          |
+
 ## Wildcards
 
-Once you've built a store (or department store) in a ward, the cards for that ward become wildcards for you.
 You can play a wildcard to match any ward card.
 
-Because the card frequency varies based on the population of that ward, some cards work better
-as wildcards (because you're more likely to encounter them). Each card indicated how many copies
-of it exist in the deck.
+There are two ways to get wildcards: from stores and from cards
+
+### Wildcards from stores
+
+Once you've built a store (or department store) in a ward, the cards for that ward become wildcards for you.
+
+Because the card frequency varies based on the population of that ward, some cards work better as wildcards (because you're more likely to encounter them). Each card indicated how many copies of it exist in the deck.
+
+### Wildcards from cards
+
+You can play any three cards from your hand as a single wildcard.
 
 ![Train Car](images/train-car-6.png)
