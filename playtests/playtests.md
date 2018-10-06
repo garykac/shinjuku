@@ -1,5 +1,11 @@
 # Playtest Notes
 
+[Playtest #21 - Fri 5 Oct 2018](2018-10-05-playtest-21.md)
+
+* 3 player: GK AB JB
+* Testing: 3-cards = wild; Kaiju scaring customers; Chairman with free move action; Kaiju + Chairman together
+
+
 [Playtest #20 - Wed 3 Oct 2018](2018-10-03-playtest-20.md)
 
 * 2 player: GK JB
