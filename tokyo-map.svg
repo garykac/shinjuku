@@ -2450,7 +2450,7 @@
      inkscape:cx="757.56871"
      inkscape:cy="882.15373"
      inkscape:document-units="px"
-     inkscape:current-layer="svg4516"
+     inkscape:current-layer="g7495"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -3098,7 +3098,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer28"
-     inkscape:label="Lines"
+     inkscape:label="xxx Lines"
      style="display:none"
      transform="translate(212.84076,600.32304)">
     <g
@@ -8345,8 +8345,8 @@
        d="m -2.527344,0.00585938 0,1620.00004062 1800.000044,0 0,-1620.00004062 -1800.000044,0 z m 8,8.00000002 1784.000044,0 0,1604.0000406 -1784.000044,0 0,-1604.0000406 z"
        id="rect11399"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="50"
-       inkscape:export-ydpi="50" />
+       inkscape:export-xdpi="299.99997"
+       inkscape:export-ydpi="299.99997" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9842,7 +9842,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Shop Limits (dots)"
+     inkscape:label="xxx Shop Limits (dots)"
      style="display:none;opacity:1"
      transform="translate(2.5275545,89.993925)">
     <g
@@ -12190,7 +12190,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Shop Upgrade Legend"
+     inkscape:label="xxx Shop Upgrade Legend"
      style="display:none"
      transform="translate(2.5275545,89.993925)">
     <ellipse
@@ -12866,66 +12866,5 @@
        height="908"
        x="-136.52754"
        y="-97.99398" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="8x10 pages"
-     style="display:none"
-     transform="translate(2.5275545,89.993925)">
-    <rect
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6199"
-       width="720"
-       height="900"
-       x="-182.52754"
-       y="-89.99398"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
-    <rect
-       y="-89.99398"
-       x="537.47241"
-       height="900"
-       width="720"
-       id="rect6201"
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
-    <rect
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6203"
-       width="720"
-       height="900"
-       x="1257.4724"
-       y="-89.99398"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
-    <rect
-       y="810.00616"
-       x="-182.52754"
-       height="900"
-       width="720"
-       id="rect6218"
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
-    <rect
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6220"
-       width="720"
-       height="900"
-       x="537.47241"
-       y="810.00616"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
-    <rect
-       y="810.00616"
-       x="1257.4724"
-       height="900"
-       width="720"
-       id="rect6223"
-       style="opacity:1;fill:#ccccf6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="300.04263"
-       inkscape:export-ydpi="300.04263" />
   </g>
 </svg>
