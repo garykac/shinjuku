@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="info-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/info-cards/expansion-5th-wheel-info.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/info-cards/strategy.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="100.5201"
-     inkscape:cy="163.73178"
+     inkscape:cx="53.93855"
+     inkscape:cy="145.83022"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -79,12 +79,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Strategy"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5757"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-2.5084375,0)"><flowRegion
+       transform="translate(-2.5084375,-2)"><flowRegion
          id="flowRegion5759"><rect
            id="rect5761"
            width="173.58344"
@@ -94,7 +94,8 @@
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRegion><flowPara
          id="flowPara5763"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Mini Strategy Guide</flowPara></flowRoot>    <g
-       id="g6367">
+       id="g6367"
+       transform="translate(0,-16)">
       <flowRoot
          transform="translate(-627.2057,-51.87041)"
          xml:space="preserve"
@@ -119,8 +120,8 @@
              width="178.29045"
              id="rect5739" /></flowRegion><flowPara
            id="flowPara5745"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Track is limited, so spend it frugally. </flowPara></flowRoot>      <flowRoot
-         transform="translate(-702.11699,-22.13458)"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Track is limited, so spend it frugally. </flowPara></flowRoot>      <flowRoot
+         transform="translate(-702.11699,-16.13458)"
          xml:space="preserve"
          id="flowRoot24316"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -130,11 +131,11 @@
              height="58.623299"
              x="735.88544"
              y="164.71001" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-           id="flowPara5727">Place track where other players need to use it. This will give you more free income actions.</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           id="flowPara5727">Place track where other players need to use it.</flowPara></flowRoot>    </g>
     <g
        id="g6381"
-       transform="translate(0,-4)">
+       transform="translate(0,-6)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot5802"
@@ -152,21 +153,6 @@
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold'">Stores</flowSpan></flowPara><flowPara
            id="flowPara5816"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5770"
-         style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(-684.46699,47.865423)"><flowRegion
-           id="flowRegion5772"><rect
-             style="font-size:7.5px"
-             id="rect5774"
-             width="163.71095"
-             height="39.725872"
-             x="735.88544"
-             y="164.71001" /></flowRegion><flowPara
-           id="flowPara5782"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Preferably in wards with lots of cards so that your Income draws are more likely to have wildcards.</flowPara><flowPara
-           id="flowPara5784"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>      <flowRoot
          transform="translate(-702.55699,25.865423)"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5786"
@@ -174,14 +160,14 @@
            id="flowRegion5788"><rect
              y="164.71001"
              x="735.88544"
-             height="64.943802"
-             width="184.13834"
+             height="63.883141"
+             width="189.7952"
              id="rect5790" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-           id="flowPara5796">Stores create wildcards for you, so build them whenever possible.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           id="flowPara5796">Stores create wildcards for you, so build them whenever possible – preferably in wards with lots of cards.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            id="flowPara5800" /></flowRoot>      <flowRoot
-         transform="translate(-702.71699,79.865423)"
+         transform="translate(-702.71699,73.865423)"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot30103"
          xml:space="preserve"><flowRegion
@@ -191,7 +177,7 @@
              height="30.058998"
              width="182.45714"
              id="rect30107" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            id="flowPara5731">Remember: Stores can be moved by building them in a new location.</flowPara></flowRoot>    </g>
     <g
        id="g6403"
@@ -224,12 +210,12 @@
              x="735.88544"
              y="164.71001" /></flowRegion><flowPara
            id="flowPara5954"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Build department stores where it's hard for other players to avoid.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Build department stores where it's hard for other players to avoid.</flowPara><flowPara
            id="flowPara5950"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>    </g>
     <g
        id="g6355"
-       transform="translate(0,-2)">
+       transform="translate(0,-8)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot6331"
@@ -257,8 +243,8 @@
              height="95.625626"
              width="182.87744"
              id="rect6347" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-           id="flowPara6351">Avoid ending your turn with 0 cards, since starting your next turn with 0 cards will force you to take a Income action (and nothing else).</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           id="flowPara6351">Avoid ending your turn with 0 cards.</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -266,7 +252,7 @@
      inkscape:label="Scoring"
      style="display:none">
     <flowRoot
-       transform="translate(9.7151562,2)"
+       transform="translate(9.7151562,-4)"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5995"
        xml:space="preserve"><flowRegion
@@ -282,7 +268,7 @@
        id="g6434"
        transform="translate(0,2)">
       <flowRoot
-         transform="translate(-654.01844,-29.293979)"
+         transform="translate(-654.01844,-33.293979)"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6011"
          xml:space="preserve"><flowRegion
@@ -301,7 +287,7 @@
          xml:space="preserve"
          id="flowRoot6059"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(-698.55699,-12.134577)"><flowRegion
+         transform="translate(-698.55699,-14.134577)"><flowRegion
            id="flowRegion6061"><rect
              id="rect6063"
              width="184.13834"
@@ -309,11 +295,11 @@
              x="735.88544"
              y="164.71001" /></flowRegion><flowPara
            id="flowPara6067"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Sort your customers by type.</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Sort your customers by type.</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot6073"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(-698.71699,1.865423)"><flowRegion
+         transform="translate(-698.71699,3.865423)"><flowRegion
            id="flowRegion6075"><rect
              id="rect6077"
              width="182.45714"
@@ -321,8 +307,8 @@
              x="735.88544"
              y="164.71001" /></flowRegion><flowPara
            id="flowPara6079"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Remove all customers that match the type you have the most of.</flowPara></flowRoot>      <flowRoot
-         transform="translate(-698.55699,25.86542)"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Remove all customers that match the type you have the most of.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-698.55699,33.86542)"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6097"
          xml:space="preserve"><flowRegion
@@ -332,11 +318,11 @@
              height="95.625626"
              width="182.87744"
              id="rect6101" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            id="flowPara6105">Score all remaining customers.</flowPara></flowRoot>    </g>
     <g
        id="g6454"
-       transform="translate(0,-12)">
+       transform="translate(0,-10)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot6242"
@@ -364,16 +350,16 @@
              height="65.364098"
              width="176.57298"
              id="rect6260" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            id="flowPara6262">Ties are resolved in player order, with the first player winning over the 2nd player, and so on.</flowPara></flowRoot>    </g>
     <g
        id="g6416"
-       transform="translate(0,10)">
+       transform="translate(0,2)">
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6003"
          xml:space="preserve"
-         transform="translate(-658.66687,-111.16384)"><flowRegion
+         transform="translate(-658.66687,-115.16384)"><flowRegion
            id="flowRegion6005"><rect
              y="164.71001"
              x="735.88544"
@@ -392,12 +378,12 @@
              height="101.57964"
              x="735.88544"
              y="164.71001" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            id="flowPara6031">Each customer you have at the end of the game is worth 1 VP.</flowPara></flowRoot>      <flowRoot
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6037"
          xml:space="preserve"
-         transform="translate(-698.11699,-60.13458)"><flowRegion
+         transform="translate(-698.11699,-56.13458)"><flowRegion
            id="flowRegion6039"><rect
              y="164.71001"
              x="735.88544"
@@ -405,8 +391,8 @@
              width="180.54034"
              id="rect6041" /></flowRegion><flowPara
            id="flowPara6043"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Player with most VPs wins.</flowPara></flowRoot>      <flowRoot
-         transform="translate(-650.15303,-99.715525)"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Player with most VPs wins.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-650.15303,-103.71553)"
          xml:space="preserve"
          id="flowRoot6323"
          style="font-style:normal;font-weight:normal;font-size:13.55755424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -420,7 +406,7 @@
            id="flowPara6329">(for your first game)</flowPara></flowRoot>    </g>
     <g
        id="g6496"
-       transform="matrix(1.35,0,0,1.35,-232.61889,102.6113)">
+       transform="matrix(1.35,0,0,1.35,-232.61889,112.6113)">
       <g
          id="g6498"
          transform="matrix(0.5,0,0,0.5,-25.093757,-164.40896)"
@@ -1052,7 +1038,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Expansion - 5th-wheel info"
      id="g6995"
      inkscape:groupmode="layer">
