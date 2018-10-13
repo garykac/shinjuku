@@ -1,6 +1,11 @@
 # Playtest Notes
 
-[Playtest #22 - Fri 11 Oct 2018](2018-10-11-playtest-22.md)
+[Playtest #23 - Fri 12 Oct 2018](2018-10-12-playtest-23.md)
+
+* 3 player: GK JB SR
+* Testing: Empress expansion; Kaiju moves when customer lands on Kaiju spot; Kaiju + Empress
+
+[Playtest #22 - Thu 11 Oct 2018](2018-10-11-playtest-22.md)
 
 * 3 player: LP JP MP
 * Testing: blind playtest to learn how to play from rulebook
