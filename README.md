@@ -5,9 +5,11 @@ so that customers can get to your stores.
 
 ![Train Car](images/train-car.png)
 
-**STATUS: Rules are stable. Currently in playtest.**
+**STATUS: Work in Progress. Rules are stable. Currently in playtest.**
 
-* [One page description (pdf)](docs/hippodice/description_shinjuku.pdf)
+* [One page overview (pdf)](docs/hippodice/description_shinjuku.pdf)
+
+* [Quickstart Rules (pdf)](docs/quickstart.pdf)
 
 * [Complete Rules (pdf)](docs/rules.pdf)
 
