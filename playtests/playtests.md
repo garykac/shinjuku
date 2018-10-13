@@ -8,7 +8,7 @@
 [Playtest #22 - Thu 11 Oct 2018](2018-10-11-playtest-22.md)
 
 * 3 player: LP JP MP
-* Testing: blind playtest to learn how to play from rulebook
+* Testing: Blind playtest to learn how to play from rulebook
 
 [Playtest #21 - Fri 5 Oct 2018](2018-10-05-playtest-21.md)
 
