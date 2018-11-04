@@ -2537,17 +2537,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="675.34556"
-     inkscape:cy="991.84893"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="958.12771"
+     inkscape:cy="502.09643"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer27"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
-     inkscape:window-x="1"
-     inkscape:window-y="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="21"
+     inkscape:window-y="66"
      inkscape:window-maximized="0"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
@@ -2591,8 +2591,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Arr"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c7c7c7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -955.52986,-399.61668 -221.71484,2490.70238 2978.3736,-33.7722 34.8277,-74.4044 24.2202,-129.105 -18.4156,-36.3571 -38.0288,-21.3076 -74.8971,-32.2222 -78.6137,-56.2114 -66.7962,-68.1072 -364.8675,-42.4318 -595.23571,-42.2153 -604.734121,-166.7504 -112.354929,54.8717 -53.14015,78.9042 -6.83113,55.6631 -31.41823,57.6071 -38.65957,37.4309 -92.60775,53.7545 -78.46108,14.9918 -76.64096,-7.1259 -72.36584,-34.1866 -50.33473,-52.2723 -43.07073,-80.108 -8.30908,-77.1502 -33.40945,-69.7603 -4.86465,-81.9859 21.04581,-56.4691 14.25797,-131.0365 -19.5019,-116.4734 22.18364,-108.78271 30.56693,-78.16635 29.73827,-80.62132 65.61098,-91.19988 75.72782,-76.27612 65.83977,-73.31815 73.26045,-89.46221 64.29794,-95.85015 74.54875,-89.30762 46.88618,-71.29603 95.184362,-52.94639 73.433587,-43.441761 94.702021,-33.70009 54.49443,-38.476113 68.35868,-51.054123 83.96062,-58.138791 19.31431,-158.903072 z M 2775.4579,-354.86852 526.22701,-205.42633 395.08543,-98.267909 296.15365,-19.679024 195.01627,55.624159 25.448069,150.23754 l -63.648634,58.28927 -116.292005,87.88532 -63.54144,71.01981 -18.47331,57.58636 -24.886,45.3464 -42.42968,52.9567 -46.79754,63.61565 210.56321,178.88113 1242.84263,-116.55586 488.8235,388.98668 125.3967,461.3032 -112.963,118.6686 51.32,59.4004 63.3147,54.177 87.8174,30.4596 66.4994,45.5815 57.1039,1.7727 79.5659,-6.1262 96.1739,4.1041 63.4713,9.9416 30.0928,-9.1253 43.1181,-7.0662 113.7216,16.4058 72.5926,13.3758 45.8288,48.6424 45.7091,67.7898 209.4934,118.2028 276.5103,-103.4274 -138.049,-59.8477 -77.7912,-22.3753 -58.4747,-37.464 -42.2999,-38.6204 -30.7566,-38.4452 0.8452,-51.0582 -18.1683,-75.7176 8.8554,-44.1241 28.6417,-30.6472 42.1967,-36.4808 43.2542,-15.0454 65.4089,-7.8927 97.5364,-16.7336 -27.7039,-90.2187 -0.204,-0.1834 z M 84.02178,100.63457 52.888009,111.1884 l -44.85376,19.52457 -39.049144,21.10764 -46.964516,33.24455 -37.466079,35.883 -20.05226,20.05227 -4.22153,10.55382 5.27691,12.66459 11.60921,-4.74923 31.133778,-22.16302 36.938383,-26.91225 37.993767,-31.13379 29.023011,-32.71684 31.13379,-15.30305 z m -319.72727,267.99085 -47.76016,65.67283 -32.83642,35.82116 -31.34197,47.76017 -40.2983,49.25462 -43.2851,46.26781 -38.80591,36.56734 -33.58054,46.2678 32.08816,-8.95427 44.77748,-26.86483 35.07291,-47.01604 32.83642,-46.26781 38.80592,-44.0313 39.55209,-52.98349 32.83641,-54.47793 z m -65.89131,631.42578 -335.10246,40.7848 23.63273,93.9187 -4.11846,87.2608 -33.25073,89.32 -1.23472,97.9938 39.72938,68.6515 15.68645,83.7998 63.05085,62.7602 84.4512,58.7798 71.32489,-7.2516 89.89508,-47.4799 55.16228,-64.7533 58.78398,-48.0489 37.34651,-68.1896 -25.01173,-216.2751 z m 128.57938,537.9771 -44.77749,41.7907 -30.59577,36.5673 -44.77543,37.3135 -58.21093,24.6263 -63.4322,26.1208 -38.05972,17.1644 65.67282,7.4619 38.80592,-9.7026 50.74492,-23.88 54.47794,-32.0882 36.56735,-36.5675 32.8364,-41.0463 z m -422.38795,53.7318 6.71569,26.1186 36.56736,48.5084 44.77542,35.8212 31.34404,5.9694 26.11865,-11.1948 -44.77541,-20.1492 -52.98556,-40.2983 z m 2828.18567,225.9817 -21.1076,6.8599 19.5246,7.9154 18.4691,-5.2769 15.3031,-3.6938 z m -234.3608,5.3696 -24.0368,2.5889 -62.4386,2.0676 -37.3506,-2.9436 5.0254,19.7225 -5.1614,50.0936 -10.4839,62.9312 46.9151,82.8558 616.3433,54.8799 -24.2738,-141.4212 -44.1735,-69.1111 -37.1405,-43.1243 -41.1185,-9.6469 -58.8499,-2.525 -58.8768,1.583 -27.9079,6.2045 -38.4493,-2.558 -93.3889,-5.0914 -62.2367,3.0218 z"
@@ -4465,7 +4464,7 @@
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.58166695px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7116"
        xml:space="preserve"
-       transform="matrix(1.0553824,0,0,1.0553824,91.062138,-62.3233)"><flowRegion
+       transform="matrix(1.0553824,0,0,1.0553824,47.221519,-45.352738)"><flowRegion
          id="flowRegion7118"><rect
            y="635.50049"
            x="257.91147"
@@ -4474,7 +4473,7 @@
            id="rect7120"
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.58166695px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara7122"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.58166695px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;writing-mode:lr-tb;text-anchor:middle">Charles de Gaulle – Étoile</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.58166695px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;writing-mode:lr-tb;text-anchor:middle">Étoile</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.45728779px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot7128"
        xml:space="preserve"
