@@ -3,13 +3,14 @@
 
 # Auto-generate cards from ku-cards.svg.
 # All ward layers should be hidden before running this script since it will toggle
-# their visibility before rendering.
+# the visibility of each one before rendering.
 
 import os
 import subprocess
 
 from shutil import copyfile
 
+# Tokyo Wards
 _wards = [
 	"01-chiyoda",
 	"02-chuo",
@@ -36,7 +37,33 @@ _wards = [
 	"23-edogawa",
 ]
 
-# 
+# Paris Arrondissements
+_arr = [
+	"01-louvre",
+	"02-bourse",
+	"03-temple",
+	"04-hotel-de-ville",
+	"05-pantheon",
+	"06-luxembourg",
+	"07-palais-bourbon",
+	"08-elysee",
+	"09-opera",
+	"10-entrepot",
+	"11-popincourt",
+	"12-reuilly",
+	"13-gobelins",
+	"14-observatoire",
+	"15-vaugirard",
+	"16-passy",
+	"17-batignolles-monceau",
+	"18-butte-montmartre",
+	"19-buttes-chaumont",
+	"20-menilmontant",
+]
+
+# svg: Name of svg file
+# layer_object_name: Id of an object in the layer.
+#    Note: Not the id of the layer.
 # BUG: Only one layer can be toggled at a time, or none of them are.
 def show_layer(svg, layer_object_name):
 	subprocess.call([
@@ -53,7 +80,7 @@ def show_layer(svg, layer_object_name):
 		"--verb=FileQuit"
 		])
 
-def export_cut_line(svg, png):
+def export_id(id, svg, png):
 	subprocess.call([
 		"/Applications/Inkscape.app/Contents/Resources/bin/inkscape",
 		"--file=%s" % os.path.abspath(os.path.join('', svg)),
@@ -62,44 +89,51 @@ def export_cut_line(svg, png):
 		"--export-png=%s" % os.path.abspath(os.path.join('', png)),
 		"--export-dpi=300",
 		"--export-text-to-path",
-		"--export-id=cut-line",
+		"--export-id=%s" % id,
 		])
 
-def export_png():
+def export_png(dir, basename, wards, id):
 	
-	src = 'ku-cards.svg'
-	cutline_svg = 'ku-cards-cutline.svg'
-	border_svg = 'ku-cards-border.svg'
-	ku_svg = 'ku-cards-out.svg'
+	src = os.path.join(dir, '%s.svg' % basename)
+	cutline_svg = os.path.join(dir, '%s-cutline.svg' % basename)
+	border_svg = os.path.join(dir, '%s-border.svg' % basename)
+	ku_svg = os.path.join(dir, '%s-out.svg' % basename)
 
 	# Create SVG file with card cutline.
-	copyfile(src, cutline_svg)	
-	show_layer(cutline_svg, 'cut-line')
+	# If we're exporting the full card with bleed, then don't show cutline, just copy.
+	copyfile(src, cutline_svg)
+	if id == "cut-line":
+		show_layer(cutline_svg, 'cut-line')
 
 	# Create SVG file with Map Border.
 	copyfile(cutline_svg, border_svg)	
 	show_layer(border_svg, 'map-border-rect')
 
-	outdir = "ku-cards"
+	outdir = os.path.join(dir, basename)
 	if not os.path.isdir(outdir):
 		os.makedirs(outdir);
 
-	for layer in _wards:
+	for layer in wards:
 		# Create SVG file with ku map.
 		copyfile(border_svg, ku_svg)
 		show_layer(ku_svg, '%s-title' % layer)
 
 		# Export ku PNG.
-		export_cut_line(ku_svg, os.path.join(outdir, '%s.png' % layer))
+		export_id(id, ku_svg, os.path.join(outdir, '%s.png' % layer))
 
 	# Create SVG file for back (no map border).
 	copyfile(cutline_svg, ku_svg)
-	show_layer(ku_svg, 'ku-back')
-	export_cut_line(ku_svg, os.path.join(outdir, 'back.png'))
+	show_layer(ku_svg, 'card-back')
+	export_id(id, ku_svg, os.path.join(outdir, 'back.png'))
 
 	os.remove(ku_svg)
 	os.remove(border_svg)
 	os.remove(cutline_svg)
 	
-	
-export_png()
+
+# Tokyo	
+#export_png('.', 'ku-cards', _wards, "cut-line")
+
+# Paris
+#export_png('paris', 'arr-cards', _arr, "cut-line")
+export_png('paris', 'arr-cards', _arr, "mpc-bbox")
