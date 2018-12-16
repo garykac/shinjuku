@@ -1,0 +1,183 @@
+SCRIPT OUTLINE
+
+====================
+
+
+Intro
+	Shinjuku is a pick-up and deliver game
+	2-5 players
+	roughly 1 hour to play
+	set in Tokyo - you build stores and rail
+	win by getting the most customers to your stores
+
+Gameplay
+	Each turn:
+		random new customer
+		take 2 different actions
+	5 actions to choose from
+		most are straightforward: build/expand/upgrade/draw cards
+		Lure is the core of the game
+
+Lure action
+	Easiest way to explain is to demonstrate
+	Sample setup:
+		2 blue stores + some track
+			Shimbashi: O
+			Meidai Mae: ∆
+		2 red stores + some track
+			Tokyo: dept
+			Yotsuya: X
+		4 customers in Minato: O O X ∆
+	Note on setup: customers are in the Minato, not associated with any station
+		The player performing the LURE chooses the starting station within the location
+
+	Blue turn example:
+		Assume blue turn
+		Blue wants to move the customers in Minato to the blue stores
+		When you lure you must take *all* of the customers
+			You can't select a subset
+		Blue chooses to start in Shimbashi
+		At each station visited, you need to check to see if the store there matches any
+			customers
+		The Blue O store matches the 2 O customers
+			But each store can only match one customer at a time
+			So only 1 O customer is matched with this store
+		If Blue chooses to stop here, the remaining 3 customers will be added to the 
+			location of the final station they visited
+			in this case, it would be the same as their starting position
+		But Blue really wants to match the ∆ customer
+			so Blue continues
+			even though it means that they must pass through some Red stores
+		Blue moves the remaining 3 customers (OX∆) to Tokyo
+			where Red has a dept store
+			A dept store matches all customers, but can only accept 1 of them
+			Since Blue is performing LURE action, Blue gets to choose which one to give
+			Blue chooses to give the X customer to the Red dept store.
+		Blue moves the remaining 2 customers (O∆) to Yotsuya
+			where red has an X store
+			sadly, there are no more X customers, so no customers match
+		Blue continues on to Shinjuku
+			no stores here, so clearly no customers match
+		Blue continues on to Meidai Mae
+			The ∆ customer matches the blue ∆ store
+		Blue ends the Lure action
+			The remaining O customer is added to Setagaya
+			Blue gets 2 customers: O∆
+			Red got 1 customer: X
+		As part of the Lure, note that Blue made use of some Red track,
+			so Red also gets to draw cards for an income action
+			more on income later
+			
+	Note the following restrictions when performing the LURE action:
+		The LURE action must end at a station where you have matched a customer.
+			so Blue could not decide to stop at Yotsuya, or Shinjuku, or continue past Meidai Mae.
+		A station may only be visited once per Lure action
+			so even if there was another path to Shimbashi, blue couldn't go back and 
+			visit it again to get another O customer.
+
+	Red turn example:
+		Let's see how this might play out if it was Red's turn instead of Blue's
+		Reset the board back to the same starting position
+		Red could also choose to start at Shimbashi
+			giving blue a O customer
+		Continuing to the dept store in Tokyo
+			taking the ∆ customer
+		Continuing to Yotsuya
+			taking the X customer
+		Stopping here:
+			Red gets 2 customers: ∆X
+			Blue gets 1 O
+			Remaining O customer is placed in Shinjuku.
+
+	But, remember that each player gets 2 actions on each turn
+		So Red could use this first action to build a rail connection between
+			Roppongi and Yoyogi
+		Now Red can start the LURE in Roppongi
+			skipping the Blue O store
+		Visiting Roppongi -> Yoyogi -> Shinjuku -> Yotsuya -> Tokyo
+			And still get 2 customers while giving Blue none.
+
+Components
+	Map with 23 special wards in central Tokyo
+	In addition, 72 cards:
+		each card identifies a ward
+		variable number of cards for each ward based on population
+			ranges from 2 - 5 cards
+			number of cards is noted on map and on each card
+	To perform an action in Shinjuku, you usually need to play a card
+		Some actions require that the card match the location
+	It can be frustrating when you don't have a matching card
+		Address this by having wildcards
+
+Wildcards
+	Wildcards allow you to play 1 or more cards as if they were another card
+	Easy wildcards: spend any 3 cards as a single wildcard
+	Cards also become wildcards for you once you have built a store in that location.
+		Example: build store in Akihabara, now the Chiyoda card is wild for you.
+	So building a store in a location that has a lot of cards can be useful.
+		More likely to draw a wildcard when you draw cards.
+	
+Game Economy
+	The basic game economy goes from:
+		cards (in your hand), to
+		stores and rail (on the map), to
+		customers (for scoring)
+	Note that there is no explicit money in the game
+		avoids the tedium of managing lots of money transactions
+	Cards serve as the game "currency"
+		you always draw up to 5 cards, but
+			some cards are more valuable to you as the game progresses (wildcards from stores)
+			you get free income draws when other players use your track
+			you may discard any number of cards before drawing new cards
+	So
+		building stores gives you more potential wildcards when you draw
+		building track where other players need to use it gives your more draws
+		discarding "useless" cards before drawing gives more possibility of getting wildcards
+
+Expansions
+	The core game has been streamlined to simplify gameplay.
+	This allows expansions to be layered on top of the base game.
+	Expected gameplay (after the first game) is to randomly choose 2 expansions
+	
+	Here is a sampling of expansions that have already been playtested:
+
+	Kaiju
+		The Kaiju expansion adds a Kaiju ("strange monster") that starts in 
+			Tokyo Bay.
+		Can an action to move the Kaiju to a neighboring location,
+			scaring all the customers in that location into a neighboring location.
+		Blocks all LURE actions through its location.
+		Can be used strategically to herd customers together so that
+			a larger group can be LUREd.
+
+	Empress
+		The Empress expansion adds an Empress that can be moved around the board.
+		The Chairman location serves as a wildcard for all players.
+		
+	Chairman
+		The Chairman expansion adds a special Chairman customer for each player that
+		moves around like regular customers.
+		The Chairman location serves as a wildcard for that player.
+		During LURE, any chairman customer can be matched to a dept store instead of a 
+			regular customer, thus depriving the dept store owner of a customer.
+		
+	Thief
+		The Thief expansion adds Thief customers that count as negative VPs
+			cancel out a legitimate customer
+
+END
+
+=============================
+
+Extra material
+
+
+	Faithful Dog Hachiko
+		Hachiko is a dog from Tokyo that is famous for his loyalty.
+		Hachiko would wait each day at the Shibuya train station for his owner to return from work.
+		After his owner passed away while at work, Hachiko continued to wait,
+		returning each day for the next 9 years 9 months.
+		In the Hachiko expansion, Hachiko is placed randomly on the map and you can
+		take a REUNITE action (similar to a LURE action) to bring Hachiko back to
+		Shibuya.
+	
