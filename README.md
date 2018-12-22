@@ -29,7 +29,7 @@ In **Shinjuku**, you manage a rail conglomerate in Tokyo. You need to build stor
 
 Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to move them to your store and earn them as a customer (=VP).
 
-* 2-4 players (recommended 3-4)
+* 2-5 players (recommended 3-4)
 * 60 minutes
 * Ages 10+
 
@@ -43,10 +43,10 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
     * 14 want books (△)
     * 11 want electronics (⭐︎)
 * 1 bag to hold all the customers
-* 32 Store tokens (4 colors): 2 for each store type per player color
-* 12 Department store tokens (4 colors): 3 per player color
-* 64 Track markers (4 colors): 16 per player color
-* 4 Player screens (4 colors) to hide customers during gameplay
+* 40 Store tokens (5 colors): 2 for each store type per player color
+* 15 Department store tokens (5 colors): 3 per player color
+* 80 Track markers (5 colors): 16 per player color
+* 5 Player screens (5 colors) to hide customers during gameplay
 
 ## How to Play
 
@@ -102,7 +102,7 @@ Each station has a set of potential connections to other stations. Some stations
 There are 23 different cards – one for each ward (区 or _ku_) in Tokyo.
 There are multiple copies of each card based on the population of that ward.
 
-<img src="ku-cards/04-shinjuku.png" height="300px"/>
+<img src="ku-cards-rounded/04-shinjuku.png" height="300px"/>
 
 ## Customers
 
