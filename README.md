@@ -13,18 +13,21 @@ so that customers can get to your stores.
 	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
 	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
-* Expansions:
+* Mini-Expansions:
 	* [Chairman Expansion (pdf)](docs/shinjuku_x_chairman.pdf)
+	* [Empress Expansion (pdf)](docs/shinjuku_x_empress.pdf)
 	* [Flash Mob Expansion (pdf)](docs/shinjuku_x_flash_mob.pdf)
 	* [Hachiko Expansion (pdf)](docs/shinjuku_x_hachiko.pdf)
 	* [Kaiju Expansion (pdf)](docs/shinjuku_x_kaiju.pdf)
 	* [Thief Expansion (pdf)](docs/shinjuku_x_thief.pdf)
 
-* [Playtest notes](playtests/playtests.md)
+* Game Development
+	* [Playtest notes](playtests/playtests.md)
+	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
 
 ## Background
 
-Tokyo is a city of trains and Shinjuku is the busiest train station in Japan.
+Tokyo is a city of trains and Shinjuku is the busiest train station in the world.
 
 Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines rather than having a single entity that manages rail for the entire city. Many of these companies are large conglomerates that own not only the rail, but also the major department stores at the rail stations.
 
