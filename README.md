@@ -7,7 +7,7 @@ so that customers can get to your stores.
 
 **STATUS: Work in Progress. Rules are stable. Currently in playtest.**
 
-* [One page overview (pdf)](docs/hippodice/description_shinjuku.pdf)
+* [One page overview (pdf)](docs/shinjuku_onepage.pdf)
 
 * [Quickstart Rules (pdf)](docs/quickstart.pdf)
 
@@ -27,7 +27,7 @@ Unlike most passenger rail systems, Tokyo has dozens of companies running compet
 
 In **Shinjuku**, you manage a rail conglomerate in Tokyo. You need to build stores for the customers to visit and also the rail lines to get them there.
 
-Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to lure them to your store and earn them as a customer (=VP).
+Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to move them to your store and earn them as a customer (=VP).
 
 * 2-4 players (recommended 3-4)
 * 60 minutes
@@ -62,6 +62,7 @@ For each player:
 |       2      |    8   |      3      |  16   |
 |       3      |    7   |      2      |  13   |
 |       4      |    6   |      2      |  10   |
+|       5      |    5   |      2      |   8   |
 
 ### Gameplay
 
@@ -75,7 +76,7 @@ Choose any two of the following actions (must be different actions):
 
 * **Build** Play a ward card and build a store at any empty station in that ward.
 * **Upgrade** Play a matching ward card and a matching customer to upgrade an existing store to a department store.
-* **Lure** Play a ward card and [lure customers](#luring-customers) from that ward to stores, following train tracks to connected stations.
+* **Move** Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
 * **Expand** Discard a single card and build new track that connects to one of your stores or to your existing track.
    Or discard 3 cards to build 2 connected segments of track
 * **Income** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. Your turn ends immediately after taking this action, even if you had one more action available.
@@ -114,11 +115,11 @@ New customers are added randomly to the board each turn. To do this:
 * Place the customer token in the ward that matches the card
 
 Note that the customer is located in the ward, not in any particular station.
-Customers are not associated with a station until they are being lured.
+Customers are not associated with a station until they are being Moved.
 
-### Luring Customers
+### Moving Customers
 
-When you choose the action to lure customers to your store, do the following:
+When you choose the action to move customers to your store, do the following:
 
 1. Gather *all* of the customers in the ward that matches the card played
 2. Select their starting station within that ward
@@ -161,6 +162,7 @@ When a new department store is created, a burst of new customers appears on the 
 |       2      |         4          |
 |       3      |         4          |
 |       4      |         3          |
+|       5      |         3          |
 
 ## Wildcards
 
