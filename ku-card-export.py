@@ -133,7 +133,9 @@ def export_png(dir, basename, wards, id):
 
 # Tokyo	
 #export_png('.', 'ku-cards', _wards, "cut-line")
+export_png('.', 'ku-cards-rounded', _wards, "cut-line")
+
 
 # Paris
 #export_png('paris', 'arr-cards', _arr, "cut-line")
-export_png('paris', 'arr-cards', _arr, "mpc-bbox")
+#export_png('paris', 'arr-cards', _arr, "mpc-bbox")
