@@ -1,21 +1,24 @@
+![Train Car](images/train-car.png)
+
 # Shinjuku
 
 Shinjuku is a board game where you build department stores in Tokyo and the rail lines to connect them
 so that customers can get to your stores.
 
-![Train Car](images/train-car.png)
-
 **STATUS: Work in Progress. Rules are stable. Currently in playtest.**
 
 * [One page overview (pdf)](docs/shinjuku_onepage.pdf)
 
-* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
+* Rules:
+	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
+	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
-* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
-
-	* [Hachiko Expansion (pdf)](docs/shinjuku_x_hachiko.pdf)
+* Expansions:
 	* [Chairman Expansion (pdf)](docs/shinjuku_x_chairman.pdf)
+	* [Flash Mob Expansion (pdf)](docs/shinjuku_x_flash_mob.pdf)
+	* [Hachiko Expansion (pdf)](docs/shinjuku_x_hachiko.pdf)
 	* [Kaiju Expansion (pdf)](docs/shinjuku_x_kaiju.pdf)
+	* [Thief Expansion (pdf)](docs/shinjuku_x_thief.pdf)
 
 * [Playtest notes](playtests/playtests.md)
 
