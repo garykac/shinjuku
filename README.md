@@ -9,13 +9,13 @@ so that customers can get to your stores.
 
 * [One page overview (pdf)](docs/shinjuku_onepage.pdf)
 
-* [Quickstart Rules (pdf)](docs/quickstart.pdf)
+* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
 
-* [Complete Rules (pdf)](docs/rules.pdf)
+* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
-	* [Hachiko Expansion (pdf)](docs/expansion_hachiko.pdf)
-	* [Chairman Expansion (pdf)](docs/expansion_chairman.pdf)
-	* [Kaiju Expansion (pdf)](docs/expansion_kaiju.pdf)
+	* [Hachiko Expansion (pdf)](docs/shinjuku_x_hachiko.pdf)
+	* [Chairman Expansion (pdf)](docs/shinjuku_x_chairman.pdf)
+	* [Kaiju Expansion (pdf)](docs/shinjuku_x_kaiju.pdf)
 
 * [Playtest notes](playtests/playtests.md)
 
