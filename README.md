@@ -7,7 +7,7 @@ so that customers can get to your stores.
 
 **STATUS: Rules are stable. Continuing playtests.**
 
-* [One page overview (pdf)](docs/shinjuku_onepage.pdf)
+* [Sell sheet (1-page overview for publishers) (pdf)](docs/sell-sheet.pdf)
 
 * Rules:
 	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
