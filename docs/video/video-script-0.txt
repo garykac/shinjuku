@@ -1,0 +1,259 @@
+INTRO
+=====
+
+Shinjuku is a pick-up-and-deliver game about trains and department stores in Tokyo
+that plays in about an hour with 2-5 players.
+
+In Shinjuku, you build department stores and lay track to connect stations so that you can
+bring customers to your stores.
+
+These customers are your victory points at the end of the game.
+
+
+COMPONENTS
+==========
+
+Shinjuku is played on a map of Tokyo that is marked with a set of stations and potential connections.
+Initially, the stations are empty and they are not connected by track.
+But during the game, you will build stores on these stations, and place track to connect
+stations.
+
+The core of Tokyo is divided into 23 "special wards" or districts,
+and each of these districts contains one or more stations.
+
+Shinjuku also uses a deck of cards where each card identifies a single district in Tokyo.
+There are multiple cards for each district corresponding roughly to the population of that
+district.
+
+Customers
+
+Each player also has a number of tokens for their small stores, department stores and track.
+The exact number varies based on the total number of players.
+
+
+GAMEPLAY
+========
+
+Each turn in the game has the same structure: you place a new customer randomly
+on the board and then you choose 2 different actions.
+
+You have 5 different actions to choose from, but the most interesting action is the LURE
+action, since it allows you to move customers on the board to your stores (which is how
+you turn them into Victory Points).
+
+
+LURE ACTION
+-----------
+
+Here is an example move action:
+
+CUSTOMERS: O O X ∆
+
+There are 4 customers in X, so Blue player plays the X card to move those customers.
+When moving from a district, all of the customers in that district must be moved together.
+
+Having activated the customers in that district, Blue now needs to choose which station in 
+X to start from.
+
+DISTRICT X: 3 stations: one empty, one with Red X store; one with Blue O store
+
+(x), which is effectively a dead end since there is no track that connects to that station.
+(x), which would give a customer to Red, so is not a particularly strong move.
+
+Blue chooses which station in X to start from:
+
+In this case, Blue starts from (1) because there is a Blue store that matches a O customer.
+
+STATION 1 : Blue O
+
+When visiting a store while moving customers, if the store matches one or more customers, then
+a single customer must be dropped off at that store. If multiple customers match the store
+(as might be the case with a department store), then the person taking the Move action
+decides which customer is dropped off at that store.
+
+When 
+
+After dropping off a customer, the Blue player can choose to either end the Move or continue to another station.
+
+If end here, then the remaining customers are added back into X and Blue gained 1 O customer.
+
+However, if Blue would like to gain a 2nd customer, then the Move can continue so that the
+∆ customer goes to Blue's ∆ store in X.
+
+To do that, though, they will have to pass through the 2 red stores.
+
+TRACK 1: Blue
+STATION 2: Red dept store
+
+When passing through the Red department store, the Blue player must choose which customer to
+drop off at this location.
+
+Dropping off the ∆ customer would mean that there is no ∆ remaining when the group of customers
+reached the Blue ∆ store.
+
+Dropping off the X customer would give that customer to Red and would also leave a O customer
+for Red's O store between here and the Blue ∆ store.
+
+So the best choice is to give Red the O customer here.
+
+TRACK 2: Red
+STATION 3: Empty
+
+TRACK 3: Red
+STATION 4: Red O
+
+Continuing on to the next station, there is a Red O store, but no matching customers. So 
+no one needs to be dropped off.
+
+Red already triggered income, so no more income.
+
+DISCTRICT X: Two customers in the district XO
+
+TRACK 4: Blue
+STATION 5: Blue ∆
+
+Finally reaching the ∆ store, Blue gains a ∆ customer.
+
+During the move, track from the Red player was used, so Red gains an Income action.
+When track is used, only a single Income action is gained, even if multiple segments of track were used.
+You do not gain Income when you use your own track.
+
+The remaining X customer is then added to district that contains the final station, merging with the XO customers
+already present in that location.
+
+
+A few notes about restrictions when moving customers:
+
+Cannot visit the same stations twice during a move action.
+It would not be valid to go from station 1 (gaining a O customer) to station 2 and then back 
+to station 1 to gain another O customer.
+
+The Move action must end with a customer being dropped off at a store.
+In the previous example, the Move could have ended after the 1st, 2nd or 5th station, but could not
+have ended at the 3rd (empty) or 4th (Red O) station because no customers were dropped off.
+
+
+ACTIONS
+
+During gameplay, you will choose from 5 basic actions to build up the city:
+
+These actions are: 
+(1) Build a store at a station
+(2) Build some track between stations
+(3) Upgrade a store to a department store
+(4) Move customers
+(5) Gain Income (draw cards)
+
+To perform these actions, you will generally have to pay a card from your hand that matches
+the location where you want the action to take place.
+
+The exception is building track, which can be paid for using any card from your hand.
+
+OTHER ACTIONS
+
+While the Move action is the one that gains you customers, you need to use the other actions
+to build up your rail and shopping empire.
+
+BUILD
+
+For the Build action, you pay a card that matches where you want to build and then you place
+one of your store tokens there.
+You can only build in empty stations -- once someone has built a store in a location, you
+cannot build on top of or replace their store.
+
+TRACK
+
+UPGRADE
+
+MOVE
+
+INCOME
+
+
+
+SCORINS
+
+The game ends once the last customer is placed on the board, and everyone has had one
+final turn.
+
+Cusstomers are scored
+
+
+
+
+
+WILDCARDS
+
+Wildcards allow you to play one of more cards that matches any card.
+
+There are two ways to get wildcards:
+(1) When you build a store, cards that match that store location become wildcards for you.
+(2) Any three cards can be spent as a wildcard
+
+
+
+EXPANSIONS
+==========
+
+The base Shijuku game has been pared back to the core mechanics.
+
+This allows expansions to be layered on top of the base experience.
+
+Here are some of the expansions that have already been developed and playtested.
+
+
+Faithful Dog Hachiko
+--------------------
+
+Hachiko is a famous Akita dog that is famous in Japan for his faithfulness.
+Hachiko would wait each day at Shibuya station for his owner to return from work.
+One day, his owner died while at work, but Hachiko kept returning to Shibuya station
+each day for the next 9 years and 9 months.
+
+In the Hachiko expansion, a Hachiko customer is randomly placed on the map with other
+customers and a new REUNITE action is available to players.
+
+The REUNITE action is similar to a LURE action except it does not cost a card and the
+action must end with Hachiko in Shibuya.
+
+Empress
+-------
+
+Busy Chairman
+-------------
+
+Angry Kaiju
+-----------
+
+The Angry Kaiju expansion introduces a Kaiju monster that lives in Tokyo Bay.
+Players have an additional action that they can take which will move the Kaiju into
+an adjacent location.
+
+Whenever a Kaiju is moved into a location, all customers currently in that location are
+forced to move into an adjacent location.
+The Kaiju can be used strategically to herd customers together so that they can
+be lured into stores more efficiently.
+
+Additionally, customers may not be moved through any of the stations in the Kaiju's
+location.
+
+Sneaky Thief
+------------
+
+The Sneaky Thief expansion replaces some customers with thief customers that want to
+steal a particular type of good.
+
+Since each thief you have cancels out one of your matching customers during scoring,
+you don't want them visiting your store,  but you probably don't feel too bad about
+sending them to your opponents' stores.
+
+Flash Mob
+---------
+
+The Flash Mob expansion replaces some customers with instigators that act as normal
+customers except that when they are initially placed on the map, all matching customers
+are moved to their location.
+
+
+ENDING
+======

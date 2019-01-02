@@ -1,0 +1,66 @@
+# INTRO
+
+This video describes Shinjuku, a pick-up and deliver boardgame for 2-5 players
+that plays in about 1 hour.
+
+The game is set in Tokyo where you build stores and construct rail connections throughout the
+city so that you can move customers to your stores.
+
+The object of the game is to acquire the most customers.
+
+# GAMEPLAY
+
+The gameplay for Shinjuku is straightforward:
+Each turn, a new customer randomly appears on the map, and then you choose two
+different actions from a set of 5 actions.
+
+Most of the available actions are what you would expect: build a new store or upgrade an existing store,
+build more rail connections, or draw more cards.
+
+But the LURE action is special and forms the core of the game.
+This is the action that allows you to move customers to your store so that you can use them for endgame scoring.
+
+The best way to describe the LURE action is to set up a mid-game scenario and 
+see how a LURE action might play out.
+
+# LURE ACTION DESC
+
+In this example, the blue player has 2 stores and some rail and the red player also has
+2 stores and some rail.
+
+There are also some customers on the maps as follows.
+
+...
+
+# OTHER ACTIONS
+
+As mentioned earlier, there are 5 possible actions with LURE being the most
+important for scoring.
+
+The other actions are:
+
+BUILD - Spend a card that matches the area containing the station where you want to build
+a store.
+
+EXPAND - Spend 1 card to build 1 segment of track; or spend 3 cards to build 2 connected
+segments.
+
+UPGRADE - Spend a matching card and sacrifice one of your customers to upgrade an
+existing store to a department store.
+
+INCOME - Draw your hand back up to 5 cards
+
+# GAME ECONOMY
+
+The basic game economy in Shinjuku is from cards to stores to customers (which serve
+as victory points at the end of the game).
+
+To remove the tedium of shuffling around small amounts of cash throughout the game,
+there is no explicit money in Shinjuku.
+Instead, the cards serve as a currency since you spend them to perform actions.
+As the game progresses, you become "richer" in the sense that your cards are more
+valuable and you draw cards more frequently.
+
+
+# EXPANSIONS
+

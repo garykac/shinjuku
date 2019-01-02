@@ -32,7 +32,7 @@
 
 [Playtest #17 - Tue 25 Sept 2018](2018-09-25-playtest-17.md)
 
-* 3 player: GK AB JB SR
+* 4 player: GK AB JB SR
 * Testing: Place track anywhere; Hachiko expansion with modified Lure action
 
 [Playtest #16 - Mon 24 Sept 2018](2018-09-24-playtest-16.md)

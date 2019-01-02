@@ -1,35 +1,41 @@
+![Train Car](images/train-car.png)
+
 # Shinjuku
 
 Shinjuku is a board game where you build department stores in Tokyo and the rail lines to connect them
 so that customers can get to your stores.
 
-![Train Car](images/train-car.png)
+**STATUS: Rules are stable. Continuing playtests.**
 
-**STATUS: Work in Progress. Rules are stable. Currently in playtest.**
+* [One page overview (pdf)](docs/shinjuku_onepage.pdf)
 
-* [One page overview (pdf)](docs/hippodice/description_shinjuku.pdf)
+* Rules:
+	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
+	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
-* [Quickstart Rules (pdf)](docs/quickstart.pdf)
+* Mini-Expansions:
+	* [Chairman Expansion (pdf)](docs/shinjuku_x_chairman.pdf)
+	* [Empress Expansion (pdf)](docs/shinjuku_x_empress.pdf)
+	* [Flash Mob Expansion (pdf)](docs/shinjuku_x_flash_mob.pdf)
+	* [Hachiko Expansion (pdf)](docs/shinjuku_x_hachiko.pdf)
+	* [Kaiju Expansion (pdf)](docs/shinjuku_x_kaiju.pdf)
+	* [Thief Expansion (pdf)](docs/shinjuku_x_thief.pdf)
 
-* [Complete Rules (pdf)](docs/rules.pdf)
-
-	* [Hachiko Expansion (pdf)](docs/expansion_hachiko.pdf)
-	* [Chairman Expansion (pdf)](docs/expansion_chairman.pdf)
-	* [Kaiju Expansion (pdf)](docs/expansion_kaiju.pdf)
-
-* [Playtest notes](playtests/playtests.md)
+* Game Development
+	* [Playtest notes](playtests/playtests.md)
+	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
 
 ## Background
 
-Tokyo is a city of trains and Shinjuku is the busiest train station in Japan.
+Tokyo is a city of trains and Shinjuku is the busiest train station in the world.
 
 Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines rather than having a single entity that manages rail for the entire city. Many of these companies are large conglomerates that own not only the rail, but also the major department stores at the rail stations.
 
 In **Shinjuku**, you manage a rail conglomerate in Tokyo. You need to build stores for the customers to visit and also the rail lines to get them there.
 
-Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to lure them to your store and earn them as a customer (=VP).
+Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to move them to your store and earn them as a customer (=VP).
 
-* 2-4 players (recommended 3-4)
+* 2-5 players (recommended 3-4)
 * 60 minutes
 * Ages 10+
 
@@ -43,10 +49,10 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
     * 14 want books (△)
     * 11 want electronics (⭐︎)
 * 1 bag to hold all the customers
-* 32 Store tokens (4 colors): 2 for each store type per player color
-* 12 Department store tokens (4 colors): 3 per player color
-* 64 Track markers (4 colors): 16 per player color
-* 4 Player screens (4 colors) to hide customers during gameplay
+* 40 Store tokens (5 colors): 2 for each store type per player color
+* 15 Department store tokens (5 colors): 3 per player color
+* 80 Track markers (5 colors): 16 per player color
+* 5 Player screens (5 colors) to hide customers during gameplay
 
 ## How to Play
 
@@ -62,6 +68,7 @@ For each player:
 |       2      |    8   |      3      |  16   |
 |       3      |    7   |      2      |  13   |
 |       4      |    6   |      2      |  10   |
+|       5      |    5   |      2      |   8   |
 
 ### Gameplay
 
@@ -75,7 +82,7 @@ Choose any two of the following actions (must be different actions):
 
 * **Build** Play a ward card and build a store at any empty station in that ward.
 * **Upgrade** Play a matching ward card and a matching customer to upgrade an existing store to a department store.
-* **Lure** Play a ward card and [lure customers](#luring-customers) from that ward to stores, following train tracks to connected stations.
+* **Move** Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
 * **Expand** Discard a single card and build new track that connects to one of your stores or to your existing track.
    Or discard 3 cards to build 2 connected segments of track
 * **Income** Draw hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. Your turn ends immediately after taking this action, even if you had one more action available.
@@ -101,7 +108,7 @@ Each station has a set of potential connections to other stations. Some stations
 There are 23 different cards – one for each ward (区 or _ku_) in Tokyo.
 There are multiple copies of each card based on the population of that ward.
 
-<img src="ku-cards/04-shinjuku.png" height="300px"/>
+<img src="ku-cards-rounded/04-shinjuku.png" height="300px"/>
 
 ## Customers
 
@@ -114,11 +121,11 @@ New customers are added randomly to the board each turn. To do this:
 * Place the customer token in the ward that matches the card
 
 Note that the customer is located in the ward, not in any particular station.
-Customers are not associated with a station until they are being lured.
+Customers are not associated with a station until they are being Moved.
 
-### Luring Customers
+### Moving Customers
 
-When you choose the action to lure customers to your store, do the following:
+When you choose the action to move customers to your store, do the following:
 
 1. Gather *all* of the customers in the ward that matches the card played
 2. Select their starting station within that ward
@@ -161,6 +168,7 @@ When a new department store is created, a burst of new customers appears on the 
 |       2      |         4          |
 |       3      |         4          |
 |       4      |         3          |
+|       5      |         3          |
 
 ## Wildcards
 
