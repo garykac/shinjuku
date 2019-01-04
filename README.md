@@ -5,9 +5,9 @@
 Shinjuku is a board game where you build department stores in Tokyo and the rail lines to connect them
 so that customers can get to your stores.
 
-**STATUS: Work in Progress. Rules are stable. Currently in playtest.**
+**STATUS: Rules are stable. Continuing playtests.**
 
-* [One page overview (pdf)](docs/shinjuku_onepage.pdf)
+* [Sell sheet (1-page overview for publishers) (pdf)](docs/shinjuku_sellsheet.pdf)
 
 * Rules:
 	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
