@@ -1,5 +1,10 @@
 # Playtest Notes
 
+[Playtest #24 - Thu 17 Jan 2019](2019-01-17-playtest-24.md)
+
+* 3 player: GK JB SR
+* Testing: Paris map; Thief expansion; Flash Mob expansion
+
 [Playtest #23 - Fri 12 Oct 2018](2018-10-12-playtest-23.md)
 
 * 3 player: GK JB SR
