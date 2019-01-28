@@ -21,6 +21,10 @@ so that customers can get to your stores.
 	* [Kaiju Expansion (pdf)](docs/shinjuku_x_kaiju.pdf)
 	* [Thief Expansion (pdf)](docs/shinjuku_x_thief.pdf)
 
+* Alternate Maps
+	* [Paris](paris/paris-map.png)
+	* [London](london/london-map.png)
+
 * Game Development
 	* [Playtest notes](playtests/playtests.md)
 	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
