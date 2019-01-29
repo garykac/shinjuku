@@ -1,0 +1,15 @@
+
+Tokyo
+	23 regions (ku, wards)
+	43 stations (12 dept store sites in 9 regions)
+	71 connections
+
+Paris
+	20 regions (arrondissements)
+	47 stations (12 dept store sites in 9 regions)
+	79 connections
+
+London
+	18 regions (17 boroughs + city)
+	50 stations (12 dept store sites in 8 regions)
+	77 connections
