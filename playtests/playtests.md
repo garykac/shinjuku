@@ -1,5 +1,10 @@
 # Playtest Notes
 
+[Playtest #25 - Fri 18 Jan 2019](2019-01-18-playtest-25.md)
+
+* 5 player: GK JB SR SH LR
+* Testing: New customer draw rule; Not discarding before free income draws
+
 [Playtest #24 - Thu 17 Jan 2019](2019-01-17-playtest-24.md)
 
 * 3 player: GK JB SR
