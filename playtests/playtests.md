@@ -1,5 +1,10 @@
 # Playtest Notes
 
+[Playtest #26 - Wed 30 Jan 2019](2019-01-30-playtest-26.md)
+
+* 5 player: JB SR SH OC
+* Testing: New customer draw rule; 1 action first turn; Chaiman; Paris map
+
 [Playtest #25 - Fri 18 Jan 2019](2019-01-18-playtest-25.md)
 
 * 5 player: GK JB SR SH LR
