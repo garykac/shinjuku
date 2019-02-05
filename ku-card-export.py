@@ -99,7 +99,7 @@ _london = [
 	"greenwich",
 	"hackney",
 	"hammersmith",
-	"haringsey",
+	"haringey",
 	"islington",
 	"kensington",
 	"lambeth",
