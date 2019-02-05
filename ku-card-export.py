@@ -20,7 +20,7 @@
 #   * Item with id = layer_name + "_title" (e.g.: "01-chiyoda-title")
 # The "map-border-rect" will automatically be shown for each ward card.
 #
-# For card back:
+# For card back (if present):
 # * Layer "Card back"
 #   * Rect id = "card-back"
 #
@@ -31,8 +31,8 @@
 # Note that the layer names are not required, but the svg ids must be set correctly.
 
 # To export:
-# * Cards for use in documentation, export the "cut-line"
-# * Cards for sending to be printed, export to "mpc-bbox"
+# * Cards for use in documentation, export id = "cut-line"
+# * Cards for sending to be printed, export id = "mpc-bbox"
 
 import os
 import subprocess
@@ -90,6 +90,28 @@ _arr = [
 	"20-menilmontant",
 ]
 
+# London boroughs (subset that appear in the game)
+_london = [
+	"barnet",
+	"brent",
+	"camden",
+	"city",  # Not really a borough
+	"greenwich",
+	"hackney",
+	"hammersmith",
+	"haringsey",
+	"islington",
+	"kensington",
+	"lambeth",
+	"lewisham",
+	"newham",
+	"southwark",
+	"tower-hamlets",
+	"waltham-forest",
+	"wandsworth",
+	"westminster",
+]
+
 # svg: Name of svg file
 # layer_object_name: Id of an object in the layer.
 #    Note: Not the id of the layer.
@@ -98,7 +120,7 @@ def show_layer(svg, layer_object_name):
 	subprocess.call([
 		"/Applications/Inkscape.app/Contents/Resources/bin/inkscape",
 		"--file=%s" % os.path.abspath(os.path.join('', svg)),
-		#"--without-gui",
+		#"--without-gui",  # Inkscape crashes when this is set here.
 		
 		# Select object in layer (don't select the layer directly).
 		"--select=%s" % layer_object_name,
@@ -170,11 +192,12 @@ def export_png(dir, basename, wards, export_id, has_back):
 
 # Tokyo	
 #export_png('.', 'ku-cards', _wards, "cut-line", True)
-# Cards with transparent rounded border.
+# Cards with transparent rounded border (for documentation).
 #export_png('.', 'ku-cards-rounded', _wards, "cut-line", True)
 
-
 # Paris
-#export_png('paris', 'arr-cards', _arr, "cut-line", True)
-# Export with MPC size (including bleed).
-export_png('paris', 'arr-cards', _arr, "mpc-bbox", False)
+#export_png('paris', 'arr-cards', _arr, "cut-line", False)
+#export_png('paris', 'arr-cards', _arr, "mpc-bbox", False)
+
+# London
+export_png('london', 'london-cards', _london, "mpc-bbox", False)
