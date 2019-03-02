@@ -74,20 +74,20 @@ There are 4 kinds of stores:
 * △ produce books
 * ⭒ produce electronics
 
-A department store can produce any one of these good.
+A department store can produce any one of these goods.
 
 ### Customers
 
-There are 60 customers. They are stored in a bag so that they can be drawn at random.
+There are a total of 60 customers. They are stored in a bag so that they can be drawn at random.
 
 <img src="components/customer-types.png" height="40px"/>
 
 The 4 customer types match the store types.
 
-* ◯ customers want food (_most common customer type_)
-* ⤫ customers want clothing
-* △ customers want books
-* ⭒ customers want electronics (_least common customer type_)
+* ◯ customers want food (18 - _most common customer type_)
+* ⤫ customers want clothing (16)
+* △ customers want books (14)
+* ⭒ customers want electronics (12 - _least common customer type_)
 
 ### Gameplay
 
