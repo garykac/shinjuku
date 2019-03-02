@@ -84,10 +84,10 @@ There are a total of 60 customers. They are stored in a bag so that they can be 
 
 The 4 customer types match the store types.
 
-* ◯ customers want food (18 - _most common customer type_)
+* ◯ customers want food (19 - _most common customer type_)
 * ⤫ customers want clothing (16)
 * △ customers want books (14)
-* ⭒ customers want electronics (12 - _least common customer type_)
+* ⭒ customers want electronics (11 - _least common customer type_)
 
 ### Gameplay
 
