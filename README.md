@@ -2,7 +2,9 @@
 
 # Shinjuku
 
-Shinjuku is a board game where you build department stores in Tokyo and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.
+_Shinjuku_ is a strategic network-building and pick-up-and-deliver board game.
+
+In _Shinjuku_, you build department stores in Tokyo and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.
 
 **STATUS: Rules are stable. Continuing playtests.**
 
@@ -33,7 +35,7 @@ In **Shinjuku**, you manage a rail conglomerate in Tokyo. You need to build stor
 
 Every turn, new customers will arrive looking to purchase one of 4 different goods. If you have a store that sells those goods, then you might be able to move them to your store and earn them as a customer (=VP).
 
-* 2-5 players (recommended 3-4)
+* 2-4 players
 * 60 minutes
 * Ages 10+
 
@@ -42,7 +44,7 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
 
 ### Map
 
-Shinjuku is played on a map of central Tokyo:
+_Shinjuku_ is played on a map of central Tokyo:
 
 ![](tokyo-map.png)
 
@@ -91,6 +93,10 @@ The 4 customer types match the store types.
 
 ### Gameplay
 
+#### Initial Setup
+
+Select the appropriate number of player pieces (based on the total number of players) and then draw 5 cards into your hand.
+
 #### Place a Customer
 
 At the start of your turn, place a customer at random on the map:
@@ -106,14 +112,37 @@ Customers are not associated with a station until they are being **Move**d.
 Choose any two of the following actions (must be different actions):
 
 * **Build Store** : Play a ward card and build a store at any empty station in that ward.
-* **Upgrade Store** : Play a matching ward card and sacrifice one of your matching customer to upgrade an existing store to a department store.
-* **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
 * **Expand Track** : Build a single piece of track anywhwere on the map. Or play a wildcard to build 2 connected segments of track
-* **Draw Income** : Discard as many (or as few) cards as you like and then draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. Your turn ends immediately after taking this action, even if you had one more action available.
+* **Upgrade Store** : Play a matching ward card and sacrifice one of your matching customers to upgrade an existing store to a department store.
+* **Draw Income** : Discard as many (or as few) cards as you like and then draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
+* **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
+
+### Moving Customers
+
+The **Move** action is the most important action in _Shinjuku_ because it is the only way to gain customers (which are needed to win the game).
+
+When you choose the **Move** action, do the following:
+
+1. Gather _all_ of the customers in the ward that matches the card played
+2. Select their starting station within that ward
+3. Satisfy customers that match the shops in that station
+   * A single shop can satisfy a single customer that matches the shop type
+   * A department store can satisfy any single customer.
+4. Optionally, move all unsatisfied customers to another connected station and then repeat steps 3 & 4.
+
+When customers are satisfied, their token is given to the player who owns the store. These customer tokens are used in endgame scoring.
+
+If there is a customer that matches the current shop, then you _must_ give a customer to that store. If multiple customers match, then you choose which one to give. Each store (or dept store) may only take a single customer, even if more than one matches.
+
+If there are no customers that match the store (or if there is no store), then the customers just pass through that station and continue to the next station.
+
+You _must_ end your train journey on a station with a store that satisfies at least one customer.
+
+Any remaining unsatisfied customers are moved into the ward that contains the final station.
 
 ### Wildcards
 
-You can play a wildcard to match any card. There are no explicit "wildcard" cards in **Shinjuku**, but you can create wildcards during gameplay:
+You can play a wildcard to match any card. There are no explicit "wildcard" cards in _Shinjuku_, but you can create wildcards during gameplay:
 
 #### ... from cards
 
@@ -133,29 +162,6 @@ When the last customer is drawn and placed on the map, that player completes the
 
 Remove the customer type that you have the most of and then count all the remaining customers. Each customer is worth 1 VP.
 
-
-## Moving Customers
-
-The Move action is the most important action in **Shinjuku** because it is the only way to gain customers (which are needed to win the game).
-
-When you choose the Move action, do the following:
-
-1. Gather *all* of the customers in the ward that matches the card played
-2. Select their starting station within that ward
-3. Satisfy customers that match the shops in that station
-   * A single shop can satisfy a single customer that matches the shop type
-   * A department store can satisfy any single customer.
-4. Optionally, move all unsatisfied customers to another connected station and then repeat steps 3 & 4.
-
-When customers are satisfied, their token is given to the player who owns the store. These customer tokens are used in endgame scoring.
-
-If there is a customer that matches the current shop, then you *must* give a customer to that store. If multiple customers match, then you choose which one to give. Each store (or dept store) may only take a single customer, even if more than one matches.
-
-If there are no customers that match the store (or if there is no store), then they all just pass that station by and continue to the next station.
-
-You *must* end your train journey on a station with a store that satisfies at least one customer.
-
-Any remaining unsatisfied customers are moved into the ward that contains the final station.
 
 
 ![Train Car](images/train-car-6.png)
