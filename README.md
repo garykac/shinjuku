@@ -61,22 +61,26 @@ There are 72 cards and each card identifies a single ward on the map.
 <img src="ku-cards-rounded/04-shinjuku.png" height="200px"/> <img src="ku-cards-rounded/03-minato.png" height="200px"/> <img src="ku-cards-rounded/12-setagaya.png" height="200px"/> <img src="ku-cards-rounded/06-taito.png" height="200px"/>
 
 
-There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this info is important later).
+There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
 ### Player Pieces
 
-Each player has a set of stores and track available (the exact number varies based on the number of players).
+Each player has a set of stores, department stores, and track available (the exact number varies based on the number of players).
 
-<img src="components/player.png" height="140px"/>
+<img src="components/player.png" height="157px"/>
 
 There are 4 kinds of stores:
 
-* ◯ produce food
-* ⤫ produce clothing
-* △ produce books
-* ⭒ produce electronics
+| | |
+| --- | --- |
+| <img src="components/icons/food.png" height="30px"/> | sells Food |
+| <img src="components/icons/clothing.png" height="30px"/> | sells Clothing |
+| <img src="components/icons/books.png" height="30px"/> | sells Books |
+| <img src="components/icons/electronics.png" height="30px"/> | sells Electronics |
 
-A department store can produce any one of these goods.
+A department store sells all of these goods.
+
+_(Note: Early prototypes used different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
 
 ### Customers
 
@@ -84,12 +88,14 @@ There are a total of 60 customers. They are stored in a bag so that they can be 
 
 <img src="components/customer-types.png" height="40px"/>
 
-The 4 customer types match the store types.
+The 4 customer types match the store types:
 
-* ◯ customers want food (19 - _most common customer type_)
-* ⤫ customers want clothing (16)
-* △ customers want books (14)
-* ⭒ customers want electronics (11 - _least common customer type_)
+| | | |
+| --- | --- | --- |
+| <img src="components/customers/food.png" height="30px"/> | 19 customers want Food | <img src="components/customers/food-19.png" height="30px"/> 
+| <img src="components/customers/clothing.png" height="30px"/> | 16 customers want Clothing | <img src="components/customers/clothing-16.png" height="30px"/> |
+| <img src="components/customers/books.png" height="30px"/> | 14 customers want Books | <img src="components/customers/books-14.png" height="30px"/> |
+| <img src="components/customers/electronics.png" height="30px"/> | 11 customers want Electronics | <img src="components/customers/electronics-11.png" height="30px"/> |
 
 ### Gameplay
 
