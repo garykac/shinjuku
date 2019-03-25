@@ -52,14 +52,13 @@ The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Jap
 
 Each region contains 1 or more train stations and these stations have lines that identify potential connections to other stations.
 
-Some stations have an icon <img src="images/dept-store-icon.png" height="20px"/> indicating that stores built there can be upgraded to a department store.
+Some stations have an icon <img src="images/dept-store-icon.png" height="20px"/> and a double-outline indicating that stores built there can be upgraded to a department store.
 
 ### Cards
 
 There are 72 cards and each card identifies a single ward on the map.
 
 <img src="ku-cards-rounded/04-shinjuku.png" height="200px"/> <img src="ku-cards-rounded/03-minato.png" height="200px"/> <img src="ku-cards-rounded/12-setagaya.png" height="200px"/> <img src="ku-cards-rounded/06-taito.png" height="200px"/>
-
 
 There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
