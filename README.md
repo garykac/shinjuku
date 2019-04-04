@@ -79,7 +79,7 @@ There are 4 kinds of stores:
 
 A department store sells all of these goods.
 
-_(Note: Early prototypes used different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
+_(Note: Current prototypes use different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
 
 ### Customers
 
