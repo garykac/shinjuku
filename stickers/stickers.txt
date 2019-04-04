@@ -20,16 +20,16 @@ star
 	per color: 2 (x4 = 8)
 
 
-1 complete set:
+1 complete set (4 colors):
 	60 + 32 = 92
 	+1 for Hachiko = 93
 
 
-2 sets per sheet:
+2 sets per sheet (4 colors):
 	60 + 32 = 92 x 2sets = 184    (30 missing)
 
 
-1.5 sets per sheet:
+1.5 sets per sheet (4 colors):
 	60 + 30 = 90
 	32 + 16 = 48
 	        = 138 total  (16 extra)
@@ -43,6 +43,24 @@ star
 		cross = 3 per color (x4 = 12)
 		triangle = 3 per color (x4 = 12)
 		star = 3 per color (x4 = 12)
+
+	9 rows for 1 set = 93 (60 + 32 + 1 hachiko + 6 missing)
+		circle:   19
+		cross:    16
+		triangle: 14
+		star:     11
+		hachiko:   1
+		32 stores (4 colors x 4 stores x 2)
+	
+	5 rows for 1/2 set = 55 (32 + 16 + 1 hachiko + 6 extra)
+		circle:   9.5 + 0.5 = 10
+		cross:    8   + 0   = 8
+		triangle: 7   + 0   = 7
+		star:     5.5 + 0.5 = 6
+		hachiko:  1
+		16 stores (4 colors x 4 stores)
+
+1.5 sets per sheet (5 colors):
 
 	9 rows for 1 set = 99 (60 + 40 + 1 hachiko - 2 missing)
 		circle:   19
@@ -79,7 +97,7 @@ Yellow
 Other colors:
 Black: (55,55,55,100)
 Brown: (4,80,86,60)
-Gray: (22,20,40,30)
+Gray: (22,20,40,30) rgb 140,142,107
 Natural: (11,25,40,0)
 Pink: (0,70,13,13)
 Purple: (22,74,7,52)
