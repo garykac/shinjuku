@@ -18,7 +18,7 @@
    height="194.39999"
    viewBox="0 0 329.39999 194.39999"
    sodipodi:docname="card.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/docs/card-front.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/docs/card-back.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -73,12 +73,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.4279836"
-     inkscape:cx="108.54325"
+     inkscape:cx="163.32121"
      inkscape:cy="100.6178"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g5668"
      inkscape:snap-global="false" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -464,7 +464,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Train"
-     style="display:inline"><flowRoot
+     style="display:none"><flowRoot
        xml:space="preserve"
        id="flowRoot9438"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
@@ -1760,8 +1760,8 @@
            width="3.7680895"
            id="rect9531"
            style="display:inline;opacity:1;fill:#e3e6de;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g></g></g><g
-     style="display:none"
-     inkscape:label="Back copy"
+     style="display:inline"
+     inkscape:label="Back"
      id="g5096"
      inkscape:groupmode="layer"><flowRoot
        transform="translate(-328.14114,12.799637)"
@@ -2855,7 +2855,7 @@
                x="357.14285"
                y="30" /></flowRegion><flowPara
              id="flowPara5110"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:139.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans Bold';text-align:start;text-anchor:start">2-5</flowPara></flowRoot><g
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:139.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans Bold';text-align:start;text-anchor:start">2-4</flowPara></flowRoot><g
            id="g5112"
            transform="matrix(0.5,0,0,0.5,7.3069077,66.865182)"><path
              transform="matrix(0.57443064,0,0,0.57443064,25.834527,102.2284)"
