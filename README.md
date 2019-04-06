@@ -83,7 +83,7 @@ _(Note: Current prototypes use different symbols: ◯=food, ⤫=clothing, △=bo
 
 ### Customers
 
-There are a total of 60 customers. They are stored in a bag so that they can be drawn at random.
+There are a total of 52 customers. They are stored in a bag so that they can be drawn at random.
 
 <img src="components/customer-types.png" height="40px"/>
 
@@ -91,10 +91,10 @@ The 4 customer types match the store types:
 
 | | | |
 | --- | --- | --- |
-| <img src="components/customers/food.png" height="30px"/> | 19 customers want Food | <img src="components/customers/food-19.png" height="30px"/> 
-| <img src="components/customers/clothing.png" height="30px"/> | 16 customers want Clothing | <img src="components/customers/clothing-16.png" height="30px"/> |
-| <img src="components/customers/books.png" height="30px"/> | 14 customers want Books | <img src="components/customers/books-14.png" height="30px"/> |
-| <img src="components/customers/electronics.png" height="30px"/> | 11 customers want Electronics | <img src="components/customers/electronics-11.png" height="30px"/> |
+| <img src="components/customers/food.png" height="30px"/> | 17 customers want Food | <img src="components/customers/food-17.png" height="30px"/> 
+| <img src="components/customers/clothing.png" height="30px"/> | 14 customers want Clothing | <img src="components/customers/clothing-14.png" height="30px"/> |
+| <img src="components/customers/books.png" height="30px"/> | 12 customers want Books | <img src="components/customers/books-12.png" height="30px"/> |
+| <img src="components/customers/electronics.png" height="30px"/> | 9 customers want Electronics | <img src="components/customers/electronics-9.png" height="30px"/> |
 
 ### Gameplay
 
