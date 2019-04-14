@@ -1,9 +1,29 @@
 # Playtest Notes
 
+[Playtest #30-32 - Thu 2 Apr 2019](2019-04-02-playtest-30-32.md)
+
+* 2 and 3 player: KK+
+* Testing: New players; having someone else teach
+
+[Playtest #29 - Thu 21 Mar 2019](2019-03-21-playtest-29.md)
+
+* 3 player: KK JY GK
+* Testing: New players
+
+[Playtest #28 - Thu 21 Mar 2019](2019-03-21-playtest-28.md)
+
+* 5 player: AB KK SR CM JB
+* Testing: 2 new players; 5 players; placing all drawn customers into same location
+
+[Playtest #27 - Fri 1 Mar 2019](2019-03-01-playtest-27.md)
+
+* 3 player: JP JM GK
+* Testing: New players; drawing 2 customers after 3rd dept store
+
 [Playtest #26 - Wed 30 Jan 2019](2019-01-30-playtest-26.md)
 
 * 5 player: JB SR SH OC
-* Testing: New customer draw rule; 1 action first turn; Chaiman; Paris map
+* Testing: New customer draw rule; 1 action first turn; Chairman; Paris map
 
 [Playtest #25 - Fri 18 Jan 2019](2019-01-18-playtest-25.md)
 
