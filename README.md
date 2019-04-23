@@ -15,7 +15,7 @@ In _Shinjuku_, you build department stores in Tokyo and the rail lines to connec
 	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
 * Mini-Expansions:
-	* [Chairman](docs/shinjuku_x_chairman.pdf), [Empress](docs/shinjuku_x_empress.pdf), [Flash Mob](docs/shinjuku_x_flash_mob.pdf), [Hachiko](docs/shinjuku_x_hachiko.pdf), [Kaiju](docs/shinjuku_x_kaiju.pdf), [Thief](docs/shinjuku_x_thief.pdf)
+	* Thief, Chairman, Hachiko, Kaiju. [Rules for Expansions (pdf)](docs/shinjuku_expansions.pdf)
 
 * Alternate Maps
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
@@ -112,6 +112,8 @@ At the start of your turn, place a customer at random on the map:
 Note that the customer is located in the ward, not in any particular station.
 Customers are not associated with a station until they are being **Move**d.
 
+Once three department stores have been built, you will place 2 customers (in the same location) at the start of your turn.
+
 #### Take Two Actions
 
 Choose any two of the following actions (must be different actions):
@@ -166,7 +168,6 @@ When the last customer is drawn and placed on the map, that player completes the
 ### Endgame Scoring
 
 Remove the customer type that you have the most of and then count all the remaining customers. Each customer is worth 1 VP.
-
 
 
 ![Train Car](images/train-car-6.png)
