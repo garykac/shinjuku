@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="506.3007"
-     inkscape:cy="147.5154"
+     inkscape:cx="169.9199"
+     inkscape:cy="389.95201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -202,444 +202,544 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       id="g6106"
-       transform="translate(340,320)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food-17.png"
+       id="g4948"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-17.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
-         height="100%"
-         width="100%"
-         transform="translate(300,-226.0401)"
-         id="use6072"
-         xlink:href="#g5350"
-         y="0"
-         x="0" />
-      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5350"
-         id="use6074"
-         transform="translate(280,-226.0401)"
+         xlink:href="#g4681"
+         id="use4786"
+         transform="translate(640,-46.0401)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(260,-226.0401)"
-         id="use6076"
-         xlink:href="#g5350"
+         transform="translate(620,-46.0401)"
+         id="use4784"
+         xlink:href="#g4681"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5350"
-         id="use6078"
-         transform="translate(240,-226.0401)"
+         xlink:href="#g4681"
+         id="use4782"
+         transform="translate(600,-46.0401)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(220,-226.0401)"
-         id="use6080"
-         xlink:href="#g5350"
+         transform="translate(580,-46.0401)"
+         id="use4780"
+         xlink:href="#g4681"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5350"
-         id="use6082"
-         transform="translate(200,-226.0401)"
+         xlink:href="#g4681"
+         id="use4778"
+         transform="translate(560,-46.0401)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(180,-226.0401)"
+         transform="translate(540,-46.0401)"
+         id="use4719"
+         xlink:href="#g4681"
+         y="0"
+         x="0" />
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(520,93.9599)"
          id="use6084"
          xlink:href="#g5350"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5350"
          id="use6086"
-         transform="translate(160,-226.0401)"
+         transform="translate(500,93.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(140,-226.0401)"
+         transform="translate(480,93.9599)"
          id="use6088"
          xlink:href="#g5350"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5350"
          id="use6090"
-         transform="translate(120,-226.0401)"
+         transform="translate(460,93.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(100,-226.0401)"
+         transform="translate(440,93.9599)"
          id="use6092"
          xlink:href="#g5350"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5350"
          id="use6094"
-         transform="translate(80,-226.0401)"
+         transform="translate(420,93.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(60,-226.0401)"
+         transform="translate(400,93.9599)"
          id="use6096"
          xlink:href="#g5350"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5350"
          id="use6098"
-         transform="translate(40,-226.0401)"
+         transform="translate(380,93.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(20,-226.0401)"
+         transform="translate(360,93.9599)"
          id="use6100"
          xlink:href="#g5350"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5350"
          id="use6102"
-         transform="translate(0,-226.0401)"
+         transform="translate(340,93.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-20,-226.0401)"
+         transform="translate(320,93.9599)"
          id="use6104"
          xlink:href="#g5350"
          y="0"
          x="0" />
     </g>
     <g
-       id="g6161"
-       transform="translate(339.29721,372.92808)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/clothing-14.png"
+       id="g4967"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-14.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(180.70279,-218.96818)"
-         id="use6131"
-         xlink:href="#g5331"
+         transform="translate(520,13.9599)"
+         id="use4776"
+         xlink:href="#g4708"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5331"
-         id="use6133"
-         transform="translate(160.70279,-218.96818)"
+         xlink:href="#g4708"
+         id="use4774"
+         transform="translate(500,13.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(140.70279,-218.96818)"
-         id="use6135"
-         xlink:href="#g5331"
+         transform="translate(480,13.9599)"
+         id="use4772"
+         xlink:href="#g4708"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5331"
-         id="use6137"
-         transform="translate(120.70279,-218.96818)"
+         xlink:href="#g4708"
+         id="use4770"
+         transform="translate(460,13.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(100.70279,-218.96818)"
-         id="use6139"
-         xlink:href="#g5331"
+         transform="translate(440,13.9599)"
+         id="use4717"
+         xlink:href="#g4708"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5331"
          id="use6141"
-         transform="translate(80.70279,-218.96818)"
+         transform="translate(420,153.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(60.70279,-218.96818)"
+         transform="translate(400,153.9599)"
          id="use6143"
          xlink:href="#g5331"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5331"
          id="use6145"
-         transform="translate(40.70279,-218.96818)"
+         transform="translate(380,153.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(20.70279,-218.96818)"
+         transform="translate(360,153.9599)"
          id="use6147"
          xlink:href="#g5331"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5331"
          id="use6149"
-         transform="translate(0.70279,-218.96818)"
+         transform="translate(340,153.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-19.29721,-218.96818)"
+         transform="translate(320,153.9599)"
          id="use6151"
          xlink:href="#g5331"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5331"
          id="use6153"
-         transform="translate(-39.29721,-218.96818)"
+         transform="translate(300,153.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-59.29721,-218.96818)"
+         transform="translate(280,153.9599)"
          id="use6157"
          xlink:href="#g5331"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5331"
          id="use6159"
-         transform="translate(-79.29721,-218.96818)"
+         transform="translate(260,153.9599)"
          width="100%"
          height="100%" />
     </g>
     <g
-       id="g6208"
-       transform="translate(340.51041,445.85616)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/books-12.png"
+       id="g4983"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-12.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
-         height="100%"
-         width="100%"
-         transform="translate(79.48959,-231.89626)"
-         id="use6183"
-         xlink:href="#g5312"
-         y="0"
-         x="0" />
-      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5312"
-         id="use6185"
-         transform="translate(59.48959,-231.89626)"
+         xlink:href="#g4659"
+         id="use4768"
+         transform="translate(420,73.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(39.48959,-231.89626)"
-         id="use6187"
-         xlink:href="#g5312"
+         transform="translate(400,73.9599)"
+         id="use4766"
+         xlink:href="#g4659"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5312"
-         id="use6189"
-         transform="translate(19.48959,-231.89626)"
+         xlink:href="#g4659"
+         id="use4764"
+         transform="translate(380,73.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-0.51041,-231.89626)"
+         transform="translate(360,73.9599)"
+         id="use4705"
+         xlink:href="#g4659"
+         y="0"
+         x="0" />
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(340,213.9599)"
          id="use6191"
          xlink:href="#g5312"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5312"
          id="use6193"
-         transform="translate(-20.51041,-231.89626)"
+         transform="translate(320,213.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-40.51041,-231.89626)"
+         transform="translate(300,213.9599)"
          id="use6195"
          xlink:href="#g5312"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5312"
          id="use6197"
-         transform="translate(-60.51041,-231.89626)"
+         transform="translate(280,213.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-80.51041,-231.89626)"
+         transform="translate(260,213.9599)"
          id="use6199"
          xlink:href="#g5312"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5312"
          id="use6201"
-         transform="translate(-100.51041,-231.89626)"
+         transform="translate(240,213.9599)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-120.51041,-231.89626)"
+         transform="translate(220,213.9599)"
          id="use6203"
          xlink:href="#g5312"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5312"
          id="use6205"
-         transform="translate(-140.51041,-231.89626)"
+         transform="translate(200,213.9599)"
          width="100%"
          height="100%" />
     </g>
     <g
-       id="g6246"
-       transform="translate(340.51041,178.78425)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/electronics-9.png"
+       id="g4997"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-9.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-40.51041,95.17566)"
-         id="use6228"
-         xlink:href="#g5293"
+         transform="translate(300,133.95991)"
+         id="use4690"
+         xlink:href="#g4669"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
-         xlink:href="#g5293"
-         id="use6230"
-         transform="translate(-60.51041,95.17566)"
+         xlink:href="#g4669"
+         id="use4701"
+         transform="translate(280,133.95991)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-80.51041,95.17566)"
-         id="use6232"
-         xlink:href="#g5293"
+         transform="translate(260,133.95991)"
+         id="use4703"
+         xlink:href="#g4669"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5293"
          id="use6234"
-         transform="translate(-100.51041,95.17566)"
+         transform="translate(240,273.95991)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-120.51041,95.17566)"
+         transform="translate(220,273.95991)"
          id="use6236"
          xlink:href="#g5293"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5293"
          id="use6238"
-         transform="translate(-140.51041,95.17566)"
+         transform="translate(200,273.95991)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-160.51041,95.17566)"
+         transform="translate(180,273.95991)"
          id="use6240"
          xlink:href="#g5293"
          y="0"
          x="0" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          x="0"
          y="0"
          xlink:href="#g5293"
          id="use6242"
-         transform="translate(-180.51041,95.17566)"
+         transform="translate(160,273.95991)"
          width="100%"
          height="100%" />
       <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(-200.51041,95.17566)"
+         transform="translate(140,273.95991)"
          id="use6244"
          xlink:href="#g5293"
          y="0"
@@ -757,19 +857,23 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(310,10)"
+       transform="translate(310,26)"
        id="use6388"
        xlink:href="#g5451"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        height="100%"
        width="100%"
-       transform="translate(316,10)"
+       transform="translate(316,26)"
        id="use6390"
        xlink:href="#g5421"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -777,15 +881,19 @@
        id="use6370"
        transform="translate(300,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        height="100%"
        width="100%"
-       transform="translate(322,10)"
+       transform="translate(322,26)"
        id="use6392"
        xlink:href="#g5391"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -793,7 +901,9 @@
        id="use6372"
        transform="translate(306,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -801,7 +911,9 @@
        id="use6374"
        transform="translate(312,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#303030;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6406"
@@ -841,11 +953,13 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(328,10)"
+       transform="translate(328,26)"
        id="use6426"
        xlink:href="#g5263"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -853,10 +967,15 @@
        id="use6424"
        transform="translate(318,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        id="g7106"
-       transform="translate(0,200)">
+       transform="translate(0,60)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -1058,19 +1177,23 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(309.99999,10)"
+       transform="translate(309.99999,26)"
        id="use6575"
        xlink:href="#g5481"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        height="100%"
        width="100%"
-       transform="translate(316,10)"
+       transform="translate(316,26)"
        id="use6577"
        xlink:href="#g5511"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -1078,15 +1201,19 @@
        id="use6567"
        transform="translate(299.99999,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        height="100%"
        width="100%"
-       transform="translate(322,10)"
+       transform="translate(322,26)"
        id="use6579"
        xlink:href="#g5541"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -1094,15 +1221,19 @@
        id="use6569"
        transform="translate(306,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        height="100%"
        width="100%"
-       transform="translate(328,10)"
+       transform="translate(328,26)"
        id="use6581"
        xlink:href="#g5570"
        y="0"
-       x="0" />
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -1110,7 +1241,9 @@
        id="use6571"
        transform="translate(312,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <use
        x="0"
        y="0"
@@ -1118,7 +1251,9 @@
        id="use6573"
        transform="translate(318,0)"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        style="display:inline"
        id="g5598"
@@ -1416,8 +1551,8 @@
     <g
        style="display:inline"
        id="g6913"
-       transform="translate(-347.95136,-201.96887)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       transform="translate(-347.95136,-185.96887)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1456,7 +1591,7 @@
        transform="translate(-357.95136,-211.96887)"
        id="g6817"
        style="display:inline"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1493,8 +1628,10 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-347.95136,-121.96887)"
-       id="g6961">
+       transform="translate(-347.95136,-105.96887)"
+       id="g6961"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6963"
@@ -1529,8 +1666,10 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-281.95135,-54.44805)"
-       id="g6973">
+       transform="translate(-281.95135,-38.44805)"
+       id="g6973"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6975"
@@ -1566,8 +1705,10 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(459.09716,350.67725)"
-       id="g6985">
+       transform="translate(459.09716,366.67725)"
+       id="g6985"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6987"
@@ -1604,7 +1745,9 @@
     <g
        id="g6829"
        transform="translate(-357.95136,-131.96887)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="22.5"
          cy="731.36346"
@@ -1639,8 +1782,10 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(525.09716,418.19815)"
-       id="g6997">
+       transform="translate(525.09716,434.19815)"
+       id="g6997"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6999"
@@ -1677,7 +1822,9 @@
     <g
        id="g6841"
        transform="translate(-291.95135,-64.44805)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="22.5"
          cy="663.84265"
@@ -1714,7 +1861,9 @@
     <g
        id="g6853"
        transform="translate(449.09716,340.67725)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="22.5"
          cy="258.71735"
@@ -1751,7 +1900,9 @@
     <g
        id="g6865"
        transform="translate(515.09716,408.19815)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="22.5"
          cy="191.19644"
@@ -1788,8 +1939,8 @@
     <g
        style="display:inline"
        id="g6925"
-       transform="translate(525.09716,338.19815)"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       transform="translate(525.09716,354.19815)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-8.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1829,7 +1980,7 @@
        transform="translate(515.09716,328.19815)"
        id="g6877"
        style="display:inline"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1867,9 +2018,9 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(459.09716,270.67725)"
+       transform="translate(459.09716,286.67725)"
        id="g6937"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-7.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1909,7 +2060,7 @@
        id="g6889"
        transform="translate(449.09716,260.67725)"
        style="display:inline"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1947,9 +2098,9 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-281.95135,-134.44805)"
+       transform="translate(-281.95135,-118.44805)"
        id="g6949"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -1989,7 +2140,7 @@
        id="g6901"
        transform="translate(-291.95135,-144.44805)"
        style="display:inline"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g6901.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/blue-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <circle
@@ -2225,7 +2376,10 @@
     </g>
     <g
        id="g7113"
-       transform="translate(0,280)">
+       transform="translate(0,200)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2278,8 +2432,11 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(0,360)"
-       id="g7125">
+       transform="translate(0,340)"
+       id="g7125"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2333,7 +2490,10 @@
     </g>
     <g
        id="g7137"
-       transform="translate(0,440)">
+       transform="translate(0,480)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2386,8 +2546,11 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(100,200)"
-       id="g7150">
+       transform="translate(100,60)"
+       id="g7150"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2441,7 +2604,10 @@
     </g>
     <g
        id="g7162"
-       transform="translate(200,200)">
+       transform="translate(60,120)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2494,8 +2660,11 @@
          y="-182.39461" />
     </g>
     <g
-       transform="translate(300,200)"
-       id="g7174">
+       transform="translate(160,120)"
+       id="g7174"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2509,7 +2678,10 @@
     </g>
     <g
        id="g7186"
-       transform="translate(100,360)">
+       transform="translate(100,340)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2562,8 +2734,11 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(200,360)"
-       id="g7198">
+       transform="translate(60,400)"
+       id="g7198"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2617,7 +2792,10 @@
     </g>
     <g
        id="g7210"
-       transform="translate(300,360)">
+       transform="translate(160,400)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2630,8 +2808,11 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(100,280)"
-       id="g7222">
+       transform="translate(100,200)"
+       id="g7222"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2684,8 +2865,11 @@
          y="-182.39461" />
     </g>
     <g
-       transform="translate(100,440)"
-       id="g7234">
+       transform="translate(100,480)"
+       id="g7234"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2739,7 +2923,10 @@
     </g>
     <g
        id="g7246"
-       transform="translate(200,280)">
+       transform="translate(60,260)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2793,7 +2980,10 @@
     </g>
     <g
        id="g7258"
-       transform="translate(200,440)">
+       transform="translate(60,540)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          y="-158.39461"
          x="820.87805"
@@ -2846,8 +3036,11 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(300,280)"
-       id="g7270">
+       transform="translate(160,260)"
+       id="g7270"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -2860,8 +3053,11 @@
          y="-158.39461" />
     </g>
     <g
-       transform="translate(300,440)"
-       id="g7282">
+       transform="translate(160,540)"
+       id="g7282"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-16.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          transform="scale(1,-1)"
          inkscape:export-ydpi="300"
@@ -3517,141 +3713,772 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccsssccc" />
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g5293"
-       id="use4629"
-       transform="translate(0,140)"
-       width="100%"
-       height="100%"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g5312"
-       id="use4631"
-       transform="translate(0,140)"
-       width="100%"
-       height="100%"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g5331"
-       id="use4633"
-       transform="translate(0,140)"
-       width="100%"
-       height="100%"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g5350"
-       id="use4635"
-       transform="translate(0,140)"
-       width="100%"
-       height="100%"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
     <g
-       id="g4651"
-       transform="matrix(0.8,0,0,0.8,44.287877,160.79055)"
+       id="g4681"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <circle
-         r="9.4642859"
-         cy="833.25507"
-         cx="32.32143"
-         id="path4637"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(525.14819,663.79582)"
-         xml:space="preserve"
-         id="flowRoot4784"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-           id="flowRegion4786"><rect
-             id="rect4788"
-             width="73.654579"
-             height="39.987968"
-             x="-529.60803"
-             y="165.17477" /></flowRegion><flowPara
-           id="flowPara4790"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>    </g>
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,140)"
+         id="use4635"
+         xlink:href="#g5350"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,44.287877,160.79055)"
+         id="g4651">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4637"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4784"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion4786"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect4788" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara4790">2</flowPara></flowRoot>      </g>
+    </g>
     <g
-       transform="matrix(0.8,0,0,0.8,104.28787,160.79053)"
-       id="g4658"
+       id="g4708"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4660"
-         cx="32.32143"
-         cy="833.25507"
-         r="9.4642859" />
-      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4662"
-         xml:space="preserve"
-         transform="translate(525.14819,663.79582)"><flowRegion
-           id="flowRegion4664"><rect
-             y="165.17477"
-             x="-529.60803"
-             height="39.987968"
-             width="73.654579"
-             id="rect4666" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
-           id="flowPara4668">2</flowPara></flowRoot>    </g>
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,140)"
+         id="use4633"
+         xlink:href="#g5331"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g4658"
+         transform="matrix(0.8,0,0,0.8,104.28787,160.79053)">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle4660"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(525.14819,663.79582)"
+           xml:space="preserve"
+           id="flowRoot4662"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4664"><rect
+               id="rect4666"
+               width="73.654579"
+               height="39.987968"
+               x="-529.60803"
+               y="165.17477" /></flowRegion><flowPara
+             id="flowPara4668"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+    </g>
     <g
-       id="g4670"
-       transform="matrix(0.8,0,0,0.8,164.28788,160.79054)"
+       id="g4659"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <circle
-         r="9.4642859"
-         cy="833.25507"
-         cx="32.32143"
-         id="circle4672"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         transform="translate(525.14819,663.79582)"
-         xml:space="preserve"
-         id="flowRoot4674"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-           id="flowRegion4676"><rect
-             id="rect4678"
-             width="73.654579"
-             height="39.987968"
-             x="-529.60803"
-             y="165.17477" /></flowRegion><flowPara
-           id="flowPara4680"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>    </g>
+      <g
+         id="g4649">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g5312"
+           id="use4631"
+           transform="translate(0,140)"
+           width="100%"
+           height="100%"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g4670"
+           transform="matrix(0.8,0,0,0.8,164.28788,160.79054)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <circle
+             r="9.4642859"
+             cy="833.25507"
+             cx="32.32143"
+             id="circle4672"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(525.14819,663.79582)"
+             xml:space="preserve"
+             id="flowRoot4674"
+             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               id="flowRegion4676"><rect
+                 id="rect4678"
+                 width="73.654579"
+                 height="39.987968"
+                 x="-529.60803"
+                 y="165.17477" /></flowRegion><flowPara
+               id="flowPara4680"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
+      </g>
+    </g>
     <g
-       transform="matrix(0.8,0,0,0.8,224.28788,160.79054)"
-       id="g4682"
+       id="g4669"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4684"
-         cx="32.32143"
-         cy="833.25507"
-         r="9.4642859" />
-      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4686"
-         xml:space="preserve"
-         transform="translate(525.14819,663.79582)"><flowRegion
-           id="flowRegion4688"><rect
-             y="165.17477"
-             x="-529.60803"
-             height="39.987968"
-             width="73.654579"
-             id="rect4690" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
-           id="flowPara4692">2</flowPara></flowRoot>    </g>
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,140)"
+         id="use4629"
+         xlink:href="#g5293"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g4682"
+         transform="matrix(0.8,0,0,0.8,224.28788,160.79054)">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle4684"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(525.14819,663.79582)"
+           xml:space="preserve"
+           id="flowRoot4686"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4688"><rect
+               id="rect4690"
+               width="73.654579"
+               height="39.987968"
+               x="-529.60803"
+               y="165.17477" /></flowRegion><flowPara
+             id="flowPara4692"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(280,60)"
+       id="g4788"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4790"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4792"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4794"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4796"
+         width="73.185555"
+         height="13.788582"
+         x="838.87805"
+         y="-176.39461" />
+      <rect
+         y="-182.39461"
+         x="844.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4798"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g4800"
+       transform="translate(380,60)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4802"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4804"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4806"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+      <rect
+         y="-176.39461"
+         x="838.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4808"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4810"
+         width="73.185555"
+         height="13.788582"
+         x="844.87805"
+         y="-182.39461" />
+    </g>
+    <g
+       transform="translate(340,120)"
+       id="g4812"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/yellow-track-13.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4814"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4816"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4818"
+         style="display:inline;opacity:1;fill:#f7e400;fill-opacity:1;fill-rule:evenodd;stroke:#b4a500;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       transform="translate(280,200)"
+       id="g4828"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4830"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4832"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4834"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+      <rect
+         y="-176.39461"
+         x="838.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4836"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4838"
+         width="73.185555"
+         height="13.788582"
+         x="844.87805"
+         y="-182.39461" />
+    </g>
+    <g
+       id="g4840"
+       transform="translate(280,340)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4842"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4844"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4846"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4848"
+         width="73.185555"
+         height="13.788582"
+         x="838.87805"
+         y="-176.39461" />
+      <rect
+         y="-182.39461"
+         x="844.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4850"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       transform="translate(280,480)"
+       id="g4852"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4854"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4856"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4858"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+      <rect
+         y="-176.39461"
+         x="838.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4860"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4862"
+         width="73.185555"
+         height="13.788582"
+         x="844.87805"
+         y="-182.39461" />
+    </g>
+    <g
+       transform="translate(380,340)"
+       id="g4864"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4866"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4868"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4870"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+      <rect
+         y="-176.39461"
+         x="838.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4872"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4874"
+         width="73.185555"
+         height="13.788582"
+         x="844.87805"
+         y="-182.39461" />
+    </g>
+    <g
+       id="g4876"
+       transform="translate(340,400)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-track-13.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4878"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4880"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4882"
+         style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g4892"
+       transform="translate(380,200)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4894"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4896"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4898"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4900"
+         width="73.185555"
+         height="13.788582"
+         x="838.87805"
+         y="-176.39461" />
+      <rect
+         y="-182.39461"
+         x="844.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4902"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g4904"
+       transform="translate(380,480)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-10.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="-158.39461"
+         x="820.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4906"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4908"
+         width="73.185555"
+         height="13.788582"
+         x="826.87805"
+         y="-164.39461" />
+      <rect
+         y="-170.39461"
+         x="832.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4910"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4912"
+         width="73.185555"
+         height="13.788582"
+         x="838.87805"
+         y="-176.39461" />
+      <rect
+         y="-182.39461"
+         x="844.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4914"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       transform="translate(340,260)"
+       id="g4916"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/green-track-13.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4918"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4920"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4922"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+    </g>
+    <g
+       transform="translate(340,540)"
+       id="g4928"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-track-13.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4930"
+         width="73.185555"
+         height="13.788582"
+         x="820.87805"
+         y="-158.39461" />
+      <rect
+         y="-164.39461"
+         x="826.87805"
+         height="13.788582"
+         width="73.185555"
+         id="rect4932"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline;opacity:1;fill:#e50500;fill-opacity:1;fill-rule:evenodd;stroke:#b30400;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4934"
+         width="73.185555"
+         height="13.788582"
+         x="832.87805"
+         y="-170.39461" />
+    </g>
   </g>
 </svg>
