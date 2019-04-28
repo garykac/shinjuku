@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 990 765"
+   id="svg4516"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="scoring-examples.svg">
+  <defs
+     id="defs4518" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="671.83394"
+     inkscape:cy="355.79024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata4521">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287.3622)">
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(197.09716,303.23996)"
+       id="g5293"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/electronics.png">
+      <circle
+         r="22.5"
+         cy="56.154633"
+         cx="45.047859"
+         id="circle6083-7"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccssscsssscsssscsssscsscccccccccccccccssssssssssssssssssccccc"
+         inkscape:connector-curvature="0"
+         id="use5297"
+         d="m 36.17715,48.90063 0,0.01172 c -3.69035,0.162618 -6.59924,3.200596 -6.60157,6.894531 7.1e-4,3.813608 3.09264,6.904669 6.90625,6.904297 2.16729,-0.0031 4.2074,-1.023525 5.50977,-2.75586 l 6.05664,0 c 1.3032,1.73343 3.34501,2.753973 5.51367,2.75586 3.81361,3.72e-4 6.90554,-3.090689 6.90625,-6.904297 -0.004,-3.696069 -2.9167,-6.734041 -6.60937,-6.892578 l 0,-0.01367 -0.29688,0 -17.08008,0 z m -0.71094,3.197266 2.0332,0 c 0.19196,0 0.34375,0.155696 0.34375,0.347656 l 0,1.998047 2.00196,0 c 0.19195,0 0.34765,0.155696 0.34765,0.347656 l 0,2.03125 c 0,0.19196 -0.1557,0.345703 -0.34765,0.345703 l -2.00196,0 0,2.001953 c 0,0.19196 -0.15179,0.347656 -0.34375,0.347656 l -2.0332,0 c -0.19196,0 -0.34766,-0.155695 -0.34766,-0.347656 l 0,-2.001953 -2,0 c -0.19197,0 -0.3457,-0.153743 -0.3457,-0.345703 l 0,-2.03125 c 0,-0.19196 0.15373,-0.347656 0.3457,-0.347656 l 2,0 0,-1.998047 c 0,-0.19196 0.1557,-0.347656 0.34766,-0.347656 z m 18.0957,0.03516 c 0.75305,-3.25e-4 1.36361,0.610227 1.36328,1.363281 -7.5e-4,0.752291 -0.61099,1.361653 -1.36328,1.361328 -0.75305,0.0014 -1.36448,-0.608275 -1.36523,-1.361328 -3.3e-4,-0.753816 0.61141,-1.364685 1.36523,-1.363281 z m -2.30859,2.310547 c 0.75229,7.52e-4 1.36166,0.610989 1.36133,1.363281 -7.5e-4,0.75153 -0.6098,1.360577 -1.36133,1.361328 -0.75306,0.0014 -1.36449,-0.608271 -1.36524,-1.361328 -3.3e-4,-0.75382 0.61142,-1.364691 1.36524,-1.363281 z m 4.61914,0 c 0.75305,-3.25e-4 1.36361,0.610227 1.36328,1.363281 -7.5e-4,0.752291 -0.61099,1.361653 -1.36328,1.361328 -0.75306,0.0014 -1.36449,-0.608271 -1.36524,-1.361328 -3.3e-4,-0.75382 0.61142,-1.364691 1.36524,-1.363281 z m -12.89649,1.935547 1.30274,0 c 0.12797,0 0.23242,0.104431 0.23242,0.232421 l 0,0.5 c 0,0.12797 -0.10444,0.230469 -0.23242,0.230469 l -1.30274,0 c -0.12798,0 -0.23242,-0.102439 -0.23242,-0.230469 l 0,-0.5 c 0,-0.12797 0.10443,-0.232421 0.23242,-0.232421 z m 2.78711,0 1.30469,0 c 0.12798,0 0.23047,0.104431 0.23047,0.232421 l 0,0.5 c 0,0.12797 -0.10243,0.230469 -0.23047,0.230469 l -1.30469,0 c -0.12797,0 -0.23242,-0.102439 -0.23242,-0.230469 l 0,-0.5 c 0,-0.12797 0.10443,-0.232421 0.23242,-0.232421 z m 7.79883,0.375 c 0.75229,-3.25e-4 1.36253,0.609037 1.36328,1.361328 3.3e-4,0.753054 -0.61023,1.363606 -1.36328,1.363281 -0.75382,0.0014 -1.36556,-0.609465 -1.36523,-1.363281 7.5e-4,-0.753053 0.61218,-1.362731 1.36523,-1.361328 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(137.09716,235.71906)"
+       id="g5312"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/books.png">
+      <circle
+         r="22.5"
+         cy="123.67554"
+         cx="45.047859"
+         id="circle6083-7-6"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="use5316"
+         d="m 43.22968,110.4379 c -0.0571,0.0205 -0.11421,0.0563 -0.1543,0.0977 l -11.57812,15.0625 c 0,0 -0.0819,0.16157 -0.17578,0.41602 -0.17023,0.46163 -0.35747,1.04328 -0.36133,1.77344 -0.006,1.12044 0.2222,1.69267 0.55664,2.49023 0.1097,0.33796 0.32185,0.50529 0.48633,0.58984 l 14.6582,4.80078 c 0.29088,0.0998 0.5446,0.0223 0.70899,-0.17773 l 10.90234,-14.29297 c 0.22995,-0.30643 0.25134,-0.76639 0.25474,-1.02932 0.004,-0.30349 -0.23447,-0.66823 -0.47154,-0.48603 L 47.08124,134.0986 c -0.13276,0.18172 -0.35573,0.31706 -0.56445,0.25338 l -13.82227,-4.5 c -0.42041,-0.63228 -0.62405,-1.15648 -0.57226,-1.82057 0.0573,-0.85729 0.14472,-1.46379 0.62109,-2.13844 l 13.82032,4.61524 c 0.33299,0.10369 0.66536,0.0544 0.83593,-0.17774 l 10.95313,-14.3457 c 0.16598,-0.18451 0.0907,-0.52215 -0.25,-0.65625 L 43.38398,110.4379 c -0.041,-0.024 -0.0971,-0.0205 -0.1543,0 z m 4.67188,4.44531 1.87304,0.62305 c -0.25203,0.23945 -0.47631,0.51392 -0.83789,0.98632 l -0.5,0.65625 2.69531,0.89649 c 0.57002,0.18941 1.02479,0.31374 1.48243,0.39844 l -1.29688,1.69531 c -0.43027,-0.21032 -0.81009,-0.36305 -1.36914,-0.54883 l -1.93945,-0.64453 c -0.1669,0.84682 -0.19496,1.40342 -0.0879,2.17969 0.151,1.0602 0.472,1.88134 1.04492,2.67773 -0.79455,0.40932 -1.29757,0.7257 -2.15234,1.35742 -0.38931,-0.74885 -0.54558,-1.19121 -0.69922,-1.88867 l -0.74024,0.9668 c -0.32613,-0.14878 -0.63813,-0.27955 -1.05469,-0.41797 l -0.78906,-0.26367 -0.43554,0.57031 c -0.41088,0.53681 -0.75971,1.02596 -1.0254,1.46289 l -1.88476,-0.625 c 0.37255,-0.41488 0.77507,-0.88799 1.17773,-1.41406 l 0.43555,-0.56836 -0.71289,-0.23633 c -0.40559,-0.13478 -0.77149,-0.23149 -1.125,-0.30859 l 0.75586,-0.98633 c -1.09323,0.40433 -1.72452,0.5977 -2.71094,0.80859 0.26835,-0.85353 0.35438,-1.26901 0.35938,-1.88672 1.32071,-0.23448 2.51214,-0.60539 3.85742,-1.19531 0.948,-0.4122 1.49924,-0.70062 2.48828,-1.32812 l -1.77734,-0.58985 c -0.53713,-0.17849 -0.96846,-0.29688 -1.45899,-0.39258 l 1.29688,-1.69531 c 0.39739,0.19938 0.80857,0.36253 1.3457,0.54102 l 2.58789,0.85937 0.5,-0.6543 c 0.36158,-0.4724 0.54663,-0.74853 0.69728,-1.03515 z m -3.46289,4.7207 c -0.95342,0.59893 -1.67155,0.98101 -2.8086,1.47852 0.21924,0.0729 0.28511,0.0946 0.48242,0.16015 l 0.81055,0.26954 0.76563,-0.99805 c 0.25475,-0.33282 0.43772,-0.55606 0.75,-0.91016 z m 1.64062,0.53321 c -0.42456,0.62653 -0.50288,0.74717 -0.64258,0.92968 l -0.78125,1.01953 0.92188,0.30664 c 0.2302,0.0765 0.29543,0.0986 0.41601,0.13868 -0.077,-0.83359 -0.0536,-1.51167 0.0859,-2.39453 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       style="display:inline"
+       transform="matrix(1.1903525,0,0,-1.1903525,78.76462,797.6303)"
+       id="g5331"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/clothing.png">
+      <circle
+         r="18.901964"
+         cy="-368.15625"
+         cx="36.443321"
+         id="circle6083-7-6-0"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:2.52026176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(1,-1)" />
+      <path
+         sodipodi:nodetypes="csccsccccccsccscscccccccc"
+         inkscape:connector-curvature="0"
+         id="use5335"
+         d="m 32.948125,380.26115 c 0,0 -2.26764,-0.98973 -3.783804,-2.84918 -2.641016,-3.239 -4.070685,-10.97781 -4.070685,-10.97781 l 5.575735,-1.0419 c 0,0 0.09984,2.65741 0.484814,3.91594 0.07258,0.23723 0.23683,0.66502 0.23683,0.66502 l -0.05746,-7.68535 -0.334725,-6.25799 10.538828,0 -0.25432,6.25799 -0.0525,7.68535 c 0,0 0.12724,-0.4314 0.186516,-0.66502 0.322459,-1.27078 0.464879,-3.91594 0.464879,-3.91594 l 5.340788,1.0419 c 0,0 -1.68503,8.45422 -4.044558,11.36743 -0.991513,1.22419 -3.273392,2.45956 -3.273392,2.45956 0,0 -2.489422,-1.81945 -3.596624,-2.91406 -1.105252,-1.09268 -1.947423,-1.77226 -2.916102,-3.28996 0.637038,1.68905 1.446823,2.56131 2.45996,3.73954 z m -1.341595,-12.19275 9.364958,0 0,-2.10186 -9.364958,0 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g5350"
+       transform="translate(117.8598,259.4926)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png">
+      <circle
+         r="22.5"
+         cy="99.902"
+         cx="-55.714779"
+         id="circle6083-7-6-3"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccsssccc"
+         inkscape:connector-curvature="0"
+         id="use5354"
+         d="m -45.448177,86.656813 -4.142578,6.337891 c -0.224281,-0.08667 -0.462679,-0.131039 -0.703125,-0.130859 -0.24698,7.3e-4 -0.491565,0.04845 -0.720703,0.140625 -0.182762,-0.908019 -0.980021,-1.56151 -1.90625,-1.5625 -0.521262,-1.08e-4 -1.02079,0.20885 -1.386719,0.580078 -0.332629,-0.650671 -1.001659,-1.060234 -1.732421,-1.060547 -0.773691,3.54e-4 -1.473729,0.458867 -1.783204,1.167969 -0.349295,-0.291076 -0.789462,-0.450697 -1.24414,-0.451172 -0.931186,0.0014 -1.731002,0.662 -1.908203,1.576172 -0.217785,-0.08277 -0.44866,-0.125768 -0.681641,-0.126953 -1.074833,7.13e-4 -1.945678,0.872428 -1.945312,1.947265 l 0,0.0078 c -0.05455,-0.0049 -0.109289,-0.0075 -0.164063,-0.0078 -1.074833,7.13e-4 -1.945678,0.872432 -1.945313,1.947266 3.04e-4,0.218162 0.03728,0.434721 0.109376,0.640625 -0.898698,0.08306 -1.607844,0.773158 -1.738282,1.654297 l 22.580078,0 c -0.114377,-0.905741 -0.841464,-1.621015 -1.763672,-1.697266 0.111416,-0.248862 0.169306,-0.518352 0.169922,-0.791016 -9.2e-4,-0.510334 -0.202217,-0.999902 -0.560546,-1.363281 l 5.726562,-5.466797 -1.029297,-1.193359 -5.894531,6.050781 c -0.08606,-0.0123 -0.102525,0.02804 -0.189453,0.02734 -0.01628,4.47e-4 -0.03256,0.0011 -0.04883,0.002 0.0018,-0.02471 0.0031,-0.04946 0.0039,-0.07422 -3.8e-4,-0.364776 -0.01145,-0.583432 -0.205078,-0.892578 l 4.335937,-6.277344 z m -24.037109,12.855469 c 0.007,0.753908 0.08022,1.473318 0.208984,2.164058 l 26.542969,0 c 0.129256,-0.69079 0.20343,-1.40998 0.210938,-2.164058 z m 0.246094,2.361328 c 0.781194,3.82015 3.392347,6.93004 7.140625,8.80152 l 12.175781,0 c 3.753023,-1.87 6.36615,-4.98016 7.150391,-8.80152 z m 7.396484,8.99879 0,2.10668 c 0,0.0999 0.07982,0.18164 0.179688,0.18164 l 11.318359,0 c 0.09987,0 0.179686,-0.0818 0.179688,-0.18164 l 0,-2.10668 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#303030;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6406"
+       width="282.78149"
+       height="188.5766"
+       x="18.447075"
+       y="310.21188" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.568542"
+       y="471.12347"
+       id="text6408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6410"
+         x="36.568542"
+         y="471.12347"
+         style="-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';font-family:'Hiragino Kaku Gothic Std';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal">Master</tspan></text>
+    <g
+       id="g4681"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(0,-400)">
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,460)"
+         id="use4635"
+         xlink:href="#g5350"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,44.287877,160.79055)"
+         id="g4651">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4637"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4784"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion4786"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect4788" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara4790">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g4708"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(0,-400)">
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,460)"
+         id="use4633"
+         xlink:href="#g5331"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g4658"
+         transform="matrix(0.8,0,0,0.8,104.28787,160.79053)">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle4660"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(525.14819,663.79582)"
+           xml:space="preserve"
+           id="flowRoot4662"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4664"><rect
+               id="rect4666"
+               width="73.654579"
+               height="39.987968"
+               x="-529.60803"
+               y="165.17477" /></flowRegion><flowPara
+             id="flowPara4668"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g4659"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(0,-400)">
+      <g
+         id="g4649">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g5312"
+           id="use4631"
+           transform="translate(0,460)"
+           width="100%"
+           height="100%"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g4670"
+           transform="matrix(0.8,0,0,0.8,164.28788,160.79054)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <circle
+             r="9.4642859"
+             cy="833.25507"
+             cx="32.32143"
+             id="circle4672"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="translate(525.14819,663.79582)"
+             xml:space="preserve"
+             id="flowRoot4674"
+             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               id="flowRegion4676"><rect
+                 id="rect4678"
+                 width="73.654579"
+                 height="39.987968"
+                 x="-529.60803"
+                 y="165.17477" /></flowRegion><flowPara
+               id="flowPara4680"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       id="g4669"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(0,-400)">
+      <use
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         height="100%"
+         width="100%"
+         transform="translate(0,460)"
+         id="use4629"
+         xlink:href="#g5293"
+         y="0"
+         x="0" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g4682"
+         transform="matrix(0.8,0,0,0.8,224.28788,160.79054)">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle4684"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(525.14819,663.79582)"
+           xml:space="preserve"
+           id="flowRoot4686"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4688"><rect
+               id="rect4690"
+               width="73.654579"
+               height="39.987968"
+               x="-529.60803"
+               y="165.17477" /></flowRegion><flowPara
+             id="flowPara4692"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g13448"
+       transform="translate(-461.78553,-1009.768)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4681"
+       id="use5035"
+       width="100%"
+       height="100%"
+       transform="translate(0,200)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use5013"
+       transform="translate(0,240)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4659"
+       id="use4876"
+       transform="translate(0,200)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5312"
+       id="use5017"
+       transform="translate(0,240)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use5015"
+       transform="translate(340,260)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4708"
+       id="use5037"
+       width="100%"
+       height="100%"
+       transform="translate(0,200)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       id="use5043"
+       xlink:href="#g4708"
+       y="0"
+       x="0"
+       transform="translate(0,180)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use5025"
+       transform="translate(0,220)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       id="use5027"
+       xlink:href="#g5331"
+       y="0"
+       x="0"
+       transform="translate(0,200)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4659"
+       id="use5039"
+       transform="translate(340,200)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4669"
+       id="use5041"
+       width="100%"
+       height="100%"
+       transform="translate(0,200)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,240)"
+       id="use5031"
+       xlink:href="#g5293"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5293"
+       id="use5033"
+       transform="translate(0,220)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4774"
+       y="691.12347"
+       x="116.56854"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="691.12347"
+         x="116.56854"
+         id="tspan4776"
+         sodipodi:role="line"
+         style="-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';font-family:'Hiragino Kaku Gothic Std';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal">Red</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-124.45181"
+       y="600.53973"
+       id="text4778"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4780"
+         x="-124.45181"
+         y="600.53973"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Example 1</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use4812"
+       transform="translate(340,260)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(340,240)"
+       id="use4784"
+       xlink:href="#g5350"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       transform="translate(680,400)"
+       height="100%"
+       width="100%"
+       id="use4788"
+       xlink:href="#g4708"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       transform="translate(340,400)"
+       x="0"
+       y="0"
+       xlink:href="#g4708"
+       id="use4790"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       transform="translate(340,200)"
+       height="100%"
+       width="100%"
+       id="use4798"
+       xlink:href="#g4669"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5293"
+       id="use4800"
+       transform="translate(340,240)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="456.56854"
+       y="691.12347"
+       id="text4804"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="456.56854"
+         y="691.12347"
+         id="tspan4808"
+         style="-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';font-family:'Hiragino Kaku Gothic Std';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal">Green</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use4814"
+       transform="translate(340,220)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(340,180)"
+       id="use4816"
+       xlink:href="#g4659"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(340,240)"
+       id="use4818"
+       xlink:href="#g5331"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.40752"
+       y="663.12347"
+       id="text4820"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4822"
+         x="56.40752"
+         y="663.12347">3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4824"
+       y="663.12347"
+       x="176.40002"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="663.12347"
+         x="176.40002"
+         id="tspan4826"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.36252"
+       y="663.12347"
+       id="text4828"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4830"
+         x="236.36252"
+         y="663.12347">4</tspan></text>
+    <g
+       id="g4836"
+       transform="translate(36.520015,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         y="523.76416"
+         x="-411.33282"
+         height="3.2142856"
+         width="14.107144"
+         id="rect4832"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4834"
+         width="14.107144"
+         height="3.2142856"
+         x="-532.42487"
+         y="402.67212"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    </g>
+    <g
+       transform="translate(316.52002,0)"
+       id="g4840"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4842"
+         width="14.107144"
+         height="3.2142856"
+         x="-411.33282"
+         y="523.76416"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+         y="402.67212"
+         x="-532.42487"
+         height="3.2142856"
+         width="14.107144"
+         id="rect4844"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4846"
+       y="663.12347"
+       x="576.40753"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="663.12347"
+         x="576.40753"
+         id="tspan4848"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="456.40002"
+       y="663.12347"
+       id="text4850"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4852"
+         x="456.40002"
+         y="663.12347">2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4854"
+       y="663.12347"
+       x="516.36255"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="663.12347"
+         x="516.36255"
+         id="tspan4856"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,260)"
+       id="use4858"
+       xlink:href="#g5331"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,200)"
+       id="use4860"
+       xlink:href="#g4659"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,240)"
+       id="use5029"
+       xlink:href="#g5312"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,260)"
+       id="use4868"
+       xlink:href="#g5293"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4870"
+       y="691.12347"
+       x="796.56854"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         id="tspan4872"
+         y="691.12347"
+         x="796.56854"
+         sodipodi:role="line">Blue</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use4878"
+       transform="translate(680,240)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g4880"
+       transform="translate(776.52002,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         y="523.76416"
+         x="-411.33282"
+         height="3.2142856"
+         width="14.107144"
+         id="rect4882"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4884"
+         width="14.107144"
+         height="3.2142856"
+         x="-532.42487"
+         y="402.67212"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="916.40753"
+       y="663.12347"
+       id="text4886"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4888"
+         x="916.40753"
+         y="663.12347">1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4890"
+       y="663.12347"
+       x="796.40002"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="663.12347"
+         x="796.40002"
+         id="tspan4892"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="736.36255"
+       y="663.12347"
+       id="text4894"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4896"
+         x="736.36255"
+         y="663.12347">7</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4681"
+       id="use4898"
+       width="100%"
+       height="100%"
+       transform="translate(680,200)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       transform="translate(680,180)"
+       height="100%"
+       width="100%"
+       id="use4900"
+       xlink:href="#g4681"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4681"
+       id="use4902"
+       width="100%"
+       height="100%"
+       transform="translate(680,160)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,200)"
+       id="use4874"
+       xlink:href="#g5350"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       transform="translate(340,400)"
+       height="100%"
+       width="100%"
+       id="use4904"
+       xlink:href="#g4681"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,220)"
+       id="use4906"
+       xlink:href="#g5312"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5312"
+       id="use4908"
+       transform="translate(680,200)"
+       width="100%"
+       height="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(680,220)"
+       id="use4910"
+       xlink:href="#g5331"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4912"
+       y="800.53973"
+       x="-124.45181"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         y="800.53973"
+         x="-124.45181"
+         id="tspan4914"
+         sodipodi:role="line">Example 2</tspan></text>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(0,400)"
+       height="100%"
+       width="100%"
+       id="use4916"
+       xlink:href="#g4681"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g4681"
+       id="use5034"
+       width="100%"
+       height="100%"
+       transform="translate(0,380)" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,420)"
+       id="use4862"
+       xlink:href="#g5350"
+       y="0"
+       x="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(0,400)"
+       height="100%"
+       width="100%"
+       id="use4922"
+       xlink:href="#g4708"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(0,400)"
+       height="100%"
+       width="100%"
+       id="use4930"
+       xlink:href="#g4669"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5293"
+       id="use4932"
+       transform="translate(0,440)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.56854"
+       y="891.12347"
+       id="text4936"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4938"
+         x="116.56854"
+         y="891.12347">Red</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       sodipodi:linespacing="125%"
+       id="text4940"
+       y="863.12347"
+       x="116.40752"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="863.12347"
+         x="116.40752"
+         id="tspan4942"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.40002"
+       y="863.12347"
+       id="text4944"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4946"
+         x="176.40002"
+         y="863.12347">3</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       sodipodi:linespacing="125%"
+       id="text4948"
+       y="863.12347"
+       x="236.36252"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="863.12347"
+         x="236.36252"
+         id="tspan4950"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(-23.479985,200)"
+       id="g4952">
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4954"
+         width="14.107144"
+         height="3.2142856"
+         x="-411.33282"
+         y="523.76416"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+         y="402.67212"
+         x="-532.42487"
+         height="3.2142856"
+         width="14.107144"
+         id="rect4956"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(0,400)"
+       id="use4958"
+       xlink:href="#g4659"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(0,440)"
+       id="use4920"
+       xlink:href="#g5312"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use5000"
+       transform="translate(340,440)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(340,420)"
+       id="use4960"
+       xlink:href="#g5331"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(340,400)"
+       id="use4962"
+       xlink:href="#g4659"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(340,440)"
+       id="use4964"
+       xlink:href="#g5350"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use4966"
+       transform="translate(340,420)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g4669"
+       id="use4968"
+       width="100%"
+       height="100%"
+       transform="translate(680,400)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4972"
+       y="891.12347"
+       x="456.56854"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         id="tspan4974"
+         y="891.12347"
+         x="456.56854"
+         sodipodi:role="line">Green</tspan></text>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(340,400)"
+       id="use4976"
+       xlink:href="#g5350"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g4659"
+       id="use4978"
+       transform="translate(340,380)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use4980"
+       transform="translate(340,400)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(340,380)"
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use4928"
+       width="100%"
+       height="100%" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g4982"
+       transform="translate(376.52002,200)">
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         y="523.76416"
+         x="-411.33282"
+         height="3.2142856"
+         width="14.107144"
+         id="rect4984"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4986"
+         width="14.107144"
+         height="3.2142856"
+         x="-532.42487"
+         y="402.67212"
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+    </g>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="576.40753"
+       y="863.12347"
+       id="text4988"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4990"
+         x="576.40753"
+         y="863.12347">1</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       sodipodi:linespacing="125%"
+       id="text4992"
+       y="863.12347"
+       x="396.40002"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="863.12347"
+         x="396.40002"
+         id="tspan4994"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="516.36255"
+       y="863.12347"
+       id="text4996"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan4998"
+         x="516.36255"
+         y="863.12347">4</tspan></text>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g4659"
+       id="use5002"
+       transform="translate(680,400)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5312"
+       id="use5004"
+       transform="translate(680,440)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5293"
+       id="use5006"
+       transform="translate(340,460)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(680,440)"
+       id="use4970"
+       xlink:href="#g5293"
+       y="0"
+       x="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="796.56854"
+       y="891.12347"
+       id="text5008"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="796.56854"
+         y="891.12347"
+         id="tspan5010"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Blue</tspan></text>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(680,440)"
+       id="use5012"
+       xlink:href="#g5331"
+       y="0"
+       x="0" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(656.52002,200)"
+       id="g5014">
+      <rect
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5016"
+         width="14.107144"
+         height="3.2142856"
+         x="-411.33282"
+         y="523.76416"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+         y="402.67212"
+         x="-532.42487"
+         height="3.2142856"
+         width="14.107144"
+         id="rect5018"
+         style="opacity:1;fill:#f03434;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       sodipodi:linespacing="125%"
+       id="text5020"
+       y="863.12347"
+       x="916.40753"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="863.12347"
+         x="916.40753"
+         id="tspan5022"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="796.40002"
+       y="863.12347"
+       id="text5024"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+         sodipodi:role="line"
+         id="tspan5026"
+         x="796.40002"
+         y="863.12347">3</tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       sodipodi:linespacing="125%"
+       id="text5028"
+       y="863.12347"
+       x="856.36255"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="863.12347"
+         x="856.36255"
+         id="tspan5030"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(680,400)"
+       height="100%"
+       width="100%"
+       id="use5032"
+       xlink:href="#g4681"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(680,380)"
+       height="100%"
+       width="100%"
+       id="use5036"
+       xlink:href="#g4681"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       height="100%"
+       width="100%"
+       transform="translate(680,420)"
+       id="use4918"
+       xlink:href="#g5350"
+       y="0"
+       x="0" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use5038"
+       transform="translate(680,400)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5312"
+       id="use5040"
+       transform="translate(680,420)"
+       width="100%"
+       height="100%" />
+    <use
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       x="0"
+       y="0"
+       xlink:href="#g5331"
+       id="use5044"
+       transform="translate(0,440)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>

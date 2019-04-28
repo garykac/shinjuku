@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="482.33672"
-     inkscape:cy="746.67678"
+     inkscape:zoom="1.4"
+     inkscape:cx="135.13618"
+     inkscape:cy="865.14543"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3070,7 +3070,7 @@
          y="-158.39461" />
     </g>
     <g
-       transform="translate(-347.95136,318.03113)"
+       transform="translate(-347.95136,334.03113)"
        id="g7294"
        style="display:inline"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
@@ -3148,7 +3148,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(525.09716,858.19815)"
+       transform="translate(525.09716,874.19815)"
        id="g7318"
        style="display:inline"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
@@ -3229,7 +3229,7 @@
     </g>
     <g
        id="g7342"
-       transform="translate(459.09716,790.67725)"
+       transform="translate(459.09716,806.67725)"
        style="display:inline"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
@@ -3309,7 +3309,7 @@
     </g>
     <g
        id="g7366"
-       transform="translate(-281.95135,385.55195)"
+       transform="translate(-281.95135,401.55195)"
        style="display:inline"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
@@ -3388,7 +3388,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(140.52421,-432.5396)"
+       transform="translate(140.52421,-426.5396)"
        id="g7390"
        style="display:inline"
        inkscape:export-xdpi="300"
@@ -3411,7 +3411,7 @@
        inkscape:export-xdpi="300"
        style="display:inline"
        id="g7396"
-       transform="translate(200.52421,-432.5396)"
+       transform="translate(200.52421,-426.5396)"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3426,7 +3426,7 @@
          d="m 204.35386,1574.9342 0,-30 10,-10 10,-8 10,10 0,11 20,0 0,19 -10,8 z m 20,-19 10,-8 m -10,-3 10,-8 m -20,-2 10,10 0,11 20,0 0,19 m -40,0 0,-30 10,-10 10,-8 10,10 0,11 20,0 0,19 -10,8 z m 20,-19 10,-8 m -10,-3 10,-8 m -20,-2 10,10 0,11 20,0 0,19 m 0,-19 10,-8" />
     </g>
     <g
-       transform="translate(260.52421,-432.5396)"
+       transform="translate(260.52421,-426.5396)"
        id="g7402"
        style="display:inline"
        inkscape:export-xdpi="300"
@@ -3446,7 +3446,7 @@
     </g>
     <g
        id="g7408"
-       transform="translate(-480,1020)"
+       transform="translate(-480,1026)"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -3502,7 +3502,7 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(-380,1020)"
+       transform="translate(-380,1026)"
        id="g7420"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
@@ -3560,7 +3560,7 @@
     </g>
     <g
        id="g7432"
-       transform="translate(-280,1020)"
+       transform="translate(-480,1086)"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -3616,7 +3616,7 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="translate(-180,1020)"
+       transform="translate(-380,1086)"
        id="g7444"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
        inkscape:export-xdpi="300"
@@ -3715,7 +3715,7 @@
     </g>
     <g
        id="g4681"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-x2.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
@@ -3755,7 +3755,7 @@
     </g>
     <g
        id="g4708"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-x2.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
@@ -3795,7 +3795,7 @@
     </g>
     <g
        id="g4659"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-x2.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <g
@@ -3838,7 +3838,7 @@
     </g>
     <g
        id="g4669"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-x2.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
@@ -4724,5 +4724,42 @@
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/generic-stores-6.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <g
+       style="display:inline"
+       id="g13448"
+       transform="translate(-461.78553,-1009.768)" />
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/dept-store-icon.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       id="g5005">
+      <path
+         style="display:inline;color:#000000;clip-rule:nonzero;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.90625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 544.69982,1189.4182 0,-15.36 5.12,-5.12 5.12,-4.096 5.12,5.12 0,5.632 10.24,0 0,9.728 -5.12,4.096 z"
+         id="path13450"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc"
+         transform="translate(-461.78553,-1009.768)" />
+      <path
+         style="display:inline;color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.90625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 554.92482,1163.8423 c -0.222,0.01 -0.43661,0.08 -0.61,0.2189 -3.76173,2.9653 -7.01764,5.9857 -10.322,9.29 -0.18754,0.1875 -0.29294,0.4418 -0.293,0.7071 l 0,15.36 c 6e-5,0.5522 0.44774,0.9999 1,0.9999 l 20.48,0 c 0.22716,10e-5 0.44758,-0.077 0.625,-0.2189 l 5.12,-4.096 c 0.23713,-0.1899 0.3751,-0.4773 0.375,-0.781 l 0,-9.728 c -6e-5,-0.5523 -0.44774,-1 -1,-1 l -9.24,0 0,-4.632 c -6e-5,-0.2653 -0.10545,-0.5196 -0.293,-0.7071 l -5.12,-5.12 c -0.19116,-0.1912 -0.45162,-0.2969 -0.722,-0.2929 z m -0.059,2.34 3.696,3.697 -3.548,2.8389 -3.697,-3.697 z m -5.046,4.171 4.12,4.1199 0,5.2171 c 6e-5,0.5522 0.44774,0.9999 1,0.9999 l 9.24,0 0,7.7281 -18.48,0 0,-13.9451 z m 9.24,1.6899 0,3.07 -3.12,2.496 0,-3.07 z m 1.351,4.551 7.038,0 -2.62,2.0961 -7.038,0 z m 8.889,1.081 0,7.1671 -3.12,2.4949 0,-7.166 z"
+         id="path13452"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scccccccccccccccsccccccccccccccccccccccccccccc"
+         transform="translate(-461.78553,-1009.768)" />
+      <flowRoot
+         transform="translate(85.761786,171.7662)"
+         xml:space="preserve"
+         id="flowRoot9584-8-66-5-8-9-8-1"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+           id="flowRegion9586-4-62-31-84-5-5-7"><rect
+             style="fill:#8c8c8c;fill-opacity:1;"
+             id="rect9588-100-27-17-4-9-5-4"
+             width="32.278954"
+             height="38.667496"
+             x="-0.56340188"
+             y="1.0278535" /></flowRegion><flowPara
+           id="flowPara9590-22-3-66-3-4-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8c8c8c;fill-opacity:1;">3</flowPara></flowRoot>    </g>
   </g>
 </svg>
