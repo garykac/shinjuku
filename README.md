@@ -72,14 +72,14 @@ There are 4 kinds of stores:
 
 | | |
 | --- | --- |
-| <img src="components/icons/food.png" height="30px"/> | sells Food |
-| <img src="components/icons/clothing.png" height="30px"/> | sells Clothing |
-| <img src="components/icons/books.png" height="30px"/> | sells Books |
-| <img src="components/icons/electronics.png" height="30px"/> | sells Electronics |
+| <img src="components/stores-track/generic-food.png" height="40px"/> | sells Food |
+| <img src="components/stores-track/generic-clothing.png" height="40px"/> | sells Clothing |
+| <img src="components/stores-track/generic-book.png" height="40px"/> | sells Books |
+| <img src="components/stores-track/generic-electronics.png" height="40px"/> | sells Electronics |
 
 A department store sells all of these goods.
 
-_(Note: Current prototypes use different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
+_(Note: Earlier prototypes use different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
 
 ### Customers
 
@@ -95,6 +95,10 @@ The 4 customer types match the store types:
 | <img src="components/customers/clothing.png" height="30px"/> | 14 customers want Clothing | <img src="components/customers/clothing-14.png" height="30px"/> |
 | <img src="components/customers/books.png" height="30px"/> | 12 customers want Books | <img src="components/customers/books-12.png" height="30px"/> |
 | <img src="components/customers/electronics.png" height="30px"/> | 9 customers want Electronics | <img src="components/customers/electronics-9.png" height="30px"/> |
+
+Some customers are worth double points:
+
+<img src="components/customer-types-x2.png" height="40px"/>
 
 ### Gameplay
 
@@ -167,7 +171,7 @@ When the last customer is drawn and placed on the map, that player completes the
 
 ### Endgame Scoring
 
-Remove the customer type that you have the most of and then count all the remaining customers. Each customer is worth 1 VP.
+Remove the customer type that you have the most customer tokens of and then score all the remaining customers. Each customer is worth 1 point – double customers are worth 2 points.
 
 
 ![Train Car](images/train-car-6.png)
