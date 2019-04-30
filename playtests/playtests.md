@@ -1,5 +1,10 @@
 # Playtest Notes
 
+[Playtest #33 - Fri 26 Apr 2019](2019-04-26-playtest-33.md)
+
+* 4 player: JB AS SR GK
+* Testing: 56 customers; double customers; new icons on components; thief expansion; 1 new player
+
 [Playtest #30-32 - Thu 2 Apr 2019](2019-04-02-playtest-30-32.md)
 
 * 2 and 3 player: KK+
@@ -8,7 +13,7 @@
 [Playtest #29 - Thu 21 Mar 2019](2019-03-21-playtest-29.md)
 
 * 3 player: KK JY GK
-* Testing: New players
+* Testing: New players; drawing customers into same location
 
 [Playtest #28 - Thu 21 Mar 2019](2019-03-21-playtest-28.md)
 
