@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="x-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/info-cards/strategy.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/back.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="-24.508818"
+     inkscape:cx="28.780656"
      inkscape:cy="165.83022"
      inkscape:document-units="px"
-     inkscape:current-layer="g4629"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -532,7 +532,7 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4754"
        xml:space="preserve"
-       transform="translate(-704.65035,-105.51191)"><flowRegion
+       transform="translate(-704.65035,-101.51191)"><flowRegion
          id="flowRegion4756"><rect
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            y="164.71001"
@@ -542,18 +542,16 @@
            id="rect4758" /></flowRegion><flowPara
          id="flowPara4760"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   id="flowSpan4762"
-   style="font-weight:bold">Setup</flowSpan>:</flowPara><flowPara
-         id="flowPara4764"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Draw 4 regular customers at random (without looking) and remove from game.</flowPara><flowPara
+           id="flowSpan4762"
+           style="font-weight:bold">Setup</flowSpan></flowPara><flowPara
          id="flowPara4766"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Add 4 thief tokens to customer bag.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Add 8 thief tokens to customer bag.</flowPara><flowPara
          id="flowPara4768"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4770"
        xml:space="preserve"
-       transform="translate(-705.00035,-46.511909)"><flowRegion
+       transform="translate(-705.00035,-10.511909)"><flowRegion
          id="flowRegion4772"><rect
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            y="164.71001"
@@ -561,13 +559,13 @@
            height="60.253342"
            width="185.60931"
            id="rect4774" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4776"><flowSpan
-   id="flowSpan4778"
-   style="font-weight:bold">Move Action</flowSpan>:</flowPara><flowPara
          id="flowPara4780"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Thieves move like regular customers and match stores just like their non-thief counterparts.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-705.00035,11.488091)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
+   id="flowSpan4602"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Move </flowSpan>(updated)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+         id="flowPara4600">Thieves move like regular customers and match stores just like their non-thief counterparts.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-705.00035,45.488091)"
        xml:space="preserve"
        id="flowRoot4806"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -580,10 +578,27 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          id="flowPara4812"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4814">Endgame Scoring</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4814">Endgame Scoring</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4816">Before scoring, each Thief customer cancels out one matching non-thief customer (if any).</flowPara></flowRoot>  </g>
+         id="flowPara4816">Each Thief is worth -1/2 VP.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4770-4"
+       xml:space="preserve"
+       transform="translate(-704.62335,-67.807183)"><flowRegion
+         id="flowRegion4772-1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           y="164.71001"
+           x="735.88544"
+           height="60.253342"
+           width="185.60931"
+           id="rect4774-0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+         id="flowPara4776-9"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold'"
+           id="flowSpan4624">Placing Customers</flowSpan></flowPara><flowPara
+         id="flowPara4780-0"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">When a Thief is drawn from the customer bag, draw an extra customer and place it in the same location.</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Expansion - Summoner"
@@ -682,9 +697,7 @@
            y="164.71001"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          id="flowPara4626"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Kaiju Action (New!)<flowSpan
-   style="font-weight:normal"
-   id="flowSpan4700">:</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Kaiju</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4698"><flowSpan
    style="font-style:italic"
@@ -702,8 +715,8 @@
            id="rect4632" /></flowRegion><flowPara
          id="flowPara4634"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   id="flowSpan4636"
-   style="font-weight:bold">Setup</flowSpan>:</flowPara><flowPara
+           id="flowSpan4636"
+           style="font-weight:bold">Setup</flowSpan></flowPara><flowPara
          id="flowPara4640"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Place Kaiju in water (Tokyo Bay)</flowPara><flowPara
          id="flowPara4642"
@@ -719,12 +732,12 @@
            height="142.25334"
            width="186.60931"
            id="rect4648" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4650"><flowSpan
-   id="flowSpan4652"
-   style="font-weight:bold">Move Action</flowSpan>:</flowPara><flowPara
          id="flowPara4654"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Move actions may not pass through any station in the Kaiju's location.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
+   id="flowSpan4595"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Move </flowSpan>(updated)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+         id="flowPara4598">Customers may not be Moved through any station in the Kaiju's location.</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4703"
        xml:space="preserve"
@@ -753,10 +766,10 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          id="flowPara4824"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4826">Placing Customers at start of turn</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4826">Placing Customers at start of turn</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4828">If a customer would be placed in the Kaiju's location, then the player must move the Kaiju into a neighboring location before placing.</flowPara></flowRoot>  </g>
+         id="flowPara4828">If a customer would be placed in the Kaiju's location, then the player must move the Kaiju into a neighboring location before placing the customer.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -796,9 +809,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4509">At start of each turn<flowSpan
    style="font-weight:normal"
-   id="flowSpan4531">:</flowSpan></flowPara><flowPara
+   id="flowSpan4531" /></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4525">If you start your turn with Hachiko on the Station Marker, move Hachiko to same location as your random customer placement.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4525">If you start your turn with Hachiko on the Station Marker, move Hachiko to same location as your next random customer placement.</flowPara></flowRoot>    <flowRoot
        transform="translate(-704.65035,-105.51191)"
        xml:space="preserve"
        id="flowRoot4449"
@@ -812,8 +825,8 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4497"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4495">Setup</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4495">Setup</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4507">Place Station Marker on Shibuya.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
@@ -833,42 +846,31 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          id="flowPara4519"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4529">Move Action</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4529">Action : Reunite</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4533">Hachiko is a customer and must be moved with other customers.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4533">Similar to Move action except the Reunite must start in Hachiko's location and end in Shibuya. Does not cost a card.</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4543"
+       id="flowRoot4626"
        xml:space="preserve"
-       transform="translate(-705.00035,47.488091)"><flowRegion
-         id="flowRegion4545"><rect
+       transform="translate(-705.00035,63.488091)"><flowRegion
+         id="flowRegion4628"><rect
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            y="164.71001"
            x="735.88544"
            height="142.25334"
            width="186.60931"
-           id="rect4547" /></flowRegion><flowPara
-         id="flowPara4557"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">When Hachiko is part of a Move:</flowPara><flowPara
-         id="flowPara4559"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">* The action does not cost a card</flowPara><flowPara
-         id="flowPara4563"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">* The action must end at the Station Marker (to reunite Hachiko).</flowPara></flowRoot>    <flowRoot
-       transform="translate(-705.00035,99.48809)"
-       xml:space="preserve"
-       id="flowRoot4591"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion4593"><rect
-           id="rect4595"
-           width="180.60931"
-           height="32.253342"
-           x="735.88544"
-           y="164.71001"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
+           id="rect4630" /></flowRegion><flowPara
+         id="flowPara4636"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
+   id="flowSpan4607"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Move </flowSpan>(updated)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4603">After the Move action, Hachiko is placed on the Station Marker. </flowPara></flowRoot>  </g>
+         id="flowPara4605">Hachiko moves along with other customers, but doesn't match any stores.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+         id="flowPara4638">If Hachiko ends up in a ward without any customers, then he should be moved back to the Station Marker.</flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Expansion - Flyju"
      id="g4629"
      inkscape:groupmode="layer">
@@ -1167,8 +1169,8 @@
            id="rect4406" /></flowRegion><flowPara
          id="flowPara4408"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
-   id="flowSpan4410"
-   style="font-weight:bold">Setup</flowSpan>:</flowPara><flowPara
+           id="flowSpan4410"
+           style="font-weight:bold">Setup</flowSpan></flowPara><flowPara
          id="flowPara4414"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Each player starts with their own Chairman token in front of them.</flowPara><flowPara
          id="flowPara4416"
@@ -1186,13 +1188,13 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4442"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4444">Wildcards</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4444">Wildcards</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4446">The location of your Chairman is a wildcard for you. </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4448" /></flowRoot>    <flowRoot
-       transform="translate(-704.65035,54.48809)"
+       transform="translate(-704.65035,80.48809)"
        xml:space="preserve"
        id="flowRoot4518"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1205,12 +1207,12 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4524"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan4526">Explore</flowSpan>:</flowPara><flowPara
+           style="font-weight:bold"
+           id="flowSpan4526">Small Action : Explore</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4528">Once per turn, a player may move their Chairman into an adjacent location. If their Chairman is not currently on the map, then it may be placed anywhere.</flowPara><flowPara
          id="flowPara4530"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">This does not count as a player action, and may occur before, between or after the player actions.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">This does not count as a player action.</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4539"
        xml:space="preserve"
@@ -1219,15 +1221,15 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            y="164.71001"
            x="735.88544"
-           height="86.490181"
-           width="189.58299"
+           height="91.095451"
+           width="190.24091"
            id="rect4543" /></flowRegion><flowPara
          id="flowPara4545"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
    id="flowSpan4547"
-   style="font-weight:bold">Move Action</flowSpan>:</flowPara><flowPara
+   style="font-weight:bold">Action : Move</flowSpan> (updated)</flowPara><flowPara
          id="flowPara4549"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">The Chairman is a customer and moves with other customers. A Chairman can be matched against any store.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">The Chairman is a customer and moves with other customers. A Chairman can be  matched with any store that would match one of the customers being moved and is given instead of that customer.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4558">When matched, the Chairman is added to the ward where the match occurred. </flowPara></flowRoot>  </g>
   <g
@@ -1333,49 +1335,49 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Expansion - Back"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4863"
        width="247.5"
        height="337.5"
-       x="0"
-       y="0"
+       x="-140"
+       y="-380"
        rx="0" />
     <g
        id="g4847"
-       transform="translate(0,18.752818)">
+       transform="translate(0,-301.24718)">
       <g
          transform="matrix(0.62990995,0,0,0.62990995,167.02751,105.88085)"
          id="g4835">
         <path
            id="path6953"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:7.93764257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.93764257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -119.50962,48.712357 0,-14.112 c 16.56001,-2.448 28.080005,-4.896 36.720006,-7.776 2.736061,-0.864 2.736061,-0.864 5.32803,-1.584 L -93.877493,5.2243565 c -2.016061,1.44 -5.616061,3.1680001 -11.232117,4.8960005 -12.24001,3.888 -22.46394,5.904 -36.72001,7.056 0.72,4.464 1.00803,10.224 1.00803,16.56 0,40.320001 -1.15196,60.912001 -3.74393,70.704003 -2.73607,9.936 -6.33607,17.136 -12.81607,25.776 8.49607,4.032 12.09607,6.336 20.44804,12.816 6.76803,-10.656 10.51197,-19.728 13.24803,-32.4 2.59197,-12.384002 3.4559,-21.456002 4.03197,-41.184002 l 7.92,0 0,53.136002 c 0,9.936 -0.14455,14.256 -0.86394,19.44 l 23.327876,0 c -0.72,-5.184 -0.86394,-9.36 -0.86394,-19.44 l 0,-53.136002 1.728031,0 c 5.183939,0 7.343939,0.143939 10.51197,0.576 l 0,-22.176001 c -3.02394,0.576 -7.200001,0.864 -13.10394,0.864 l -28.512127,0 z m -46.51197,19.584001 7.2,0 c 6.76804,0 10.2241,0.143939 14.68804,0.576 l 0,-21.312001 c -3.16804,0.432 -5.32804,0.576 -9.64804,0.72 0.72,-2.16 2.59197,-9.216 3.31197,-11.952 2.3041,0.143939 3.16803,0.143939 5.76,0.432 l 0,-21.024 c -4.03197,0.576 -7.0559,0.72 -14.68787,0.72 l -5.9041,0 c 0,-5.472 0.14455,-7.0560004 0.72,-10.3680005 l -24.19197,0 c 0.57607,3.7440001 0.57607,5.0400005 0.72,10.3680005 l -8.06394,0 c -7.34409,0 -10.8,-0.143939 -14.83212,-0.72 l 0,21.024 c 2.88,-0.288 4.03212,-0.288 7.34409,-0.432 1.44,3.744 2.44803,7.776 3.16803,11.952 -7.05606,0 -9.50409,-0.143939 -13.24803,-0.72 l 0,21.312001 c 4.17591,-0.432 7.77591,-0.576 14.4,-0.576 l 12.09591,0 0,6.336 -11.66394,0 c -7.77606,0 -10.65606,-0.143939 -14.83197,-0.72 l 0,20.88 c 4.17591,-0.432 7.63197,-0.576 14.4,-0.576 l 6.19197,0 c -3.16803,4.464 -5.32803,6.912002 -8.35197,9.792002 -6.04803,5.472 -10.51197,8.928 -14.68803,11.088 4.32,7.632 6.76803,13.536 8.78394,21.744 9.93606,-7.056 14.11213,-11.376 20.44803,-20.736 -0.14454,3.6 -0.28803,5.76 -0.28803,7.92 l 0,7.2 c 0,4.608 -0.14454,7.632 -0.57591,10.656 l 22.46394,0 c -0.5759,-3.312 -0.72,-6.336 -0.72,-11.664 l 0,-8.352 c 0,-1.872 -0.14454,-4.176 -0.28803,-9.504 3.0241,4.608 4.89606,6.624 9.64803,10.8 2.3041,-6.624 4.60804,-11.808 8.7841,-19.584 -5.1841,-3.456 -8.20803,-5.904002 -11.37607,-9.360002 6.48001,0 10.08001,0.14394 14.25607,0.576 l 0,-20.88 c -3.88803,0.576 -7.2,0.72 -14.68803,0.72 l -6.33607,0 0,-6.336 z m -13.96803,-20.016001 c -1.00787,-6.048 -1.44,-7.776 -3.02394,-12.096 l 12.09607,0 c -0.72,4.752 -1.5841,7.92 -3.0241,12.096 l -6.04803,0 z"
            inkscape:connector-curvature="0" />
         <path
            id="path6955"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:7.93764257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.93764257;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -7.8190937,60.519924 c 4.32,-0.432 7.77606002,-0.576 13.39213,-0.576 l 14.6878697,0 c -0.86393,2.592 -1.44,4.32 -2.7359,6.912 l -10.6560697,0 c -6.33589998,0 -9.64803,-0.14394 -13.82393,-0.576 0.43196,3.456 0.5759,7.056 0.5759,12.96 l 0,48.528766 c 0,6.33619 -0.14454,10.08013 -0.72,13.96816 l 22.3199997,0 0,-5.04 34.41607,0 0,5.18394 22.608027,0 c -0.576061,-5.18394 -0.864091,-10.08 -0.864091,-16.84828 l 0,-44.208586 c 0,-5.904 0.28803,-10.512 0.72,-14.544 -4.175909,0.432 -8.06394,0.576 -15.263936,0.576 l -16.56,0 c 1.44,-2.88 2.16,-4.32 3.16803,-6.912 l 15.55197,0 c 5.616057,0 9.936057,0.14394 13.536057,0.576 l 0,-9.36 6.19197,0 c -0.576061,-3.456 -0.72,-7.056 -0.72,-11.52 l 0,-13.248 c 0,-5.04 0.144548,-8.352 0.575909,-11.808 -4.46394,0.432 -9.07197,0.576 -17.280001,0.576 l -37.583935,0 c 0,-3.888 0.14454,-6.0479999 0.57606,-8.7839999 l -24.62409968,0 c 0.57607,2.88 0.72,4.8959999 0.72,8.7839999 l -36.28803032,0 c -7.92,0 -12.38394,-0.14394 -17.28,-0.576 0.43212,3.312 0.57606,6.48 0.57606,11.376 l 0,15.84 c 0,4.608 -0.28803,7.92 -0.86394,11.664 l 20.88001,0 c -6.6241,10.944 -14.40001,19.44 -24.91213,27.36 4.46409,8.064 6.04803,11.952 9.07212,23.184036 3.74394,-3.02404 4.60788,-3.88804 8.92788,-8.640036 -0.28788,5.759996 -0.28788,9.360036 -0.28788,14.832196 l 0,14.54451 c 0,6.91222 -0.28803,11.80813 -0.86409,16.99222 l 23.04,0 c -0.43197,-5.47197 -0.5759,-9.36 -0.5759,-16.99222 l 0,-54.288706 c 4.60787,-7.344 7.63197,-12.384 10.3678703,-18 l 0,8.064 z m 0,-16.128 -16.2719703,-7.632 c -1.58394,4.176 -3.88803,8.784 -7.34394,14.832 l 0,-16.704 88.27198,0 0,5.76 -50.3999997,0 c -6.19196998,0 -9.50394,-0.14394 -14.25607,-0.72 l 0,4.464 z m 23.0399997,41.04 34.41607,0 0,6.912 -34.41607,0 0,-6.912 z m 0,24.624256 34.41607,0 0,7.63221 -34.41607,0 0,-7.63221 z"
            inkscape:connector-curvature="0" />
       </g>
       <flowRoot
          transform="translate(-1499.8326,-1518.328)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot6978"
          xml:space="preserve"><flowRegion
            id="flowRegion6980"><rect
-             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              y="1590.6964"
              x="1511.8948"
              height="33.763134"
              width="223.94731"
              id="rect6982" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara6984">SHINJUKU</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4839"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="translate(-1500.1177,-1376.328)"><flowRegion
            id="flowRegion4841"><rect
              id="rect4843"
@@ -1383,11 +1385,11 @@
              height="33.763134"
              x="1511.8948"
              y="1590.6964"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara4845"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">EXPANSION</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">EXPANSION</flowPara></flowRoot>    </g>
     <g
-       transform="translate(0,18.752818)"
+       transform="translate(-140,-261.24718)"
        id="g4865">
       <g
          id="g4867"
@@ -1395,18 +1397,18 @@
         <path
            inkscape:connector-curvature="0"
            d="m -119.50962,48.712357 0,-14.112 c 16.56001,-2.448 28.080005,-4.896 36.720006,-7.776 2.736061,-0.864 2.736061,-0.864 5.32803,-1.584 L -93.877493,5.2243565 c -2.016061,1.44 -5.616061,3.1680001 -11.232117,4.8960005 -12.24001,3.888 -22.46394,5.904 -36.72001,7.056 0.72,4.464 1.00803,10.224 1.00803,16.56 0,40.320001 -1.15196,60.912001 -3.74393,70.704003 -2.73607,9.936 -6.33607,17.136 -12.81607,25.776 8.49607,4.032 12.09607,6.336 20.44804,12.816 6.76803,-10.656 10.51197,-19.728 13.24803,-32.4 2.59197,-12.384002 3.4559,-21.456002 4.03197,-41.184002 l 7.92,0 0,53.136002 c 0,9.936 -0.14455,14.256 -0.86394,19.44 l 23.327876,0 c -0.72,-5.184 -0.86394,-9.36 -0.86394,-19.44 l 0,-53.136002 1.728031,0 c 5.183939,0 7.343939,0.143939 10.51197,0.576 l 0,-22.176001 c -3.02394,0.576 -7.200001,0.864 -13.10394,0.864 l -28.512127,0 z m -46.51197,19.584001 7.2,0 c 6.76804,0 10.2241,0.143939 14.68804,0.576 l 0,-21.312001 c -3.16804,0.432 -5.32804,0.576 -9.64804,0.72 0.72,-2.16 2.59197,-9.216 3.31197,-11.952 2.3041,0.143939 3.16803,0.143939 5.76,0.432 l 0,-21.024 c -4.03197,0.576 -7.0559,0.72 -14.68787,0.72 l -5.9041,0 c 0,-5.472 0.14455,-7.0560004 0.72,-10.3680005 l -24.19197,0 c 0.57607,3.7440001 0.57607,5.0400005 0.72,10.3680005 l -8.06394,0 c -7.34409,0 -10.8,-0.143939 -14.83212,-0.72 l 0,21.024 c 2.88,-0.288 4.03212,-0.288 7.34409,-0.432 1.44,3.744 2.44803,7.776 3.16803,11.952 -7.05606,0 -9.50409,-0.143939 -13.24803,-0.72 l 0,21.312001 c 4.17591,-0.432 7.77591,-0.576 14.4,-0.576 l 12.09591,0 0,6.336 -11.66394,0 c -7.77606,0 -10.65606,-0.143939 -14.83197,-0.72 l 0,20.88 c 4.17591,-0.432 7.63197,-0.576 14.4,-0.576 l 6.19197,0 c -3.16803,4.464 -5.32803,6.912002 -8.35197,9.792002 -6.04803,5.472 -10.51197,8.928 -14.68803,11.088 4.32,7.632 6.76803,13.536 8.78394,21.744 9.93606,-7.056 14.11213,-11.376 20.44803,-20.736 -0.14454,3.6 -0.28803,5.76 -0.28803,7.92 l 0,7.2 c 0,4.608 -0.14454,7.632 -0.57591,10.656 l 22.46394,0 c -0.5759,-3.312 -0.72,-6.336 -0.72,-11.664 l 0,-8.352 c 0,-1.872 -0.14454,-4.176 -0.28803,-9.504 3.0241,4.608 4.89606,6.624 9.64803,10.8 2.3041,-6.624 4.60804,-11.808 8.7841,-19.584 -5.1841,-3.456 -8.20803,-5.904002 -11.37607,-9.360002 6.48001,0 10.08001,0.14394 14.25607,0.576 l 0,-20.88 c -3.88803,0.576 -7.2,0.72 -14.68803,0.72 l -6.33607,0 0,-6.336 z m -13.96803,-20.016001 c -1.00787,-6.048 -1.44,-7.776 -3.02394,-12.096 l 12.09607,0 c -0.72,4.752 -1.5841,7.92 -3.0241,12.096 l -6.04803,0 z"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path4869" />
         <path
            inkscape:connector-curvature="0"
            d="m -7.8190937,60.519924 c 4.32,-0.432 7.77606002,-0.576 13.39213,-0.576 l 14.6878697,0 c -0.86393,2.592 -1.44,4.32 -2.7359,6.912 l -10.6560697,0 c -6.33589998,0 -9.64803,-0.14394 -13.82393,-0.576 0.43196,3.456 0.5759,7.056 0.5759,12.96 l 0,48.528766 c 0,6.33619 -0.14454,10.08013 -0.72,13.96816 l 22.3199997,0 0,-5.04 34.41607,0 0,5.18394 22.608027,0 c -0.576061,-5.18394 -0.864091,-10.08 -0.864091,-16.84828 l 0,-44.208586 c 0,-5.904 0.28803,-10.512 0.72,-14.544 -4.175909,0.432 -8.06394,0.576 -15.263936,0.576 l -16.56,0 c 1.44,-2.88 2.16,-4.32 3.16803,-6.912 l 15.55197,0 c 5.616057,0 9.936057,0.14394 13.536057,0.576 l 0,-9.36 6.19197,0 c -0.576061,-3.456 -0.72,-7.056 -0.72,-11.52 l 0,-13.248 c 0,-5.04 0.144548,-8.352 0.575909,-11.808 -4.46394,0.432 -9.07197,0.576 -17.280001,0.576 l -37.583935,0 c 0,-3.888 0.14454,-6.0479999 0.57606,-8.7839999 l -24.62409968,0 c 0.57607,2.88 0.72,4.8959999 0.72,8.7839999 l -36.28803032,0 c -7.92,0 -12.38394,-0.14394 -17.28,-0.576 0.43212,3.312 0.57606,6.48 0.57606,11.376 l 0,15.84 c 0,4.608 -0.28803,7.92 -0.86394,11.664 l 20.88001,0 c -6.6241,10.944 -14.40001,19.44 -24.91213,27.36 4.46409,8.064 6.04803,11.952 9.07212,23.184036 3.74394,-3.02404 4.60788,-3.88804 8.92788,-8.640036 -0.28788,5.759996 -0.28788,9.360036 -0.28788,14.832196 l 0,14.54451 c 0,6.91222 -0.28803,11.80813 -0.86409,16.99222 l 23.04,0 c -0.43197,-5.47197 -0.5759,-9.36 -0.5759,-16.99222 l 0,-54.288706 c 4.60787,-7.344 7.63197,-12.384 10.3678703,-18 l 0,8.064 z m 0,-16.128 -16.2719703,-7.632 c -1.58394,4.176 -3.88803,8.784 -7.34394,14.832 l 0,-16.704 88.27198,0 0,5.76 -50.3999997,0 c -6.19196998,0 -9.50394,-0.14394 -14.25607,-0.72 l 0,4.464 z m 23.0399997,41.04 34.41607,0 0,6.912 -34.41607,0 0,-6.912 z m 0,24.624256 34.41607,0 0,7.63221 -34.41607,0 0,-7.63221 z"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path4871" />
       </g>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4873"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(-1499.8326,-1518.328)"><flowRegion
            id="flowRegion4875"><rect
              id="rect4877"
@@ -1414,21 +1416,21 @@
              height="33.763134"
              x="1511.8948"
              y="1590.6964"
-             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara4879"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1">SHINJUKU</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#ffffff;fill-opacity:1">SHINJUKU</flowPara></flowRoot>      <flowRoot
          transform="translate(-1500.1177,-1376.328)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4881"
          xml:space="preserve"><flowRegion
            id="flowRegion4883"><rect
-             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
              y="1590.6964"
              x="1511.8948"
              height="33.763134"
              width="223.94731"
              id="rect4885" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#000000;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
            id="flowPara4887">EXPANSION</flowPara></flowRoot>    </g>
     <rect
        rx="0"
@@ -1526,12 +1528,56 @@
              style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara4913"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#ffffff;fill-opacity:1">EXPANSION</flowPara></flowRoot>    </g>
+    <g
+       id="g4610"
+       transform="translate(0,18.75282)">
+      <g
+         transform="matrix(0.62990995,0,0,0.62990995,167.02751,105.88085)"
+         id="g4612">
+        <path
+           id="path4614"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -119.50962,48.712357 0,-14.112 c 16.56001,-2.448 28.080005,-4.896 36.720006,-7.776 2.736061,-0.864 2.736061,-0.864 5.32803,-1.584 L -93.877493,5.2243565 c -2.016061,1.44 -5.616061,3.1680001 -11.232117,4.8960005 -12.24001,3.888 -22.46394,5.904 -36.72001,7.056 0.72,4.464 1.00803,10.224 1.00803,16.56 0,40.320001 -1.15196,60.912001 -3.74393,70.704003 -2.73607,9.936 -6.33607,17.136 -12.81607,25.776 8.49607,4.032 12.09607,6.336 20.44804,12.816 6.76803,-10.656 10.51197,-19.728 13.24803,-32.4 2.59197,-12.384002 3.4559,-21.456002 4.03197,-41.184002 l 7.92,0 0,53.136002 c 0,9.936 -0.14455,14.256 -0.86394,19.44 l 23.327876,0 c -0.72,-5.184 -0.86394,-9.36 -0.86394,-19.44 l 0,-53.136002 1.728031,0 c 5.183939,0 7.343939,0.143939 10.51197,0.576 l 0,-22.176001 c -3.02394,0.576 -7.200001,0.864 -13.10394,0.864 l -28.512127,0 z m -46.51197,19.584001 7.2,0 c 6.76804,0 10.2241,0.143939 14.68804,0.576 l 0,-21.312001 c -3.16804,0.432 -5.32804,0.576 -9.64804,0.72 0.72,-2.16 2.59197,-9.216 3.31197,-11.952 2.3041,0.143939 3.16803,0.143939 5.76,0.432 l 0,-21.024 c -4.03197,0.576 -7.0559,0.72 -14.68787,0.72 l -5.9041,0 c 0,-5.472 0.14455,-7.0560004 0.72,-10.3680005 l -24.19197,0 c 0.57607,3.7440001 0.57607,5.0400005 0.72,10.3680005 l -8.06394,0 c -7.34409,0 -10.8,-0.143939 -14.83212,-0.72 l 0,21.024 c 2.88,-0.288 4.03212,-0.288 7.34409,-0.432 1.44,3.744 2.44803,7.776 3.16803,11.952 -7.05606,0 -9.50409,-0.143939 -13.24803,-0.72 l 0,21.312001 c 4.17591,-0.432 7.77591,-0.576 14.4,-0.576 l 12.09591,0 0,6.336 -11.66394,0 c -7.77606,0 -10.65606,-0.143939 -14.83197,-0.72 l 0,20.88 c 4.17591,-0.432 7.63197,-0.576 14.4,-0.576 l 6.19197,0 c -3.16803,4.464 -5.32803,6.912002 -8.35197,9.792002 -6.04803,5.472 -10.51197,8.928 -14.68803,11.088 4.32,7.632 6.76803,13.536 8.78394,21.744 9.93606,-7.056 14.11213,-11.376 20.44803,-20.736 -0.14454,3.6 -0.28803,5.76 -0.28803,7.92 l 0,7.2 c 0,4.608 -0.14454,7.632 -0.57591,10.656 l 22.46394,0 c -0.5759,-3.312 -0.72,-6.336 -0.72,-11.664 l 0,-8.352 c 0,-1.872 -0.14454,-4.176 -0.28803,-9.504 3.0241,4.608 4.89606,6.624 9.64803,10.8 2.3041,-6.624 4.60804,-11.808 8.7841,-19.584 -5.1841,-3.456 -8.20803,-5.904002 -11.37607,-9.360002 6.48001,0 10.08001,0.14394 14.25607,0.576 l 0,-20.88 c -3.88803,0.576 -7.2,0.72 -14.68803,0.72 l -6.33607,0 0,-6.336 z m -13.96803,-20.016001 c -1.00787,-6.048 -1.44,-7.776 -3.02394,-12.096 l 12.09607,0 c -0.72,4.752 -1.5841,7.92 -3.0241,12.096 l -6.04803,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4616"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:94.63999939px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7.8190937,60.519924 c 4.32,-0.432 7.77606002,-0.576 13.39213,-0.576 l 14.6878697,0 c -0.86393,2.592 -1.44,4.32 -2.7359,6.912 l -10.6560697,0 c -6.33589998,0 -9.64803,-0.14394 -13.82393,-0.576 0.43196,3.456 0.5759,7.056 0.5759,12.96 l 0,48.528766 c 0,6.33619 -0.14454,10.08013 -0.72,13.96816 l 22.3199997,0 0,-5.04 34.41607,0 0,5.18394 22.608027,0 c -0.576061,-5.18394 -0.864091,-10.08 -0.864091,-16.84828 l 0,-44.208586 c 0,-5.904 0.28803,-10.512 0.72,-14.544 -4.175909,0.432 -8.06394,0.576 -15.263936,0.576 l -16.56,0 c 1.44,-2.88 2.16,-4.32 3.16803,-6.912 l 15.55197,0 c 5.616057,0 9.936057,0.14394 13.536057,0.576 l 0,-9.36 6.19197,0 c -0.576061,-3.456 -0.72,-7.056 -0.72,-11.52 l 0,-13.248 c 0,-5.04 0.144548,-8.352 0.575909,-11.808 -4.46394,0.432 -9.07197,0.576 -17.280001,0.576 l -37.583935,0 c 0,-3.888 0.14454,-6.0479999 0.57606,-8.7839999 l -24.62409968,0 c 0.57607,2.88 0.72,4.8959999 0.72,8.7839999 l -36.28803032,0 c -7.92,0 -12.38394,-0.14394 -17.28,-0.576 0.43212,3.312 0.57606,6.48 0.57606,11.376 l 0,15.84 c 0,4.608 -0.28803,7.92 -0.86394,11.664 l 20.88001,0 c -6.6241,10.944 -14.40001,19.44 -24.91213,27.36 4.46409,8.064 6.04803,11.952 9.07212,23.184036 3.74394,-3.02404 4.60788,-3.88804 8.92788,-8.640036 -0.28788,5.759996 -0.28788,9.360036 -0.28788,14.832196 l 0,14.54451 c 0,6.91222 -0.28803,11.80813 -0.86409,16.99222 l 23.04,0 c -0.43197,-5.47197 -0.5759,-9.36 -0.5759,-16.99222 l 0,-54.288706 c 4.60787,-7.344 7.63197,-12.384 10.3678703,-18 l 0,8.064 z m 0,-16.128 -16.2719703,-7.632 c -1.58394,4.176 -3.88803,8.784 -7.34394,14.832 l 0,-16.704 88.27198,0 0,5.76 -50.3999997,0 c -6.19196998,0 -9.50394,-0.14394 -14.25607,-0.72 l 0,4.464 z m 23.0399997,41.04 34.41607,0 0,6.912 -34.41607,0 0,-6.912 z m 0,24.624256 34.41607,0 0,7.63221 -34.41607,0 0,-7.63221 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         transform="translate(-1499.8326,-1518.328)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4618"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4620"><rect
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             y="1590.6964"
+             x="1511.8948"
+             height="33.763134"
+             width="223.94731"
+             id="rect4622" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1"
+           id="flowPara4625">SHINJUKU</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4627"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-1500.1177,-1376.328)"><flowRegion
+           id="flowRegion4629"><rect
+             id="rect4631"
+             width="223.94731"
+             height="33.763134"
+             x="1511.8948"
+             y="1590.6964"
+             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4633"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#000000;fill-opacity:1">EXPANSION</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer32"
      inkscape:label="Cut 2.5 x 3.5 - US Poker"
-     style="display:inline">
+     style="display:none">
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7457"
