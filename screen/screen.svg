@@ -18,7 +18,7 @@
    height="1620"
    viewBox="0 0 1080 1620"
    sodipodi:docname="screen.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/screen/screen-instr-yop.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/screen/screen-instr-y.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -270,12 +270,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.1654321"
-     inkscape:cx="514.14999"
-     inkscape:cy="1512.3155"
+     inkscape:cx="537.31736"
+     inkscape:cy="448.33245"
      inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5" /><g
+     inkscape:current-layer="layer7" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Text"
@@ -1023,11 +1023,11 @@
            id="flowRegion6000"><rect
              y="280.8898"
              x="755.02844"
-             height="73.741325"
-             width="213.59317"
+             height="65.160828"
+             width="229.8961"
              id="rect6002" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-           id="flowPara6004">Sort your customers by type and remove all customers that match the type you have the most pieces of.</flowPara></flowRoot><text
+           id="flowPara6004">Sort your customers by type and remove all customers that match the type you have the most tokens of.</flowPara></flowRoot><text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="870.05597"
@@ -1954,7 +1954,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Safe"
-     style="display:inline"><path
+     style="display:none"><path
        inkscape:connector-curvature="0"
        id="path434"
        style="fill:none;stroke:#6ac637;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -1972,7 +1972,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Cut / Fold"
-     style="display:inline"><path
+     style="display:none"><path
        inkscape:connector-curvature="0"
        id="path394"
        style="fill:none;stroke:#71d0de;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -2024,7 +2024,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Bleed"
-     style="display:inline"><path
+     style="display:none"><path
        transform="matrix(1.25,0,0,-1.25,0,1620)"
        inkscape:connector-curvature="0"
        id="path426"
