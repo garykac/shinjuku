@@ -4237,11 +4237,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2795595"
-     inkscape:cx="888.28958"
-     inkscape:cy="668.59235"
+     inkscape:zoom="0.9047852"
+     inkscape:cx="1107.475"
+     inkscape:cy="1211.4439"
      inkscape:document-units="px"
-     inkscape:current-layer="layer109"
+     inkscape:current-layer="g11451"
      showgrid="false"
      units="in"
      inkscape:window-width="1633"
@@ -9648,17 +9648,16 @@
      style="display:inline"
      transform="translate(-42.00021,-83.999784)">
     <g
-       id="g5787"
-       transform="translate(116.80478,-236.12144)">
+       id="g5583">
       <rect
-         y="354.95804"
-         x="-41.622364"
+         y="118.8366"
+         x="75.182419"
          height="115.51981"
          width="364.49463"
          id="rect5785"
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:18;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
-         transform="translate(72.999998,-24.999999)"
+         transform="translate(189.80478,-261.12144)"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5777"
          xml:space="preserve"><flowRegion
@@ -9669,7 +9668,14 @@
              width="1080.4591"
              id="rect5781" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#ffffff;fill-opacity:1"
-           id="flowPara5783">LONDON</flowPara></flowRoot>    </g>
+           id="flowPara5783">LONDON</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7441"
+         width="349.22119"
+         height="98.824303"
+         x="82.819138"
+         y="127.18436" />
+    </g>
   </g>
   <g
      transform="translate(-39.472656,5.994141)"
