@@ -1,4 +1,4 @@
-![Train Car](images/train-car.png)
+![Train Car](images/header.png)
 
 # Shinjuku
 
