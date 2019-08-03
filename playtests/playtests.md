@@ -1,5 +1,9 @@
 # Playtest Notes
 
+GenCon 2019 Playtests (3-player)
+
+* Aug 1 2019 - Playtest [#34](2019-08-01-playtest-34.md) [#35](2019-08-01-playtest-35.md)
+
 [Playtest #33 - Fri 26 Apr 2019](2019-04-26-playtest-33.md)
 
 * 4 player: JB AS SR GK
