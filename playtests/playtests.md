@@ -4,6 +4,8 @@ GenCon 2019 Playtests (3-player)
 
 * Aug 1 2019 - Playtest [#34](2019-08-01-playtest-34.md) [#35](2019-08-01-playtest-35.md)
 * Aug 2 2019 - Playtest [#36](2019-08-02-playtest-36.md) [#37](2019-08-02-playtest-37.md)
+* Aug 3 2019 - Playtest [#38](2019-08-03-playtest-38.md) [#39](2019-08-03-playtest-39.md) [#40](2019-08-03-playtest-40.md)
+* Aug 4 2019 - Playtest [#41](2019-08-04-playtest-41.md)
 
 [Playtest #33 - Fri 26 Apr 2019](2019-04-26-playtest-33.md)
 
