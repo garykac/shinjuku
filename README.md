@@ -6,7 +6,7 @@ _Shinjuku_ is a strategic network-building and pick-up-and-deliver board game.
 
 In _Shinjuku_, you build department stores in Tokyo and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.
 
-**STATUS: Rules are stable. Continuing playtests.**
+**STATUS: Rules are stable.**
 
 * [Sell sheet (1-page overview for publishers) (pdf)](docs/shinjuku_sellsheet.pdf)
 
@@ -167,7 +167,10 @@ Because the card frequency varies based on the population of that ward, some war
 
 ### End of Game
 
-When the last customer is drawn and placed on the map, that player completes their turn and then every player (including the player that drew final customer) gets one final turn before endgame scoring takes place.
+When the last customer is drawn from the bag, the player that drew the final customer finishes their turn and then the Final Round begins.
+
+At the start of the Final Round, everyone simultaneously takes a free INCOME action and then everyone takes one final turn, continuing the game where it left off so that the player who drew the last customer takes the final turn of the game.
+
 
 ### Endgame Scoring
 
