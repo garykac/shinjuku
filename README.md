@@ -169,7 +169,7 @@ Because the card frequency varies based on the population of that ward, some war
 
 When the last customer is drawn from the bag, the player that drew the final customer finishes their turn and then the Final Round begins.
 
-At the start of the Final Round, everyone simultaneously takes a free INCOME action and then everyone takes one final turn, continuing the game where it left off so that the player who drew the last customer takes the final turn of the game.
+At the start of the Final Round, everyone simultaneously takes a free **Income** action and then everyone takes one final turn, continuing the game where it left off so that the player who drew the last customer takes the final turn of the game.
 
 
 ### Endgame Scoring
