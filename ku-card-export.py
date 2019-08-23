@@ -194,10 +194,12 @@ def export_png(dir, basename, wards, export_id, has_back):
 #export_png('.', 'ku-cards', _wards, "cut-line", True)
 # Cards with transparent rounded border (for documentation).
 #export_png('.', 'ku-cards-rounded', _wards, "cut-line", True)
+# Black and White cards with transparent rounded border (for print-n-play).
+export_png('.', 'ku-cards-bw-rounded', _wards, "cut-line", True)
 
 # Paris
 #export_png('paris', 'arr-cards', _arr, "cut-line", False)
 #export_png('paris', 'arr-cards', _arr, "mpc-bbox", False)
 
 # London
-export_png('london', 'london-cards', _london, "mpc-bbox", False)
+#export_png('london', 'london-cards', _london, "mpc-bbox", False)
