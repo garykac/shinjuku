@@ -6,15 +6,17 @@ To create your own copy of _Shinjuku_ that you can play, you'll need the followi
 
 ### 1 Map
 
-The map is 18"x20" (457mm x 508mm):
+The map is 18"x20" (457mm x 508mm). You can choose the color version or the B&W version (with patterns for each ward):
 
-* Shinjuku Map - [Color](tokyo-map-color.jpg), [B&W](tokyo-map-bw.jpg)
+* Shinjuku Map - [Color](shinjuku-pnp/map-color.jpg), [B&W](shinjuku-pnp/map-bw.jpg)
+
+It's a single large image that you can either (a) have your printer split up and print across multiple pages that you can tape together, or (b) print out on a large format printer.
 
 ### 72 Cards
 
 There are 72 cards and each card identifies a single ward on the map.
 
-* Shinjuku Cards - [Color](pnp-cards-color.pdf), [B&W](pnp-cards-bw.pdf)
+* Shinjuku Cards - [Color (letter)](shinjuku-pnp/cards-color.pdf), [Color (A4)](shinjuku-pnp/cards-a4-color.pdf), [B&W (letter)](shinjuku-pnp/cards-bw.pdf), [B&W (A4)](shinjuku-pnp/cards-a4-bw.pdf)
 
 ### 52 Customers
 
@@ -56,7 +58,7 @@ The pieces used in the prototypes are:
 
 ### 64 track (16 track x 4 player colors)
 
-These are standard 25mm x 4mm prisms, 16 in each of the 4 player colors. Borrow these from your _Settlers of Catan_ game (you'll be 1 short per color) or you can get them here:
+These are standard 25mm x 4mm prisms (or "sticks"), 16 in each of the 4 player colors. Borrow these from your _Settlers of Catan_ game (you'll be 1 short per color, but that's only for 2p) or you can get them here:
 
 * [Wood Roads - PrintPlayGames](https://www.printplaygames.com/product/25mm-x-5mm-x-5mm-wood-roads/)
 * [Stick Wood - TheGameCrafter](https://www.thegamecrafter.com/parts/stick-wood-black)
@@ -67,8 +69,12 @@ Alternately, you can use any stick-like piece that is 25mm or shorter in length.
 
 The stores and customers are each labeled with a 1/2" round sticker. These stickers can either be created manually or they can be printed:
 
-* [Sheet of 154 round stickers 1/2"](https://www.avery.com/templates/presta-94503)
-* [Image to print on sticker sheet](../stickers/stickers.png)
+* [Blank sheet of 154 round stickers 1/2" (Avery)](https://www.avery.com/templates/presta-94503)
+* [Image to print on sticker sheet](shinjuku-pnp/stickers.pdf)
+
+For A4, there are typically 216 13mm round stickers, packed more tightly on the page:
+
+* [Image to print on A4 sheet](shinjuku-pnp/stickers-a4.pdf)
 
 ### 1 bag
 
