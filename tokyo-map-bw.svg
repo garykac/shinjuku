@@ -2955,11 +2955,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="854.8564"
-     inkscape:cy="1312.8859"
+     inkscape:zoom="0.35355341"
+     inkscape:cx="1152.3726"
+     inkscape:cy="1041.6941"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g5916"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -6240,6 +6240,17 @@
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.44761909;fill-rule:evenodd;stroke:none;stroke-width:9.5097208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="299.99997"
        inkscape:export-ydpi="299.99997" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="White Map Outer Border"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -202,-58 0,1960 2218,0 0,-1960 -2218,0 z M 2,92 1798,92 1798,1708 2,1708 2,92 Z"
+       id="path6702"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9771,5 +9782,72 @@
        height="908"
        x="-136.52754"
        y="-97.99398" />
+  </g>
+  <g
+     transform="translate(2.5275545,89.993925)"
+     style="display:none"
+     inkscape:label="8x10 pages"
+     id="g5916"
+     inkscape:groupmode="layer">
+    <rect
+       y="-89.994171"
+       x="-47.527321"
+       height="900"
+       width="630"
+       id="rect5921"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-2.png"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6714"
+       width="630"
+       height="900"
+       x="582.47266"
+       y="-89.994171" />
+    <rect
+       y="-89.994171"
+       x="1212.4727"
+       height="900"
+       width="630"
+       id="rect6716"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-4.png"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6725"
+       width="630"
+       height="900"
+       x="-47.527321"
+       y="810.00592" />
+    <rect
+       y="810.00592"
+       x="582.47266"
+       height="900"
+       width="630"
+       id="rect6727"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-5.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-images/map-6.png"
+       style="opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6729"
+       width="630"
+       height="900"
+       x="1212.4727"
+       y="810.00592" />
   </g>
 </svg>
