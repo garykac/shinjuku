@@ -20,10 +20,11 @@
    sodipodi:docname="stickers-a4.svg"
    inkscape:export-filename="/Users/garykac/projects/github/shinjuku/stickers/stickers.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"><metadata
+   inkscape:export-ydpi="300"><title
+     id="title5030">Shinjuku Stickers</title><metadata
      id="metadata5865"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Shinjuku Stickers</dc:title><dc:creator><cc:Agent><dc:title>Gary Kacmarcik</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs
      id="defs5863"><mask
        maskUnits="userSpaceOnUse"
        x="0"
@@ -54,7 +55,7 @@
      id="namedview5861"
      showgrid="false"
      inkscape:zoom="0.64715428"
-     inkscape:cx="0.98731738"
+     inkscape:cx="351.75375"
      inkscape:cy="533.37854"
      inkscape:window-x="0"
      inkscape:window-y="1"
