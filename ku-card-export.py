@@ -39,6 +39,8 @@ import subprocess
 
 from shutil import copyfile
 
+_export_dpi = 300
+
 # Tokyo Wards
 _wards = [
 	"01-chiyoda",
@@ -138,7 +140,7 @@ def svg_export_id(id, svg, png):
 		"--without-gui",
 		
 		"--export-png=%s" % os.path.abspath(os.path.join('', png)),
-		"--export-dpi=300",
+		"--export-dpi=%d" % _export_dpi,
 		"--export-text-to-path",
 		"--export-id=%s" % id,
 		])
