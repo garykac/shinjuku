@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="333.07905"
+     inkscape:cx="257.36476"
      inkscape:cy="471.65269"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -136,7 +136,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Page 1"
-     style="display:none">
+     style="display:inline">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/ku-cards-bw-rounded/01-chiyoda.png"
        y="22.049904"
@@ -799,7 +799,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Page 8"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/ku-cards-bw-rounded/22-katsushika.png"
