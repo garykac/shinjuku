@@ -13,14 +13,16 @@ To create your own copy of __Shinjuku__, you'll need the following:
 * 12 Department Store tokens (3 department stores x 4 player colors)
 * 64 Track pieces (16 pieces x 4 player colors)
 * 1 Bag (for drawing customer tokens)
-* 4 Player Screens (1 screen x 4 player colors) For the expansions, you’ll need:
+* 4 Player Screens (1 screen x 4 player colors)
+
+For the expansions, you’ll need:
+
 * Thief: 8 thief tokens (must match the Customer tokens)
 * Chairman: 4 Chairman tokens (1 for each player color)
 * Hachiko: 1 Hachiko station (should match the Store tokens) + Hachiko token
 * Kaiju: 1 Kaiju token
 
-The .zip file that accompanies these instructions contains the files necessary to print the Map, the Ward Cards and the sticker sheet for labeling the Customers and Stores. There are 2 versions of the .zip file: for printing on either [Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp-r1.zip) or [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp-r1-a4.zip)-size paper.
-
+These instructions are available in PDF form ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf)).
 ## Component Info
 
 ### 1 Map of Tokyo
@@ -34,7 +36,7 @@ The map is 18"x20" (457mm x 508mm). The print and play version of the map is in 
 
 There are 72 cards and each card identifies a single ward on the map.
 
-* Shinjuku Cards (B&W) - 8 pages ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw-a4.pdf))
+* Shinjuku Cards (B&W) - 8 pages, 9 cards per page ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw-a4.pdf))
 
 ### 52 Customers
 
