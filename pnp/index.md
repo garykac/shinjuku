@@ -2,6 +2,8 @@
 
 # Shinjuku - Print-n-Play
 
+These files and instructions are provided for non-commercial use.
+
 ## Summary
 
 To create your own copy of __Shinjuku__, you'll need the following:
@@ -130,7 +132,6 @@ The four Chairman tokens can be any shape/size as long as there is one for each 
 The Hachiko Station Marker should match the Store tokens, although this isn’t absolutely necessary.
 
 The Hachiko marker can be any token you have that Is vaguely dog-like.
-
 If you have access to a laser cutter, you can create your own using the following vector file:
 
 * [Hachiko outline (svg)](https://garykac.github.io/shinjuku/components/hachiko-laser.svg)
@@ -138,7 +139,6 @@ If you have access to a laser cutter, you can create your own using the followin
 ### Angry Kaiju
 
 The Kaiju marker can be any token you have that Is somewhat monstrous.
-
 If you have access to a laser cutter, you can create your own using the following vector outline file:
 
 * [Kaiju outline (svg)](https://garykac.github.io/shinjuku/components/kaiju-laser.svg)
