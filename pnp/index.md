@@ -52,7 +52,7 @@ Alternately, you can use any 52 pieces that are all the same size and can be mar
 If you're marking the pieces yourself (rather than using printed 1/2" stickers), the distribution of customers is as follows:
 
 * 17 customers who want **food** (marked with a ◯)
-  * **13 regular** food customers and **6 double** food customers
+  * **11 regular** food customers and **6 double** food customers
 * 14 customers who want **clothing** (marked with a ⤫)
   * **9 regular** clothing customers and **5 double** clothing customers
 * 12 customers who want **books** (marked with a △)
