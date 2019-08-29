@@ -32,6 +32,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 * Game Development
 	* Game categories: strategic; network building; pick-up and deliver
+	* [Github repository](https://github.com/garykac/shinjuku)
 	* [Playtest notes](playtests/playtests.md)
 	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
 
