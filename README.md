@@ -6,19 +6,29 @@ _Shinjuku_ is a strategic network-building and pick-up-and-deliver board game.
 
 In _Shinjuku_, you build department stores in Tokyo and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.
 
-**STATUS: Rules are stable.**
+## Rule Summary
 
-* [Sell sheet (1-page overview for publishers) (pdf)](docs/shinjuku_sellsheet.pdf)
+Every turn, new customers will arrive on the map looking to purchase one of 4 different goods. On your turn, you choose 2 different actions from: (a) Build a store, (b) Expand your rail, (c) Upgrade to a department store, (d) draw cards as Income or (e) Move customers along the rail to stores.
+
+You start with a hand of 5 location cards. The Build, Upgrade and Move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are Wild and can be used to match any location.
+
+The game ends when the last customer is placed (+ one final round) and victory goes to the player that acquired the most customers (after each player removes the customer type that they have the most of).
+
+## Links
 
 * Rules:
 	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
 	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
 
-* Mini-Expansions:
-	* Thief, Chairman, Hachiko, Kaiju. [Rules for Expansions (pdf)](docs/shinjuku_expansions.pdf)
+* [Print and Play Instructions](pnp)
+
+* Mods (Mini-Expansions):
+	* Thief, Chairman, Hachiko, Kaiju. [Rules for Mods (pdf)](docs/shinjuku_expansions.pdf)
 
 * Alternate Maps
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
+
+* [Sell sheet (1-page overview for publishers) (pdf)](docs/shinjuku_sellsheet.pdf)
 
 * Game Development
 	* Game categories: strategic; network building; pick-up and deliver
