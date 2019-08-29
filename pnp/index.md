@@ -113,6 +113,8 @@ For A4, there are typically 216 13mm round stickers, packed more tightly on the 
 
 * [Image to print on sticker sheet (A4)](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers-a4.pdf)
 
+Note that there is 1 sticker for each customer token and 2 stickers for each store token (to label the front and back). Labelling both sides of the stores is optional, but it helps speed up the initial setup a bit by eliminating the need to flip over the stores that land upside-down.
+
 ## Expansions
 
 ### Sneaky Thief
