@@ -2446,18 +2446,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000005"
-     inkscape:cx="867.27691"
-     inkscape:cy="900"
+     inkscape:zoom="0.50000006"
+     inkscape:cx="829.6467"
+     inkscape:cy="900.86613"
      inkscape:document-units="px"
      inkscape:current-layer="g11455"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
      inkscape:window-height="1005"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-paths="false"
@@ -2486,7 +2486,8 @@
      id="layer57"
      inkscape:label="Water"
      style="display:inline"
-     transform="translate(93.572125,361.73541)">
+     transform="translate(93.572125,361.73541)"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#d2ecf7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7620"
@@ -2494,6 +2495,48 @@
        height="2734.3975"
        x="-717.62946"
        y="-752.26141" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Water Boundaries Clone - Shadow"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <use
+       height="100%"
+       width="100%"
+       id="use6526"
+       xlink:href="#path6542"
+       y="0"
+       x="0"
+       style="display:inline;stroke:#e0f2f9;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Water Boundaries Clone - Dot"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <use
+       style="display:inline;stroke:#63bde2;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+       x="0"
+       y="0"
+       xlink:href="#path6542"
+       id="use6523"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Water Boundaries"
+     style="display:inline">
+    <path
+       id="path6542"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1008.4999,1017.5001 12,8.75 -6,37.25 50.25,65.5 m 133.75,-406.24999 10.5,-4 m -34.75,-46.25 12,4 m 135.5,-291.74997 13.5,2 m 43.5,-108.99999 -9.5,9.5 m -404.49999,-136.99999 -2.5,10 m 447.24999,87.99999 -11,10.5 m -45,-107.74999 c 0,0 -17.5694,-16.1133 -31.75,-23.5 -14.1806,-7.3867 -28.1935,-15.39216 -42.25,-18.24999 -14.0565,-2.85783 -37.1294,-1.66657 -58,1.5 -20.8706,3.16657 -36.1604,6.26657 -56.25,11.5 -20.0896,5.23343 -43.4995,8.08172 -69.5,8.99999 -26.0005,0.91827 -51.5091,-4.07131 -68.5,-12.24999 -16.9909,-8.17868 -30.25,-25.500002 -38.75,-37.250001 m 141.75,1169.999931 12,-9.5 -46,-72 -31,-40.25 124.5,-94 c 0,0 1.5149,-1.658 1.75,-15 0.2351,-13.342 -4.159,-47.0754 -5.25,-64.75002 -1.091,-17.67462 -0.672,-27.71475 -2.75,-40.74999 -2.078,-13.03524 -9.25,-37 -9.25,-37 0,0 0.7868,-13.31888 2.25,-23.25 1.4632,-9.93112 2.5242,-24.04578 7.75,-35.74999 5.2258,-11.70421 17.464,-25.09019 22.5,-34.5 5.036,-9.40981 8.2705,-12.68418 9,-21 0.7295,-8.31582 -2.6131,-17.82227 -7.75,-26 -5.1369,-8.17773 -16.6731,-21.17208 -20.25,-31.74999 -3.5769,-10.57791 -4.581,-22.83676 0.5,-35.5 5.081,-12.66324 20.0508,-31.09618 30,-49.74999 9.9492,-18.65381 14.7108,-36.83133 25,-54.5 10.2892,-17.66867 23.7487,-34.40379 38.75,-51.24999 15.0013,-16.8462 29.8778,-31.05085 39.25,-50.75 9.3722,-19.69914 12.1663,-44.83317 13.5,-66.99999 1.3337,-22.16682 7.8236,-48.79104 16.5,-63.75 8.6764,-14.95896 17.7259,-22.62548 18.75,-33.74999 1.0241,-11.12451 -0.075,-18.97664 -8.5,-25.5 -8.4254,-6.52336 -24.0578,-5.60726 -37.25,-1.25 -13.1922,4.35726 -22.4814,12.59239 -38.5,15.75 -16.0186,3.15761 -39.0967,0.93441 -53.75,-4.25 -14.6533,-5.18441 -23.3815,-11.42178 -31.75,-21.75 -8.3685,-10.32822 -16.7793,-26.58512 -16.5,-36.5 0.2793,-9.91488 5.3116,-13.09689 10.25,-16.49999 4.9384,-3.4031 14.2356,-4.48728 11.25,-14.75 -2.9856,-10.26272 -10.1149,-18.41641 -20.75,-25.5 -10.6351,-7.08359 -22.1677,-9.96966 -44,-9 -21.8323,0.96966 -72.7205,4.29084 -96.25,1.5 -23.5295,-2.79084 -63.87395,-9.7544 -86.74999,-13.25 -22.87604,-3.4956 -40.54142,-7.82645 -48.75,-13.5 -8.20858,-5.67355 -10.79837,-15.64197 -9.25,-22.49999 1.54837,-6.85802 8.44109,-11.24448 17,-17.000002 8.55891,-5.755522 20.75,-11.499999 29.75,-22.749998 m 415.49999,67.24999 -5.5,14 c 0,0 13.7412,15.26883 23,30.25 9.2588,14.98117 23.0275,44.50577 30.5,61.99999 7.4725,17.49422 13.3405,30.68996 26,53 12.6595,22.31004 45.655,63.36203 67.25,91.24999 21.595,27.88796 61.9999,76.24999 61.9999,76.24999 m 79,60.25 -14.75,12.49999 -64.75,-73.49999 -18.5,12.75 m -505.5164,878.54097 108.5165,162.9589 16.1893,38.1967 26.0622,33.6888 108.7485,67.8645 101.5,-6 111.4497,-77.9779 -51.8727,-105.5135 106.9879,-79.2659 20.685,-258.2426 c 0,0 1.6091,-146.09052 3.5,-190.75001 1.8909,-44.65949 3.1548,-60.38908 5.25,-79.25 2.0952,-18.86092 7,-44.24999 15.25,-61.24999 0,0 -8.9423,-6.3633 -14.6923,-11.8633 m -542.0741,552.6543 -28.7335,25.4589 10,54.5 65.75,117.75 m -50.75,-256.2499 -15.75,-20.5 -67,1.5 -29.0731,29.2722 -13.04257,0.066 -0.36481,-8.8567 -8.31275,-1.0257 -36.19961,20.7427 -2.23326,-19.633 -11.57061,-1.311 m 16.54671,301.9955 10.15178,0.1863 5.47322,8.4387 m 688.8749,-434.8749 c 0,0 40.1306,21.5225 60.75,28.25 20.6194,6.7275 40.5278,10.4138 59.5131,11.8217 18.9853,1.4079 51.7191,-1.511 51.7191,-1.511 0,0 10.8303,-14.7305 17.5178,-22.8107 6.6875,-8.0802 16.1209,-19.7831 24.75,-26.25 8.6291,-6.4669 25.5,-13 25.5,-13 m -67.5667,63.3734 1.591,98.995 54.8008,16.617 m -770.825,251.2644 55.5,-26.5 33.5,63 83.25,70.5 -37.25,54.5 m -826.49994,-8 c 0,0 -5.17762,-30.0432 -9.5,-44.25 -4.32238,-14.2068 -8.33768,-27.2524 -15.75,-39.5 -7.41232,-12.2476 -19.63351,-27.5303 -27.74999,-33.25 -13.48376,-11.1213 -27.0519,-0.2164 -41.25,-1.5 -10.02054,-1.1535 -16.9466,-6.276 -32.5,-14.5 -15.5534,-8.224 -40.31313,-25.0683 -60.24999,-40 -19.93686,-14.9317 -38.91553,-31.0302 -58.24999,-48 C 91.415532,1482.7802 70.36688,1461.4664 54.749994,1448 39.133108,1434.5336 29.405397,1425.1385 16.749998,1418.25 4.0945992,1411.3615 -8.2499992,1408.5 -19.249998,1406 m 255.499968,186 8,-20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczccccccccccccccccccczzzzzzcccccczzzczzzzzzzzzzzzzzzzzzzzzzzzzzzzzccczzzzccccccccccccccccccssccccccccccccccccccccccccczzcczzzzzccc" />
   </g>
   <g
      style="display:inline;opacity:1"
@@ -7238,9 +7281,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7675"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot7677"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7249,8 +7292,9 @@
              x="280.45499"
              height="25.99826"
              width="46.940556"
-             id="rect7681" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             id="rect7681"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1"
            id="flowPara7683">新宿</flowPara></flowRoot>      <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.88666677px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7283,7 +7327,7 @@
          id="rect6687"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7722"
          width="45.313843"
          height="19.285248"
@@ -7294,14 +7338,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7724"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
            id="flowRegion7726"><rect
              id="rect7728"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
            id="flowPara7732">池袋</flowPara></flowRoot>    </g>
     <g
        id="g7736"
@@ -7329,9 +7374,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7738"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot7740"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7340,9 +7385,10 @@
              x="280.45499"
              height="38.355465"
              width="60.842407"
-             id="rect7744" /></flowRegion><flowPara
+             id="rect7744"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
            id="flowPara7746"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">上野</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none">上野</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,57.923161,-698.98289)"
        id="g7748">
@@ -7363,7 +7409,7 @@
          id="rect6631"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7750"
          width="59.730583"
          height="19.285248"
@@ -7374,14 +7420,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot7752"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
            id="flowRegion7754"><rect
              id="rect7756"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
            id="flowPara7758">秋葉原</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-41.044579,-577.08752)"
@@ -7403,7 +7450,7 @@
          id="rect6645"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7762"
          width="45.313843"
          height="19.285248"
@@ -7414,14 +7461,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7764"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
            id="flowRegion7766"><rect
              id="rect7768"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
            id="flowPara7772">東京</flowPara></flowRoot>    </g>
     <g
        id="g7776"
@@ -7449,9 +7497,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7778"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot7780"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7460,9 +7508,10 @@
              x="280.45499"
              height="38.355465"
              width="60.842407"
-             id="rect7784" /></flowRegion><flowPara
+             id="rect7784"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
            id="flowPara7786"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">新橋</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none">新橋</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-182.06737,-107.07421)"
        id="g7788">
@@ -7483,7 +7532,7 @@
          id="rect6653"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7790"
          width="45.313843"
          height="19.285248"
@@ -7494,14 +7543,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7792"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
            id="flowRegion7794"><rect
              id="rect7796"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
            id="flowPara7798">品川</flowPara></flowRoot>    </g>
     <g
        id="g7800"
@@ -7529,9 +7579,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7802"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
          id="flowRoot7804"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7540,9 +7590,10 @@
              x="280.45499"
              height="38.355465"
              width="60.842407"
-             id="rect7808" /></flowRegion><flowPara
+             id="rect7808"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
            id="flowPara7810"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">目黒</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">目黒</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-449.74311,-354.8635)"
        id="g7812">
@@ -7563,7 +7614,7 @@
          y="511.98953"
          ry="9.6426239" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#d7955a;fill-opacity:1;fill-rule:evenodd;stroke:#d7955a;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7814"
          width="45.313843"
          height="19.285248"
@@ -7574,15 +7625,16 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7816"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
            id="flowRegion7818"><rect
              id="rect7820"
              width="46.940556"
              height="25.99826"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
+             y="346.10059"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
            id="flowPara7822"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">渋谷</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">渋谷</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-481.45866,-820.84956)"
        id="g7824">
@@ -7603,7 +7655,7 @@
          y="511.98953"
          ry="9.6426239" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7826"
          width="73.95462"
          height="19.285248"
@@ -7614,14 +7666,15 @@
          transform="translate(191.29366,166.24923)"
          xml:space="preserve"
          id="flowRoot7828"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
            id="flowRegion7830"><rect
              id="rect7832"
              width="72.668716"
              height="35.706997"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
            id="flowPara7836">高田馬場</flowPara></flowRoot>    </g>
     <g
        id="g7840"
@@ -7635,7 +7688,7 @@
          id="rect7842"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
          id="flowRoot7844"
          xml:space="preserve"
          transform="translate(192.2456,166.24923)"><flowRegion
@@ -7644,9 +7697,10 @@
              x="280.45499"
              height="38.355465"
              width="60.842407"
-             id="rect7848" /></flowRegion><flowPara
+             id="rect7848"
+             style="stroke:none;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
            id="flowPara7850"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">飯田橋</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:none;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;">飯田橋</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-274.9688,-390.76997)"
        id="g7852">
@@ -7907,7 +7961,7 @@
          id="rect6715"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect8182"
          width="59.730583"
          height="19.285248"
@@ -7918,14 +7972,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot8184"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
            id="flowRegion8186"><rect
              id="rect8188"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
            id="flowPara8192">北千住</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,590.85311,-1132.5003)"
@@ -8175,7 +8230,7 @@
          id="rect6667"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect8649"
          width="59.730583"
          height="19.285248"
@@ -8186,14 +8241,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot8651"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
            id="flowRegion8653"><rect
              id="rect8655"
              width="60.842407"
              height="38.355465"
              x="280.45499"
-             y="346.10059" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+             y="346.10059"
+             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
            id="flowPara8659">中目黒</flowPara></flowRoot>    </g>
     <g
        id="g8665"
@@ -8414,14 +8470,14 @@
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6249"
-       width="16.970566"
-       height="25.10228"
-       x="441.52814"
-       y="367.86716" />
+       width="16.086699"
+       height="20.594452"
+       x="441.97009"
+       y="372.37497" />
     <rect
-       y="366.03137"
+       y="370.00885"
        x="445.27814"
-       height="29.06933"
+       height="25.091867"
        width="9.4705811"
        id="rect6955"
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.51000023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1, 19.99999952;stroke-dashoffset:0;stroke-opacity:1" />
@@ -8530,7 +8586,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Border 18x20"
-     style="display:inline"
+     style="display:none"
      transform="translate(2.5275545,89.993925)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -10029,6 +10085,48 @@
          id="path13559-2-1"
          d="m 436.25554,1246.424 -7.8321,0 0,-2.0508 7.8321,0 0,2.0508 z"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1129.4278,1410.2646 c 37.9198,61.0039 95.2783,107.9846 172.5,142.5"
+       id="tokyo-bay-label-path"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="tokyo-bay-label"
+       transform="translate(-100,-80)">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#46b1df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1160.0697,1286.2548 -5.6465,-7.9976 2.0941,-1.4783 5.6466,7.9977 -2.0942,1.4782 z"
+         id="path14182-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14193-3"
+         d="m 1194.0933,1323.4796 -7.2924,-6.5319 1.7102,-1.9095 7.2924,6.5319 -1.7102,1.9095 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#46b1df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="translate(0,-140)"
+         sodipodi:linespacing="125%"
+         id="text6586"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#46b1df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><textPath
+           id="textPath6596"
+           xlink:href="#tokyo-bay-label-path"><tspan
+   id="tspan6588"
+   style="fill:#46b1df;fill-opacity:1"><tspan
+     x="1144.0239"
+     y="1326.6136"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
+     id="tspan6590">Tokyo Bay </tspan><tspan
+     x="1304.522"
+     y="1326.6136"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
+     id="tspan6592">東京湾</tspan><tspan
+     x="1379.522"
+     y="1326.6136"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
+     id="tspan6594" /></tspan></textPath></text>
     </g>
   </g>
   <g
