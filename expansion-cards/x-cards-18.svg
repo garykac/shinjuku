@@ -17,7 +17,7 @@
    height="18in"
    viewBox="0 0 1080 1620"
    sodipodi:docname="x-cards-18.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-cards-front-18.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-cards-back-18.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -51,9 +51,9 @@
      showguides="false"
      inkscape:object-nodes="true"
      inkscape:snap-page="false"
-     inkscape:zoom="0.58271606"
-     inkscape:cx="-69.132618"
-     inkscape:cy="845.50496"
+     inkscape:zoom="1.1654321"
+     inkscape:cx="468.3915"
+     inkscape:cy="708.46843"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Lines"
-     style="display:none">
+     style="display:inline">
     <g
        id="g6004">
       <rect
@@ -441,7 +441,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Back"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/back.png"
        xlink:href="back.png"
@@ -629,26 +630,6 @@
      inkscape:label="Front"
      style="display:inline">
     <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-chairman.png"
-       xlink:href="x-chairman.png"
-       y="708.763"
-       x="-1057.2886"
-       id="image4786"
-       preserveAspectRatio="none"
-       height="337.5"
-       width="247.5"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-hachiko.png"
-       xlink:href="x-hachiko.png"
-       y="708.763"
-       x="-562.27069"
-       id="image4797"
-       preserveAspectRatio="none"
-       height="337.5"
-       width="247.5"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-kaiju.png"
        xlink:href="x-kaiju.png"
        y="33.797668"
@@ -659,50 +640,10 @@
        width="247.5"
        transform="matrix(0,-1,1,0,0,0)" />
     <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-thief.png"
-       xlink:href="x-thief.png"
-       y="33.797668"
-       x="-809.77954"
-       id="image4819"
-       preserveAspectRatio="none"
-       height="337.5"
-       width="247.5"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-kaiju.png"
-       xlink:href="x-kaiju.png"
-       transform="matrix(0,-1,1,0,0,0)"
-       width="247.5"
-       height="337.5"
-       preserveAspectRatio="none"
-       id="image4822"
-       x="-314.76166"
-       y="371.28033" />
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-kaiju.png"
-       xlink:href="x-kaiju.png"
-       y="708.763"
-       x="-314.76166"
-       id="image4824"
-       preserveAspectRatio="none"
-       height="337.5"
-       width="247.5"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-hachiko.png"
        xlink:href="x-hachiko.png"
-       transform="matrix(0,-1,1,0,0,0)"
-       width="247.5"
-       height="337.5"
-       preserveAspectRatio="none"
-       id="image4826"
-       x="-562.27069"
-       y="371.28033" />
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-hachiko.png"
-       xlink:href="x-hachiko.png"
-       y="33.797668"
-       x="-562.27069"
+       y="371.28033"
+       x="-314.76166"
        id="image4828"
        preserveAspectRatio="none"
        height="337.5"
@@ -719,16 +660,6 @@
        x="-809.77954"
        y="371.28033" />
     <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-thief.png"
-       xlink:href="x-thief.png"
-       y="708.763"
-       x="-809.77954"
-       id="image4832"
-       preserveAspectRatio="none"
-       height="337.5"
-       width="247.5"
-       transform="matrix(0,-1,1,0,0,0)" />
-    <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-chairman.png"
        xlink:href="x-chairman.png"
        transform="matrix(0,-1,1,0,0,0)"
@@ -737,16 +668,86 @@
        preserveAspectRatio="none"
        id="image4834"
        x="-1057.2886"
-       y="371.28033" />
+       y="33.797668" />
     <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-chairman.png"
-       xlink:href="x-chairman.png"
-       y="33.797668"
-       x="-1057.2886"
-       id="image4836"
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-indecisive.png"
+       xlink:href="x-indecisive.png"
+       y="708.763"
+       x="-809.77954"
+       id="image4438"
        preserveAspectRatio="none"
        height="337.5"
        width="247.5"
        transform="matrix(0,-1,1,0,0,0)" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-party-planner.png"
+       xlink:href="x-party-planner.png"
+       y="33.797668"
+       x="-809.77954"
+       id="image4449"
+       preserveAspectRatio="none"
+       height="337.5"
+       width="247.5"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-princess.png"
+       xlink:href="x-princess.png"
+       y="708.763"
+       x="-314.76166"
+       id="image4460"
+       preserveAspectRatio="none"
+       height="337.5"
+       width="247.5"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-bonus-action.png"
+       xlink:href="x-bonus-action.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       width="247.5"
+       height="337.5"
+       preserveAspectRatio="none"
+       id="image4319"
+       x="-562.27069"
+       y="33.797668" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-flash-mob.png"
+       xlink:href="x-flash-mob.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       width="247.5"
+       height="337.5"
+       preserveAspectRatio="none"
+       id="image4381"
+       x="-562.27069"
+       y="371.28033" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-bypass.png"
+       xlink:href="x-bypass.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       width="247.5"
+       height="337.5"
+       preserveAspectRatio="none"
+       id="image4443"
+       x="-562.27069"
+       y="708.763" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-advertise.png"
+       xlink:href="x-advertise.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       width="247.5"
+       height="337.5"
+       preserveAspectRatio="none"
+       id="image4567"
+       x="-1057.2886"
+       y="708.763" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/expansion-cards/x-preorder.png"
+       xlink:href="x-preorder.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       width="247.5"
+       height="337.5"
+       preserveAspectRatio="none"
+       id="image4629"
+       x="-1057.2886"
+       y="371.28033" />
   </g>
 </svg>
