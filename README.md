@@ -17,13 +17,14 @@ The game ends when the last customer is placed (+ one final round) and victory g
 ## Links
 
 * Rules:
-	* [Quickstart Rules (pdf)](docs/shinjuku_quickstart.pdf)
-	* [Complete Rules (pdf)](docs/shinjuku_rules.pdf)
+	* Complete Rules of Play ([Letter](docs/shinjuku_rules.pdf), [A4](docs/shinjuku_rules_a4.pdf))
+	* Quickstart Rules ([Letter](docs/shinjuku_quickstart.pdf), [A4](docs/shinjuku_quickstart_a4.pdf))
 
 * [Print and Play Instructions](pnp)
 
-* Mods (Mini-Expansions):
+* Mods (Mini-Expansions and Rule Variants):
 	* Mod Pack I - Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](docs/shinjuku_mods_1.pdf), [A4](docs/shinjuku_mods_1_a4.pdf))
+	* Mod Pack II - Savvy Advertisement, Preorder Discount, Indecisive Shopper, Party Planner, Bonus Action, Bypass, Flash Mob (in progress)
 
 * Alternate Maps
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
