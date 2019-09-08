@@ -23,7 +23,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 * [Print and Play Instructions](pnp)
 
 * Mods (Mini-Expansions):
-	* Thief, Chairman, Hachiko, Kaiju. [Rules for Mods (pdf)](docs/shinjuku_expansions.pdf)
+	* Mod Pack I - Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](docs/shinjuku_mods_1.pdf), [A4](docs/shinjuku_mods_1_a4.pdf))
 
 * Alternate Maps
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
