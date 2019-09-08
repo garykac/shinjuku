@@ -2,7 +2,9 @@
 
 # Shinjuku - Print-n-Play
 
-These files and instructions are provided for non-commercial use.
+Version 1 r3
+
+_These files and instructions are provided for non-commercial use._
 
 ## Summary
 
@@ -11,7 +13,7 @@ To create your own copy of __Shinjuku__, you'll need the following:
 * 1 Rules of Play document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
 * 1 Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 * 1 Map of Tokyo
-* 72 Ward Cards
+* 1 deck of 72 Ward Cards
 * 52 Customer tokens
 * 32 Store tokens (8 stores x 4 player colors)
 * 12 Department Store tokens (3 department stores x 4 player colors)
@@ -22,7 +24,7 @@ To create your own copy of __Shinjuku__, you'll need the following:
 For the Mods (mini-expansions and variants), you’ll need:
 
 * 1 Mod Pack I rules document ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1-a4.pdf))
-* 5 Mod cards (1 for each mod)
+* 1 set of 5 Mod cards (1 for each mod)
 * Princess: 1 Princess token
 * Thief: 8 thief tokens (must match the Customer tokens)
 * Chairman: 4 Chairman tokens (1 for each player color)
