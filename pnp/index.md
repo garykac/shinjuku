@@ -8,6 +8,8 @@ These files and instructions are provided for non-commercial use.
 
 To create your own copy of __Shinjuku__, you'll need the following:
 
+* 1 Rules of Play document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
+* 1 Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 * 1 Map of Tokyo
 * 72 Ward Cards
 * 52 Customer tokens
@@ -17,14 +19,17 @@ To create your own copy of __Shinjuku__, you'll need the following:
 * 1 Bag (for drawing customer tokens)
 * 4 Player Screens (1 screen x 4 player colors)
 
-For the expansions, you’ll need:
+For the Mods (mini-expansions and variants), you’ll need:
 
+* 1 Mod Pack I rules document ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1-a4.pdf))
+* 5 Mod cards (1 for each mod)
+* Princess: 1 Princess token
 * Thief: 8 thief tokens (must match the Customer tokens)
 * Chairman: 4 Chairman tokens (1 for each player color)
 * Hachiko: 1 Hachiko station (should match the Store tokens) + Hachiko token
 * Kaiju: 1 Kaiju token
 
-These instructions are available in PDF form ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf)).
+These print-and-play instructions are available in PDF form ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf)).
 ## Component Info
 
 ### 1 Map of Tokyo
@@ -115,13 +120,21 @@ For A4, there are typically 216 13mm round stickers, packed more tightly on the 
 
 Note that there is 1 sticker for each customer token and 2 stickers for each store token (to label the front and back). Labelling both sides of the stores is optional, but it helps speed up the initial setup a bit by eliminating the need to flip over the stores that land upside-down.
 
-## Expansions
+## Mods
+
+For the Mods, you'll need to print out the 5 mod cards. These allow you to randomly select mods for play and also summarize the mod rules.
+
+* Shinjuku Mod Pack I Cards - 1 page, 5 cards ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1-a4.pdf))
+
+### Wandering Princess
+
+The Princess marker can be any token you like as long as it is easily distinguishable from other tokens in the game.
 
 ### Sneaky Thief
 
 Because the Thief tokens are placed in the bag with the rest of the Customer tokens, they need to exactly match the 15x10mm tokens.
 
-On the sticker sheet, the Thief tokens have a red ‘x’ on them. If you are labeling them yourself, then add a red ‘.’ or ‘x’ to mark the thieves.
+On the sticker sheet, the Thief tokens have a red ‘x’ on them. If you are labeling them yourself, then add a red ‘.’, ‘x’ or some other mark to identify the thieves.
 
 ### Busy Chairman
 
@@ -140,7 +153,7 @@ If you have access to a laser cutter, you can create your own using the followin
 
 ### Angry Kaiju
 
-The Kaiju marker can be any token you have that Is somewhat monstrous.
+The Kaiju marker can be any token you have that is somewhat monstrous.
 If you have access to a laser cutter, you can create your own using the following vector outline file:
 
 * [Kaiju outline (svg)](https://garykac.github.io/shinjuku/components/kaiju-laser.svg)
