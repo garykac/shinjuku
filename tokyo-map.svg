@@ -2447,10 +2447,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000006"
-     inkscape:cx="829.6467"
+     inkscape:cx="483.64674"
      inkscape:cy="900.86613"
      inkscape:document-units="px"
-     inkscape:current-layer="g11455"
+     inkscape:current-layer="g6419"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -12162,7 +12162,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Overlay: Customer Lure Path"
+     inkscape:label="Overlay: Move Example 1"
      style="display:none"
      transform="translate(2.5275545,89.993925)">
     <rect
@@ -13332,7 +13332,10 @@
     <g
        style="display:inline"
        id="g5711-5"
-       transform="translate(-149.02534,268.32467)">
+       transform="translate(-149.02534,268.32467)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/dept-stores.png"
+       inkscape:export-xdpi="99.94931"
+       inkscape:export-ydpi="99.94931">
       <circle
          style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle7452-7-5-14-6"
@@ -13368,7 +13371,10 @@
     <g
        style="display:inline"
        id="g5511"
-       transform="translate(-42.481193,448.1678)">
+       transform="translate(-42.481193,448.1678)"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/dept-stores.png"
+       inkscape:export-xdpi="99.94931"
+       inkscape:export-ydpi="99.94931">
       <circle
          style="display:inline;opacity:1;fill:#22e50c;fill-opacity:1;fill-rule:evenodd;stroke:#19ab09;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle7452-7-5-5"
