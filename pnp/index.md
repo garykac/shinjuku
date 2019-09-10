@@ -23,7 +23,7 @@ To create your own copy of __Shinjuku__, you'll need the following:
 
 For the Mods (mini-expansions and variants), you’ll need:
 
-* 1 Mod Pack I rules document ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/mods-1-a4.pdf))
+* 1 Mod Pack I rules document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1_a4.pdf))
 * 1 set of 5 Mod cards (1 for each mod)
 * Princess: 1 Princess token
 * Thief: 8 thief tokens (must match the Customer tokens)
