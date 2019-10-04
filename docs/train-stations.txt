@@ -786,7 +786,7 @@ Tokyo Stations
 11* Shimbashi
 15* Ueno station
 17* Kita-Senju
-18- Hamamatsucho - between Shimbashi and Shiagawa
+18- Hamamatsucho - between Shimbashi and Shinagawa
 19* Akihabara
     Ayase - off map after Kita-Senju, so no need
 21- Machida - not in 23 special wards
