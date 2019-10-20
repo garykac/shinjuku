@@ -70,7 +70,7 @@ Some stations have an icon <img src="images/dept-store-icon.png" height="20px"/>
 
 There are 72 cards and each card identifies a single ward on the map.
 
-<img src="ku-cards-rounded/04-shinjuku.png" height="200px"/> <img src="ku-cards-rounded/03-minato.png" height="200px"/> <img src="ku-cards-rounded/12-setagaya.png" height="200px"/> <img src="ku-cards-rounded/06-taito.png" height="200px"/>
+<img src="cards/ku-cards-rounded/04-shinjuku.png" height="200px"/> <img src="cards/ku-cards-rounded/03-minato.png" height="200px"/> <img src="cards/ku-cards-rounded/12-setagaya.png" height="200px"/> <img src="cards/ku-cards-rounded/06-taito.png" height="200px"/>
 
 There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
