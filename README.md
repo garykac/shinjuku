@@ -16,6 +16,8 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 ## Links
 
+* [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku)
+
 * Rules:
 	* Complete Rules of Play ([Letter](docs/shinjuku_rules.pdf), [A4](docs/shinjuku_rules_a4.pdf))
 	* Quickstart Rules ([Letter](docs/shinjuku_quickstart.pdf), [A4](docs/shinjuku_quickstart_a4.pdf))
@@ -64,7 +66,7 @@ The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Jap
 
 Each region contains 1 or more train stations and these stations have lines that identify potential connections to other stations.
 
-Some stations have an icon <img src="images/dept-store-icon.png" height="20px"/> and a double-outline indicating that stores built there can be upgraded to a department store.
+Some station names are highlighted with a background color which indicates that stores built there can be upgraded to a department store.
 
 ### Cards
 
@@ -90,8 +92,6 @@ There are 4 kinds of stores:
 | <img src="components/stores-track/generic-electronics.png" height="40px"/> | sells Electronics |
 
 A department store sells all of these goods.
-
-_(Note: Earlier prototypes use different symbols: ◯=food, ⤫=clothing, △=books, ⭒=electronics)_
 
 ### Customers
 
@@ -137,8 +137,8 @@ Choose any two of the following actions (must be different actions):
 * **Build Store** : Play a ward card and build a store at any empty station in that ward.
 * **Expand Track** : Build a single piece of track anywhwere on the map. Or play a wildcard to build 2 connected segments of track
 * **Upgrade Store** : Play a matching ward card and sacrifice one of your matching customers to upgrade an existing store to a department store.
-* **Draw Income** : Discard as many (or as few) cards as you like and then draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
 * **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
+* **Draw Income** : Discard as many (or as few) cards as you like and then draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
 
 ### Moving Customers
 
