@@ -2446,11 +2446,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000006"
-     inkscape:cx="483.64674"
-     inkscape:cy="900.86613"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="928.96428"
+     inkscape:cy="1259.488"
      inkscape:document-units="px"
-     inkscape:current-layer="g6419"
+     inkscape:current-layer="g7569"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -2486,15 +2486,14 @@
      id="layer57"
      inkscape:label="Water"
      style="display:inline"
-     transform="translate(93.572125,361.73541)"
-     sodipodi:insensitive="true">
+     transform="translate(93.572125,361.73541)">
     <rect
        style="opacity:1;fill:#d2ecf7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7620"
-       width="2700.9121"
-       height="2734.3975"
-       x="-717.62946"
-       y="-752.26141" />
+       width="2843.9121"
+       height="2792.3975"
+       x="-716.62946"
+       y="-786.26141" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3094,7 +3093,7 @@
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m -723.45291,801.20132 117.22836,1162.18828 1103.40377,160.2017 90.62465,-46.0999 -48.41785,-91.4531 135.16064,-71.9507 0,-24.2089 12.10631,-4.0343 2.01711,20.1747 96.15591,-49.0901 71.27833,-78.002 0.67237,-23.5365 24.88129,-0.6726 50.43494,-55.81 c 0,0 -23.62192,-18.772 -36.98389,-25.5538 -9.73461,-4.9407 -20.25445,-8.4884 -30.9326,-10.7578 -18.26277,-3.8813 -37.14938,-4.2272 -55.81388,-4.7065 -27.35108,-0.7024 -54.67831,2.3432 -82.03622,2.6893 -30.03453,0.38 -60.40282,-6.0269 -89.15734,2.6561 -19.93668,6.0202 -33.72621,23.1128 -52.72693,31.6385 -10.76311,4.8294 -20.48948,6.7625 -31.91701,9.6917 -14.03302,3.5969 -28.49184,7.0275 -42.84203,6.1665 -10.32995,-0.6199 -24.10062,-3.422 -33.38804,-7.9867 -9.54253,-4.69 -19.3081,-10.0831 -26.22604,-18.1576 -5.34816,-6.2424 -8.71133,-14.2279 -10.76158,-22.1881 -2.12748,-8.2602 -2.76005,-17.1422 -1.34474,-25.5538 1.28473,-7.6353 6.36648,-15.5425 10.64644,-21.9948 6.83298,-10.3011 21.30227,-14.8824 26.22231,-26.2223 2.67813,-6.1728 3.00685,-13.8641 0.67236,-20.1747 -2.53166,-6.8436 -7.17824,-13.9734 -12.89012,-18.5143 -9.27143,-7.3706 -21.60246,-11.3495 -32.83454,-15.1079 -11.36358,-3.8024 -21.10915,-0.116 -32.78625,-2.8046 -25.18208,-5.8002 -40.84959,-22.5133 -61.14454,-37.0657 -13.92038,-9.9814 -36.2912,-20.8512 -45.26404,-35.4421 -8.06392,-13.113 -12.4577,-36.0268 -17.52984,-50.5613 -6.39145,-18.315 -10.57323,-30.7647 -15.53502,-49.5175 -4.10314,-15.5075 -5.60578,-32.749 -9.85519,-48.2171 -4.46782,-16.2632 -11.84562,-32.0418 -22.07667,-45.4499 -8.02666,-10.5192 -14.42999,-19.7332 -27.1287,-23.4511 -8.00481,-2.3437 -16.54956,3.1519 -24.87759,2.6894 -8.25371,-0.4583 -17.26946,-0.8869 -24.20891,-5.3789 -12.95198,-8.384 -22.78067,-11.9405 -33.62208,-18.83 -15.59187,-9.9083 -30.490085,-20.9097 -45.052302,-32.2773 -24.569049,-19.1792 -47.965606,-39.8324 -71.27832589,-60.5205 -12.57493211,-11.1592 -24.12777911,-23.4603 -36.98389511,-34.2944 -14.673005,-12.3652 -28.683772,-26.1533 -45.728387,-34.9668 -9.382253,-4.8514 -19.93006,-7.1935 -30.25653,-9.4131 -10.81816,-2.3254 -22.42312,-0.6238 -32.94968,-4.0342 -9.25794,-2.9995 -16.87833,-9.7101 -25.55367,-14.1198 -12.78357,-6.4978 -25.73735,-12.7062 -39.001,-18.1576 -11.67244,-4.7974 -18.38948,-8.6253 -30.40881,-10.873 -3.53294,-0.6607 -12.40342,-1.4314 -15.99195,-1.2296 -8.96192,0.504 -17.95049,2.1009 -26.89467,1.3447 -10.296,-0.8704 -20.81353,-2.53728 -30.26024,-6.72361 -10.29174,-4.56081 -16.95448,-15.75862 -27.57075,-19.50237 -6.77804,-2.39023 -14.37423,-0.56965 -21.51946,-1.34473 -16.00984,-1.73667 -27.39539,-3.22018 -43.0347,-11.43067 -10.48111,-5.50247 -32.38974,-3.90513 -43.03621,-9.08041 -10.344,-5.02825 -16.61213,-8.50934 -24.20842,-17.14519 -9.20337,-10.46286 -11.18777,-25.58788 -18.15391,-37.65627 -6.37154,-11.03828 -11.58343,-23.62276 -21.51946,-31.60495 -10.35132,-8.31581 -23.47736,-22.82305 -36.31146,-19.16665 -15.66943,4.46416 -28.34876,-0.45033 -44.37951,-3.36148 -9.04233,-1.64206 -17.64886,-5.15722 -26.56217,-7.39619 -12.18354,-3.06043 -20.13675,-13.02673 -31.60446,-18.15476 -9.47955,-4.23897 -19.57283,-9.59101 -32.6142,-10.76095 -12.28468,-1.10204 -38.32898,-7.73175 -38.32898,-7.73175 z m 1664.28662,905.10268 -46.40077,49.7588 61.19283,141.2156 46.40073,39.6734 28.2394,-32.2773 55.8139,35.6392 56.4863,-80.6954 z m -75.9849,82.7085 -57.83099,57.1585 -2.01711,18.83 24.88129,75.985 16.13682,4.0342 76.65725,-24.8812 8.07212,-18.8264 -55.14151,-110.2831 z m -79.35046,93.4701 -88.75988,30.9326 -2.68946,12.775 4.70657,90.1082 106.24513,-57.8309 2.68946,-22.8604 z m -112.96879,45.0523 -113.64117,63.2099 44.37993,81.3675 77.32964,-41.694 z m 291.16462,39.6772 -69.93359,2.6893 -174.16162,98.1731 39.00471,77.3334 116.33063,-44.3838 -14.7958,-26.8946 17.48526,-9.4169 18.15763,28.2431 122.3819,-68.5889 -24.88126,-50.4311 z m -253.50835,102.207 -117.00301,58.5035 32.9497,52.452 110.27933,-60.5205 z"
+       d="m -723.45291,801.20132 82.22836,1173.18828 1138.40377,149.2017 90.62465,-46.0999 -48.41785,-91.4531 135.16064,-71.9507 0,-24.2089 12.10631,-4.0343 2.01711,20.1747 96.15591,-49.0901 71.27833,-78.002 0.67237,-23.5365 24.88129,-0.6726 50.43494,-55.81 c 0,0 -23.62192,-18.772 -36.98389,-25.5538 -9.73461,-4.9407 -20.25445,-8.4884 -30.9326,-10.7578 -18.26277,-3.8813 -37.14938,-4.2272 -55.81388,-4.7065 -27.35108,-0.7024 -54.67831,2.3432 -82.03622,2.6893 -30.03453,0.38 -60.40282,-6.0269 -89.15734,2.6561 -19.93668,6.0202 -33.72621,23.1128 -52.72693,31.6385 -10.76311,4.8294 -20.48948,6.7625 -31.91701,9.6917 -14.03302,3.5969 -28.49184,7.0275 -42.84203,6.1665 -10.32995,-0.6199 -24.10062,-3.422 -33.38804,-7.9867 -9.54253,-4.69 -19.3081,-10.0831 -26.22604,-18.1576 -5.34816,-6.2424 -8.71133,-14.2279 -10.76158,-22.1881 -2.12748,-8.2602 -2.76005,-17.1422 -1.34474,-25.5538 1.28473,-7.6353 6.36648,-15.5425 10.64644,-21.9948 6.83298,-10.3011 21.30227,-14.8824 26.22231,-26.2223 2.67813,-6.1728 3.00685,-13.8641 0.67236,-20.1747 -2.53166,-6.8436 -7.17824,-13.9734 -12.89012,-18.5143 -9.27143,-7.3706 -21.60246,-11.3495 -32.83454,-15.1079 -11.36358,-3.8024 -21.10915,-0.116 -32.78625,-2.8046 -25.18208,-5.8002 -40.84959,-22.5133 -61.14454,-37.0657 -13.92038,-9.9814 -36.2912,-20.8512 -45.26404,-35.4421 -8.06392,-13.113 -12.4577,-36.0268 -17.52984,-50.5613 -6.39145,-18.315 -10.57323,-30.7647 -15.53502,-49.5175 -4.10314,-15.5075 -5.60578,-32.749 -9.85519,-48.2171 -4.46782,-16.2632 -11.84562,-32.0418 -22.07667,-45.4499 -8.02666,-10.5192 -14.42999,-19.7332 -27.1287,-23.4511 -8.00481,-2.3437 -16.54956,3.1519 -24.87759,2.6894 -8.25371,-0.4583 -17.26946,-0.8869 -24.20891,-5.3789 -12.95198,-8.384 -22.78067,-11.9405 -33.62208,-18.83 -15.59187,-9.9083 -30.490085,-20.9097 -45.052302,-32.2773 -24.569049,-19.1792 -47.965606,-39.8324 -71.27832589,-60.5205 -12.57493211,-11.1592 -24.12777911,-23.4603 -36.98389511,-34.2944 -14.673005,-12.3652 -28.683772,-26.1533 -45.728387,-34.9668 -9.382253,-4.8514 -19.93006,-7.1935 -30.25653,-9.4131 -10.81816,-2.3254 -22.42312,-0.6238 -32.94968,-4.0342 -9.25794,-2.9995 -16.87833,-9.7101 -25.55367,-14.1198 -12.78357,-6.4978 -25.73735,-12.7062 -39.001,-18.1576 -11.67244,-4.7974 -18.38948,-8.6253 -30.40881,-10.873 -3.53294,-0.6607 -12.40342,-1.4314 -15.99195,-1.2296 -8.96192,0.504 -17.95049,2.1009 -26.89467,1.3447 -10.296,-0.8704 -20.81353,-2.53728 -30.26024,-6.72361 -10.29174,-4.56081 -16.95448,-15.75862 -27.57075,-19.50237 -6.77804,-2.39023 -14.37423,-0.56965 -21.51946,-1.34473 -16.00984,-1.73667 -27.39539,-3.22018 -43.0347,-11.43067 -10.48111,-5.50247 -32.38974,-3.90513 -43.03621,-9.08041 -10.344,-5.02825 -16.61213,-8.50934 -24.20842,-17.14519 -9.20337,-10.46286 -11.18777,-25.58788 -18.15391,-37.65627 -6.37154,-11.03828 -11.58343,-23.62276 -21.51946,-31.60495 -10.35132,-8.31581 -23.47736,-22.82305 -36.31146,-19.16665 -15.66943,4.46416 -28.34876,-0.45033 -44.37951,-3.36148 -9.04233,-1.64206 -17.64886,-5.15722 -26.56217,-7.39619 -12.18354,-3.06043 -20.13675,-13.02673 -31.60446,-18.15476 -9.47955,-4.23897 -19.57283,-9.59101 -32.6142,-10.76095 -12.28468,-1.10204 -38.32898,-7.73175 -38.32898,-7.73175 z m 1664.28662,905.10268 -46.40077,49.7588 61.19283,141.2156 46.40073,39.6734 28.2394,-32.2773 55.8139,35.6392 56.4863,-80.6954 z m -75.9849,82.7085 -57.83099,57.1585 -2.01711,18.83 24.88129,75.985 16.13682,4.0342 76.65725,-24.8812 8.07212,-18.8264 -55.14151,-110.2831 z m -79.35046,93.4701 -88.75988,30.9326 -2.68946,12.775 4.70657,90.1082 106.24513,-57.8309 2.68946,-22.8604 z m -112.96879,45.0523 -113.64117,63.2099 44.37993,81.3675 77.32964,-41.694 z m 291.16462,39.6772 -69.93359,2.6893 -174.16162,98.1731 39.00471,77.3334 116.33063,-44.3838 -14.7958,-26.8946 17.48526,-9.4169 18.15763,28.2431 122.3819,-68.5889 -24.88126,-50.4311 z m -253.50835,102.207 -117.00301,58.5035 32.9497,52.452 110.27933,-60.5205 z"
        id="path7623"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccsssssssssssssssssssssssssssssssssssssssssssssssssssscccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -3133,7 +3132,7 @@
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 1820.3826,-791.13459 c 0,0 5.5965,19.98917 6.7238,30.26023 1.0761,9.80374 1.4664,19.83486 0,29.58786 -1.8132,12.05922 -7.2132,23.2986 -10.758,34.9668 -2.0408,6.71773 -5.2102,13.20439 -6.0512,20.17472 -1.0486,8.68923 -0.029,17.5785 1.3446,26.22231 1.3483,8.4848 5.1108,16.4428 6.7236,24.8813 1.4824,7.75618 3.3024,15.6638 2.6896,23.53656 -0.5233,6.72198 -2.6892,13.3161 -5.3789,19.49864 -2.7301,6.27507 -9.8706,10.69982 -10.758,17.48526 -0.6069,4.64029 2.4569,9.04131 4.0342,13.44734 4.5034,12.58056 11.2738,24.29573 15.4645,36.9839 5.5754,16.88083 7.8339,34.70344 12.7786,51.77968 2.1684,7.4885 7.3959,14.392 7.3961,22.18812 2e-4,8.50602 -2.7171,17.59713 -8.0684,24.20892 -5.5626,6.87281 -15.4303,8.66029 -22.8642,13.44733 -8.5227,5.4882 -16.7103,11.48596 -24.8813,17.48526 -6.8293,5.01415 -13.2289,10.60788 -20.171,15.46444 -4.7903,3.35115 -11.0378,4.93863 -14.7958,9.41687 -4.5215,5.38819 -6.521,12.63694 -8.0683,19.49864 -1.9255,8.53908 -1.4306,13.80024 0.082,22.42213 1.5965,9.10301 7.5981,21.0802 11.7089,29.35756 2.9928,6.02579 5.5446,11.11216 7.7119,17.48153 3.278,9.63353 3.8685,22.60485 7.3626,32.16218 3.2879,8.99338 8.9479,14.51486 14.5133,22.30699 7.3248,10.25534 15.5475,19.47013 23.0611,29.58786 6.3382,8.53497 10.5465,14.51687 18.1539,21.94294 6.718,6.55785 10.4943,12.57472 19.2572,15.94364 2.7515,1.05784 8.4189,3.96365 11.1182,5.14862 7.8852,3.46142 15.1061,9.17498 20.1748,16.13679 4.0922,5.62067 7.5237,13.3993 9.7734,19.97786 2.7302,7.98394 3.7723,15.38815 5.0186,23.733444 1.1256,7.536568 0.6459,15.267743 0,22.860476 -0.6748,7.931278 -2.3658,15.753423 -4.0342,23.536559 -1.5039,7.016044 -2.8641,14.123058 -5.3789,20.843369 -2.9862,7.9802915 -8.8303,14.7498435 -11.4303,22.8642032 -2.6313,8.2121198 -4.6152,16.9498798 -4.0342,25.5536478 0.473,7.003776 2.7785,13.960898 6.0514,20.171012 4.1618,7.897024 10.8432,14.207086 16.8092,20.847096 7.2036,8.01738 16.3394,14.28518 22.864,22.864185 8.2634,10.865178 11.6006,25.014558 20.1711,35.639178 6.9771,8.64923 16.2251,15.21978 24.8812,22.1881 8.6269,6.94472 18.8839,11.85914 26.8985,19.50237 10.3865,9.90532 16.4887,23.74096 26.8984,33.62205 7.8043,7.40791 17.6942,12.26477 26.2223,18.82629 11.7371,9.03052 21.6829,20.48055 34.2945,28.24313 10.4276,6.41828 23.6423,7.70116 33.622,14.79579 10.7285,7.62691 19.2772,18.17932 26.8985,28.91178 10.5658,14.87925 25.5535,48.41785 25.5535,48.41785 l 52.4484,88.75987 50.435,83.38464 36.9839,-54.46915 -35.6392,-79.34674 -2.017,-12.77496 23.5366,-29.58786 -21.4973,-1072.64825 z M 2012.7019,226.2644 c 0,0 -0.5556,7.21767 0,10.76158 2.0417,13.02541 12.0205,24.47207 12.1026,37.65627 0.038,6.09668 -3.8417,17.4324 -5.8545,23.18738 -4.4523,12.73013 -8.3382,19.86358 -14.3203,31.95044 -7.6734,15.50377 -16.7777,33.20467 -26.8947,47.23655 -6.8816,9.54455 -13.8376,16.49351 -22.8642,24.04177 -8.553,7.15226 -20.3483,14.87998 -30.8174,18.71483 -13.2527,4.85447 -20.0531,3.17984 -34.8506,6.52665 -11.2946,2.55452 -24.9652,6.12368 -36.5425,6.36334 -12.6626,0.26213 -25.4575,0.52185 -36.9839,6.39124 -7.9092,4.0275 -17.7588,12.14587 -22.1922,19.83493 -5.2146,9.0435 -4.9671,18.46376 -6.1665,28.83376 -0.8502,7.35166 0.5658,18.67101 1.6233,25.99572 2.0199,13.99007 4.7977,18.79598 5.2153,32.92496 0.1351,4.56923 1.6987,21.32992 1.3451,25.88743 -0.8158,10.51293 -0.9377,14.37785 0,24.88059 1.7705,19.82903 9.8349,39.34604 8.072,59.17572 -2.8371,31.91303 -29.5878,91.44934 -29.5878,91.44934 l 3.3617,12.77869 -40.3455,25.55367 -30.9327,28.23942 -17.4853,43.0389 1.3448,63.20621 110.9553,33.62208 29.5842,-32.27735 6.055,5.38266 20.1711,65.8994 11.4303,6.72372 61.8651,-57.15868 -46.397,-49.75887 38.3285,-30.9326 9.4131,12.77498 -17.4815,16.81289 41.0181,41.0181 211.1457,-145.91851 -153.3146,-125.0751 14.1196,-40.34573 72.6231,-57.15864 71.9508,-8.74076 49.7624,-18.82999 -12.7786,-30.25653 -112.9688,33.61837 -6.7236,-8.06841 30.9325,-25.54996 -9.4167,-15.46815 8.072,-8.06841 24.8776,22.18812 43.039,-42.36284 -18.1577,-36.9839 -1.3447,-20.17101 c 0,0 -39.3208,-85.12362 -70.6061,-119.02382 -15.2684,-16.54467 -36.9951,-25.67592 -55.1415,-39.001 -9.5392,-7.00465 -28.2393,-21.51945 -28.2393,-21.51945 z"
+       d="m 1820.3826,-791.13459 c 0,0 5.5965,19.98917 6.7238,30.26023 1.0761,9.80374 1.4664,19.83486 0,29.58786 -1.8132,12.05922 -7.2132,23.2986 -10.758,34.9668 -2.0408,6.71773 -5.2102,13.20439 -6.0512,20.17472 -1.0486,8.68923 -0.029,17.5785 1.3446,26.22231 1.3483,8.4848 5.1108,16.4428 6.7236,24.8813 1.4824,7.75618 3.3024,15.6638 2.6896,23.53656 -0.5233,6.72198 -2.6892,13.3161 -5.3789,19.49864 -2.7301,6.27507 -9.8706,10.69982 -10.758,17.48526 -0.6069,4.64029 2.4569,9.04131 4.0342,13.44734 4.5034,12.58056 11.2738,24.29573 15.4645,36.9839 5.5754,16.88083 7.8339,34.70344 12.7786,51.77968 2.1684,7.4885 7.3959,14.392 7.3961,22.18812 2e-4,8.50602 -2.7171,17.59713 -8.0684,24.20892 -5.5626,6.87281 -15.4303,8.66029 -22.8642,13.44733 -8.5227,5.4882 -16.7103,11.48596 -24.8813,17.48526 -6.8293,5.01415 -13.2289,10.60788 -20.171,15.46444 -4.7903,3.35115 -11.0378,4.93863 -14.7958,9.41687 -4.5215,5.38819 -6.521,12.63694 -8.0683,19.49864 -1.9255,8.53908 -1.4306,13.80024 0.082,22.42213 1.5965,9.10301 7.5981,21.0802 11.7089,29.35756 2.9928,6.02579 5.5446,11.11216 7.7119,17.48153 3.278,9.63353 3.8685,22.60485 7.3626,32.16218 3.2879,8.99338 8.9479,14.51486 14.5133,22.30699 7.3248,10.25534 15.5475,19.47013 23.0611,29.58786 6.3382,8.53497 10.5465,14.51687 18.1539,21.94294 6.718,6.55785 10.4943,12.57472 19.2572,15.94364 2.7515,1.05784 8.4189,3.96365 11.1182,5.14862 7.8852,3.46142 15.1061,9.17498 20.1748,16.13679 4.0922,5.62067 7.5237,13.3993 9.7734,19.97786 2.7302,7.98394 3.7723,15.38815 5.0186,23.733444 1.1256,7.536568 0.6459,15.267743 0,22.860476 -0.6748,7.931278 -2.3658,15.753423 -4.0342,23.536559 -1.5039,7.016044 -2.8641,14.123058 -5.3789,20.843369 -2.9862,7.9802915 -8.8303,14.7498435 -11.4303,22.8642032 -2.6313,8.2121198 -4.6152,16.9498798 -4.0342,25.5536478 0.473,7.003776 2.7785,13.960898 6.0514,20.171012 4.1618,7.897024 10.8432,14.207086 16.8092,20.847096 7.2036,8.01738 16.3394,14.28518 22.864,22.864185 8.2634,10.865178 11.6006,25.014558 20.1711,35.639178 6.9771,8.64923 16.2251,15.21978 24.8812,22.1881 8.6269,6.94472 18.8839,11.85914 26.8985,19.50237 10.3865,9.90532 16.4887,23.74096 26.8984,33.62205 7.8043,7.40791 17.6942,12.26477 26.2223,18.82629 11.7371,9.03052 21.6829,20.48055 34.2945,28.24313 10.4276,6.41828 23.6423,7.70116 33.622,14.79579 10.7285,7.62691 19.2772,18.17932 26.8985,28.91178 10.5658,14.87925 25.5535,48.41785 25.5535,48.41785 l 52.4484,88.75987 50.435,83.38464 36.9839,-54.46915 -35.6392,-79.34674 -2.017,-12.77496 23.5366,-29.58786 -14.4973,-1133.64824 z M 2012.7019,226.2644 c 0,0 -0.5556,7.21767 0,10.76158 2.0417,13.02541 12.0205,24.47207 12.1026,37.65627 0.038,6.09668 -3.8417,17.4324 -5.8545,23.18738 -4.4523,12.73013 -8.3382,19.86358 -14.3203,31.95044 -7.6734,15.50377 -16.7777,33.20467 -26.8947,47.23655 -6.8816,9.54455 -13.8376,16.49351 -22.8642,24.04177 -8.553,7.15226 -20.3483,14.87998 -30.8174,18.71483 -13.2527,4.85447 -20.0531,3.17984 -34.8506,6.52665 -11.2946,2.55452 -24.9652,6.12368 -36.5425,6.36334 -12.6626,0.26213 -25.4575,0.52185 -36.9839,6.39124 -7.9092,4.0275 -17.7588,12.14587 -22.1922,19.83493 -5.2146,9.0435 -4.9671,18.46376 -6.1665,28.83376 -0.8502,7.35166 0.5658,18.67101 1.6233,25.99572 2.0199,13.99007 4.7977,18.79598 5.2153,32.92496 0.1351,4.56923 1.6987,21.32992 1.3451,25.88743 -0.8158,10.51293 -0.9377,14.37785 0,24.88059 1.7705,19.82903 9.8349,39.34604 8.072,59.17572 -2.8371,31.91303 -29.5878,91.44934 -29.5878,91.44934 l 3.3617,12.77869 -40.3455,25.55367 -30.9327,28.23942 -17.4853,43.0389 1.3448,63.20621 110.9553,33.62208 29.5842,-32.27735 6.055,5.38266 20.1711,65.8994 11.4303,6.72372 61.8651,-57.15868 -46.397,-49.75887 38.3285,-30.9326 9.4131,12.77498 -17.4815,16.81289 41.0181,41.0181 211.1457,-145.91851 -68.3146,-115.0751 5.1196,-47.34573 -3.3769,-60.15864 71.9508,-8.74076 49.7624,-18.82999 -12.7786,-30.25653 -112.9688,33.61837 -6.7236,-8.06841 30.9325,-25.54996 -9.4167,-15.46815 8.072,-8.06841 24.8776,22.18812 43.039,-42.36284 -18.1577,-36.9839 -1.3447,-20.17101 c 0,0 -39.3208,-85.12362 -70.6061,-119.02382 -15.2684,-16.54467 -36.9951,-25.67592 -55.1415,-39.001 -9.5392,-7.00465 -28.2393,-21.51945 -28.2393,-21.51945 z"
        id="path7642"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssssssssssssssssssssssssssssssssssssssssssccccccccccssssssssssssssssscccccccccccccccccccccccccccccccccssc" />
@@ -7281,9 +7280,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7675"
-         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#6cc666;fill-opacity:1;fill-rule:evenodd;stroke:#6cc666;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot7677"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7293,8 +7292,8 @@
              height="25.99826"
              width="46.940556"
              id="rect7681"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7683">新宿</flowPara></flowRoot>      <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.88666677px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7327,7 +7326,7 @@
          id="rect6687"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7722"
          width="45.313843"
          height="19.285248"
@@ -7338,15 +7337,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7724"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7726"><rect
              id="rect7728"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7732">池袋</flowPara></flowRoot>    </g>
     <g
        id="g7736"
@@ -7374,9 +7373,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7738"
-         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#6cc666;fill-opacity:1;fill-rule:evenodd;stroke:#6cc666;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot7740"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7386,9 +7385,9 @@
              height="38.355465"
              width="60.842407"
              id="rect7744"
-             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara7746"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none">上野</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">上野</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,57.923161,-698.98289)"
        id="g7748">
@@ -7409,7 +7408,7 @@
          id="rect6631"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7750"
          width="59.730583"
          height="19.285248"
@@ -7420,15 +7419,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot7752"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7754"><rect
              id="rect7756"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7758">秋葉原</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-41.044579,-577.08752)"
@@ -7450,7 +7449,7 @@
          id="rect6645"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7762"
          width="45.313843"
          height="19.285248"
@@ -7461,15 +7460,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7764"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7766"><rect
              id="rect7768"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7772">東京</flowPara></flowRoot>    </g>
     <g
        id="g7776"
@@ -7497,9 +7496,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7778"
-         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot7780"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7509,9 +7508,9 @@
              height="38.355465"
              width="60.842407"
              id="rect7784"
-             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara7786"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none">新橋</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">新橋</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-182.06737,-107.07421)"
        id="g7788">
@@ -7532,7 +7531,7 @@
          id="rect6653"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#c490c0;fill-opacity:1;fill-rule:evenodd;stroke:#c490c0;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7790"
          width="45.313843"
          height="19.285248"
@@ -7543,15 +7542,15 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7792"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7794"><rect
              id="rect7796"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7798">品川</flowPara></flowRoot>    </g>
     <g
        id="g7800"
@@ -7579,9 +7578,9 @@
          height="19.285248"
          width="45.313843"
          id="rect7802"
-         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#8488cf;fill-opacity:1;fill-rule:evenodd;stroke:#8488cf;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot7804"
          xml:space="preserve"
          transform="translate(192.65076,166.24923)"><flowRegion
@@ -7591,9 +7590,9 @@
              height="38.355465"
              width="60.842407"
              id="rect7808"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara7810"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">目黒</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">目黒</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-449.74311,-354.8635)"
        id="g7812">
@@ -7614,7 +7613,7 @@
          y="511.98953"
          ry="9.6426239" />
       <rect
-         style="display:inline;opacity:1;fill:#d7955a;fill-opacity:1;fill-rule:evenodd;stroke:#d7955a;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#d7955a;fill-opacity:1;fill-rule:evenodd;stroke:#d7955a;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7814"
          width="45.313843"
          height="19.285248"
@@ -7625,16 +7624,16 @@
          transform="translate(192.65076,166.24923)"
          xml:space="preserve"
          id="flowRoot7816"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7818"><rect
              id="rect7820"
              width="46.940556"
              height="25.99826"
              x="280.45499"
              y="346.10059"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara7822"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">渋谷</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">渋谷</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-481.45866,-820.84956)"
        id="g7824">
@@ -7655,7 +7654,7 @@
          y="511.98953"
          ry="9.6426239" />
       <rect
-         style="display:inline;opacity:1;fill:#48af41;fill-opacity:1;fill-rule:evenodd;stroke:#48af41;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#6cc666;fill-opacity:1;fill-rule:evenodd;stroke:#6bc666;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7826"
          width="73.95462"
          height="19.285248"
@@ -7666,15 +7665,15 @@
          transform="translate(191.29366,166.24923)"
          xml:space="preserve"
          id="flowRoot7828"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion7830"><rect
              id="rect7832"
              width="72.668716"
              height="35.706997"
              x="280.45499"
              y="346.10059"
-             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara7836">高田馬場</flowPara></flowRoot>    </g>
     <g
        id="g7840"
@@ -7688,7 +7687,7 @@
          id="rect7842"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.57733333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowRoot7844"
          xml:space="preserve"
          transform="translate(192.2456,166.24923)"><flowRegion
@@ -7698,9 +7697,9 @@
              height="38.355465"
              width="60.842407"
              id="rect7848"
-             style="stroke:none;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
+             style="stroke:none;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara7850"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:none;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;">飯田橋</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:none;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">飯田橋</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,-274.9688,-390.76997)"
        id="g7852">
@@ -7961,7 +7960,7 @@
          id="rect6715"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect8182"
          width="59.730583"
          height="19.285248"
@@ -7972,15 +7971,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot8184"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion8186"><rect
              id="rect8188"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara8192">北千住</flowPara></flowRoot>    </g>
     <g
        transform="matrix(1.9019442,0,0,1.9019442,590.85311,-1132.5003)"
@@ -8230,7 +8229,7 @@
          id="rect6667"
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.15466666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#bfc24d;fill-opacity:1;fill-rule:evenodd;stroke:#bfc24d;stroke-width:0.52577776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect8649"
          width="59.730583"
          height="19.285248"
@@ -8241,15 +8240,15 @@
          transform="translate(192.2456,166.24923)"
          xml:space="preserve"
          id="flowRoot8651"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"><flowRegion
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
            id="flowRegion8653"><rect
              id="rect8655"
              width="60.842407"
              height="38.355465"
              x="280.45499"
              y="346.10059"
-             style="stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#ffffff;stroke-opacity:1;stroke-width:0.15773333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15773334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara8659">中目黒</flowPara></flowRoot>    </g>
     <g
        id="g8665"
@@ -8586,7 +8585,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Border 18x20"
-     style="display:none"
+     style="display:inline"
      transform="translate(2.5275545,89.993925)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -10004,7 +10003,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot13602"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:15px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion13604"><rect
            id="rect13606"
            width="6.3639612"
@@ -10368,9 +10367,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Dept Store Rank (1-12)">
+     inkscape:label="Dept Store Rank (1-12)"
+     style="display:inline">
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8"
        xml:space="preserve"
        transform="translate(547.04732,1188.0342)"><flowRegion
@@ -10380,10 +10380,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5"
-           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1">12</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-3"
        xml:space="preserve"
        transform="translate(732.7293,1312.3868)"><flowRegion
@@ -10393,10 +10393,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-3"
-           style="fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-0">11</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-39"
        xml:space="preserve"
        transform="translate(1009.0473,683.53419)"><flowRegion
@@ -10406,10 +10406,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-0"
-           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-7">10</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-8"
        xml:space="preserve"
        transform="translate(992.04732,824.28419)"><flowRegion
@@ -10419,8 +10419,8 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-2"
-           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-79">4</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-7"
@@ -10435,7 +10435,7 @@
            style="fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-8">7</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-1"
        xml:space="preserve"
        transform="translate(508.07765,968.99434)"><flowRegion
@@ -10445,10 +10445,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-4"
-           style="fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#bd9d7d;fill-opacity:1;stroke:#bd9d7d;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-1">3</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-4"
        xml:space="preserve"
        transform="translate(495.63311,669.32708)"><flowRegion
@@ -10458,10 +10458,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-40"
-           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-6">1</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-6"
        xml:space="preserve"
        transform="translate(527.34021,492.9484)"><flowRegion
@@ -10471,10 +10471,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-1"
-           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-3">6</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-86"
        xml:space="preserve"
        transform="translate(691.93641,383.17974)"><flowRegion
@@ -10484,10 +10484,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-23"
-           style="fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#9091b9;fill-opacity:1;stroke:#9091b9;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-5">2</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-81"
        xml:space="preserve"
        transform="translate(1161.0473,534.53419)"><flowRegion
@@ -10497,10 +10497,10 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-37"
-           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8ab788;fill-opacity:1;stroke:#8ab788;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-05">8</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-10"
        xml:space="preserve"
        transform="translate(1352.5473,244.53419)"><flowRegion
@@ -10510,22 +10510,22 @@
            height="38.667496"
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-22"
-           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;"
+           style="fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#a1a470;fill-opacity:1;stroke:#a1a470;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-00">9</flowPara></flowRoot>    <flowRoot
        transform="translate(822.02765,1192.0293)"
        xml:space="preserve"
        id="flowRoot6616"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
          id="flowRegion6618"><rect
-           style="fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect6620"
            width="32.278954"
            height="38.667496"
            x="-0.56340188"
            y="1.0278535" /></flowRegion><flowPara
          id="flowPara6622"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-opacity:1;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">5</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#b599b3;fill-opacity:1;stroke:#b599b3;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -13543,6 +13543,21 @@
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/hachiko.png"
        inkscape:export-xdpi="150.00046"
        inkscape:export-ydpi="150.00046" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Overlay: Tokyo Box"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6527"
+       width="2639.7571"
+       height="2664.887"
+       x="-486.58575"
+       y="-423.31345"
+       inkscape:export-xdpi="33.027527"
+       inkscape:export-ydpi="33.027527" />
   </g>
   <g
      inkscape:groupmode="layer"

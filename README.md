@@ -58,7 +58,7 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
 
 _Shinjuku_ is played on a map of central Tokyo:
 
-![](tokyo-map.png)
+![](map/tokyo-map.png)
 
 The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Japanese).
 
