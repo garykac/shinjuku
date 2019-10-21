@@ -66,7 +66,7 @@ The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Jap
 
 Each region contains 1 or more train stations and these stations have lines that identify potential connections to other stations.
 
-Some station names are highlighted with a background color which indicates that stores built there can be upgraded to a department store.
+Some station names are highlighted with a background color which indicates that stores built there are allowed to be upgraded to a department store.
 
 ### Cards
 
@@ -78,9 +78,9 @@ There are multiple copies of each card based on the population of that ward. The
 
 ### Player Pieces
 
-Each player has a set of stores, department stores, and track available (the exact number varies based on the number of players).
+Each player has a set of available track, stores, and department stores (the exact number of each component varies based on the number of players).
 
-<img src="components/player.png" height="157px"/>
+<img src="components/player.png" height="190px"/>
 
 There are 4 kinds of stores:
 
@@ -91,7 +91,7 @@ There are 4 kinds of stores:
 | <img src="components/stores-track/generic-book.png" height="40px"/> | sells Books |
 | <img src="components/stores-track/generic-electronics.png" height="40px"/> | sells Electronics |
 
-A department store sells all of these goods.
+A department store (represented by a tall cylinder) sells all of these goods.
 
 ### Customers
 
