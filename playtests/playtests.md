@@ -1,6 +1,31 @@
 # Playtest Notes
 
-GenCon 2019 Playtests (3-player)
+[Playtest #47 - Fri 25 Oct 2019](2019-10-25-playtest-47.md)
+
+* 2 player: AB GK
+* Testing: London map
+
+[Playtest #46 - Thu 24 Oct 2019](2019-10-24-playtest-46.md)
+
+* 2 player: AB GK
+* Testing: Paris map, don't discard during Income
+
+[Playtest #45 - Sat 19 Oct 2019](2019-10-19-playtest-45.md)
+
+* PlaytestNW - Around the Table Game Pub
+* Testing: 3 new players
+
+**Tokyo 2019** Playtests (3-player)
+
+* Sun 22 Sep 2019 - Playtest [#43](2019-09-22-playtest-43.md) - Sangenjaya
+* Mon 23 Sep 2019 - Playtest [#44](2019-09-23-playtest-44.md) - Azabujuban
+
+[Playtest #42 - Sun 1 Sep 2019](2019-09-01-playtest-42.md) - HyperboopiCon
+
+* 3 player: DV SV SR
+* Testing: new players
+
+**GenCon 2019** Playtests (3-player)
 
 * Aug 1 2019 - Playtest [#34](2019-08-01-playtest-34.md) [#35](2019-08-01-playtest-35.md)
 * Aug 2 2019 - Playtest [#36](2019-08-02-playtest-36.md) [#37](2019-08-02-playtest-37.md)
