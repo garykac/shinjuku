@@ -2,7 +2,7 @@
 
 # Shinjuku - Print-n-Play
 
-Version 1 r3
+Version 1 r4
 
 _These files and instructions are provided for non-commercial use._
 
@@ -85,7 +85,7 @@ If you're marking the pieces yourself (rather than using printed 1/2" stickers),
 
 The can be basically any piece that matches the player color. The pieces used in the prototypes are:
 
-* City Pieces - [PrintPlayGames](https://www.printplaygames.com/product/city-pieces/)
+* 15mm x 30mm tall cylinders - [TheGameCrafter](https://www.thegamecrafter.com/parts/cylinder-30mm-x-15mm-blue?dept_uri=game-pieces&dept_name=Game%20Pieces)
 
 ### 64 track (16 track x 4 player colors)
 
