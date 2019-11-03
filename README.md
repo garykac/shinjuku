@@ -19,13 +19,13 @@ The game ends when the last customer is placed (+ one final round) and victory g
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
 
 * Rules:
-	* Complete Rules of Play ([Letter](docs/shinjuku_rules.pdf), [A4](docs/shinjuku_rules_a4.pdf))
-	* Quickstart Rules ([Letter](docs/shinjuku_quickstart.pdf), [A4](docs/shinjuku_quickstart_a4.pdf))
+	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
+	* Quickstart Rules ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 
-* [Print and Play Instructions](pnp)
+* [Print and Play Instructions](https://garykac.github.io/shinjuku/pnp/index.html)
 
 * Mods (Mini-Expansions and Rule Variants):
-	* Mod Pack I - Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](docs/shinjuku_mods_1.pdf), [A4](docs/shinjuku_mods_1_a4.pdf))
+	* Mod Pack I - Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1_a4.pdf))
 	* Mod Pack II - Savvy Advertisement, Preorder Discount, Indecisive Shopper, Party Planner, Bonus Action, Bypass, Flash Mob (in progress)
 
 * Alternate Maps
