@@ -135,10 +135,10 @@ Once three department stores have been built, you will place 2 customers (in the
 Choose any two of the following actions (must be different actions):
 
 * **Build Store** : Play a ward card and build a store at any empty station in that ward.
-* **Expand Track** : Build a single piece of track anywhwere on the map. Or play a wildcard to build 2 connected segments of track
-* **Upgrade Store** : Play a matching ward card and sacrifice one of your matching customers to upgrade an existing store to a department store.
+* **Expand Track** : Build a single piece of track anywhwere on the map. Or play a card that matches either of the stations that you just connected to build a second segments that extends from the first.
+* **Upgrade Store** : Play a matching ward card and give up one of your matching customers to upgrade an existing store to a department store.
 * **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
-* **Draw Income** : Discard as many (or as few) cards as you like and then draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
+* **Draw Income** : Draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
 
 ### Moving Customers
 
@@ -167,11 +167,11 @@ Any remaining unsatisfied customers are moved into the ward that contains the fi
 
 You can play a wildcard to match any card. There are no explicit "wildcard" cards in _Shinjuku_, but you can create wildcards during gameplay:
 
-#### ... from cards
+#### ...from cards
 
 You can play any three cards from your hand as a single wildcard.
 
-#### ... from stores
+#### ...from stores
 
 Once you've built a store (or department store) in a ward, the cards for that ward become wildcards for you.
 

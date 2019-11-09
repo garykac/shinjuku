@@ -6,6 +6,12 @@ Many of these steps are manual because they are done infrequently.
 Tasks that happen more often will typically be streamlined using scripts.
 
 
+When updating/clarifying the rules, there are 4 places that may need to be updated:
+	Main rules of play doc
+	Quickstart doc
+	Player screen
+	Rule summary on Github
+	
 ## Map Updates
 
 If the map has been updated:
