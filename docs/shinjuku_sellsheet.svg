@@ -16,7 +16,10 @@
    id="svg6038"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="shinjuku_sellsheet.svg">
+   sodipodi:docname="shinjuku_sellsheet.svg"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/docs/shinjuku_sellsheet.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs6040">
     <clipPath
@@ -51,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="381.93305"
-     inkscape:cy="289.9304"
+     inkscape:cx="226.49299"
+     inkscape:cy="177.32478"
      inkscape:document-units="px"
      inkscape:current-layer="g4954"
      showgrid="false"
@@ -71,10 +74,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4499"
+       width="765"
+       height="990"
+       x="0"
+       y="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -116,17 +131,17 @@
          id="flowPara6909"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:60px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;text-anchor:start">SHINJUKU</flowPara></flowRoot>    <g
        id="g4954"
-       transform="translate(0,132)">
+       transform="translate(0,134)">
       <flowRoot
-         transform="translate(-325.14286,560.64792)"
+         transform="translate(-325.14286,562.64792)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:114.99999762%;font-family:'Tekton Pro';-inkscape-font-specification:'Tekton Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot6931"
          xml:space="preserve"><flowRegion
            id="flowRegion6933"><rect
              y="30"
              x="357.14285"
-             height="277.14285"
-             width="271.42859"
+             height="104.28571"
+             width="212.85713"
              id="rect6935"
              style="line-height:114.99999762%" /></flowRegion><flowPara
            id="flowPara6947"
@@ -136,19 +151,7 @@
            id="flowPara6951"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start">52 customer tokens</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
-           id="flowPara4497">  1 bag for customers</flowPara><flowPara
-           id="flowPara10101"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start" /><flowPara
-           id="flowPara6955"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start">Per player (x4):</flowPara><flowPara
-           id="flowPara6973"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start">   3 dept stores</flowPara><flowPara
-           id="flowPara6957"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start">   8 stores</flowPara><flowPara
-           id="flowPara6959"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"> 16 track</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
-           id="flowPara4499">   1 player screen</flowPara></flowRoot>      <flowRoot
+           id="flowPara4499">  1 bag for customers</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot6961"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'Tekton Pro';-inkscape-font-specification:'Tekton Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -160,7 +163,28 @@
              x="37.142857"
              y="31.428572" /></flowRegion><flowPara
            id="flowPara6967"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;letter-spacing:3px;text-anchor:start">COMPONENTS</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';text-align:start;letter-spacing:3px;text-anchor:start">COMPONENTS</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:114.99999762%;font-family:'Tekton Pro';-inkscape-font-specification:'Tekton Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-325.14286,642.64792)"><flowRegion
+           id="flowRegion4503"><rect
+             style="line-height:114.99999762%"
+             id="rect4505"
+             width="271.42859"
+             height="277.14285"
+             x="357.14285"
+             y="30" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
+           id="flowPara4517">Per player (x4):</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
+           id="flowPara4519">   3 dept stores (12)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
+           id="flowPara4521">   8 stores (32)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start"
+           id="flowPara4523"> 16 track (64)</flowPara><flowPara
+           id="flowPara4525"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:114.99999762%;font-family:'Hiragino Sans';-inkscape-font-specification:'Hiragino Sans';text-align:start;text-anchor:start">   1 player screen (4)</flowPara></flowRoot>    </g>
     <flowRoot
        transform="matrix(1.1707667,0,0,1.1707667,66.310973,898.03251)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'Tekton Pro';-inkscape-font-specification:'Tekton Pro';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
