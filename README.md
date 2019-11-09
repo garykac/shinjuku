@@ -135,7 +135,7 @@ Once three department stores have been built, you will place 2 customers (in the
 Choose any two of the following actions (must be different actions):
 
 * **Build Store** : Play a ward card and build a store at any empty station in that ward.
-* **Expand Track** : Build a single piece of track anywhwere on the map. Or play a card that matches either of the stations that you just connected to build a second segments that extends from the first.
+* **Expand Track** : Build a single piece of track anywhwere on the map. Or play a card that matches either of the stations you just connected to build a second segments that extends from the first.
 * **Upgrade Store** : Play a matching ward card and give up one of your matching customers to upgrade an existing store to a department store.
 * **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
 * **Draw Income** : Draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
