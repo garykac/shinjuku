@@ -3,7 +3,8 @@ Tokyo
 	23 regions (ku, wards)
 	43 stations (12 dept store sites in 9 regions)
 	71 connections
-
+	Updated: 44 stations 73 connections
+	
 Paris
 	20 regions (arrondissements)
 	47 stations (12 dept store sites in 9 regions)
