@@ -13,7 +13,7 @@ To create your own copy of __Shinjuku__, you'll need the following:
 * 1 Rules of Play document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
 * 1 Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 * 1 Map of Tokyo
-* 1 deck of 72 Ward Cards
+* 1 Deck of 72 Ward Cards
 * 52 Customer tokens
 * 32 Store tokens (8 stores x 4 player colors)
 * 12 Department Store tokens (3 department stores x 4 player colors)
@@ -24,7 +24,7 @@ To create your own copy of __Shinjuku__, you'll need the following:
 For the Expansions, you’ll need:
 
 * 1 Expansion Pack I rules document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1_a4.pdf))
-* 1 set of 5 Expansion cards (1 card for each expansion)
+* 1 Set of 5 Expansion cards (1 card for each expansion)
 * Princess: 1 Princess token
 * Thief: 8 thief tokens (must match the Customer tokens)
 * Chairman: 4 Chairman tokens (1 for each player color)
