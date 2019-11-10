@@ -2,7 +2,7 @@
 
 # Shinjuku - Print-n-Play
 
-Version 1 r4
+Version 1 r5
 
 _These files and instructions are provided for non-commercial use._
 
@@ -38,8 +38,8 @@ These print-and-play instructions are available in PDF form ([Letter](https://ga
 
 The map is 18"x20" (457mm x 508mm). The print and play version of the map is in Black and White and uses patterns to differentiate the wards. You can print this out as a single large image, or as split across 6 pages:
 
-* Shinjuku Map (B&W) - [Single large image](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw.jpg)
-* Shinjuku Map (B&W) - Split across 6 pages ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-letter.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-a4.pdf))
+* Shinjuku Map - Single large image - [B&W](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw.jpg), [Color](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color.jpg)
+* Shinjuku Map - Split across 6 pages - B&W ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-letter.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-a4.pdf)), Color ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color-letter.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color-a4.pdf))
 
 ### 72 Ward Cards
 
