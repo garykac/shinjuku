@@ -43,10 +43,6 @@ _export_dpi = 300
 
 # Tokyo Wards
 _wards = [
-	"20-nerima",
-	"22-katsushika",
-]
-_wards2 = [
 	"01-chiyoda",
 	"02-chuo",
 	"03-minato",
@@ -156,7 +152,8 @@ def svg_export_id(id, svg, png):
 #     Note: Layer ids cannot be exported, so this must be an object in the layer.
 # has_back: Does the file include a card back image?
 # should_clip: if true, generate clipped cards (rounded corners with transparency)
-def export_png(dir, basename, wards, export_id, has_back, should_clip):
+# should_bw: if true, generate black and white (clipped) cards
+def export_png(dir, basename, wards, export_id, has_back, should_clip, should_bw):
 	
 	src = os.path.join(dir, '%s.svg' % basename)
 	background_svg = os.path.join(dir, '%s-background.svg' % basename)
@@ -164,13 +161,15 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip):
 	border_svg = os.path.join(dir, '%s-border.svg' % basename)
 	ku_svg = os.path.join(dir, '%s-out.svg' % basename)
 
-	clip = ''
+	mod = ''
 	if should_clip:
-		clip = '-clip'
+		mod = '-clip'
+	if should_bw:
+		mod = '-bw'
 		
 	# Show background layers.
 	copyfile(src, background_svg)
-	show_layer(background_svg, 'background-map%s' % clip)
+	show_layer(background_svg, 'background-map%s' % mod)
 
 	# Create SVG file with card cutline.
 	# If we're exporting the full card with bleed, then don't show cutline, just make
@@ -190,12 +189,12 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip):
 	for layer in wards:
 		# Create SVG file with ku map.
 		copyfile(border_svg, ku_svg)
-		show_layer(ku_svg, '%s-title%s' % (layer, clip))
+		show_layer(ku_svg, '%s-title%s' % (layer, mod))
 
 		# Export ku PNG.
 		svg_export_id(export_id, ku_svg, os.path.join(outdir, '%s.png' % layer))
 
-	if has_back:
+	if has_back and not should_bw:
 		# Create SVG file for back (no map border).
 		copyfile(cutline_svg, ku_svg)
 		show_layer(ku_svg, 'card-back')
@@ -217,7 +216,7 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip):
 # Black and White cards with transparent rounded border (for print-n-play).
 #export_png('.', 'ku-cards-bw-rounded', _wards, "cut-line", True)
 
-export_png('.', 'ku-cards', _wards, "cut-line", True, True)
+export_png('.', 'ku-cards', _wards, "cut-line", True, True, True)
 
 # Paris
 #export_png('paris', 'arr-cards', _arr, "cut-line", False)
