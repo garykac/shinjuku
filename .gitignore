@@ -16,6 +16,7 @@ pnp/cards-bw/*
 pnp/cards-color/*
 pnp/map-bw/*
 pnp/map-color/*
+pnp/screen/*
 
 images/screenshots/*
 components/tabletopia/*
