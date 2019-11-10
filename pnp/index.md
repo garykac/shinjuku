@@ -36,7 +36,7 @@ These print-and-play instructions are available in PDF form ([Letter](https://ga
 
 ### 1 Map of Tokyo
 
-The map is 18"x20" (457mm x 508mm). The print and play version of the map is in Black and White and uses patterns to differentiate the wards. You can print this out as a single large image, or as split across 6 pages:
+The map is 18"x20" (457mm x 508mm). The low-ink Black and White version uses patterns to differentiate the wards. You can print this out as a single large image, or as split across 6 pages:
 
 * Shinjuku Map - Single large image - [B&W](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw.jpg), [Color](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color.jpg)
 * Shinjuku Map - Split across 6 pages - B&W ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-letter.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-bw-a4.pdf)), Color ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color-letter.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/map-color-a4.pdf))
@@ -45,7 +45,7 @@ The map is 18"x20" (457mm x 508mm). The print and play version of the map is in 
 
 There are 72 cards and each card identifies a single ward on the map.
 
-* Shinjuku Cards (B&W) - 8 pages, 9 cards per page ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw-a4.pdf))
+* Shinjuku Cards - 8 pages, 9 cards per page - B&W ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw-a4.pdf)), Color ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-color.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-color-a4.pdf))
 
 ### 52 Customers
 
