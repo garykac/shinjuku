@@ -16,7 +16,7 @@
    id="svg4516"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="pnp-cards.svg"
+   sodipodi:docname="cards.svg"
    inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-7.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -30,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="351.65048"
+     inkscape:cx="84.507623"
      inkscape:cy="471.65269"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,7 +66,10 @@
        height="315"
        width="225"
        id="rect6229"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6231"
@@ -74,7 +77,10 @@
        height="315"
        x="495"
        y="84.862106"
-       ry="22.5" />
+       ry="22.5"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        ry="22.5"
        y="399.86221"
@@ -82,7 +88,10 @@
        height="315"
        width="225"
        id="rect6240"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6242"
@@ -90,7 +99,10 @@
        height="315"
        x="270"
        y="399.86221"
-       ry="22.5" />
+       ry="22.5"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        ry="22.5"
        y="399.86221"
@@ -98,7 +110,10 @@
        height="315"
        width="225"
        id="rect6244"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6248"
@@ -106,7 +121,10 @@
        height="315"
        x="45"
        y="714.8623"
-       ry="22.5" />
+       ry="22.5"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        ry="22.5"
        y="714.8623"
@@ -114,7 +132,10 @@
        height="315"
        width="225"
        id="rect6250"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6252"
@@ -122,7 +143,10 @@
        height="315"
        x="495"
        y="714.8623"
-       ry="22.5" />
+       ry="22.5"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="display:inline;opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6208"
@@ -130,13 +154,16 @@
        height="315"
        x="45"
        y="84.862106"
-       ry="22.5" />
+       ry="22.5"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-color/pnp-cards-color-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Page 1"
-     style="display:inline">
+     style="display:none">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-rounded/01-chiyoda.png"
        y="22.049904"
@@ -799,7 +826,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Page 8"
-     style="display:none">
+     style="display:inline">
     <image
        style="display:inline"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-rounded/22-katsushika.png"
