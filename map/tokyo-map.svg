@@ -3120,11 +3120,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="789.97223"
-     inkscape:cy="842.01153"
+     inkscape:zoom="0.5"
+     inkscape:cx="806.49047"
+     inkscape:cy="883.56983"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="g7497"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -14820,8 +14820,7 @@
      id="layer12"
      inkscape:label="Border 18x20"
      style="display:inline"
-     transform="translate(2.5275545,89.993925)"
-     sodipodi:insensitive="true">
+     transform="translate(2.5275545,89.993925)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -2.527344,0.00585938 0,1620.00004062 1800.000044,0 0,-1620.00004062 -1800.000044,0 z m 8,8.00000002 1784.000044,0 0,1604.0000406 -1784.000044,0 0,-1604.0000406 z"
@@ -14879,13 +14878,13 @@
        width="630"
        id="rect5921"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-1.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-1.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-2.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-2.png"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6714"
        width="630"
@@ -14899,13 +14898,13 @@
        width="630"
        id="rect6716"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-3.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-3.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-4.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-4.png"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6725"
        width="630"
@@ -14919,13 +14918,13 @@
        width="630"
        id="rect6727"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-5.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-5.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-bw/map-6.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-6.png"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6729"
        width="630"
