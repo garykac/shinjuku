@@ -14,7 +14,8 @@ london/ref/*
 
 pnp/cards-bw/*
 pnp/cards-color/*
-pnp/map-images/*
+pnp/map-bw/*
+pnp/map-color/*
 
 images/screenshots/*
 components/tabletopia/*
