@@ -103,7 +103,9 @@ The bag is used to hold all the customers so that they can be drawn at random. U
 
 ### 4 player screens (1 screen x 4 player colors)
 
-These don't need to be anything fancy, but should be large enough to hide roughly 20 customers.
+These player screens have the rules summarized on the inside. 
+
+* Player Screens - 4 double-sided pages - Color ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/screens.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/screens-a4.pdf))
 
 ## Customer and Store Stickers
 
