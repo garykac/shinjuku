@@ -19,14 +19,21 @@ When updating/clarifying the rules, there are 5 places that may need to be updat
 
 If the map (`map/tokyo-map.svg`) has been updated:
 
+Double Check:
+
+* If text has been moved, make sure that it avoids the cuts for a quad-fold board. Show the "Folding Boards" layer to see where they are.
+
 ### Export full size images
 
 Export the following map images at 300dpi:
 
 * Layer "Border 18x20" export as `tokyo-map-border-300dpi.png` (6000x5400 pixels)
-* Layer "View 18x20 + 1/8 bleed" as `tokyo-map-bleed-300dpi.png`  (6075x5475 pixels).
+* Layer "View 18x20" as `tokyo-map-300dpi.png` (6000x5400 pixels).
   Hide layer after selecting rect.
-  Used only for sending to be printed.
+  Used only if sending to be printed (PrintPlayGames).
+* Layer "View 18x20 + 1/8 bleed" as `tokyo-map-bleed-300dpi.png` (6075x5475 pixels).
+  Hide layer after selecting rect.
+  Only needed if sending to be printed (when bleed is required).
 
 ### Generate compact images
 
@@ -166,6 +173,8 @@ Upload the updated documents to BoardGameGeek:
 
 Print out each individual screen (front and back) and combine into a PDF. Flip the images so that they can be printed double-sided.
 
+Temp screen images are stored in `pnp/screen`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (and A4 version).
+
 ## Expansion Pack Updates
 
 ### Rulebook
@@ -186,6 +195,16 @@ Similar to the main Rulebook/Quickstart Updates:
 * Export `pnp/shinjuku_pnp_instr.afpub` as PDF for Letter/A4
 
 Except that the PDF files should be saved in `pnp/shinjuku-pnp` directory.
+
+### Update BGG
+
+If this is a significant update, then update the rules uploaded to BoardGameGeek.
+
+As with the rulebooks, duplicate the A4 version, remove `_a4` and add `_rXX` where XX is the current revision.
+
+Upload the updated documents to BoardGameGeek:
+
+* [Shinjuku Print and Play Instructions at BGG](https://boardgamegeek.com/filepage/187225/shinjuku-print-and-play-instructions)
 
 ## Sellsheet
 
