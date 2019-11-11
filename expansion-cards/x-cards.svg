@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="x-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-advertise.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/back.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="116.93855"
-     inkscape:cy="165.83022"
+     inkscape:cx="151.80697"
+     inkscape:cy="218.4618"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -1456,7 +1456,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4960">When you draw a Flash Mob token, draw a burst of 3 customers from the bag and place them in the location where the Flash Mob token would have gone.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara5009"></flowPara><flowPara
+         id="flowPara5009" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara5011">The Flash Mob token is then removed from the game.</flowPara></flowRoot>  </g>
   <g
@@ -1663,7 +1663,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4775">After you use the token, pass it to the player who immediately precedes you in turn order.</flowPara></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Mod - Advertise"
      id="g4857"
      inkscape:groupmode="layer">
@@ -1708,7 +1708,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Mod - *** Back ***"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4863"
@@ -1857,9 +1857,16 @@
              id="rect4935" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="flowPara4937">EXPANSION</flowPara></flowRoot>    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#8488d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4606"
+       width="247.5"
+       height="337.5"
+       x="0"
+       y="0" />
     <g
        id="g4891"
-       transform="translate(-380,18.752818)">
+       transform="translate(0,18.752818)">
       <g
          transform="matrix(0.62990995,0,0,0.62990995,167.02751,105.88085)"
          id="g4893">
@@ -1901,15 +1908,8 @@
              style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara4913"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:5px;text-anchor:middle;fill:#ffffff;fill-opacity:1">EXPANSION</flowPara></flowRoot>    </g>
-    <rect
-       style="display:inline;opacity:1;fill:#8488d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4606"
-       width="247.5"
-       height="337.5"
-       x="0"
-       y="0" />
     <flowRoot
-       transform="translate(-1500.3762,-1457.9616)"
+       transform="translate(-1880.3762,-1457.9616)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4627"
        xml:space="preserve"><flowRegion
