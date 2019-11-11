@@ -3121,10 +3121,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="806.49047"
-     inkscape:cy="883.56983"
+     inkscape:cx="604.73526"
+     inkscape:cy="997.05242"
      inkscape:document-units="px"
-     inkscape:current-layer="g7497"
+     inkscape:current-layer="layer12"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -9028,7 +9028,7 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Setagaya</flowPara><flowPara
          id="flowPara6108"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>    <flowRoot
-       transform="translate(211.37326,292.48567)"
+       transform="translate(211.37326,284.48567)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6086"
        xml:space="preserve"><flowRegion
@@ -9281,7 +9281,7 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Katsushika</flowPara><flowPara
          id="flowPara5988"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>    <flowRoot
-       transform="translate(1458.8113,258.95232)"
+       transform="translate(1456.8113,254.95232)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5966"
        xml:space="preserve"><flowRegion
@@ -9300,7 +9300,7 @@
          id="flowPara5976" /></flowRoot>    <g
        style="display:inline"
        id="g9592"
-       transform="matrix(0.8,0,0,0.8,1503.3227,322.63286)">
+       transform="matrix(0.8,0,0,0.8,1501.3227,322.63286)">
       <rect
          ry="3.5999999"
          rx="3.5999999"
@@ -9899,7 +9899,7 @@
     <g
        style="display:inline;opacity:1"
        id="g9592-5-1"
-       transform="matrix(0.8,0,0,0.8,253.7025,251.98621)">
+       transform="matrix(0.8,0,0,0.8,239.7025,241.98621)">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect9576-31-68"
@@ -10778,14 +10778,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
-         x="865.16559"
-         y="161.62892"
+         x="855.16559"
+         y="143.62892"
          id="text6826"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan6828"
-           x="865.16559"
-           y="161.62892"
+           x="855.16559"
+           y="143.62892"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';fill:#000000;fill-opacity:1">王子</tspan></text>
       <text
          sodipodi:linespacing="125%"
@@ -10813,7 +10813,7 @@
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1">Kita Senju</tspan></text>
       <g
          id="g6721"
-         transform="translate(-0.58578642,0)">
+         transform="translate(-12.585786,-16)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
@@ -10964,14 +10964,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
-         x="825.16553"
-         y="939.70142"
+         x="825.66553"
+         y="941.70142"
          id="text6798"
          sodipodi:linespacing="125%"><tspan
            id="tspan6800"
            sodipodi:role="line"
-           x="825.16553"
-           y="939.70142"
+           x="825.66553"
+           y="941.70142"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1">Shimbashi</tspan></text>
       <text
          sodipodi:linespacing="125%"
@@ -11239,13 +11239,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
-         x="825.0802"
+         x="817.0802"
          y="701.70142"
          id="text6914"
          sodipodi:linespacing="125%"><tspan
            id="tspan6916"
            sodipodi:role="line"
-           x="825.0802"
+           x="817.0802"
            y="701.70142"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1">Iidabashi</tspan></text>
       <g
@@ -11318,7 +11318,7 @@
       </g>
       <g
          id="g6963"
-         transform="translate(110,385.985)">
+         transform="translate(120,387.985)">
         <text
            sodipodi:linespacing="125%"
            id="text6965"
@@ -11338,7 +11338,7 @@
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1" />
       </g>
       <g
-         transform="translate(366,345.985)"
+         transform="translate(370,355.985)"
          id="g6973">
         <text
            xml:space="preserve"
@@ -11527,12 +11527,12 @@
       <text
          sodipodi:linespacing="125%"
          id="text7075"
-         y="865.70142"
+         y="877.70142"
          x="1267.1655"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';fill:#000000;fill-opacity:1"
-           y="865.70142"
+           y="877.70142"
            x="1267.1655"
            id="tspan7077"
            sodipodi:role="line">門前仲町</tspan></text>
@@ -11672,12 +11672,12 @@
          sodipodi:linespacing="125%"
          id="text7123"
          y="680.32141"
-         x="833.16553"
+         x="827.16553"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';fill:#000000;fill-opacity:1"
            y="680.32141"
-           x="833.16553"
+           x="827.16553"
            id="tspan7125"
            sodipodi:role="line">飯田橋</tspan></text>
       <text
@@ -11707,13 +11707,13 @@
       <text
          sodipodi:linespacing="125%"
          id="text7135"
-         y="904.65143"
-         x="1031.1655"
+         y="906.65143"
+         x="1041.1655"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';fill:#000000;fill-opacity:1"
-           y="904.65143"
-           x="1031.1655"
+           y="906.65143"
+           x="1041.1655"
            id="tspan7137"
            sodipodi:role="line">八丁堀</tspan></text>
       <text
@@ -11743,14 +11743,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1"
-         x="873.16553"
-         y="918.47144"
+         x="877.66553"
+         y="920.47144"
          id="text7147"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan7149"
-           x="873.16553"
-           y="918.47144"
+           x="877.66553"
+           y="920.47144"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold';fill:#000000;fill-opacity:1">新橋</tspan></text>
       <text
          xml:space="preserve"
@@ -12011,7 +12011,7 @@
       </g>
       <g
          id="g6559"
-         transform="translate(309,-41)">
+         transform="translate(311,-41)">
         <path
            id="path6561"
            d="m 601.6875,997.26953 c -0.34691,-0.008 -0.68155,0.12853 -0.92383,0.37695 -0.0583,0.0597 -0.065,0.12207 -0.12109,0.18164 -0.0298,0.0413 -0.0625,0.0859 -0.0625,0.0859 -2e-5,3e-5 -0.006,0.0148 -0.008,0.0176 -0.0138,0.0149 -0.0176,0.03 -0.0312,0.0449 l -0.008,-0.006 -0.0312,0.0645 c -1.37701,1.52763 -1.99692,3.11848 -2.22265,4.88678 -0.56847,-0.1218 -1.1477,-0.3207 -1.71485,-0.3242 l -0.004,0 c -1.34226,-0.011 -2.65542,0.3723 -4.12891,1.1015 -0.4593,0.2273 -0.73334,0.7119 -0.69141,1.2227 l 0,0.01 c 0.0208,0.2544 0.1189,0.4964 0.28125,0.6934 -0.28798,0.074 -0.54004,0.2488 -0.71093,0.4922 l -0.008,0.01 c -0.26748,0.383 -0.29911,0.8831 -0.082,1.2968 1.08765,2.0742 2.52707,3.193 4.29883,4.0176 -0.94909,1.7089 -1.45453,3.4596 -1.11523,5.7774 0.0385,0.266 0.16182,0.5126 0.35156,0.7031 l 0.01,0.01 c 0.35225,0.3511 0.87918,0.4601 1.3418,0.2774 -0.0146,0.2211 0.0299,0.4422 0.12891,0.6406 l 0.006,0.01 c 0.24602,0.4925 0.78534,0.7661 1.32812,0.6738 2.30864,-0.3934 3.81663,-1.4175 5.14844,-2.8477 1.33201,1.4308 2.84121,2.4542 5.15039,2.8477 0.54279,0.092 1.08211,-0.1813 1.32813,-0.6738 l 0.006,-0.01 c 0.0983,-0.1986 0.14215,-0.4196 0.12696,-0.6406 0.1461,0.058 0.30182,0.088 0.45898,0.088 l 0.01,0 c 0.62004,-3e-4 1.1462,-0.455 1.23633,-1.0684 0.33923,-2.3172 -0.16652,-4.0687 -1.11524,-5.7773 1.7718,-0.8246 3.21118,-1.9435 4.29883,-4.0176 0.21656,-0.4141 0.18416,-0.9143 -0.084,-1.2969 l -0.006,-0.012 c -0.17089,-0.2435 -0.42296,-0.418 -0.71094,-0.4922 0.17101,-0.208 0.27034,-0.4655 0.2832,-0.7344 l 0.002,-0.01 c 0.0234,-0.4965 -0.24963,-0.9597 -0.69531,-1.1797 -1.47637,-0.7306 -2.79044,-1.1094 -4.1289,-1.1016 l -0.008,0 c -0.56169,0.01 -1.1433,0.2019 -1.71093,0.3223 -0.24472,-1.9157 -0.86359,-3.61619 -2.48438,-5.27544 -0.36555,-0.37358 -0.92492,-0.48031 -1.40234,-0.26758 l -0.008,0.004 c -0.22459,0.0997 -0.41481,0.26347 -0.54687,0.47071 -0.0148,-0.024 -0.0305,-0.0474 -0.0469,-0.0703 l -0.002,-0.002 c -0.0239,-0.0324 -0.0493,-0.0637 -0.0762,-0.0937 -0.0278,-0.0314 -0.0571,-0.0614 -0.0879,-0.0898 -0.22272,-0.20798 -0.51375,-0.32745 -0.81836,-0.33594 z"
