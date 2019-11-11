@@ -1,32 +1,48 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Auto-generate cards from ku-cards.svg.
+# Auto-generate card images from ku-cards.svg.
 #
-# All ward layers should be hidden before running this script since it will toggle
-# the visibility of each one before rendering.
+# Before running this script, make sure the SVG file has layers hidden as follows:
 #
-# The "Map border" and "Cut" layers should be hidden. They will be made visible
-# if necessary.
+# * All top level layers should be HIDDEN *except* for the three layer grouls:
+#   "B&W", "Clip" and "Bleed"
+# * Within the "B&W", "Clip" and "Bleed" groups, all layers should be HIDDEN,
+#   including the "Background" layer group.
+# * Within each of the "Background" layer groups, all layers should be SHOWN.
+#
+# This script will toggle the visibility state of the appropriate "Background" layer
+# group, the individual ward layers, and the border.
+#
+# Close the SVG file before running this script.
 
 # Each svg file should be structured as follows:
 # * Layer "Cut 2.5 x 3.5" (with outline of 2.5x3.5 card)
 #   * Rect id = "cut-line"
 # * Layer "Map border" (black map outline)
 #   * Rect id = "map-border-rect"
+# * Layer "Size 2.74 x 3.74 MPC" (MPC export layer)
+#   * Rect id = "mpc-bbox"
+#   * For exporting with bleed
 #
-# For each ward:
-# * Layer with name given in array (e.g.: "01-chiyoda")
-#   * Item with id = layer_name + "_title" (e.g.: "01-chiyoda-title")
-# The "map-border-rect" will automatically be shown for each ward card.
+# There are 3 groups of ward layers:
+# * "B&W" for black and white cards (used for ptint and play)
+# * "Clip" for cards with rounded corners (used for docs and pnp)
+# * "Bleed" for cards where the image bleeds past the card boundar (for printing)
+#
+# For each ward group, there is a:
+#
+#   Set of ward layers, where:
+#   * Layer with name given in array (e.g.: "01-chiyoda")
+#     * Item with id = layer_name + "_title" (e.g.: "01-chiyoda-title")
+#   The "map-border-rect" will automatically be shown for each ward card.
+#
+#   A group of background layers that contains the water and outlines for the
+#   other wards.
 #
 # For card back (if present):
 # * Layer "Card back"
 #   * Rect id = "card-back"
-#
-# For exporting:
-# * Layer "Size 2.74 x 3.74 MPC" (MPC export layer)
-#   * Rect id = "mpc-bbox"
 #
 # Note that the layer names are not required, but the svg ids must be set correctly.
 
@@ -208,15 +224,11 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip, should_bw
 
 # Tokyo
 # Cards for printing with MPC
-#export_png('.', 'ku-cards', _wards, "mpc-bbox", True)
-# Cards with cut line (without transparent corners).
-#export_png('.', 'ku-cards', _wards, "cut-line", True)
-# Cards with transparent rounded border (for documentation).
-#export_png('.', 'ku-cards-rounded', _wards, "cut-line", True)
-# Black and White cards with transparent rounded border (for print-n-play).
-#export_png('.', 'ku-cards-bw-rounded', _wards, "cut-line", True)
-
-export_png('.', 'ku-cards', _wards, "cut-line", True, True, True)
+export_png('.', 'ku-cards', _wards, "mpc-bbox", True, False, False)
+# Cards clipped to the  cut line
+#export_png('.', 'ku-cards', _wards, "cut-line", True, True, False)
+# Cards B&W
+#export_png('.', 'ku-cards', _wards, "cut-line", True, True, True)
 
 # Paris
 #export_png('paris', 'arr-cards', _arr, "cut-line", False)
