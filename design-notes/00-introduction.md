@@ -26,8 +26,3 @@ In this series, I’ll start with the creation of the first prototype and then f
 Here are links to the articles so far:
 
 * [Inspiration](01-inspiration.md)
-* [Process](02-process.md)
-* [Prototype One](03-prototype-one.md)
-* [Initial Rules](04-initial-rules.md)
-* [Playtests - Week 1](05-playtests-week-one.md)
-* [New Cards](06-new-cards.md)
