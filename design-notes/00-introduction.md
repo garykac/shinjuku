@@ -4,9 +4,9 @@ This is the first in a series of short articles about the design and development
 
 Overall, this series is going to be an amalgam of designer diary entries, a case study and a post-mortem retrospective. The intent is to walk through the entire design and development process, but with a bit of organization added that can only be applied in hindsight.
 
-If you’re unfamiliar with the rules of **Shinjuku**, it is a strategic network-building and pick-up-and-deliver game that plays in roughly one hour.
-
 <img src="images/pt45-3018.jpg" height="265px" width="500px" />
+
+If you’re unfamiliar with the rules of **Shinjuku**, it is a strategic network-building and pick-up-and-deliver game that plays in roughly one hour.
 
 From a birds-eye view, **Shinjuku** is a game with:
 
@@ -25,4 +25,6 @@ In this series, I’ll start with the creation of the first prototype and then f
 
 Here are links to the articles so far:
 
+* [Introduction](00-introduction.md)
 * [Inspiration](01-inspiration.md)
+* [The Design Process](02-process.md)
