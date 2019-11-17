@@ -548,8 +548,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="339.47461"
-     inkscape:cy="270.07059"
+     inkscape:cx="453.76032"
+     inkscape:cy="241.49916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1772,6 +1772,31 @@
                style="text-align:center;text-anchor:middle;fill:#959595;fill-opacity:1" /></flowRegion><flowPara
              id="flowPara19650"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#959595;fill-opacity:1">Cancel</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(485.56029,722.18621)"
+         id="g20876">
+        <rect
+           ry="13.131983"
+           y="240.21935"
+           x="92.857147"
+           height="40.185623"
+           width="109.28931"
+           id="rect20878"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(-1.256637,73.740182)"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot20880"
+           xml:space="preserve"><flowRegion
+             id="flowRegion20882"><rect
+               style="text-align:center;text-anchor:middle"
+               y="181.37289"
+               x="93.43911"
+               height="42.426414"
+               width="110.10664"
+               id="rect20884" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara20886">Publish</flowPara></flowRoot>      </g>
     </g>
   </g>
 </svg>
