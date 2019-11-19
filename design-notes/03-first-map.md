@@ -32,7 +32,7 @@ I was also concerned about the number of stations that I would need on the map. 
 
 Fortunately, the government of Tokyo divides the central core of the city (technically a "metropolis") into [23 special wards](https://en.wikipedia.org/wiki/Special_wards_of_Tokyo), which seems like a more manageable number.
 
-<a href="../map/tokyo-23-wards.png"><img src="../map/tokyo-23-wards.png" height="326px" width="323px"/></a>
+<a href="../map/tokyo-23-wards.png"><img src="maps/tokyo-23-wards.jpg" /></a>
 
 But how can I confirm that 23 regions a good number? Clearly I needed to create the game and playtest it, but before that I could look at existing games as a point of comparison:
 
