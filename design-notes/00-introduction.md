@@ -21,10 +21,12 @@ The rules ([Quickstart](https://garykac.github.io/shinjuku/docs/shinjuku_quickst
 
 If you’re curious about the game design journey that led to the current state of the game, then you might want to avoid contaminating yourself by knowing too much about how this adventure ends. Or not, your choice.
 
-In this series, I’ll start with the creation of the first prototype and then follow that to the very first “playable” (ha!) version and summarize the changes that were considered as the design progressed.
+In this series, I’ll start with the creation of the first prototype and then follow that to the very first “playable” (ha!) version and summarize the changes that were considered as the design progressed. Particular attention will be paid to **why** the changes were considered and also **why** they were ultimately adopted or rejected.
 
 Here are links to the articles so far:
 
 * [Introduction](00-introduction.md)
 * [Inspiration](01-inspiration.md)
 * [The Design Process](02-process.md)
+* [The First Map](03-first-map.md)
+* [Cards](04-cards.md)
