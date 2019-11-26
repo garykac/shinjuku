@@ -106,7 +106,7 @@ Note the following:
 
 <a href="../archive/tokyo-map/v02/tokyo-stations-2-sm.jpg"><img src="../archive/tokyo-map/v02/tokyo-stations-2-sm.jpg" height="270px" width="300px" /></a>
 
-In the end, 41 stations were selected to include on the map.
+In the end, 41 stations were selected to be included on the map.
 
 ## Choosing Connections
 

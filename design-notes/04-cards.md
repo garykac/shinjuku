@@ -1,10 +1,10 @@
 ## The Cards
 
-Since the cards only need to indentify a region on the map, all they really need to be is the name of the region
+Since the cards only need to identify a region on the map, all they really need to be is the name of the region. But I still needed to figure out an appropriate distribution.
 
 An advantage of using official divisions like the 23 wards is that the government publishes population and demographic statistics about each region. And I could use that information to determine the distribution of cards in the deck.
 
-Using information from the Statistics Bureau of Japan (see [Table 1-3 in their poulation census data](https://www.stat.go.jp/english/data/kokusei/2000/jutsu1/00/01.html)), I took the average of the daytime and nighttime population of each ward and then scaled the numbers (by dividing by 200,000) to have 48 cards.
+Using information from the Statistics Bureau of Japan (see [Table 1-3 in their population census data](https://www.stat.go.jp/english/data/kokusei/2000/jutsu1/00/01.html)), I took the average of the daytime and nighttime population of each ward and then scaled the numbers (by dividing by 200,000) to have 48 cards.
 
 Why 48? I was printing these on 8.5x11 sheets of paper with 8 cards per page. Six pages gives me 48 cards, which is close enough to a regular deck of playing cards for a good starting point.
 
@@ -63,7 +63,7 @@ This is relevant because I designed for 48 cards, but [PrintPlayGames](https://w
 
 As an aside, if you were hoping to find in these articles tips about the cheapest way to prototype your game, then you should prepare yourself for disappointment. While I love the process of crafting physical components, I love doing it exactly **once** (or maybe twice). After that, it starts to become tedious. As long as the time vs. money trade-off is reasonable, I will gladly throw a bit of money at a company/person to offload some of the work, especially if they can do a better job. I have enough of my time occupied doing tasks that I can't offload, so this allows me to move forward more quickly than if I had to craft everything myself.
 
-I'm in a fortunate situation because I live in the Seattle area and PrintPlayGames is based in Vancouver (no, not [that one](https://en.wikipedia.org/wiki/Vancouver), [this one](https://blogs.scientificamerican.com/rosetta-stones/the-cataclysm-vancouver-vancouver-this-is-it/)). Being in the same state means that I typically get a 4-day turnaround between when I order and when it arrives at home.
+I'm in a fortunate situation because I live in the Seattle area and PrintPlayGames is based in Vancouver (no, not [**that** one](https://en.wikipedia.org/wiki/Vancouver), [**this** one](https://blogs.scientificamerican.com/rosetta-stones/the-cataclysm-vancouver-vancouver-this-is-it/)). Being in the same state means that I typically get a 4-day turnaround between when I order and when it arrives at home.
 
 ## Putting it all together
 

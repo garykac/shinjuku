@@ -29,4 +29,4 @@ Here are links to the articles so far:
 * [Inspiration](01-inspiration.md)
 * [The Design Process](02-process.md)
 * [The First Map](03-first-map.md)
-* [Cards](04-cards.md)
+* [The Cards](04-cards.md)
