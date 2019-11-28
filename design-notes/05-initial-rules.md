@@ -48,6 +48,8 @@ From a game mechanics perspective, I wanted:
 
 Most of these goals were simply a reflection of games that I like to play. The 60 minute game limit was self-imposed because my playtest group often plays during lunch, so a game that fits in 60 minutes could be tested more thoroughly/frequently.
 
+<img src="images/pt02-0650.jpg" height="200px"/>
+
 ## Rules
 
 Given these requirements, I needed to settle on the simplest set of rules possible that allow the game to be played. Most of the choices made at this point, like how many and what kind of customers or stores to include, are based on nothing more than a gut feeling of what seems somewhat reasonable. Often they are influenced by the game I played most recently with a similar mechanism. The expectation is that most of the choices made here will change based on actual testing.
