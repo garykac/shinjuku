@@ -30,3 +30,4 @@ Here are links to the articles so far:
 * [The Design Process](02-process.md)
 * [The First Map](03-first-map.md)
 * [The Cards](04-cards.md)
+* [The Initial Playtest Version](05-initial-version.md)
