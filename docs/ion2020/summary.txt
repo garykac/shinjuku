@@ -1,0 +1,12 @@
+Tokyo is a city of trains and Shinjuku is the busiest train station in the world.
+
+ Unlike most passenger rail systems, Tokyo has dozens of companies running competing rail lines rather than having a single entity that manages rail for the entire city.
+Many of these companies are large conglomerates that own not only the rail, but also the major department stores at the rail stations.
+
+In Shinjuku, you build stores and the rail lines to connect them so that you can build the most successful shopping/rail conglomerate.
+
+Every turn, new customers will arrive on the map looking to purchase one of 4 different goods. On your turn, you choose 2 different actions from: (a) Build a store, (b) Expand your rail, (c) Upgrade to a department store, (d) draw cards as Income or (e) Move customers along the rail to stores.
+
+You start with a hand of 5 location cards. The Build, Upgrade and Move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are Wild and can be used to match any location.
+
+The game ends when the last customer is placed (+ one final round) and victory goes to the player that acquired the most customers.

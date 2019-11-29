@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765 990"
+   id="svg4516"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shinjuku-photo.svg">
+  <defs
+     id="defs4518">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4913">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4915"
+         width="3822.4172"
+         height="1794.0309"
+         x="686.90375"
+         y="809.9256" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="515.11255"
+     inkscape:cy="3.8129257"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4521">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pt50"
+     style="display:inline">
+    <g
+       id="g4142"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <image
+         sodipodi:absref="/Users/garykac/projects/github/shinjuku/docs/ion2020/pt50-3105.jpg"
+         xlink:href="pt50-3105.jpg"
+         y="-141.60718"
+         x="-267.85709"
+         id="image5023"
+         preserveAspectRatio="none"
+         height="937.5"
+         width="1250" />
+      <image
+         sodipodi:absref="/Users/garykac/projects/github/shinjuku/docs/ion2020/pt50-3100.jpg"
+         xlink:href="pt50-3100.jpg"
+         y="396.96423"
+         x="495.00009"
+         id="image5012"
+         preserveAspectRatio="none"
+         height="937.5"
+         width="1250" />
+      <image
+         sodipodi:absref="/Users/garykac/projects/github/shinjuku/docs/ion2020/pt50-3099.jpg"
+         xlink:href="pt50-3099.jpg"
+         y="1015.5356"
+         x="-267.85709"
+         id="image5001"
+         preserveAspectRatio="none"
+         height="937.5"
+         width="1250" />
+    </g>
+  </g>
+</svg>
