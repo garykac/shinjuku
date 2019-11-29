@@ -3120,11 +3120,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="628.06933"
-     inkscape:cy="698.33919"
+     inkscape:zoom="0.5"
+     inkscape:cx="991.80305"
+     inkscape:cy="932.60832"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer12"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -3173,7 +3173,7 @@
   </g>
   <g
      transform="translate(93.572125,361.73541)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="Water - B&amp;W"
      id="g10723"
      inkscape:groupmode="layer">
@@ -3189,7 +3189,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Water Boundaries Clone - Shadow"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <use
        height="100%"
@@ -3204,7 +3204,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Water Boundaries Clone - Dot"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <use
        style="display:inline;stroke:#63bde2;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
@@ -3234,7 +3234,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Water Boundaries"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path6542"
@@ -3244,7 +3244,7 @@
        sodipodi:nodetypes="czcczccccccccccccccccccczzzzzzcccccczzzczzzzzzzzzzzzzzzzzzzzzzzzzzzzzccczzzzccccccccccccccccccssccccccccccccccccccccccccczzcczzzzzccc" />
   </g>
   <g
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      inkscape:label="Wards - Color"
      id="g7495"
      inkscape:groupmode="layer"
@@ -4653,7 +4653,7 @@
      inkscape:groupmode="layer"
      id="g6598"
      inkscape:label="Wards - card counts"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer93"
@@ -5330,8 +5330,7 @@
              x="660.43774"
              height="16.263456"
              width="6.3639612"
-             id="rect7781"
-             style="" /></flowRegion><flowPara
+             id="rect7781" /></flowRegion><flowPara
            id="flowPara7783" /></flowRoot>      <g
          transform="translate(-80.610173,85.681241)"
          id="g7785">
@@ -5714,7 +5713,7 @@
      inkscape:groupmode="layer"
      id="layer58"
      inkscape:label="Kanagawa"
-     style="display:none"
+     style="display:inline"
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -5733,7 +5732,7 @@
      inkscape:groupmode="layer"
      id="layer61"
      inkscape:label="Saitama"
-     style="display:none"
+     style="display:inline"
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -5753,7 +5752,7 @@
      inkscape:groupmode="layer"
      id="layer59"
      inkscape:label="Municipalities"
-     style="display:none"
+     style="display:inline"
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -5772,7 +5771,7 @@
      inkscape:groupmode="layer"
      id="layer60"
      inkscape:label="Chiba"
-     style="display:none"
+     style="display:inline"
      transform="translate(93.572125,361.73541)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.90194416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -8585,7 +8584,7 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="Station Shadows"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <circle
        cy="520.94806"
        cx="566.38654"
@@ -8855,7 +8854,7 @@
      inkscape:groupmode="layer"
      id="layer63"
      inkscape:label="Connections"
-     style="display:none"
+     style="display:inline"
      transform="translate(93.572125,361.73541)">
     <path
        sodipodi:nodetypes="cc"
@@ -9305,7 +9304,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Connections Clones"
-     style="display:none"
+     style="display:inline"
      transform="translate(2.5275545,89.993925)"
      sodipodi:insensitive="true">
     <path
@@ -9849,7 +9848,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="Stations"
-     style="display:none">
+     style="display:inline">
     <circle
        cy="298.12772"
        cx="222.71625"
@@ -10348,7 +10347,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Ku Names"
-     style="display:none;opacity:0.5"
+     style="display:inline;opacity:0.5"
      transform="translate(93.572125,361.73541)">
     <flowRoot
        transform="translate(637.35829,211.0887)"
@@ -11925,7 +11924,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Dept Store Rank (1-12)"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8"
@@ -12087,7 +12086,7 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Station Names"
-     style="display:none">
+     style="display:inline">
     <g
        id="g6654"
        inkscape:groupmode="layer"
@@ -13492,7 +13491,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Title"
-     style="display:none"
+     style="display:inline"
      transform="translate(2.5275545,89.993925)">
     <g
        id="g6986"
@@ -14664,7 +14663,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer90"
-     inkscape:label="Overlays">
+     inkscape:label="Overlays"
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -16181,15 +16181,15 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Border 18x20"
-     style="display:none"
+     style="display:inline"
      transform="translate(2.5275545,89.993925)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -2.527344,0.00585938 0,1620.00004062 1800.000044,0 0,-1620.00004062 -1800.000044,0 z m 8,8.00000002 1784.000044,0 0,1604.0000406 -1784.000044,0 0,-1604.0000406 z"
        id="rect11399"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="299.99997"
-       inkscape:export-ydpi="299.99997" />
+       inkscape:export-xdpi="149.99998"
+       inkscape:export-ydpi="149.99998" />
   </g>
   <g
      inkscape:groupmode="layer"
