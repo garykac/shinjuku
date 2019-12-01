@@ -31,3 +31,4 @@ Here are links to the articles so far:
 * [The First Map](03-first-map.md)
 * [The Cards](04-cards.md)
 * [The Initial Playtest Version](05-initial-version.md)
+* [The First Week of Playtests](06-playtests-week-one.md)
