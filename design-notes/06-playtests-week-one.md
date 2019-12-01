@@ -46,7 +46,7 @@ Because there were so many changes during this week, the changes here are groupe
 
 **_Change_**: Increase number of customers to 40
 
-* Why? Game was too short with 25 customers and players need more time to build an engine on the board.
+* Why? Game was too short with 25 customers and players needed more time to build an engine on the board.
 
 **_Change_**: Change customer distribution to 10/9/8/7/6 of each type: ◯ ⤫ △ ▢ ☆
 
@@ -133,9 +133,9 @@ Because there were so many changes during this week, the changes here are groupe
 
 * Why? Rail already pays out during the game, so there's no need for an endgame bonus. It’s more interesting to score indirectly (through customers). Contrast this with **Brass**, where rail doesn't pay out during the game, so it pays an endgame bonus based on the values of the cities it connects.
 
-## Summary (after week of playtesting)
-
 <a href="../playtests/images/pt02/pt02-0648.jpg"><img src="images/pt02-0648-crop.jpg" width="500px"/></a>
+
+## Summary (after week of playtesting)
 
 Overall, the game plays reasonably well and is steadily improving. It is definitely worth continuing even though there are serious issues remaining.
 
