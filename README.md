@@ -35,6 +35,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 * Game Development
 	* Game categories: strategic; network building; pick-up and deliver
+	* [Design Notes](https://boardgamegeek.com/blogpost/96561/introduction) (design diary on BGG)
 	* [Github repository](https://github.com/garykac/shinjuku)
 	* [Playtest notes](playtests/playtests.md)
 	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
@@ -72,7 +73,7 @@ Some station names are highlighted with a background color which indicates that 
 
 There are 72 cards and each card identifies a single ward on the map.
 
-<img src="cards/ku-cards-rounded/04-shinjuku.png" height="200px"/> <img src="cards/ku-cards-rounded/03-minato.png" height="200px"/> <img src="cards/ku-cards-rounded/12-setagaya.png" height="200px"/> <img src="cards/ku-cards-rounded/06-taito.png" height="200px"/>
+<img src="cards/ku-cards-clip/04-shinjuku.png" height="200px"/> <img src="cards/ku-cards-clip/03-minato.png" height="200px"/> <img src="cards/ku-cards-clip/12-setagaya.png" height="200px"/> <img src="cards/ku-cards-clip/06-taito.png" height="200px"/>
 
 There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
