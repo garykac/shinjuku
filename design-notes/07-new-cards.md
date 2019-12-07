@@ -1,4 +1,4 @@
-## Updating the Cards
+## New Card Distribution
 
 Having only 48 cards (for 23 regions) was a bit limiting because it did not allow a lot of variation between the most and least populated wards. In addition, the majority of the deck (~60%) of the cards were "low count", with only 1 or 2 cards of each, rather than "high count", with 3 or 4. The higher count cards feel more useful in the game, so it would be nice to have a distribution that included more of these.
 
@@ -6,7 +6,7 @@ Having only 48 cards (for 23 regions) was a bit limiting because it did not allo
 
 So I updated the card count to 72. Why 72? Because where I was having them printed preferred multiples of 18, which means 18, 36, 54, 72, 90, and so on. Increasing from 48 to 54 wouldn't make much of a difference, and I wanted to avoid having too many cards, so 72 is a reasonable value to try.
 
-Using the same [population census data](https://www.stat.go.jp/english/data/kokusei/2000/jutsu1/00/01.html)), I scaled the numbers to get 72 cards by adding 1 card for every 135,000 people (rounding up).
+Using the same [population census data](https://www.stat.go.jp/english/data/kokusei/2000/jutsu1/00/01.html), I scaled the numbers to get 72 cards by adding 1 card for every 135,000 people (rounding up).
 
 | Ward       | 　　　　 | Daytime | Nighttime | Avg     | # Cards |
 | ---------- | ------- | :-----: | :-------: | :-----: | :-----: |
@@ -44,6 +44,6 @@ This reduced the range of card counts to 2-5, but gave a more even distribution 
 
 <a href="images/card-pie-72.png"><img src="images/card-pie-72.png" height="400px" /></a>
 
-On the Tokyo map, the card distribution is:
+On the Tokyo map, the card distribution is now:
 
 <a href="maps/card-counts-72.jpg"><img src="maps/card-counts-72.jpg" height="400px" width="400px" /></a>

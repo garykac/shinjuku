@@ -25,10 +25,11 @@ In this series, I’ll start with the creation of the first prototype and then f
 
 Here are links to the articles so far:
 
-* [Introduction](00-introduction.md)
+* [Introduction](00-introduction.md) (this article)
 * [Inspiration](01-inspiration.md)
 * [The Design Process](02-process.md)
 * [The First Map](03-first-map.md)
 * [The Cards](04-cards.md)
 * [The Initial Playtest Version](05-initial-version.md)
 * [The First Week of Playtests](06-playtests-week-one.md)
+* [New Card Distribution](07-new-cards.md)
