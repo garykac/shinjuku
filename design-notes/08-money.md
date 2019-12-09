@@ -49,7 +49,9 @@ Changes from above are:
 
 Another good thing is that this raises the importance of Cards in the game, and "make cards more useful" was one of the goals from the first week of playtests.
 
-Well, that was easy. Sadly, there's a bit more work that has to be done to make it work.
+Well, that was easy. Sadly, there's a bit more to do in order to make it work.
+
+<img src="images/toei-subway-vending-crop.jpg" width="500px" />
 
 ## The Story of Money
 
@@ -64,9 +66,9 @@ For **money**, the story is that you don't start with much, but your income incr
 
 Unfortunately, just drawing 5 cards doesn't have any meaningful growth over the course of the game. Drawing 5 cards at the start of the game feels just like drawing 5 cards at the end. In this respect, drawing cards is a poor replacement for earning money.
 
-How can this money growth be recreated with the card draws? 
+How can this "money growth" be recreated with the card draws? 
 
-A straightforward way would be to treat cards as if they were "money", so in the early game you would have few cards, and you would gain more cards as the game progressed. But this would make the early game painful (too few cards to do anything interesting) and the end game would be unwieldy (too many cards to manage).
+A straightforward way would be to treat cards simply as if they were "money", so in the early game you would have few cards, and you would gain more cards as the game progressed. But this would make the early game painful (too few cards to do anything interesting) and the end game would be unwieldy (too many cards to manage).
 
 It would be nice if drawing 5 cards in the late game was simply worth more than drawing 5 cards in the early game. Fortunately, this can be accomplished by making the value of the cards dependent on something else that grows during the game – something that the player builds. In **Shinjuku**, this would be the network of stores (and track) on the map.
 
@@ -76,7 +78,7 @@ And this dependency can be created by re-introducing wildcards.
 
 Previously, wildcards didn't work because they were explicit cards in the deck. They were great when you drew them into your hand, but slowed the game down when they were drawn to place a random customer (as the player stopped and thought about the most advantageous place on the map for the new customer).
 
-But if the wildcards were based on where you (the player) have stores on the map, then it addresses both of the problems that need to be fixed:
+But if the wildcards were regular cards that became wild based on where you (the player) have stores on the map, then it addresses both of the problems that need to be fixed:
 
 * Every card has a single location (so customer draws always have a well-defined location)
 * Drawing 5 cards is likely to be worth more at the end of the game than at the beginning.
@@ -91,14 +93,18 @@ Looking again at the map with the card distribution:
 
 There are now places on the map (like Setagaya and Ota in the southwest) that are obviously better than other locations if all you're concerned about is maximizing the likelihood of drawing a wildcard. An added bonus is that these locations are also where customers are most likely to arrive.
 
-But the stores in many of these locations cannot be upgraded to a department store. And the outer locations (where many high card count regions can be found) are away from the center of the map where a lot of the action will be happening.
+But the stores in many of these locations cannot be upgraded to a department store. And the outer locations (where many high card count regions can be found) are away from the center of the map where a lot of the action (and department store upgrades) will be happening.
 
 So there are interesting decisions to make and that's a good thing.
 
-### Why Not Track for Wildcards?
+### Why Not Base Wildcards on Track?
 
 Since the player builds out both stores and track as the game progresses, either one (or both!) of them could have been used to create wildcards. Stores have the advantage that they are easily identified as belonging to a particular location.
 
 In contrast, track typically connect 2 different locations and may cross over a third one. This makes it harder to tell at a glance which cards are associated with a piece of track.
 
-Next article: Playtesting without Money
+## Next Steps
+
+Now that we have a complete proposal, it can be playtested to see if it actually works the way we want it to.
+
+_Next article: Playtesting without Money_
