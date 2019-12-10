@@ -43,3 +43,5 @@ But ideas just sit around (sometimes for years) until something prompts you to a
 _[Ed. note: I have no idea if Adam actually said “totally”, but that’s how I replay it in my head.]_
 
 And so it began...
+
+_Next article: [The Design Process](02-process.md)_

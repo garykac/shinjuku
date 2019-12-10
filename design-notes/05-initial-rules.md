@@ -155,3 +155,5 @@ But there are also a number of obvious problems with this ruleset, chief amongst
 So how can these problems be fixed? Now’s when the playtesting fun begins.
 
 Spoiler alert: the only part that makes it through this process unscathed is the map of Tokyo.
+
+_Next article: [The First Week of Playtests](06-playtests-week-one.md)_

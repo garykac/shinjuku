@@ -1,5 +1,28 @@
 # Playtest Notes
 
+**Tabletop Network / BggCon** Playtests
+
+* Sat 23 Nov 2019 - Playtest [#54](2019-11-23-playtest-54.md) - BggCon
+* Tue 19 Nov 2019 - Playtest [#53](2019-11-19-playtest-53.md) - Tabletop Network
+* Sun 17 Nov 2019 - Playtest [#52](2019-11-17-playtest-52.md) - Tabletop Network
+
+[Playtest #51 - Thu 14 Nov 2019](2019-11-14-playtest-51.md)
+
+* 3 player: JY AB GK
+
+[Playtest #50 - Wed 6 Nov 2019](2019-11-06-playtest-50.md)
+
+* 3 player: JY AB GK
+* Testing: Sending double-customer draws to separate locations
+
+[Playtest #49 - Fri 1 Nov 2019](2019-11-01-playtest-49.md)
+
+* 2 player: AB GK
+
+[Playtest #48 - Tue 29 Oct 2019](2019-10-29-playtest-48.md)
+
+* 3 player: JY AB GK
+
 [Playtest #47 - Fri 25 Oct 2019](2019-10-25-playtest-47.md)
 
 * 2 player: AB GK
@@ -8,7 +31,7 @@
 [Playtest #46 - Thu 24 Oct 2019](2019-10-24-playtest-46.md)
 
 * 2 player: AB GK
-* Testing: Paris map, don't discard during Income
+* Testing: Paris map; don't discard during Income
 
 [Playtest #45 - Sat 19 Oct 2019](2019-10-19-playtest-45.md)
 
@@ -17,20 +40,20 @@
 
 **Tokyo 2019** Playtests (3-player)
 
-* Sun 22 Sep 2019 - Playtest [#43](2019-09-22-playtest-43.md) - Sangenjaya
 * Mon 23 Sep 2019 - Playtest [#44](2019-09-23-playtest-44.md) - Azabujuban
+* Sun 22 Sep 2019 - Playtest [#43](2019-09-22-playtest-43.md) - Sangenjaya
 
 [Playtest #42 - Sun 1 Sep 2019](2019-09-01-playtest-42.md) - HyperboopiCon
 
 * 3 player: DV SV SR
-* Testing: new players
+* Testing: 2 new players
 
-**GenCon 2019** Playtests (3-player)
+**GenCon 2019** - FEPH Playtests (all 3-player)
 
-* Aug 1 2019 - Playtest [#34](2019-08-01-playtest-34.md) [#35](2019-08-01-playtest-35.md)
-* Aug 2 2019 - Playtest [#36](2019-08-02-playtest-36.md) [#37](2019-08-02-playtest-37.md)
-* Aug 3 2019 - Playtest [#38](2019-08-03-playtest-38.md) [#39](2019-08-03-playtest-39.md) [#40](2019-08-03-playtest-40.md)
 * Aug 4 2019 - Playtest [#41](2019-08-04-playtest-41.md)
+* Aug 3 2019 - Playtest [#38](2019-08-03-playtest-38.md) [#39](2019-08-03-playtest-39.md) [#40](2019-08-03-playtest-40.md)
+* Aug 2 2019 - Playtest [#36](2019-08-02-playtest-36.md) [#37](2019-08-02-playtest-37.md)
+* Aug 1 2019 - Playtest [#34](2019-08-01-playtest-34.md) [#35](2019-08-01-playtest-35.md)
 
 [Playtest #33 - Fri 26 Apr 2019](2019-04-26-playtest-33.md)
 
@@ -59,7 +82,7 @@
 
 [Playtest #26 - Wed 30 Jan 2019](2019-01-30-playtest-26.md)
 
-* 5 player: JB SR SH OC
+* 4 player: JB SR SH OC
 * Testing: New customer draw rule; 1 action first turn; Chairman; Paris map
 
 [Playtest #25 - Fri 18 Jan 2019](2019-01-18-playtest-25.md)
@@ -120,7 +143,7 @@
 [Playtest #14 - Wed 19 Sept 2018](2018-09-19-playtest-14.md)
 
 * 3 player: GK AB JB
-* Testing: Add customer when store is built; More stations 8/7/6; More track: 16/13/10; Gain income when you give another player a customer during Lure
+* Testing: Add customer when store is built; More stores 8/7/6; More track: 16/13/10; Gain income when you give another player a customer during Lure
 
 [Playtest #13 - Mon 17 Sept 2018](2018-09-17-playtest-13.md)
 

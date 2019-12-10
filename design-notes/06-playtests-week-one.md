@@ -163,3 +163,5 @@ The big remaining open issues are:
 * Remove money (and replace it with... something)
 * Make cards more useful
 * Settle on a mechanism for endgame scoring customers
+
+_Next article: [New Card Distribution](07-new-cards.md)_

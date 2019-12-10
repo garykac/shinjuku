@@ -76,3 +76,5 @@ The prototype would be functional and would have enough detail to play the game,
 And because I created the source images myself, it would still be very easy to change anything if needed.
 
 Now I just need a set of rules...
+
+_Next article: [The Initial Playtest Version](05-initial-rules.md)_

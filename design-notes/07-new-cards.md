@@ -47,3 +47,5 @@ This reduced the range of card counts to 2-5, but gave a more even distribution 
 On the Tokyo map, the card distribution is now:
 
 <a href="maps/card-counts-72.jpg"><img src="maps/card-counts-72.jpg" height="400px" width="400px" /></a>
+
+_Next article: [Getting Rid of Money](08-money.md)_

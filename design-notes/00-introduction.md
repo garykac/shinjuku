@@ -33,3 +33,4 @@ Here are links to the articles so far:
 * [The Initial Playtest Version](05-initial-rules.md)
 * [The First Week of Playtests](06-playtests-week-one.md)
 * [New Card Distribution](07-new-cards.md)
+* [Getting Rid of Money](08-money.md)

@@ -136,3 +136,5 @@ The final step was to add the station names written in latin script so that peop
 <img src="maps/map1-labels.jpg" height="250px"/>
 
 With the map done, I now needed to work on the cards.
+
+_Next article: [The Cards](04-cards.md)_

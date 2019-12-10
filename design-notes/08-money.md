@@ -1,6 +1,8 @@
 # Getting Rid of Money
 
-Why get rid of money in **Shinjuku**? Because money:
+Why get rid of money in **Shinjuku**?
+
+Because money:
 
 * Adds time
 * Adds complexity ("rules weight")
@@ -64,7 +66,7 @@ As an example of these story arcs, consider how the store and track components f
 
 For **money**, the story is that you don't start with much, but your income increases as the game progresses and you build your engine on the map. In the beginning, you're restricted in what you can do because of your lack of funds, but these restrictions go away as you start earning more.
 
-Unfortunately, just drawing 5 cards doesn't have any meaningful growth over the course of the game. Drawing 5 cards at the start of the game feels just like drawing 5 cards at the end. In this respect, drawing cards is a poor replacement for earning money.
+Unfortunately for our proposal, just drawing 5 cards doesn't have any meaningful growth over the course of the game. Drawing 5 cards at the start of the game feels just like drawing 5 cards at the end. In this respect, drawing cards is a poor replacement for earning money.
 
 How can this "money growth" be recreated with the card draws? 
 
@@ -95,7 +97,7 @@ There are now places on the map (like Setagaya and Ota in the southwest) that ar
 
 But the stores in many of these locations cannot be upgraded to a department store. And the outer locations (where many high card count regions can be found) are away from the center of the map where a lot of the action (and department store upgrades) will be happening.
 
-So there are interesting decisions to make and that's a good thing.
+So there are interesting decisions to make. And that's a good thing.
 
 ### Why Not Base Wildcards on Track?
 

@@ -59,3 +59,5 @@ Something to note about this flowchart is that it still ends with the poorly-def
 This figure shows the week-by-week timeline that Shinjuku followed, calling out the different phases and plotting the number of rule changes and playtests conducted each week. The dotted line around week 28 shows the (guesstimated) point at which the game switched from design to development.
  
 For **Shinjuku**, the initial game design phase was about 8 weeks (23 playtests). At this point, the game felt complete, but as you can see from the above chart, there were still plenty of additional improvements to be made.
+
+_Next article: [The First Map](03-first-map.md)_
