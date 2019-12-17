@@ -48,4 +48,17 @@ On the Tokyo map, the card distribution is now:
 
 <a href="maps/card-counts-72.jpg"><img src="maps/card-counts-72.jpg" height="400px" width="400px" /></a>
 
+### Update Card Layout
+
+Since the cards are being updated anyway, now is a good time to update some of the information on the card based on playtest feedback.
+
+Two things that were requested were:
+
+* How many matching cards are in the deck?
+* Which stations (and upgrades) are available in this ward?
+
+The number of cards is useful because it tells you how likely customers are to arrive in that location. And having the station info on the card eliminates the need to look at the board map for this information.
+
+<a href="images/cards-v2.png"><img src="images/cards-v2-sm.png" height="250px" width="588px" /></a>
+
 _Next article: [Getting Rid of Money](08-money.md)_

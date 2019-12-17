@@ -16,7 +16,7 @@
    id="svg4516"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cards-v1.svg">
+   sodipodi:docname="cards.svg">
   <defs
      id="defs4518" />
   <sodipodi:namedview
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="204.57916"
-     inkscape:cy="558.15265"
+     inkscape:cx="357.4363"
+     inkscape:cy="443.86694"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,8 @@
      inkscape:groupmode="layer"
      id="layer94"
      inkscape:label="Background"
-     transform="translate(0,-225)">
+     transform="translate(0,-225)"
+     style="display:inline">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8969"
@@ -85,11 +86,11 @@
        inkscape:export-ydpi="149.86667" />
   </g>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Cards v1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-287.3622)"
-     style="display:inline">
+     style="display:none">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/archive/ku-cards/v01/ku-cards/08-koto.png"
        y="545.04077"
@@ -118,6 +119,44 @@
        x="322.39288"
        id="image9094"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/archive/ku-cards/v01/ku-cards/09-shinagawa.png"
+       preserveAspectRatio="none"
+       height="337.5"
+       width="247.5"
+       inkscape:export-xdpi="149.86667"
+       inkscape:export-ydpi="149.86667" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cards v2">
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/01-chiyoda.png"
+       y="257.67856"
+       x="49.10717"
+       id="image4254"
+       xlink:href="file:///Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/01-chiyoda.png"
+       preserveAspectRatio="none"
+       height="337.5"
+       width="247.5"
+       inkscape:export-xdpi="149.86667"
+       inkscape:export-ydpi="149.86667" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/16-toshima.png"
+       y="257.67856"
+       x="322.39288"
+       id="image4508"
+       xlink:href="file:///Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/16-toshima.png"
+       preserveAspectRatio="none"
+       height="337.5"
+       width="247.5"
+       inkscape:export-xdpi="149.86667"
+       inkscape:export-ydpi="149.86667" />
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/03-minato.png"
+       y="257.67856"
+       x="595.67859"
+       id="image4586"
+       xlink:href="file:///Users/garykac/projects/github/shinjuku/archive/ku-cards/v02-stations-dots/ku-cards/03-minato.png"
        preserveAspectRatio="none"
        height="337.5"
        width="247.5"
