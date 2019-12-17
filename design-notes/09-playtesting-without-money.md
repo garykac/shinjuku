@@ -39,20 +39,22 @@ Is this worth the cost?
 
 Surprisingly, it felt fine. This is probably because the other players need to be doing it as well, but it also allows more customers to arrive on the map while you’re building out your network on the map.
 
-Additionally, the higher cost for taking Income made it feel good when other players gave you a free Income action (because they used your track). It feels great when you’re running low on cards and another player triggers Income for you – this frees up an extra action that you weren’t counting on.
+Additionally, the higher cost for taking Income made it feel good when other players gave you a free Income action (because they used your track). It feels great when you’re running low on cards and another player triggers Income for you – this frees up an extra action that you weren’t expecting.
 
-It also adds an interesting decision when Moving customers. If the Red player (your arch-nemesis) is running low on cards, can you find a path that avoids Red track altogether? Or can you hold off on that Move action and take it later (when it will benefit them less)? Will those customers still be available or do you need to move now?
+It also adds an interesting decision when Moving customers. If the Red player (your arch-nemesis) is running low on cards, can you find a path that avoids Red track altogether? Or can you hold off on that Move action and take it later (when it will benefit them less)? Will those customers still be available or do you need to move them now?
 
 Having more interesting decisions is good, even with the slight slowdown. But accepting this change does mean that I’ll need to balance this slowdown by speeding up other aspects of the game.
 
 <a href="../playtests/images/pt10/pt10-0686.jpg"><img src="images/pt10-0686
 -crop.jpg" /></a>
 
-## Seeding Customers
+## Speeding Up the Start
 
-Do we need to seed the board with customers at the start of the game to speed things along? Sure, we could do that. But then we’ll need to address the first-player advantage that results. But before trying to fix that problem, how many customers should be seeded and when should they be added?
+### Seeding Customers
 
-We playtested a bunch of variations by making the first round be special and having each player seed a few customers on their first turn. We added a total of ~6 customers as seeds in these tests:
+Speaking of speeding up the game, do we need to seed the board with customers at the start of the game?
+
+It's easy enough to test and see how it works. We just need to figure out how many customers should be seeded and when should they be added. We playtested a bunch of variations by making the first round be special and having each player seed a few customers on their first turn. We added a total of ~6 customers as seeds in these tests:
 
 * 2-player: each player seeds 3 customers
 * 3-player: each player seeds 2 customers
@@ -67,13 +69,13 @@ For one test, we even tried seeding at the start for the first round and then sw
 
 Thinking back on this, it’s surprising that we considered it worthwhile to test some of these ideas. It’s clear (again, in hindsight) that these are examples of trying too hard to fix a problem by piling on layers of complexity. “Forest for the trees” comes to mind.
 
-## Building the First Store
+### Building the First Store
 
 And while we’re wandering around in this forest of game design failure, another consideration with the first turn has to do with each player building their first store. Since the first action that everyone needs to take is to build a store on the map, why not just remove that “decision” and make it explicit that a store needs to built on the first turn.
 
 To fix this, the playtests allowed players to place their first store anywhere on the map. A side benefit of this is that it helps address another “first turn” issue where a player is stuck with a set of cards that don’t allow them to play where they want to.
 
-## Actions for First Player
+### Actions for First Player
 
 And finally, now that we’re seeding a bunch of customers and allowing players to build wherever they want, we need to think about the first player advantage. The standard way to do that is to reduce the number of actions for the first _n_/2 players (where _n_ is the player count).
 
@@ -85,7 +87,7 @@ Even the attempt to remove the standard “build a store on your first turn” w
 
 It’s far simpler to teach a consistent set of rules that the players will use throughout the game. The fact that you’ll need to build a store on your first turn can simply be noted in the rulebook somewhere.
 
-By playtest #11, the seeding, free store placement and reduced actions were removed. All of them. There were still issues that needed to be addressed with the flow of the start of the game, but a different solution would have to be found.
+By [playtest #11](https://github.com/garykac/shinjuku/blob/master/playtests/2018-09-13-playtest-11.md), the seeding, free store placement and reduced actions were removed. All of them. There were still issues that needed to be addressed with the flow of the start of the game, but a different solution would have to be found.
 
 One that doesn’t feel so clunky.
 
@@ -100,8 +102,8 @@ Overall, though, the new economy is working well. The game plays faster without 
 
 Also, with these changes the overall character of the game has been set. There are still a lot of rough edges that need to be cleaned up, but the core structure of the game is in place.
 
-Another aspect of settling on a core structure is that it is also clear what kind of game Shinjuku is *not*. Before money was removed, Shinjuku could have evolved down the path to become a multi-hour long, heavy strategic game, but it’s now clear that it doesn’t want to be that kind of game.
+Another aspect of settling on a core structure is that it is also clear what kind of game **Shinjuku** is _**not**_. Before money was removed, **Shinjuku** could have evolved down the path to become a multi-hour long, heavy strategic game, but it’s now clear that it doesn’t want to be that kind of game.
 
-This will affect all future design decisions. With a heavier game, it would have been easier to add more components, but that’ll be less of an option for this design going forward. Or, more correctly, any such proposed additions will need to be truly amazing in order to counteract the additional rules weight they add to the game.
+This will affect all future design decisions. With a heavier game, it would have been easier to add more components and rules, but that’ll be less of an option for this design going forward. Or, more correctly, any such proposed additions will need to be truly amazing in order to offset the additional rules weight they add to the game.
 
 _Next article: More Customers_
