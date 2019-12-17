@@ -1,5 +1,30 @@
 # Playtest Notes
 
+[Playtest #59 - Mon 16 Dec 2019](2019-12-16-playtest-59.md)
+
+* 2 player: AB GK
+* Testing: Sidebar/conveyor belt of customers
+
+[Playtest #58 - Fri 13 Dec 2019](2019-12-13-playtest-58.md)
+
+* 2 player: AB GK
+* Testing: Placing customer at location on top of discard
+
+[Playtest #57 - Fri 13 Dec 2019](2019-12-13-playtest-57.md)
+
+* 2 player: AB GK
+* Testing: Double the number of customers to 104; Double customer draws
+
+[Playtest #56 - Mon 9 Dec 2019](2019-12-09-playtest-56.md)
+
+* 2 player: AB GK
+* Testing: Scoring: set collection; Allow continuing past store during Move; Pay card for extended Move
+
+[Playtest #55 - Fri 6 Dec 2019](2019-12-06-playtest-55.md)
+
+* 2 player: AB GK
+* Testing: Move must cross rail; Don't remove customers during scoring;; No cards for final round
+
 **Tabletop Network / BggCon** Playtests
 
 * Sat 23 Nov 2019 - Playtest [#54](2019-11-23-playtest-54.md) - BggCon
