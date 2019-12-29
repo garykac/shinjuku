@@ -50,7 +50,7 @@ On the Tokyo map, the card distribution is now:
 
 ### Update Card Layout
 
-Since the cards are being updated anyway, now is a good time to update some of the information on the card based on playtest feedback.
+Since the cards are being changed anyway, now is a good time to update some of the information on the card based on playtest feedback.
 
 Two things that were requested were:
 
