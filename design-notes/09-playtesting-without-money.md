@@ -106,4 +106,4 @@ Another aspect of settling on a core structure is that it is also clear what kin
 
 This will affect all future design decisions. With a heavier game, it would have been easier to add more components and rules, but that’ll be less of an option for this design going forward. Or, more correctly, any such proposed additions will need to be truly amazing in order to offset the additional rules weight they add to the game.
 
-_Next article: More Customers_
+_Next article: [Adding Customers](10-add-customers.md)_

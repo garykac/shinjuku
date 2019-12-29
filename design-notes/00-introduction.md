@@ -25,12 +25,14 @@ In this series, I’ll start with the creation of the first prototype and then f
 
 Here are links to the articles so far:
 
-* [Introduction](00-introduction.md) (this article)
-* [Inspiration](01-inspiration.md)
-* [The Design Process](02-process.md)
-* [The First Map](03-first-map.md)
-* [The Cards](04-cards.md)
-* [The Initial Playtest Version](05-initial-rules.md)
-* [The First Week of Playtests](06-playtests-week-one.md)
-* [New Card Distribution](07-new-cards.md)
-* [Getting Rid of Money](08-money.md)
+* [00 - Introduction](00-introduction.md) (this article)
+* [01 - Inspiration](01-inspiration.md)
+* [02 - The Design Process](02-process.md)
+* [03 - The First Map](03-first-map.md)
+* [04 - The Cards](04-cards.md)
+* [05 - The Initial Playtest Version](05-initial-rules.md)
+* [06 - The First Week of Playtests](06-playtests-week-one.md)
+* [07 - New Card Distribution](07-new-cards.md)
+* [08 - Getting Rid of Money](08-money.md)
+* [09 - Playtesting without Money](09-playtesting-without-money.md)
+* [10 - Adding Customers](10-add-customers.md)

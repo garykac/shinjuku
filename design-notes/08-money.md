@@ -109,4 +109,4 @@ In contrast, track typically connect 2 different locations and may cross over a 
 
 Now that we have a complete proposal, it can be playtested to see if it actually works the way we want it to.
 
-_Next article: Playtesting without Money_
+_Next article: [Playtesting without Money](09-playtesting-without-money.md)_
