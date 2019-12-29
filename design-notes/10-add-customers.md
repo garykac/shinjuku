@@ -8,7 +8,7 @@ Since I'm targetting 60 minutes for the game, that means somewhere between 40-60
 
 ## More Extreme Type Distribution
 
-So far, I've been using 40 customers with a 10/9/8/7/6 distribution (for ◯ ⤫ △ ▢ and ⭒ types). The first change was to make the distribution a little more extreme, so I applied the "double or half" rule so that the most common type (◯) has twice as many as the least common type (⭒). I didn't have enough components to do this properly for the first playtest, so as a stopgap I added 5 more customers to bring the total up to 45: 12 ◯, 10 ⤫, 9 △, 8 ▢, 6 ⭒..
+So far, I've been using 40 customers with a 10/9/8/7/6 distribution (for ◯ ⤫ △ ▢ and ⭒ types). The first change was to make the distribution a little more extreme, so I applied the "double or half" rule so that the most common type (◯) has twice as many as the least common type (⭒). I didn't have enough components to do this properly for the first playtest, so as a stopgap I added 5 more customers to bring the total up to 45: 12 ◯, 10 ⤫, 9 △, 8 ▢, 6 ⭒.
 
 The difference between 40 and 45 is not enough to make a noticeable impact, so the next playtest was primarily to see how the updated customer distribution felt. And it worked well – it made the difference between the common and uncommon types even more apparent, so there was more of a reason to prefer one type over another.
 
@@ -28,7 +28,7 @@ One unexpected problem that came up during playtests is that players would somet
 
 Even without the finger-pointing for which player is to blame, this situation leaves all the players with a bad feeling because clearly someone "messed up". Did it affect the outcome of the game? What should we do about the extra turns? Skip them? Keep playing? Give everyone extra turns to compensate?
 
-## TODO
+## Next Steps
 
 From [playtest #13](../playtests/2018-09-17-playtest-13.md) onward the game had settled on a stable set of 60 customers with 4 types. This customer distribution appears to be pretty close to the "correct" number and would last for the next 20 playtests: 19 ◯, 16 ⤫, 14 △, 11 ⭒. Note that the star was reinstated as the least common customer type (replacing the square) because it is more distinct from the other remaining types, and thus easier to see from across the table.
 
