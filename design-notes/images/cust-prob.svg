@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 700 400"
+   stroke-miterlimit="10"
+   width="700"
+   height="400"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cust-prob.svg"
+   style="fill:none;stroke:none;stroke-linecap:square;stroke-miterlimit:10"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/design-notes/images/cust-prob.png"
+   inkscape:export-xdpi="150.075"
+   inkscape:export-ydpi="150.075">
+  <metadata
+     id="metadata385">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs383" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1593"
+     inkscape:window-height="962"
+     id="namedview381"
+     showgrid="false"
+     inkscape:zoom="1.2989813"
+     inkscape:cx="349.57732"
+     inkscape:cy="174.81868"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true" />
+  <clipPath
+     id="id_0">
+    <path
+       d="m 71.55,26.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       id="path47"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero" />
+  </clipPath>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Background"
+     style="display:inline"
+     transform="translate(0,29)">
+    <path
+       d="m 0,-29 700,0 0,400 -700,0 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Axes"
+     style="display:inline"
+     transform="translate(0,29)">
+    <g
+       id="g4885"
+       transform="translate(16,6)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-1.6330646"
+         y="31.3125"
+         id="text4807"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4809"
+           x="-1.6330646"
+           y="31.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4811"
+         y="58.3125"
+         x="7.2780681"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="58.3125"
+           x="7.2780681"
+           id="tspan4813"
+           sodipodi:role="line">90%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.2780681"
+         y="86.3125"
+         id="text4815"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4817"
+           x="7.2780681"
+           y="86.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">80%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4819"
+         y="114.3125"
+         x="7.2780681"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="114.3125"
+           x="7.2780681"
+           id="tspan4821"
+           sodipodi:role="line">70%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.2780681"
+         y="142.3125"
+         id="text4823"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4825"
+           x="7.2780681"
+           y="142.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">60%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4827"
+         y="169.3125"
+         x="7.2780681"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="169.3125"
+           x="7.2780681"
+           id="tspan4829"
+           sodipodi:role="line">50%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.2780681"
+         y="197.3125"
+         id="text4831"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4833"
+           x="7.2780681"
+           y="197.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">40%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4835"
+         y="225.3125"
+         x="7.2780681"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="225.3125"
+           x="7.2780681"
+           id="tspan4837"
+           sodipodi:role="line">30%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.2780681"
+         y="253.3125"
+         id="text4839"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4841"
+           x="7.2780681"
+           y="253.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">20%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4843"
+         y="280.3125"
+         x="7.2780681"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="280.3125"
+           x="7.2780681"
+           id="tspan4845"
+           sodipodi:role="line">10%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="16.189201"
+         y="308.3125"
+         id="text4847"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4849"
+           x="16.189201"
+           y="308.3125"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">0%</tspan></text>
+    </g>
+    <g
+       id="g4975"
+       transform="translate(-6,-18)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4847-8"
+         y="351.31653"
+         x="67.737503"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="351.31653"
+           x="67.737503"
+           id="tspan4849-6"
+           sodipodi:role="line">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="141.06876"
+         y="351.34152"
+         id="text4943"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4945"
+           x="141.06876"
+           y="351.34152"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4947"
+         y="351.27902"
+         x="216.1375"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="351.27902"
+           x="216.1375"
+           id="tspan4949"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="290.04999"
+         y="351.27902"
+         id="text4951"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4953"
+           x="290.04999"
+           y="351.27902"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">4</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4955"
+         y="351.21652"
+         x="365.0625"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="351.21652"
+           x="365.0625"
+           id="tspan4957"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="439.01874"
+         y="351.26028"
+         id="text4959"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4961"
+           x="439.01874"
+           y="351.26028"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">6</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4963"
+         y="351.32278"
+         x="514.07501"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="351.32278"
+           x="514.07501"
+           id="tspan4965"
+           sodipodi:role="line">7</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4971"
+         y="351.27902"
+         x="588.04999"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+           y="351.27902"
+           x="588.04999"
+           id="tspan4973"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4947-9"
+       y="352.42984"
+       x="186.75168"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+         y="352.42984"
+         x="186.75168"
+         id="tspan4949-2"
+         sodipodi:role="line">Number of customers placed on map per turn</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Line Labels"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Grid"
+     style="display:inline"
+     transform="translate(0,29)">
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,32.5 0,277"
+       id="path6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 139.5,32.5 0,277"
+       id="path8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 214.5,32.5 0,277"
+       id="path10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 288.5,32.5 0,277"
+       id="path12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 363.5,32.5 0,277"
+       id="path14"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 437.5,32.5 0,277"
+       id="path16"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 512.5,32.5 0,277"
+       id="path18"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 586.5,32.5 0,277"
+       id="path20"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill-rule:nonzero;stroke:#333333;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,309.5 521,0"
+       id="path24"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,281.5 521,0"
+       id="path26"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,254.5 521,0"
+       id="path28"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,226.5 521,0"
+       id="path30"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,198.5 521,0"
+       id="path32"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,170.5 521,0"
+       id="path34"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,143.5 521,0"
+       id="path36"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,115.5 521,0"
+       id="path38"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,87.5 521,0"
+       id="path40"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,59.5 521,0"
+       id="path42"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:butt"
+       d="m 65.5,32.5 521,0"
+       id="path44"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Legend"
+     transform="translate(0,29)"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4947-9-5"
+       y="79.396675"
+       x="642.69543"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';text-align:center;text-anchor:middle"
+         y="79.396675"
+         x="642.69543"
+         id="tspan4949-2-2"
+         sodipodi:role="line">Number of</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';text-align:center;text-anchor:middle"
+         y="93.459175"
+         x="642.69543"
+         sodipodi:role="line"
+         id="tspan5169">upcoming</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';text-align:center;text-anchor:middle"
+         y="107.52168"
+         x="642.69543"
+         sodipodi:role="line"
+         id="tspan5171">customers</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect5238"
+       d="m 600.77826,61.655241 87.09678,0 0,218.689519 -87.09678,0 z"
+       style="opacity:1;fill:none;fill-opacity:0.17061612;fill-rule:nonzero;stroke:#808080;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Title">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="185.17627"
+       y="36.137009"
+       id="text4943-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4945-6"
+         x="185.17627"
+         y="36.137009"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">Customers Arriving in Groups</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="1 upcoming"
+     style="display:inline">
+    <path
+       transform="translate(0,29)"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#ff5700;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       clip-path="none"
+       d="m 65.55,32.685483 0.01127,0.0078"
+       id="path5523"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="58.755646"
+       y="64.417503"
+       id="text5484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5486"
+         x="58.755646"
+         y="64.417503"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1">1</tspan></text>
+    <path
+       transform="translate(0,29)"
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#ff5a00;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       clip-path="none"
+       d="m 611.86254,124.55847 44.4443,0"
+       id="path5526"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="translate(0,29)"
+       sodipodi:linespacing="125%"
+       id="text5528"
+       y="128.95721"
+       x="667.48303"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+         y="128.95721"
+         x="667.48303"
+         id="tspan5530"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="2 upcoming"
+     id="g4786"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4792"
+       style="fill:#ffa700;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="M 139.9943,256.63005 65.55,117.03449 l 0,-31.92818 74.4443,139.59556 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4790"
+       d="m 65.55,101.0704 74.4443,139.59557"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#ffa700;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4923"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero;stroke-linecap:round" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4847-8-9"
+       y="132.36067"
+       x="58.354397"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,-29)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1"
+         y="132.36067"
+         x="58.354397"
+         id="tspan4849-6-2"
+         sodipodi:role="line">2</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4790-0"
+       d="m 611.86254,144.55847 44.4443,0"
+       clip-path="none"
+       style="fill:none;stroke:#ffa700;stroke-linecap:round;stroke-miterlimit:10;display:inline;fill-rule:nonzero;stroke-width:2;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="fill:#000000;stroke:none;stroke-linecap:butt;stroke-miterlimit:10;display:inline;font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-opacity:1"
+       x="667.48303"
+       y="148.95721"
+       id="text4943-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4945-3"
+         x="667.48303"
+         y="148.95721"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">2</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="3 upcoming"
+     id="g4759"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4765"
+       style="fill:#ffef00;fill-opacity:0.1372549;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 214.43857,299.4416 c 0,0 -49.62952,-55.99464 -74.44427,-76.43331 C 115.17953,202.56963 65.55,176.8096 65.55,176.8096 l 0,-36.87012 c 0,0 49.62953,22.1045 74.4443,45.19921 24.81475,23.09472 74.44427,93.36911 74.44427,93.36911 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4763"
+       d="m 65.55,158.37454 c 0,0 49.62953,23.93226 74.4443,45.69895 24.81475,21.76669 74.44427,84.90121 74.44427,84.90121"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#e8d900;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4921"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="58.395645"
+       y="189.41911"
+       id="text5444"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-29)"><tspan
+         sodipodi:role="line"
+         id="tspan5446"
+         x="58.395645"
+         y="189.41911"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1">3</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#e8d900;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       clip-path="none"
+       d="m 611.86254,164.55847 44.4443,0"
+       id="path5135"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5191"
+       y="168.90097"
+       x="667.48303"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+         y="168.90097"
+         x="667.48303"
+         id="tspan5193"
+         sodipodi:role="line">3</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="4 upcoming"
+     id="g4724"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4730"
+       style="display:inline;fill:#0ed000;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 288.88284,308.40924 c 0,0 -49.62951,-15.02939 -74.44427,-30.34567 C 189.62381,262.7473 164.80905,226.06229 139.9943,216.5116 115.17953,206.9609 65.55,220.75943 65.55,220.75943 l 0,-37.81407 c 0,0 49.62953,-21.24843 74.4443,-10.63347 24.81475,10.61496 49.62951,53.60233 74.44427,74.32326 24.81476,20.72093 74.44427,50.0023 74.44427,50.0023 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccsscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4728"
+       d="m 65.55,201.8524 c 0,0 49.62953,-17.52348 74.4443,-7.44066 24.81475,10.08283 49.62951,49.91902 74.44427,67.93763 24.81476,18.01858 74.44427,40.17398 74.44427,40.17398"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#0ed000;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4919"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero;stroke-linecap:round" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5448"
+       y="234.26445"
+       x="58.343147"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,-29)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1"
+         y="234.26445"
+         x="58.343147"
+         id="tspan5450"
+         sodipodi:role="line">4</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5141"
+       d="m 611.86254,184.55847 44.4443,0"
+       clip-path="none"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#0ed000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="667.48303"
+       y="188.90097"
+       id="text5195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5197"
+         x="667.48303"
+         y="188.90097"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">4</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="5 upcoming"
+     id="g4685"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4691"
+       style="fill:#00c6dc;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 363.32715,310.24164 c 0,0 -49.62952,-2.19334 -74.44431,-10.38361 C 264.06808,291.66776 239.25333,273.6214 214.43857,261.1 189.62381,248.5786 164.80905,226.29366 139.9943,224.72963 115.17953,223.16562 65.55,251.7159 65.55,251.7159 l 0,-37.98067 c 0,0 49.62953,-36.97191 74.4443,-35.6485 24.81475,1.3234 49.62951,27.14359 74.44427,43.58891 24.81476,16.44532 49.62951,41.40483 74.44427,55.08306 24.81479,13.67822 74.44431,26.98623 74.44431,26.98623 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccssscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4689"
+       d="m 65.55,232.72557 c 0,0 49.62953,-32.76109 74.4443,-31.31738 24.81475,1.44371 49.62951,25.49626 74.44427,39.97963 24.81476,14.48337 49.62951,35.98628 74.44427,46.92053 24.81479,10.93425 74.44431,18.68495 74.44431,18.68495"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#00c6dc;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4917"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="58.350647"
+       y="264.93799"
+       id="text5452"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-29)"><tspan
+         sodipodi:role="line"
+         id="tspan5454"
+         x="58.350647"
+         y="264.93799"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1">5</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#00c6dc;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       clip-path="none"
+       d="m 611.86254,204.55847 44.4443,0"
+       id="path5143"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5199"
+       y="208.84471"
+       x="667.48303"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+         y="208.84471"
+         x="667.48303"
+         id="tspan5201"
+         sodipodi:role="line">5</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="6 upcoming"
+     id="g4640"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4646"
+       style="fill:#3c2fc0;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 437.77142,310.71362 c 0,0 -49.62952,0.236 -74.44427,-3.526 -24.81475,-3.76196 -49.62952,-10.17535 -74.44431,-19.04584 -24.81476,-8.87048 -49.62951,-25.93585 -74.44427,-34.17703 -24.81476,-8.24118 -49.62952,-18.19906 -74.44427,-15.27 -24.81477,2.92906 -74.4443,32.84437 -74.4443,32.84437 l 0,-36.42588 c 0,0 49.62953,-38.91999 74.4443,-43.33904 24.81475,-4.41905 49.62951,6.09412 74.44427,16.82477 24.81476,10.73063 49.62951,33.57086 74.44427,47.5591 24.81479,13.98826 49.62956,27.98113 74.44431,36.37037 24.81475,8.38926 74.44427,13.96509 74.44427,13.96509 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssccsssscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4644"
+       d="m 65.55,253.32619 c 0,0 49.62953,-34.41767 74.4443,-38.09172 24.81475,-3.67405 49.62951,6.56147 74.44427,16.04739 24.81476,9.4859 49.62951,29.43871 74.44427,40.86807 24.81479,11.42935 49.62956,21.63251 74.44431,27.7081 24.81475,6.07562 74.44427,8.74555 74.44427,8.74555"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#3c2fc0;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4915"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero;stroke-linecap:round" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5456"
+       y="285.26651"
+       x="58.324394"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,-29)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1"
+         y="285.26651"
+         x="58.324394"
+         id="tspan5458"
+         sodipodi:role="line">6</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5145"
+       d="m 611.86254,224.55847 44.4443,0"
+       clip-path="none"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#3c2fc0;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="667.48303"
+       y="228.88409"
+       id="text5203"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5205"
+         x="667.48303"
+         y="228.88409"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">6</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="7 upcoming"
+     id="g4589"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4595"
+       style="fill:#ff0eff;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 512.2157,311.21335 c 0,0 -49.62952,0.26375 -74.44428,-1.38815 -24.81475,-1.65195 -49.62952,-3.34092 -74.44427,-8.52344 -24.81475,-5.18256 -49.62952,-14.66386 -74.44431,-22.57184 -24.81476,-7.90802 -49.62951,-20.76259 -74.44427,-24.87624 -24.81476,-4.11363 -49.62952,-4.79848 -74.44427,0.19435 -24.81477,4.99283 -74.4443,29.76264 -74.4443,29.76264 l 0,-33.98271 c 0,0 49.62953,-35.18116 74.4443,-42.58942 24.81475,-7.40826 49.62951,-7.22317 74.44427,-1.86015 24.81476,5.36301 49.62951,21.91012 74.44427,34.03821 24.81479,12.12808 49.62956,28.56878 74.44431,38.73028 24.81475,10.16147 49.62952,17.39392 74.44427,22.23868 24.81476,4.84474 74.44428,6.82984 74.44428,6.82984 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4593"
+       d="m 65.55,266.8193 c 0,0 49.62953,-29.97546 74.4443,-36.176 24.81475,-6.20055 49.62951,-5.76558 74.44427,-1.02726 24.81476,4.73833 49.62951,19.43916 74.44427,29.45722 24.81479,10.01804 49.62956,22.97902 74.44431,30.65104 24.81475,7.67203 49.62952,12.13273 74.44427,15.38108 24.81476,3.24832 74.44428,4.10902 74.44428,4.10902"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#ff00ff;stroke-width:2;stroke-linecap:round" />
+    <path
+       id="path4913"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="58.358147"
+       y="298.74554"
+       id="text5460"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-29)"><tspan
+         sodipodi:role="line"
+         id="tspan5462"
+         x="58.358147"
+         y="298.74554"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1">7</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#ff00ff;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       clip-path="none"
+       d="m 611.86254,244.55847 44.4443,0"
+       id="path5147"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5207"
+       y="248.94034"
+       x="667.48303"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'"
+         y="248.94034"
+         x="667.48303"
+         id="tspan5209"
+         sodipodi:role="line">7</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="8 uncoming"
+     id="g4532"
+     inkscape:groupmode="layer"
+     transform="translate(0,29)">
+    <path
+       id="path4538"
+       style="fill:#ff001d;fill-opacity:0.09803922;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt"
+       d="m 586.66,307.4375 c 0,0 -49.62954,-0.472 -74.4443,-3.1928 -24.81476,-2.72084 -49.62952,-6.26072 -74.44428,-13.1322 -24.81475,-6.8715 -49.62952,-17.71785 -74.44427,-28.0968 -24.81475,-10.37898 -49.62952,-25.06132 -74.44431,-34.17705 -24.81476,-9.11572 -49.62951,-19.36514 -74.44427,-20.51732 -24.81476,-1.15219 -49.62952,4.87252 -74.44427,13.60417 -24.81477,8.73167 -74.4443,38.7858 -74.4443,38.7858 l 0,30.65107 c 0,0 49.62953,-19.01347 74.4443,-24.51529 24.81475,-5.50183 49.62951,-9.62937 74.44427,-8.49568 24.81476,1.13368 49.62951,9.2638 74.44427,15.29777 24.81479,6.03397 49.62956,15.34866 74.44431,20.90601 24.81475,5.55737 49.62952,9.73117 74.44427,12.43812 24.81476,2.70696 49.62952,3.04472 74.44428,3.8036 24.81476,0.7589 74.4443,0.74964 74.4443,0.74964 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssccsssssscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4536"
+       d="m 65.55,276.03683 c 0,0 49.62953,-24.53379 74.4443,-31.65054 24.81475,-7.11674 49.62951,-12.19287 74.44427,-11.04993 24.81476,1.14294 49.62951,10.33271 74.44427,17.90755 24.81479,7.57485 49.62956,19.57335 74.44431,27.54152 24.81475,7.96817 49.62952,15.47824 74.44427,20.26747 24.81476,4.78923 49.62952,6.72804 74.44428,8.4679 24.81476,1.73985 74.4443,1.9712 74.4443,1.9712"
+       clip-path="none"
+       style="fill-rule:nonzero;stroke:#ff001d;stroke-width:2;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       id="path4911"
+       d="m 65.55,32.05 521.11,0 0,305.4 -521.11,0 0,-305.4 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:nonzero" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5464"
+       y="308.88162"
+       x="58.343147"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(0,-29)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';fill:#797979;fill-opacity:1"
+         y="308.88162"
+         x="58.343147"
+         id="tspan5466"
+         sodipodi:role="line">8</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5149"
+       d="m 611.86254,264.55847 44.4443,0"
+       clip-path="none"
+       style="display:inline;fill:none;fill-rule:nonzero;stroke:#ff001d;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       x="667.48303"
+       y="268.90097"
+       id="text5211"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5213"
+         x="667.48303"
+         y="268.90097"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.25px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold'">8</tspan></text>
+  </g>
+</svg>
