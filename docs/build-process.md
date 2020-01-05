@@ -27,13 +27,10 @@ Double Check:
 
 Export the following map images at 300dpi:
 
-* Layer "Border 18x20" export as `tokyo-map-border-300dpi.png` (6000x5400 pixels)
-* Layer "View 18x20" as `tokyo-map-300dpi.png` (6000x5400 pixels).
+* Layer "Border 18x24" export as `tokyo-map-border-300dpi.png` (7200x5400 pixels)
+* [optional] Layer "View 18x24" as `tokyo-map-300dpi.png` (7200x5400 pixels).
   Hide layer after selecting rect.
   Used only if sending to be printed (PrintPlayGames).
-* Layer "View 18x20 + 1/8 bleed" as `tokyo-map-bleed-300dpi.png` (6075x5475 pixels).
-  Hide layer after selecting rect.
-  Only needed if sending to be printed (when bleed is required).
 
 ### Generate compact images
 
@@ -41,8 +38,8 @@ In Affinity Photo, open `map/tokyo-map-border-300dpi.png`:
 
 * Export full size as JPG quality 80 `map/tokyo-map-border-300dpi.jpg`.
 	This reduces file size from 22M -> 7M.
-* Export 1000x900 as PNG `map/tokyo-map.png`
-* Export 1000x900 as JPG quality 80 `map/tokyo-map-sm.jpg`
+* Export 1200x900 as PNG `map/tokyo-map.png`
+* Export 1200x900 as JPG quality 80 `map/tokyo-map-sm.jpg`
 
 ### Update map archive
 
@@ -64,22 +61,26 @@ To export an overlay image
 
 ### Generate color maps for PNP
 
-In Affinity Photo, open `map/tokyo-map-border-300dpi.png`:
+In Inkscape, open `map/tokyo-map.svg`:
 
-* Export 3000x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-color.png`
+* Layer "Border 18x24" export at 150dpi (3600x2700) -> `tmp`
+
+In Affinity Photo, open `tmp`:
+
+* Export 3600x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-color.png`
 
 In Inkscape, open `map/tokyo-map.svg` and export the 6 map PNGs that comprise the map
 
 * Show the "7x10 Pages" and "White Outer Border" layers
 * Select upper-left rect and then Hide the "7x10 Pages" layer
 * Export Selection @ 150dpi into `pnp/map-color/map-1.png` (1050x1500px)
-* Repeat for other 5 rects
+* Repeat for other 7 rects
 
-Convert the 6 PNGs into JPGs with quality 70
+Convert the 8 PNGs into JPGs with quality 70
 
 Create Color PDF (Letter)
 
-* Open all 6 JPGs in Preview
+* Open all 8 JPGs in Preview
 * Print - set paper to "Letter"
 * "Save as PDF"
 * Set PDF title "Shinjuku PNP Color Map"
@@ -87,7 +88,7 @@ Create Color PDF (Letter)
 
 Create Color PDF (A4)
 
-* Open all 6 JPGs in Preview
+* Open all 8 JPGs in Preview
 * Print - set paper to "A4"
 * "Save as PDF"
 * Set PDF title "Shinjuku PNP Color Map"
@@ -106,24 +107,24 @@ Hide the following layers:
 And show:
 
 * "Ku Names - B&W"
-* "Wards - Black Outline"
+* "Wards - Thin Outline"
 * "Wards - B&W"
 * "Water Boundaries Clone - Dot B&W"
 * "Water - B&W"
 
-In Inkscape, export the following map images at 300dpi:
+In Inkscape, open `map/tokyo-map.svg`:
 
-* Layer "Border 18x20" export as `tokyo-map-bw-300dpi.png` (6000x5400 pixels)
+* Layer "Border 18x24" export at 150dpi (3600x2700) -> `tmp`
 
-In Affinity Photo, open `map/tokyo-map-bw-300dpi.png`:
+In Affinity Photo, open `tmp`:
 
-* Export 3000x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-bw.png`
+* Export 3600x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-bw.png`
 
-In Inkscape, export the 6 7x10" maps images as for color maps. Save images as `pnp/map-bw/` directory.
+In Inkscape, export the 8 7x10" maps images as for color maps. Save images as `pnp/map-bw/` directory.
 
 Create PDFs as for color maps. Final PDFs should be stored in `pnp/shinjuku-pnp/map-bw-letter.pdf` and `pnp/shinjuku-pnp/map-bw-a4.pdf`
 
-### Extra Things to Check
+### Extra Things to Consider
 
 * Do the cards need to be updated with the map changes?
 
@@ -133,7 +134,7 @@ If the rulebook has been updated:
 
 * Update both the Rules and the Quickstart so that they remain consistent.
 * The rules summary on the player screen may need to be updated.
-* The rules summary in the github [README.md](../README.md) need to be updated as well.
+* The rules summary in the github [README.md](../README.md) may need to be updated as well.
 
 ### Export both Letter and A4
 
@@ -153,7 +154,7 @@ Repeat for `docs/shinjuku_quickstart.afpub`
 
 If this is a significant update, then update the rules uploaded to BoardGameGeek.
 
-Duplicate the A4 version, remove `_a4` and add `_rXX` where XX is the current revision.
+Duplicate the A4 version, remove `_a4` and add `_vXrY` where X is the current version and Y is the revision.
 
 Upload the updated documents to BoardGameGeek:
 
@@ -171,9 +172,30 @@ Upload the updated documents to BoardGameGeek:
 
 ## Player Screen Updates
 
-Print out each individual screen (front and back) and combine into a PDF. Flip the images so that they can be printed double-sided.
+### Print and Play
 
-Temp screen images are stored in `pnp/screen`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (and A4 version).
+Print out each individual screen (front and back).
+
+For front (with logo):
+
+* Select the "Bleed" ouline (unlock layer first)
+* Hide the "Bleed" layer
+* Export PNG @ 150dpi.
+* Rotate 90deg CW
+
+For backs (with player aide info)
+
+* Show the "Cut/Fold" layer
+* Select the "Bleed" ouline (unlock layer first)
+* Hide the "Bleed" layer
+* Export PNG @ 150dpi
+* Rotate 90deg CCW
+
+Export each as 1541 x719 quality 80 jpg
+
+Combine into a PDF (title: "Shinjuku Player Screens"), alternating front/back so that it can be printed double-sided.
+
+Temp screen images are stored in `pnp/screen`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (`screens-a4.pdf` for A4 version).
 
 ## Expansion Pack Updates
 
@@ -183,7 +205,7 @@ Similar to the main Rulebook/Quickstart Updates:
 
 * Export `docs/shinjuku_ex_1.afpub` as PDF for Letter and A4
 
-## Print and Play Updates
+## Print and Play Instruction Updates
 
 To update the PNP instructions, there are 2 places that need to be kept in sync:
 
