@@ -2,7 +2,7 @@
 
 # Shinjuku - Print-n-Play
 
-Version 1 r5
+Version 2 r1
 
 _These files and instructions are provided for non-commercial use._
 
@@ -14,7 +14,8 @@ To create your own copy of __Shinjuku__, you'll need the following:
 * 1 Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 * 1 Map of Tokyo
 * 1 Deck of 72 Ward Cards
-* 52 Customer tokens
+* 72 Customer tokens
+* 6 Upgrade Bonus tokens
 * 32 Store tokens (8 stores x 4 player colors)
 * 12 Department Store tokens (3 department stores x 4 player colors)
 * 64 Track pieces (16 pieces x 4 player colors)
@@ -26,7 +27,7 @@ For the Expansions, you’ll need:
 * 1 Expansion Pack I rules document ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1_a4.pdf))
 * 1 Set of 5 Expansion cards (1 card for each expansion)
 * Princess: 1 Princess token
-* Thief: 8 thief tokens (must match the Customer tokens)
+* Thief: 4 thief tokens (must match the Customer tokens)
 * Chairman: 4 Chairman tokens (1 for each player color)
 * Hachiko: 1 Hachiko station (should match the Store tokens) + Hachiko token
 * Kaiju: 1 Kaiju token
@@ -47,27 +48,34 @@ There are 72 cards and each card identifies a single ward on the map.
 
 * Shinjuku Cards - 8 pages, 9 cards per page - B&W ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-bw-a4.pdf)), Color ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-color.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/cards-color-a4.pdf))
 
-### 52 Customers
+### 72 Customers
 
-Each customer is a white 15mm x 10mm cylinder. This size works well because the pieces are easy to pick up and move around on the board, and the 15mm diameter easily accepts the 1/2" stickers to mark each customer.
+Each customer is a white 15mm x 10mm cylinder. This size works well because the pieces are easy to pick up and move around on the board, and the 15mm diameter easily accepts the 1/2" (or 13mm) stickers to mark each customer.
 
 * 15x10mm Cylinders - [PrintPlayGames](https://www.printplaygames.com/product/15mm-x-10mm-cylinders/)
 * 14x10mm Cylinder - [TheGameCrafter](https://www.thegamecrafter.com/parts/disc-14mm-x-10mm-white) - smaller than 15mm, but still should work with 1/2" stickers
 
-Alternately, you can use any 52 pieces that are all the same size and can be marked with the 4 customer symbols.
+Alternately, you can use any 72 pieces that are all the same size and can be marked with the 4 customer symbols.
 
-If you're marking the pieces yourself (rather than using printed 1/2" stickers), the distribution of customers is as follows:
+If you're marking the pieces yourself (rather than using printed round stickers), the distribution of customers is as follows:
 
-* 17 customers who want **food** (marked with a ◯)
-  * **11 regular** food customers and **6 double** food customers
-* 14 customers who want **clothing** (marked with a ⤫)
-  * **9 regular** clothing customers and **5 double** clothing customers
-* 12 customers who want **books** (marked with a △)
-  * **8 regular** book customers and **4 double** book customers
-* 9 customers who want **electronics** (marked with a ☆)
-  * **6 regular** electronics customers and **3 double** electronics customers
+* 23 customers who want **food** (marked with a ◯)
+  * **22 regular** food customers and **1 double** food customers
+* 20 customers who want **clothing** (marked with a ⤫)
+  * **16 regular** clothing customers and **4 double** clothing customers
+* 16 customers who want **books** (marked with a △)
+  * **8 regular** book customers and **8 double** book customers
+* 13 customers who want **electronics** (marked with a ☆)
+  * **2 regular** electronics customers and **11 double** electronics customers
 
 The “double” customers should be marked with a small “2” to distinguish them from the regular customers.
+
+### 6 Upgrade Bonus tokens 
+It is convenient if these 6 tokens are the same size as the customer tokens so that they are consistent when scoring, but this is not necessary. 
+If you're marking the pieces yourself (rather than using printed round stickers), the bonus tokens should be marked as follows:
+
+* Numbered 1 through 6
+* Three stars on #1; two stars on #2-4; one star on #5-6
 
 ### 32 Stores (8 stores x 4 player colors)
 
@@ -79,7 +87,7 @@ These are fairly easy to find:
 
 Alternately, you can use any 32 pieces that are all the same size and can be marked with the 4 customer symbols.
 
-If you're marking the pieces yourself (rather than using printed 1/2" stickers), there should be 2 stores of each type (◯, ⤫, △, ☆) for each player.
+If you're marking the pieces yourself (rather than using printed round stickers), there should be 2 stores of each type (◯, ⤫, △, ☆) for each player.
 
 ### 12 department stores (3 department stores x 4 player colors)
 
@@ -122,7 +130,7 @@ For A4, there are typically 216 13mm round stickers, packed more tightly on the 
 
 * [Image to print on sticker sheet (A4)](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers-a4.pdf)
 
-Note that there is 1 sticker for each customer token and 2 stickers for each store token (to label the front and back). Labelling both sides of the stores is optional, but it helps speed up the initial setup a bit by eliminating the need to flip over the stores that land upside-down.
+Note that these sheets contain 4 customers marked with a red ‘x’. These are used for the Thief Expansion.
 
 ## Expansions
 
