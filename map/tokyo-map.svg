@@ -3120,11 +3120,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1141.4828"
-     inkscape:cy="961.69913"
+     inkscape:zoom="0.5"
+     inkscape:cx="1367.8211"
+     inkscape:cy="711.24114"
      inkscape:document-units="px"
-     inkscape:current-layer="svg4516"
+     inkscape:current-layer="layer19"
      showgrid="false"
      units="in"
      inkscape:window-width="1635"
@@ -12163,23 +12163,23 @@
          transform="translate(0,-140)"
          sodipodi:linespacing="125%"
          id="text6586"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#46b1df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#46b1df;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><textPath
            id="textPath6596"
            xlink:href="#tokyo-bay-label-path"><tspan
    id="tspan6588"
-   style="fill:#46b1df;fill-opacity:1;"><tspan
+   style="fill:#46b1df;fill-opacity:1"><tspan
      x="1144.0239"
      y="1326.6136"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
      id="tspan6590">Tokyo Bay </tspan><tspan
      x="1304.522"
      y="1326.6136"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
      id="tspan6592">東京湾</tspan><tspan
      x="1379.522"
      y="1326.6136"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#46b1df;fill-opacity:1"
      id="tspan6594" /></tspan></textPath></text>
     </g>
     <g
@@ -12266,7 +12266,48 @@
      y="1326.6136"
      x="1379.522" /></tspan></textPath></text>
     </g>
-  </g>
+    <g
+       transform="matrix(0,1.3542234,-1.3542234,0,3671.0734,-629.48509)"
+       id="g7024"
+       style="display:inline;opacity:1">
+      <flowRoot
+         transform="matrix(0,-1,1,0,-44.264549,3128.2455)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot7026"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7028"><rect
+             style="fill:#dedede;fill-opacity:1"
+             y="1592.0122"
+             x="1554"
+             height="65"
+             width="378"
+             id="rect7030" /></flowRegion><flowPara
+           id="flowPara7032"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#dedede;fill-opacity:1">Tokyo Bay</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path7034"
+         d="m 1549.3198,1543.4448 0,9.7901 -2.5635,0 0,-9.7901 2.5635,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1549.3198,1489.6323 0,9.7901 -2.5635,0 0,-9.7901 2.5635,0 z"
+         id="path7036"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       transform="matrix(1.3542234,0,0,1.3542234,-512.70903,-639.79669)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot7038"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7040"><rect
+           style="fill:#dedede;fill-opacity:1"
+           y="1592.0122"
+           x="1554"
+           height="65"
+           width="378"
+           id="rect7042" /></flowRegion><flowPara
+         id="flowPara7044"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#dedede;fill-opacity:1">東京湾</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -16590,11 +16631,10 @@
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="White Outer Border"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <path
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -202.17136,-58.000176 0,1959.999976 2218.00006,0 0,-1959.999976 z M 4.6570617,94.121144 1795.0003,94.474698 l 0.7071,1611.050202 -1791.0503383,0 z"
+       d="m -260.17136,-58.000176 0,1959.999976 2636.00006,0 0,-1959.999976 z M -1.3429383,94.121144 2149.0003,94.474698 l 0.7071,1611.050202 -2151.0503383,0 z"
        id="path6702"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
@@ -16620,8 +16660,8 @@
      id="g17743"
      inkscape:groupmode="layer">
     <path
-       inkscape:export-ydpi="299.99997"
-       inkscape:export-xdpi="299.99997"
+       inkscape:export-ydpi="149.99998"
+       inkscape:export-xdpi="149.99998"
        inkscape:connector-curvature="0"
        id="path17745"
        d="m -8.527344,0.00585938 0,1620.00004062 2160.000044,0 0,-1620.00004062 z m 8,8.00000002 2144.000044,0 0,1604.0000406 -2144.000044,0 z"
@@ -17040,8 +17080,8 @@
      inkscape:label="7x10 Pages"
      style="display:none">
     <rect
-       y="-0.00024591308"
-       x="-44.999783"
+       y="-0.00025723138"
+       x="-185.99974"
        height="900"
        width="630"
        id="rect5921"
@@ -17057,11 +17097,11 @@
        id="rect6714"
        width="630"
        height="900"
-       x="585.00024"
-       y="-0.00024591308" />
+       x="444.00027"
+       y="-0.00025723138" />
     <rect
-       y="-0.00024591308"
-       x="1215.0002"
+       y="-0.00025723138"
+       x="1074.0002"
        height="900"
        width="630"
        id="rect6716"
@@ -17072,32 +17112,52 @@
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-4.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-5.png"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6725"
        width="630"
        height="900"
-       x="-44.999783"
+       x="-185.99974"
        y="899.99988" />
     <rect
        y="899.99988"
-       x="585.00024"
+       x="444.00027"
        height="900"
        width="630"
        id="rect6727"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-5.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-6.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-6.png"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-7.png"
        style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6729"
        width="630"
        height="900"
-       x="1215.0002"
+       x="1074.0002"
        y="899.99988" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-4.png"
+       style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7001"
+       width="630"
+       height="900"
+       x="1704.0002"
+       y="-0.00025723138" />
+    <rect
+       y="899.99988"
+       x="1704.0002"
+       height="900"
+       width="630"
+       id="rect7003"
+       style="display:inline;opacity:1;fill:#ffabff;fill-opacity:0.56190479;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/map-color/map-8.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
   </g>
 </svg>

@@ -270,12 +270,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.7798913"
-     inkscape:cx="341.60515"
-     inkscape:cy="1246.3914"
+     inkscape:cx="376.22536"
+     inkscape:cy="1092.5238"
      inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8" /><g
+     inkscape:current-layer="layer2" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Text"
@@ -597,7 +597,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Instructions - RGB - Red=Master"
-     style="display:none"><use
+     style="display:inline"><use
        height="100%"
        width="100%"
        transform="translate(0,929.37448)"
@@ -5075,7 +5075,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Cut / Fold"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><path
        inkscape:connector-curvature="0"
        id="path394"
