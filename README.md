@@ -8,11 +8,11 @@ In _Shinjuku_, you build department stores in Tokyo and the rail lines to connec
 
 ## Rule Summary
 
-Every turn, new customers will arrive on the map looking to purchase one of 4 different goods. On your turn, you choose 2 different actions from: (a) Build a store, (b) Expand your rail, (c) Upgrade to a department store, (d) draw cards as Income or (e) Move customers along the rail to stores.
+Every turn, new customers will arrive on the map looking to purchase one of 4 different goods. On your turn, you choose 2 different actions from: (a) **Open** a store, (b) **Expand** your rail, (c) **Upgrade** to a department store, (d) draw cards as **Income** or (e) **Move** customers along the rail to stores.
 
-You start with a hand of 5 location cards. The Build, Upgrade and Move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are Wild and can be used to match any location.
+You start with a hand of 4 location cards and get a new card each turn. The Build, Upgrade and Move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are Wild and can be used to match any location.
 
-The game ends when the last customer is placed (+ one final round) and victory goes to the player that acquired the most customers (after each player removes the customer type that they have the most of).
+The game ends when the last customer is placed (+ one final round) and victory goes to the player that can create the most sets of each type of customer.
 
 ## Links
 
@@ -24,11 +24,10 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 * [Print and Play Instructions](https://garykac.github.io/shinjuku/pnp/index.html)
 
-* Mods (Mini-Expansions and Rule Variants):
-	* Mod Pack I - Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_mods_1_a4.pdf))
-	* Mod Pack II - Savvy Advertisement, Preorder Discount, Indecisive Shopper, Party Planner, Bonus Action, Bypass, Flash Mob (in progress)
+* Expansions:
+	* Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_ex_1_a4.pdf))
 
-* Alternate Maps
+* Alternate Maps:
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
 
 * [Sell sheet (1-page overview for publishers) (pdf)](docs/shinjuku_sellsheet.pdf)
@@ -57,7 +56,7 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
 
 ## How to Play
 
-### Map
+### Map Board
 
 _Shinjuku_ is played on a map of central Tokyo:
 
@@ -65,9 +64,9 @@ _Shinjuku_ is played on a map of central Tokyo:
 
 The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Japanese).
 
-Each region contains 1 or more train stations and these stations have lines that identify potential connections to other stations.
+Each region contains 1 or more train stations and these stations have lines that identify potential connections to other stations. Some stations have a _sakura_ icon to indicate that stores built there are allowed to be upgraded to a department store.
 
-Some station names are highlighted with a background color which indicates that stores built there are allowed to be upgraded to a department store.
+On the right side of the board is the customer queue (④ ③ ② ①). Customers will accumulate here before moving on to the map.
 
 ### Cards
 
@@ -79,7 +78,7 @@ There are multiple copies of each card based on the population of that ward. The
 
 ### Player Pieces
 
-Each player has a set of available track, stores, and department stores (the exact number of each component varies based on the number of players).
+Each player starts with 3 department stores, 8 stores and 16 track segments.
 
 <img src="components/player.png" height="190px"/>
 
@@ -96,7 +95,7 @@ A department store (represented by a tall cylinder) sells all of these goods.
 
 ### Customers
 
-There are a total of 52 customers. They are stored in a bag so that they can be drawn at random.
+There are a total of 72 customers. They are stored in a bag so that they can be drawn at random.
 
 <img src="components/customer-types.png" height="40px"/>
 
@@ -104,65 +103,68 @@ The 4 customer types match the store types:
 
 | | | |
 | --- | --- | --- |
-| <img src="components/customers/food.png" height="30px"/> | 17 customers want Food | <img src="components/customers/food-17.png" height="30px"/> 
-| <img src="components/customers/clothing.png" height="30px"/> | 14 customers want Clothing | <img src="components/customers/clothing-14.png" height="30px"/> |
-| <img src="components/customers/books.png" height="30px"/> | 12 customers want Books | <img src="components/customers/books-12.png" height="30px"/> |
-| <img src="components/customers/electronics.png" height="30px"/> | 9 customers want Electronics | <img src="components/customers/electronics-9.png" height="30px"/> |
+| <img src="components/customers/food.png" height="30px"/> | 23 customers want Food | <img src="components/customers/food-23.png" height="30px"/> 
+| <img src="components/customers/clothing.png" height="30px"/> | 20 customers want Clothing | <img src="components/customers/clothing-20.png" height="30px"/> |
+| <img src="components/customers/books.png" height="30px"/> | 16 customers want Books | <img src="components/customers/books-16.png" height="30px"/> |
+| <img src="components/customers/electronics.png" height="30px"/> | 13 customers want Electronics | <img src="components/customers/electronics-13.png" height="30px"/> |
 
-Some customers are worth double points:
+Some customers count as 2 customers:
 
 <img src="components/customer-types-x2.png" height="40px"/>
+
+### Upgrade Bonus Tokens
+
+There are tokens that players can earn for the first 6 department store upgrades.
+
+<img src="components/upgrade-tokens.png" height="40px"/>
+
+In endgame scoring, each Upgrade Bonus Token acts as a single customer type (player's choice) and counts as a number of customers equal to the number of stars on the token.
 
 ### Gameplay
 
 #### Initial Setup
 
-Select the appropriate number of player pieces (based on the total number of players) and then draw 5 cards into your hand.
+Choose a player color, take the pieces and then draw 4 cards into your hand.
 
-#### Place a Customer
+Initialize the Customer Queue:
 
-At the start of your turn, place a customer at random on the map:
+* Draw 4 ward cards and place them on the 4 queue spaces: ④ ③ ② ①
+* Add 2 customers to the queue.
 
-* Draw a customer at random from the bag
-* Draw a card at random to determine the location
+To add a customer to the queue:
 
-Note that the customer is located in the ward, not in any particular station.
+* Draw a customer from the bag
+* Is there already a customer of the same type in the queue?
+	* If so, place the new customer on the card with the matching customer.
+* Otherwise, place the new customer on the next available (empty) card.
+
+#### Each Turn
+
+##### Place Customers
+
+Customers are taken from the queue and placed on the map as follows:
+
+* Take all the customers from the head ① of the queue and then place them in the location indicated by the card they were sitting on.
+	* Note that the customers are placed in the ward, not in any particular station.
 Customers are not associated with a station until they are being **Move**d.
+* Take the card from the queue (where the customers were taken) into your hand.
+* Refresh the customer queue.
 
-Once three department stores have been built, you will place 2 customers (in the same location) at the start of your turn.
+To refresh the customer queue:
 
-#### Take Two Actions
+* Slide the existing cards (with customers) down
+* Draw a new card and place it on ④
+* Add customers to the queue equal to the number that were just placed on the map. 
+
+##### Take Two Actions
 
 Choose any two of the following actions (must be different actions):
 
-* **Build Store** : Play a ward card and build a store at any empty station in that ward.
-* **Expand Track** : Build a single piece of track anywhwere on the map. Or play a card that matches either of the stations you just connected to build a second segments that extends from the first.
-* **Upgrade Store** : Play a matching ward card and give up one of your matching customers to upgrade an existing store to a department store.
-* **Move Customers** : Play a ward card and [move customers](#moving-customers) from that ward to stores, following train tracks to connected stations.
-* **Draw Income** : Draw your hand back up to 5 cards, or draw a single card if you already have 5 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
-
-### Moving Customers
-
-The **Move** action is the most important action in _Shinjuku_ because it is the only way to gain customers (which are needed to win the game).
-
-When you choose the **Move** action, do the following:
-
-1. Gather _all_ of the customers in the ward that matches the card played
-2. Select their starting station within that ward
-3. Satisfy customers that match the shops in that station
-   * A single shop can satisfy a single customer that matches the shop type
-   * A department store can satisfy any single customer.
-4. Optionally, move all unsatisfied customers to another connected station and then repeat steps 3 & 4.
-
-When customers are satisfied, their token is given to the player who owns the store. These customer tokens are used in endgame scoring.
-
-If there is a customer that matches the current shop, then you _must_ give a customer to that store. If multiple customers match, then you choose which one to give. Each store (or dept store) may only take a single customer, even if more than one matches.
-
-If there are no customers that match the store (or if there is no store), then the customers just pass through that station and continue to the next station.
-
-You _must_ end your train journey on a station with a store that satisfies at least one customer.
-
-Any remaining unsatisfied customers are moved into the ward that contains the final station.
+* **Open Store** : Spend a ward card and open a store at any empty station in that ward.
+* **Expand Track** : Build a single piece of track on any empty connection on the map. Optionally, you may spend a card that matches either end of the newly placed track to build a second segment of track that is connected to the first.
+* **Upgrade Store** : Spend a matching ward card and a matching customer to upgrade an existing store to a department store. The spent customer is added to the customer queue and the old store is returned to you. You may now claim the next department store Upgrade Bonus Token (if any remain). Note that stores can only be upgraded if they were built in a station marked with the department store icon.
+* **Draw Income** : Draw your hand back up to 4 cards, or draw a single card if you already have 4 or more cards in hand. **_Your turn ends immediately_** after taking this action, even if you had one more action available.
+* **Move Customers** : Spend a ward card to [move the customers](#moving-customers) in that ward to stores, following train tracks to connected stations.
 
 ### Wildcards
 
@@ -178,16 +180,41 @@ Once you've built a store (or department store) in a ward, the cards for that wa
 
 Because the card frequency varies based on the population of that ward, some wards work better as wildcards (because you're more likely to draw them).
 
+### Moving Customers
+
+The **Move** action is the most important action in _Shinjuku_ because it is the only way to gain customers (which are needed to win the game).
+
+When you choose the **Move** action, do the following:
+
+1. Gather _all_ of the customers in the ward that matches the card played
+2. Select their starting station within that ward
+3. Move the customers from station to station on the map, following the track connections that players have added.
+	* If the station has a store that matches a customer, then the store satisfies the matching customer and it _must_ be given to the player that owns the store.
+		* A store can satisfy a single customer that matches the store type. A department store can satisfy a single customer of _any_ type.
+		* If more than one customer matches (e.g., with a department store; or if there are multiple customers of the same type), then you may choose which single customer is given to the store owner.
+	* No station may be visited more than once during this action.
+	* If there are 2 or more customers being **Move**d, then you must cross at least one track segment.
+4. Any remaining customers are added to the ward that contains the final station visited, merging with any existing customers in that ward.
+5. If any track segments owned by other players were used during the **Move** action, then those players may immediately take an **Income** action. Maximum one **Income** action per player, regardless of the number of track segments used. You (the player taking the **Move** action) are not entitled to this Income bonus.
+
 ### End of Game
 
-When the last customer is drawn from the bag, the player that drew the final customer finishes their turn and then the Final Round begins.
+When the last customer is drawn from the bag, play continues until the customer queue is emptied. The player that places the final customer from the queue finishes their turn and then the Final Round begins.
 
-At the start of the Final Round, everyone simultaneously takes a free **Income** action and then everyone takes one final turn, continuing the game where it left off so that the player who drew the last customer takes the final turn of the game.
-
+For the Final Round, everyone discards all of their cards and then everyone takes one final turn, continuing the game where it left off so that the player who placed the last customer takes the final turn of the game. During the Final Round, players take two different actions (as usual), but cards do not need to be paid to perform Open, Expand, Upgrade or Move actions.
 
 ### Endgame Scoring
 
-Remove the customer type that you have the most customer tokens of and then score all the remaining customers. Each customer is worth 1 point – double customers are worth 2 points.
+Customers are scored using set collection plus any bonuses from department store upgrades.
+
+* 10 pts for each set of 4 different customers
+* 6 pts for each set of 3 different customers
+* 3 pts for each set of 3 different customers
+* 1 pt for each remaining customer
+
+Customers marked with a “2” count as 2 separate customers.
+
+Each Upgrade Bonus Token acts as a single customer type (your choice) and counts as a number of customers equal to the number of stars on the token.
 
 
 ![Train Car](images/train-car-6.png)
