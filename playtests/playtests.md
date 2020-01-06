@@ -1,5 +1,31 @@
 # Playtest Notes
 
+[Playtest #64 - Mon 30 Dec 2019](2019-12-30-playtest-64.md)
+
+* 2 player: AB GK
+* Testing: new customer distribution; dept store bonus; queue = ds + 2
+
+[Playtest #63 - Fri 20 Dec 2019](2019-12-20-playtest-63.md)
+
+* 4 new players: BC JC AW MM
+* Maple Valley gaming group
+* Testing: combined Move/Upgrade; queue = 1 + ds
+
+[Playtest #62 - Thu 19 Dec 2019](2019-12-19-playtest-62.md)
+
+* 3 players: JB SR GK
+* Testing: combined Move/Upgrade; 4vp/dept store; queue size from table
+
+[Playtest #61 - Wed 18 Dec 2019](2019-12-18-playtest-61.md)
+
+* 3 players: AB GK
+* Testing: combined Move/Upgrade; 4vp/dept store; queue size from table
+
+[Playtest #60 - Wed 17 Dec 2019](2019-12-17-playtest-60.md)
+
+* 3 players: AB GK
+* Testing: 72 customers; player takes card from sidebar; pay upgrade customer to sidebar; score sets
+
 [Playtest #59 - Mon 16 Dec 2019](2019-12-16-playtest-59.md)
 
 * 2 player: AB GK
