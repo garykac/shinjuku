@@ -17,7 +17,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 ## Links
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
-	* Or [subscribe here](https://kowmap.mailchimpsites.com/home) for a notifcation when Shinjuku is released
+	* Or [sign up here](https://kowmap.mailchimpsites.com/home) for a notifcation when Shinjuku is released
 
 * Rules:
 	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
