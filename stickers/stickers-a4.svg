@@ -54,9 +54,9 @@
      inkscape:window-height="933"
      id="namedview5861"
      showgrid="false"
-     inkscape:zoom="0.64715428"
-     inkscape:cx="193.08264"
-     inkscape:cy="539.79029"
+     inkscape:zoom="1.8304287"
+     inkscape:cx="141.82283"
+     inkscape:cy="865.74267"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="0"
@@ -66,7 +66,7 @@
      inkscape:label="safe/bleed"
      inkscape:groupmode="layer"
      id="g6985"
-     style="display:inline"><circle
+     style="display:none"><circle
        r="18.425198"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1585f4;stroke-width:6.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5254902"
        id="circle18449"
@@ -3084,12 +3084,12 @@
        sodipodi:linespacing="125%"
        id="text4856"
        y="-33.776642"
-       x="470.63507"
+       x="356.63507"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold'"
          y="-33.776642"
-         x="470.63507"
+         x="356.63507"
          id="tspan4858"
          sodipodi:role="line">Stores</tspan></text>
 <g
@@ -4208,7 +4208,19 @@
        id="use5499"
        transform="translate(290.44493,830.66352)"
        width="100%"
-       height="100%" /></g><g
+       height="100%" /><text
+       sodipodi:linespacing="125%"
+       id="text5086"
+       y="-34.709717"
+       x="27.514622"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.5px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold'"
+         y="-34.709717"
+         x="27.514622"
+         id="tspan5088"
+         sodipodi:role="line">Shinjuku v2 r1 (A4)</tspan></text>
+</g><g
      style="display:none"
      id="g18929"
      inkscape:groupmode="layer"
