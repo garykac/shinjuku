@@ -4,6 +4,7 @@
 # Large images
 tokyo-map*-300dpi.png
 tokyo-map*-300dpi.jpg
+map/map*-150dpi.png
 
 # Affinity Publisher docs
 *.afpub
@@ -12,6 +13,7 @@ ref/*
 paris/ref/*
 london/ref/*
 
+# Temp files for generating PNP files
 pnp/cards-bw/*
 pnp/cards-color/*
 pnp/map-bw/*
