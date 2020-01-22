@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="155.89926"
+     inkscape:cx="-18.857131"
      inkscape:cy="692.10354"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -45,15 +45,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Black"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362205)">
+     transform="translate(0,-62.362205)"
+     style="display:inline">
     <g
        transform="matrix(1.015858,0,0,1.015858,2687.834,-537.43632)"
        style="font-style:normal;font-weight:normal;font-size:180px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -70,6 +71,29 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
          id="path4585"
          inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="White"
+     style="display:none">
+    <g
+       inkscape:export-ydpi="149.98802"
+       inkscape:export-xdpi="149.98802"
+       id="g4137"
+       style="font-style:normal;font-weight:normal;font-size:180px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.015858,0,0,1.015858,2687.834,-599.79853)">
+      <path
+         id="path4139"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#ffffff;fill-opacity:1"
+         d="m -2430.0852,760.67227 0,-17.64 c 20.7,-3.06 35.1,-6.12 45.9,-9.72 3.42,-1.08 3.42,-1.08 6.66,-1.98 l -20.52,-25.02 c -2.52,1.8 -7.02,3.96 -14.04,6.12 -15.3,4.86 -28.08,7.38 -45.9,8.82 0.9,5.58 1.26,12.78 1.26,20.7 0,50.4 -1.44,76.14 -4.68,88.38 -3.42,12.42 -7.92,21.42 -16.02,32.22 10.62,5.04 15.12,7.92 25.56,16.02 8.46,-13.32 13.14,-24.66 16.56,-40.5 3.24,-15.48 4.32,-26.82 5.04,-51.48 l 9.9,0 0,66.42 c 0,12.42 -0.18,17.82 -1.08,24.3 l 29.16,0 c -0.9,-6.48 -1.08,-11.7 -1.08,-24.3 l 0,-66.42 2.16,0 c 6.48,0 9.18,0.18 13.14,0.72 l 0,-27.72 c -3.78,0.72 -9,1.08 -16.38,1.08 l -35.64,0 z m -58.14,24.48 9,0 c 8.46,0 12.78,0.18 18.36,0.72 l 0,-26.64 c -3.96,0.54 -6.66,0.72 -12.06,0.9 0.9,-2.7 3.24,-11.52 4.14,-14.94 2.88,0.18 3.96,0.18 7.2,0.54 l 0,-26.28 c -5.04,0.72 -8.82,0.9 -18.36,0.9 l -7.38,0 c 0,-6.84 0.18,-8.82 0.9,-12.96 l -30.24,0 c 0.72,4.68 0.72,6.3 0.9,12.96 l -10.08,0 c -9.18,0 -13.5,-0.18 -18.54,-0.9 l 0,26.28 c 3.6,-0.36 5.04,-0.36 9.18,-0.54 1.8,4.68 3.06,9.72 3.96,14.94 -8.82,0 -11.88,-0.18 -16.56,-0.9 l 0,26.64 c 5.22,-0.54 9.72,-0.72 18,-0.72 l 15.12,0 0,7.92 -14.58,0 c -9.72,0 -13.32,-0.18 -18.54,-0.9 l 0,26.1 c 5.22,-0.54 9.54,-0.72 18,-0.72 l 7.74,0 c -3.96,5.58 -6.66,8.64 -10.44,12.24 -7.56,6.84 -13.14,11.16 -18.36,13.86 5.4,9.54 8.46,16.92 10.98,27.18 12.42,-8.82 17.64,-14.22 25.56,-25.92 -0.18,4.5 -0.36,7.2 -0.36,9.9 l 0,9 c 0,5.76 -0.18,9.54 -0.72,13.32 l 28.08,0 c -0.72,-4.14 -0.9,-7.92 -0.9,-14.58 l 0,-10.44 c 0,-2.34 -0.18,-5.22 -0.36,-11.88 3.78,5.76 6.12,8.28 12.06,13.5 2.88,-8.28 5.76,-14.76 10.98,-24.48 -6.48,-4.32 -10.26,-7.38 -14.22,-11.7 8.1,0 12.6,0.18 17.82,0.72 l 0,-26.1 c -4.86,0.72 -9,0.9 -18.36,0.9 l -7.92,0 0,-7.92 z m -17.46,-25.02 c -1.26,-7.56 -1.8,-9.72 -3.78,-15.12 l 15.12,0 c -0.9,5.94 -1.98,9.9 -3.78,15.12 l -7.56,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4141"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#ffffff;fill-opacity:1"
+         d="m -2489.4852,961.3835 c 5.4,-0.54 9.72,-0.72003 16.74,-0.72003 l 18.36,0 c -1.08,3.24003 -1.8,5.40003 -3.42,8.64003 l -13.32,0 c -7.92,0 -12.06,-0.18 -17.28,-0.72 0.54,4.32 0.72,8.82 0.72,16.2 l 0,60.66 c 0,7.92 -0.18,12.6 -0.9,17.46 l 27.9,0 0,-6.3 43.02,0 0,6.48 28.26,0 c -0.72,-6.48 -1.08,-12.6 -1.08,-21.06 l 0,-55.26 c 0,-7.38 0.36,-13.14 0.9,-18.18 -5.22,0.54 -10.08,0.72 -19.08,0.72 l -20.7,0 c 1.8,-3.6 2.7,-5.4 3.96,-8.64003 l 19.44,0 c 7.02,0 12.42,0.18003 16.92,0.72003 l 0,-11.70003 7.74,0 c -0.72,-4.32 -0.9,-8.82 -0.9,-14.4 l 0,-16.56 c 0,-6.3 0.18,-10.44 0.72,-14.76 -5.58,0.54 -11.34,0.72 -21.6,0.72 l -46.98,0 c 0,-4.86 0.18,-7.56 0.72,-10.98 l -30.78,0 c 0.72,3.6 0.9,6.12 0.9,10.98 l -45.36,0 c -9.9,0 -15.48,-0.18 -21.6,-0.72 0.54,4.14 0.72,8.1 0.72,14.22 l 0,19.8 c 0,5.76 -0.36,9.9 -1.08,14.58 l 26.1,0 c -8.28,13.68003 -18,24.30003 -31.14,34.20003 5.58,10.08 7.56,14.94 11.34,28.98 4.68,-3.78 5.76,-4.86 11.16,-10.8 -0.36,7.2 -0.36,11.7 -0.36,18.54 l 0,18.18 c 0,8.64 -0.36,14.76 -1.08,21.24 l 28.8,0 c -0.54,-6.84 -0.72,-11.7 -0.72,-21.24 l 0,-67.86 c 5.76,-9.18 9.54,-15.48003 12.96,-22.50003 l 0,10.08003 z m 0,-20.16003 -20.34,-9.54 c -1.98,5.22 -4.86,10.98 -9.18,18.54 l 0,-20.88 110.34,0 0,7.2 -63,0 c -7.74,0 -11.88,-0.18 -17.82,-0.9 l 0,5.58 z m 28.8,51.30003 43.02,0 0,8.64 -43.02,0 0,-8.64 z m 0,30.78 43.02,0 0,9.54 -43.02,0 0,-9.54 z" />
     </g>
   </g>
 </svg>
