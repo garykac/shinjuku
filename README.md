@@ -21,7 +21,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 * Rules:
 	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
-	* Quickstart Rules ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
+	* Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
 
 * Videos
 	* [General Overview](https://www.youtube.com/watch?v=WozxrZ81nBs) (4:42 rule/gameplay summary)
