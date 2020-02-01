@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="310.27043"
-     inkscape:cy="366.54901"
+     inkscape:cx="1205.2704"
+     inkscape:cy="195.12044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5134,250 +5134,207 @@
       <g
          style="display:inline"
          id="g4758"
-         transform="translate(88.05388,108.03113)"
+         transform="translate(82.053935,108.03113)"
          inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
          inkscape:export-xdpi="300"
          inkscape:export-ydpi="300">
-        <g
-           id="g4779">
-          <path
-             id="ellipse4770"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 743.07936,758.50635 c 0,5.59235 -10.28984,10.12584 -22.98299,10.12584 -12.69315,0 -22.98298,-4.53349 -22.98298,-10.12584 0,-5.59235 0,-54.40765 0,-60 0,-5.59235 10.28983,-10.12584 22.98298,-10.12584 12.69315,0 22.98299,4.53349 22.98299,10.12584 0,5.59235 0,54.40765 0,60 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="csccscc" />
-          <ellipse
-             ry="10.125842"
-             rx="22.982985"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="ellipse4772"
-             cx="720.09637"
-             cy="698.50635" />
-        </g>
-        <g
-           transform="translate(66,0)"
-           id="g4783">
-          <path
-             sodipodi:nodetypes="csccscc"
-             inkscape:connector-curvature="0"
-             d="m 743.07936,758.50635 c 0,5.59235 -10.28984,10.12584 -22.98299,10.12584 -12.69315,0 -22.98298,-4.53349 -22.98298,-10.12584 0,-5.59235 0,-54.40765 0,-60 0,-5.59235 10.28983,-10.12584 22.98298,-10.12584 12.69315,0 22.98299,4.53349 22.98299,10.12584 0,5.59235 0,54.40765 0,60 z"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path4785" />
-          <ellipse
-             cy="698.50635"
-             cx="720.09637"
-             id="ellipse4787"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             rx="22.982985"
-             ry="10.125842" />
-        </g>
-        <g
-           id="g4789"
-           transform="translate(132,0)">
-          <path
-             id="path4791"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 743.07936,758.50635 c 0,5.59235 -10.28984,10.12584 -22.98299,10.12584 -12.69315,0 -22.98298,-4.53349 -22.98298,-10.12584 0,-5.59235 0,-54.40765 0,-60 0,-5.59235 10.28983,-10.12584 22.98298,-10.12584 12.69315,0 22.98299,4.53349 22.98299,10.12584 0,5.59235 0,54.40765 0,60 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="csccscc" />
-          <ellipse
-             ry="10.125842"
-             rx="22.982985"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="ellipse4793"
-             cx="720.09637"
-             cy="698.50635" />
-        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="ellipse5349-4"
+           style="opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:nonzero;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97254902"
+           d="m 875.39987,704.88051 a 23.303572,17.5 0 0 1 -23.3035,17.5 23.303572,17.5 0 0 1 -23.3036,-17.5 23.303572,17.5 0 0 1 23.3036,-17.5 23.303572,17.5 0 0 1 23.3035,17.5 z m 0,48 c 0,9.66496 -10.4333,17.49997 -23.3035,17.5 -12.8702,1e-5 -23.3036,-7.83501 -23.3036,-17.5 l 0,-48 c 0,-9.66499 10.4334,-17.50001 23.3036,-17.5 12.8702,3e-5 23.3035,7.83504 23.3035,17.5 z"
+           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-dept.png"
+           inkscape:export-xdpi="300.00018"
+           inkscape:export-ydpi="300.00018" />
+        <path
+           inkscape:connector-curvature="0"
+           id="ellipse5349-6"
+           style="opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:nonzero;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97254902"
+           d="m 809.39987,704.88051 a 23.303572,17.5 0 0 1 -23.3035,17.5 23.303572,17.5 0 0 1 -23.3036,-17.5 23.303572,17.5 0 0 1 23.3036,-17.5 23.303572,17.5 0 0 1 23.3035,17.5 z m 0,48 c 0,9.66496 -10.4333,17.49997 -23.3035,17.5 -12.8702,1e-5 -23.3036,-7.83501 -23.3036,-17.5 l 0,-48 c 0,-9.66499 10.4334,-17.50001 23.3036,-17.5 12.8702,3e-5 23.3035,7.83504 23.3035,17.5 z"
+           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-dept.png"
+           inkscape:export-xdpi="300.00018"
+           inkscape:export-ydpi="300.00018" />
+        <path
+           inkscape:connector-curvature="0"
+           id="ellipse5349-3"
+           style="opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:nonzero;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97254902"
+           d="m 743.39987,704.88051 a 23.303572,17.5 0 0 1 -23.3035,17.5 23.303572,17.5 0 0 1 -23.3036,-17.5 23.303572,17.5 0 0 1 23.3036,-17.5 23.303572,17.5 0 0 1 23.3035,17.5 z m 0,48 c 0,9.66496 -10.4333,17.49997 -23.3035,17.5 -12.8702,1e-5 -23.3036,-7.83501 -23.3036,-17.5 l 0,-48 c 0,-9.66499 10.4334,-17.50001 23.3036,-17.5 12.8702,3e-5 23.3035,7.83504 23.3035,17.5 z"
+           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/blue-dept.png"
+           inkscape:export-xdpi="300.00018"
+           inkscape:export-ydpi="300.00018" />
       </g>
       <g
-         id="g7536">
+         id="g7536"
+         transform="translate(2.0000017,0)">
         <g
-           id="g7408"
-           transform="matrix(-0.5,-0.8660254,-0.8660254,0.5,1346.8734,1704.734)"
-           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300">
+           id="g5383">
           <rect
-             y="-142.39461"
-             x="820.87805"
-             height="13.788582"
-             width="73.185555"
-             id="rect7410"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             inkscape:export-xdpi="300"
-             inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
-          <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect7412"
              width="73.185555"
              height="13.788582"
-             x="826.87805"
-             y="-152.39461" />
+             x="-1322.9016"
+             y="161.66496" />
           <rect
-             y="-162.39461"
-             x="832.87805"
+             y="151.66496"
+             x="-1316.9016"
              height="13.788582"
              width="73.185555"
              id="rect7414"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
           <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect7416"
              width="73.185555"
              height="13.788582"
-             x="838.87805"
-             y="-172.39461" />
+             x="-1310.9016"
+             y="141.66496" />
           <rect
-             y="-182.39461"
-             x="844.87805"
+             y="131.66496"
+             x="-1304.9016"
              height="13.788582"
              width="73.185555"
              id="rect7418"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
-        </g>
-        <g
-           transform="matrix(-0.5,-0.8660254,-0.8660254,0.5,1426.8734,1704.734)"
-           id="g7420"
-           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300">
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
           <rect
-             transform="scale(1,-1)"
-             inkscape:export-ydpi="300"
-             inkscape:export-xdpi="300"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect7422"
-             width="73.185555"
-             height="13.788582"
-             x="820.87805"
-             y="-142.39461" />
-          <rect
-             y="-152.39461"
-             x="826.87805"
-             height="13.788582"
-             width="73.185555"
-             id="rect7424"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             inkscape:export-xdpi="300"
-             inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
-          <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect7426"
              width="73.185555"
              height="13.788582"
-             x="832.87805"
-             y="-162.39461" />
+             x="-1356.9016"
+             y="220.94701" />
           <rect
-             y="-172.39461"
-             x="838.87805"
+             y="210.94701"
+             x="-1350.9016"
              height="13.788582"
              width="73.185555"
              id="rect7428"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
           <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect7430"
              width="73.185555"
              height="13.788582"
-             x="844.87805"
-             y="-182.39461" />
-        </g>
-        <g
-           id="g7432"
-           transform="matrix(-0.5,-0.8660254,-0.8660254,0.5,1506.8734,1704.734)"
-           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
-           inkscape:export-xdpi="300"
-           inkscape:export-ydpi="300">
+             x="-1344.9016"
+             y="200.94701" />
           <rect
-             y="-142.39461"
-             x="820.87805"
+             y="190.7175"
+             x="-1339.9016"
              height="13.788582"
              width="73.185555"
-             id="rect7434"
+             id="rect7410"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
           <rect
-             transform="scale(1,-1)"
-             inkscape:export-ydpi="300"
-             inkscape:export-xdpi="300"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect7436"
-             width="73.185555"
-             height="13.788582"
-             x="826.87805"
-             y="-152.39461" />
-          <rect
-             y="-162.39461"
-             x="832.87805"
-             height="13.788582"
-             width="73.185555"
-             id="rect7438"
-             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             inkscape:export-xdpi="300"
-             inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
-          <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect7440"
              width="73.185555"
              height="13.788582"
-             x="838.87805"
-             y="-172.39461" />
+             x="-1390.9016"
+             y="280.22903" />
           <rect
-             y="-182.39461"
-             x="844.87805"
+             y="270.22903"
+             x="-1384.9016"
              height="13.788582"
              width="73.185555"
              id="rect7442"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"
-             transform="scale(1,-1)" />
-        </g>
-        <g
-           inkscape:export-ydpi="300"
-           inkscape:export-xdpi="300"
-           inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
-           transform="matrix(0.5,0.8660254,0.8660254,-0.5,401.42711,354.26665)"
-           id="g7474">
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
           <rect
-             transform="scale(1,-1)"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
              inkscape:export-ydpi="300"
              inkscape:export-xdpi="300"
              style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect7484"
+             id="rect7422"
              width="73.185555"
              height="13.788582"
-             x="844.87805"
-             y="-182.39461" />
+             x="-1379.9016"
+             y="259.99957" />
+          <rect
+             y="249.99957"
+             x="-1373.9016"
+             height="13.788582"
+             width="73.185555"
+             id="rect7424"
+             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
+          <g
+             id="g7474"
+             transform="matrix(0.5,0.8660254,0.8660254,-0.5,401.42711,354.26665)"
+             inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/g7444.png"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300">
+            <rect
+               y="-182.39461"
+               x="844.87805"
+               height="13.788582"
+               width="73.185555"
+               id="rect7484"
+               style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               inkscape:export-xdpi="300"
+               inkscape:export-ydpi="300"
+               transform="scale(1,-1)" />
+          </g>
+          <rect
+             y="329.28159"
+             x="-1419.9016"
+             height="13.788582"
+             width="73.185555"
+             id="rect7434"
+             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
+          <rect
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+             inkscape:export-ydpi="300"
+             inkscape:export-xdpi="300"
+             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect7436"
+             width="73.185555"
+             height="13.788582"
+             x="-1413.9016"
+             y="319.28159" />
+          <rect
+             y="309.28159"
+             x="-1407.9016"
+             height="13.788582"
+             width="73.185555"
+             id="rect7438"
+             style="display:inline;opacity:1;fill:#1f85ff;fill-opacity:1;fill-rule:evenodd;stroke:#0052b4;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" />
         </g>
       </g>
     </g>
@@ -7803,7 +7760,8 @@
        id="g5540"
        transform="translate(20,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-1.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-3"
@@ -7889,7 +7847,8 @@
        id="g5596"
        transform="translate(-17.52426,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-6.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-9"
@@ -7942,7 +7901,8 @@
        id="g5586"
        transform="translate(-10.01945,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-5.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-5"
@@ -7995,7 +7955,8 @@
        id="g5552"
        transform="translate(12.495148,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-2.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-30"
@@ -8064,7 +8025,8 @@
        id="g5563"
        transform="translate(4.99026,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-3.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-8"
@@ -8133,7 +8095,8 @@
        id="g5575"
        transform="translate(-2.51458,0)"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-4.png">
       <circle
          style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle6083-7-6-3-6"
