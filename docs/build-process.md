@@ -163,12 +163,27 @@ Upload the updated documents to BoardGameGeek:
 
 ## Card Updates
 
-* Make sure all layers are hidden except "Background outlines" and "Water"
+* Make sure all top-level layers are hidden except "B&W", "Clip" and "Bleed" groups.
+* Within each of these groups:
+	* All layers should be hidden
+	* Within the "Background - xxx" group, all layers should be visible (but the "Background" layer is hidden)
 * Close Inkscape
 * Run the `ku-card-export.py` script from the `cards` directory:
-  * Edit the options in the script
-  * `python ku-card-export.py`
-* Output is written to `cards/ku-cards`, copy to new location if necessary
+	* Edit the options in the script as needed
+	* `python ku-card-export.py`
+* Output is written to `cards/ku-cards`, `cards/ku-cards-clip` and `cards/ku-cards-bw`
+
+### Print and Play
+
+* Run `pnp/card-export.py`
+	* This will create PNGs in `pnp/cards-color` and `pnp/cards-bw`
+* Convert PNGs to JPGs @ 70%
+* Select each JPG in order and open in Preview
+* Export PDF
+	* When exporting, set Title to "Shinjuku PNP Cards"
+	* Print/Save as pdf Letter to `pnp/shinjuku-pnp/cards-color.pdf`
+	* Print/Save as pdf A4 to `pnp/shinjuku-pnp/cards-color-a4.pdf`
+	* Repeat above steps for `-bw` versions
 
 ## Player Screen Updates
 

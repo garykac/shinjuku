@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="218.79333"
+     inkscape:cx="-29.063813"
      inkscape:cy="471.65269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,110 +54,113 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-62.362205)"
-     style="display:none">
-    <rect
-       ry="22.5"
-       y="84.862106"
-       x="270"
-       height="315"
-       width="225"
-       id="rect6229"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6231"
-       width="225"
-       height="315"
-       x="495"
-       y="84.862106"
-       ry="22.5"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       ry="22.5"
-       y="399.86221"
-       x="45"
-       height="315"
-       width="225"
-       id="rect6240"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6242"
-       width="225"
-       height="315"
-       x="270"
-       y="399.86221"
-       ry="22.5"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       ry="22.5"
-       y="399.86221"
-       x="495"
-       height="315"
-       width="225"
-       id="rect6244"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6248"
-       width="225"
-       height="315"
-       x="45"
-       y="714.8623"
-       ry="22.5"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       ry="22.5"
-       y="714.8623"
-       x="270"
-       height="315"
-       width="225"
-       id="rect6250"
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6252"
-       width="225"
-       height="315"
-       x="495"
-       y="714.8623"
-       ry="22.5"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <rect
-       style="display:inline;opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6208"
-       width="225"
-       height="315"
-       x="45"
-       y="84.862106"
-       ry="22.5"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+     style="display:inline">
+    <g
+       id="export">
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6229"
+         width="225"
+         height="315"
+         x="270"
+         y="84.862106"
+         ry="22.5" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         ry="22.5"
+         y="84.862106"
+         x="495"
+         height="315"
+         width="225"
+         id="rect6231"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6240"
+         width="225"
+         height="315"
+         x="45"
+         y="399.86221"
+         ry="22.5" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         ry="22.5"
+         y="399.86221"
+         x="270"
+         height="315"
+         width="225"
+         id="rect6242"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6244"
+         width="225"
+         height="315"
+         x="495"
+         y="399.86221"
+         ry="22.5" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         ry="22.5"
+         y="714.8623"
+         x="45"
+         height="315"
+         width="225"
+         id="rect6248"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6250"
+         width="225"
+         height="315"
+         x="270"
+         y="714.8623"
+         ry="22.5" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         ry="22.5"
+         y="714.8623"
+         x="495"
+         height="315"
+         width="225"
+         id="rect6252"
+         style="opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/pnp/cards-bw/pnp-cards-bw-8.png"
+         ry="22.5"
+         y="84.862106"
+         x="45"
+         height="315"
+         width="225"
+         id="rect6208"
+         style="display:inline;opacity:0.09800002;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -245,6 +248,18 @@
        preserveAspectRatio="none"
        height="315.89999"
        width="225.89999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-507.14285"
+       y="315.71429"
+       id="page-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         x="-507.14285"
+         y="315.71429"
+         style="font-size:60px">Page 1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -341,6 +356,18 @@
        y="652.05011"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/06-taito.png"
        style="display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="page-2"
+       y="315.71429"
+       x="-507.14285"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:60px"
+         y="315.71429"
+         x="-507.14285"
+         id="tspan4228"
+         sodipodi:role="line">Page 2</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -437,6 +464,18 @@
        preserveAspectRatio="none"
        height="315.89999"
        width="225.89999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-507.14285"
+       y="315.71429"
+       id="page-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4234"
+         x="-507.14285"
+         y="315.71429"
+         style="font-size:60px">Page 3</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -533,6 +572,18 @@
        preserveAspectRatio="none"
        height="315.89999"
        width="225.89999" />
+    <text
+       sodipodi:linespacing="125%"
+       id="page-4"
+       y="315.71429"
+       x="-507.14285"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:60px"
+         y="315.71429"
+         x="-507.14285"
+         id="tspan4240"
+         sodipodi:role="line">Page 4</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -629,6 +680,18 @@
        y="652.05011"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/15-suginami.png"
        style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-507.14285"
+       y="315.71429"
+       id="page-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="-507.14285"
+         y="315.71429"
+         style="font-size:60px">Page 5</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -725,6 +788,18 @@
        y="652.05011"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/18-arakawa.png"
        style="display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="page-6"
+       y="315.71429"
+       x="-507.14285"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:60px"
+         y="315.71429"
+         x="-507.14285"
+         id="tspan4252"
+         sodipodi:role="line">Page 6</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -821,12 +896,24 @@
        y="652.05011"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/21-adachi.png"
        style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-507.14285"
+       y="315.71429"
+       id="page-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4258"
+         x="-507.14285"
+         y="315.71429"
+         style="font-size:60px">Page 7</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Page 8"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/22-katsushika.png"
@@ -917,5 +1004,17 @@
        y="652.05011"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-bw/23-edogawa.png"
        style="display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="page-8"
+       y="315.71429"
+       x="-507.14285"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:60px"
+         y="315.71429"
+         x="-507.14285"
+         id="tspan4264"
+         sodipodi:role="line">Page 8</tspan></text>
   </g>
 </svg>
