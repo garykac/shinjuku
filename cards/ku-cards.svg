@@ -106,10 +106,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.3792593"
-     inkscape:cx="126.67049"
-     inkscape:cy="145.48682"
+     inkscape:cx="35.675784"
+     inkscape:cy="498.53787"
      inkscape:document-units="px"
-     inkscape:current-layer="g7605"
+     inkscape:current-layer="map-border"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -13759,7 +13759,7 @@
      inkscape:groupmode="layer"
      id="map-border"
      inkscape:label="Map border"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 28.267926,-229.01265 0,170.748 189.720004,0 0,-170.748 -189.720004,0 z m 0.8432,0.8432 188.033604,0 0,169.0616 -188.033604,0 0,-169.0616 z"

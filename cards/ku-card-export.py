@@ -19,14 +19,12 @@
 # Each svg file should be structured as follows:
 # * Layer "Cut 2.5 x 3.5" (with outline of 2.5x3.5 card)
 #   * Rect id = "cut-line"
-# * Layer "Map border" (black map outline)
-#   * Rect id = "map-border-rect"
 # * Layer "Size 2.74 x 3.74 MPC" (MPC export layer)
 #   * Rect id = "mpc-bbox"
 #   * For exporting with bleed
 #
 # There are 3 groups of ward layers:
-# * "B&W" for black and white cards (used for ptint and play)
+# * "B&W" for black and white cards (used for print and play)
 # * "Clip" for cards with rounded corners (used for docs and pnp)
 # * "Bleed" for cards where the image bleeds past the card boundar (for printing)
 #
@@ -35,7 +33,6 @@
 #   Set of ward layers, where:
 #   * Layer with name given in array (e.g.: "01-chiyoda")
 #     * Item with id = layer_name + "_title" (e.g.: "01-chiyoda-title")
-#   The "map-border-rect" will automatically be shown for each ward card.
 #
 #   A group of background layers that contains the water and outlines for the
 #   other wards.
