@@ -162,19 +162,19 @@ def svg_export_id(id, svg, png):
 		])
 
 # dir: Working directory
-# basename: Target dir where exported files will be written
+# output_dirname: Target dir where exported files will be written
+# basename: Name of input SVG
 # wards: Array of base filenames
 # export_id: The svg id to export for each card
 #     Note: Layer ids cannot be exported, so this must be an object in the layer.
 # has_back: Does the file include a card back image?
 # should_clip: if true, generate clipped cards (rounded corners with transparency)
 # should_bw: if true, generate black and white (clipped) cards
-def export_png(dir, basename, wards, export_id, has_back, should_clip, should_bw):
+def export_png(dir, output_dirname, basename, wards, export_id, has_back, should_clip, should_bw):
 	
 	src = os.path.join(dir, '%s.svg' % basename)
 	background_svg = os.path.join(dir, '%s-background.svg' % basename)
 	cutline_svg = os.path.join(dir, '%s-cutline.svg' % basename)
-	border_svg = os.path.join(dir, '%s-border.svg' % basename)
 	ku_svg = os.path.join(dir, '%s-out.svg' % basename)
 
 	mod = ''
@@ -194,17 +194,13 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip, should_bw
 	if export_id == "cut-line":
 		show_layer(cutline_svg, 'cut-line')
 
-	# Create SVG file with Map Border.
-	copyfile(cutline_svg, border_svg)	
-	show_layer(border_svg, 'map-border-rect')
-
-	outdir = os.path.join(dir, basename)
+	outdir = os.path.join(dir, output_dirname)
 	if not os.path.isdir(outdir):
 		os.makedirs(outdir);
 
 	for layer in wards:
 		# Create SVG file with ku map.
-		copyfile(border_svg, ku_svg)
+		copyfile(cutline_svg, ku_svg)
 		show_layer(ku_svg, '%s-title%s' % (layer, mod))
 
 		# Export ku PNG.
@@ -217,22 +213,21 @@ def export_png(dir, basename, wards, export_id, has_back, should_clip, should_bw
 		svg_export_id(export_id, ku_svg, os.path.join(outdir, 'back.png'))
 
 	os.remove(ku_svg)
-	os.remove(border_svg)
 	os.remove(cutline_svg)
 	os.remove(background_svg)
 	
 
 # Tokyo
 # Cards for printing with MPC
-export_png('.', 'ku-cards', _wards, "mpc-bbox", True, False, False)
+export_png('.', 'ku-cards', 'ku-cards', _wards, "mpc-bbox", True, False, False)
 # Cards clipped to the  cut line
-#export_png('.', 'ku-cards', _wards, "cut-line", True, True, False)
+export_png('.', 'ku-cards-clip', 'ku-cards', _wards, "cut-line", True, True, False)
 # Cards B&W
-#export_png('.', 'ku-cards', _wards, "cut-line", True, True, True)
+export_png('.', 'ku-cards-bw', 'ku-cards', _wards, "cut-line", True, True, True)
 
 # Paris
-#export_png('paris', 'arr-cards', _arr, "cut-line", False)
-#export_png('paris', 'arr-cards', _arr, "mpc-bbox", False)
+#export_png('paris', 'arr-cards', 'arr-cards', _arr, "cut-line", False)
+#export_png('paris', 'arr-cards', 'arr-cards', _arr, "mpc-bbox", False)
 
 # London
-#export_png('london', 'london-cards', _london, "mpc-bbox", False)
+#export_png('london', 'london-cards', 'london-cards', _london, "mpc-bbox", False)
