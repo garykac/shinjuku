@@ -1,0 +1,584 @@
+### Shinjuku - Game Overview
+###
+### Script Outline Draft v2b
+###
+### Goal: Short video describing how to play the game
+###
+### Max 4 or 5 min, shorter is better
+
+# Intro
+
+Tokyo is a city of trains and Shinjuku is the busiest train station in the world.
+
+Unlike most passenger rail systems,
+	Tokyo has a dozen or so companies running competing rail lines
+	rather than having a single entity that manages rail for the entire city.
+Many of these companies are large conglomerates that own not only the rail,
+	but also the major department stores at the rail stations.
+
+Shinjuku is a game where you
+	control one of these rail and shopping conglomerates.
+
+In the game, you need to
+	build a network of track and stores
+	and then pick-up-and-deliver customers to your stores
+	while avoiding the stores of your opponents
+
+The winner is the player that gets the most points from their customers
+
+# Overview
+
+## Setup
+
+Shinjuku is played on a map of Tokyo
+	divided into it's 23 special wards
+
+Each player has some track
+	some stores
+	and some department stores
+
+To set up the game board
+	you need to place the 6 upgrade bonus tokens
+		in the lower left of the board
+and then plae the deck of cards someplace accessible to all players
+
+Each card in the deck corresponds to a single ward in Tokyo
+	like Chiyoda, Shinjuku or Minato
+
+In the upper right of the board is the Customer Queue
+this is where customers will queue up before appearing on the map
+
+To initialize the customer queue at the start of a game
+	first, draw 4 cards and place them on the numbered locations
+	and then we'll place customers on these cards
+
+There are 4 types of customers in the game
+	those that want to buy food,
+	those that want clothing,
+	and others that want books
+	or electronics
+
+Each player has stores corresponding to each of these types
+
+There are also customers marked with a "2"
+	these double-customers count as if they were 2 separate tokens in endgame scoring
+
+Note there is a different number of customers for each type
+and the distribution of single- vs double-customers varies as well
+
+The goal in the game is to gather as many customers as you can
+	you get more points if you collect sets of different customer types
+
+Going back to the customer queue
+	we start the game with 2 customers, placed one at a time
+If the queue is empty, then the customer is placed on the first card in the queue
+
+When there are customers in the queue
+	first check to see if the customer type matches any customer already in the queue
+	if there's a match place the customer with its match
+	otherwise, place it on the next available card
+
+		+-------------+
+		| Minato      | Book
+		+-------------+
+		| Shinjuku    | Food
+		+-------------+
+		| Chuo        |
+		+-------------+
+		| Taito       |
+		+-------------+
+
+Now we just need to deal 4 cards to each player
+
+Each turn in Shinjuku follows the same pattern:
+	first, one or more customers are added to the map from the queue
+	then you choose 2 different actions from teh following 5:
+		open a new store
+		upgrade a store to a department store
+		expand your rail network by adding track
+		draw cards as income
+		move customers on the map
+
+We'll walk through the first few turns of a 2-player game to see how this works
+
+*** =============
+*** TURN 1 - BLUE  @ 2:36
+*** =============
+*** BLUE STARTING CARDS: Katsushika Nerima Itabashi Setagaya
+
+We'll start with the Blue player
+	<SHOW BLUE CARDS: Katsushika, Nerima, Itabashi, Setagaya>
+
+Each turn starts with adding customers from the queue
+	we do that by taking the customer on the first card
+	and placing that customer in that location
+	in this case, we take the Book customer and place it in Minato
+
+			+-------------+
+			| Minato      | Book -> Map
+			+-------------+
+			+-------------+
+			| Shinjuku    | Food +Food
+			+-------------+
+			| Chuo        |
+			+-------------+
+			| Taito       |
+			+-------------+
+			| +Ota        |
+			+-------------+
+
+And then the Blue player takes the card into their hand
+
+The Customer queue is then refreshed
+	by sliding the exising cards over
+	and drawing a new card
+
+Because we placed one customer on the map
+	we add one customer to the queue
+	the same way we did earlier.
+
+This time we draw a Food customer
+	which matches a Food customer already in the queue
+	so we place this new customer on the same card as the existing one
+
+The Blue player can now take their 2 actions
+
+*** ACTION 1: Open Book store in Shimbashi using Minato card
+
+For the first action, Blue wants to Open a new store in Minato
+
+To open a store, you need to pay a card from your hand
+	that matches the location where you want the store
+This allows you to open a store in any empty station in that location
+
+So, using the Minato card that they just picked up
+	they open a Book store in Shimbashi
+	and discard the card that they played
+
+*** ACTION 2: Expand Track from Shimbashi to Tokyo
+
+For the second action, Blue wants to add some track
+	using the Expand action
+	This action doesn't require a card
+	and the track can be placed on any empty connection on the map
+
+*** BLUE ENDING CARDS: Katsushika Nerima Itabashi Setagaya
+
+*** ============
+*** TURN 2 - RED @ 3:43
+*** ============
+*** RED STARTING CARDS: Edogawa Shinagawa Bunkyo Chiyoda
+
+Red's turn begins with adding customers to the map
+
+The 2 Food customers at the head of the queue are placed in Shinjuku
+	and the queue is refreshed
+
+			+-------------+
+			| Shinjuku    | Food + Food -> Map
+			+-------------+
+			+-------------+
+			| Chuo        | +Elect2
+			+-------------+
+			| Taito       | +Food
+			+-------------+
+			| Ota         |
+			+-------------+
+			| Nakano      |
+			+-------------+
+
+Because 2 customers were placed on the map
+	2 new customers must be added to the queue
+
+These are added one at a time
+	and any duplicates are placed with their match
+
+*** @ 4:00
+*** ACTION 1: Open Food store in Shinjuku station using Shinjuku card
+
+For Red's first action, they decide to open a Food store in Shinjuku station
+	using the Shinjuku card they just received
+
+*** ACTION 2: Expand track from Tokyo to Yotsuya - double to Shinjuku
+
+Red then decides to add some track
+	placing it between Yotsuya and Tokyo stations
+
+*** @ 4:11
+
+When placing track
+	you may optionally pay a card to lay a second segment of track
+	the card spent needs to match one of the stations connected by the first track segment
+
+*** @ 4:19
+
+Red spends a Chiyoda card, which matches the Tokyo endpoint
+
+*** @ 4:23
+
+When placing a second segment of track
+	it must extend from the first segment placed
+	but you can extend from either side
+	regardless of which side you matched with your card
+
+*** @ 4:31
+
+RED ENDING CARDS: Edogawa Shinagawa Bunkyo
+
+*** =============
+*** TURN 3 - BLUE @ 4:33
+*** =============
+*** BLUE STARTING CARDS: Katsushika Nerima Itabashi Setagaya
+
+On Blue's turn
+	a new customer is added to Chuo
+
+			+-------------+
+			| Chuo        | Elect2 -> Map
+			+-------------+
+			+-------------+
+			| Taito       | Food
+			+-------------+
+			| Ota         | +Clothing
+			+-------------+
+			| Nakano      |
+			+-------------+
+			| Chuo        |
+			+-------------+		
+
+And the queue is refreshed with another customer
+
+There's a Book customer in Minato
+	and Blue has a Book store there
+	so Blue would really like to get that customer
+
+*** @ 4:44
+*** ACTION 1: Move Book customer in Minato using 3-card wild
+
+Blue decides to take the Move action
+	But the Move action requires that you play a card
+	that matches the location where you are moving the customers
+
+Blue needs a Minato card, but doesn't have one
+
+Fortunately, there's a way that Blue can create a match for Minato
+
+By spending 3 cards from their hand
+	Blue can create a Wildcard that can be used to match any location
+
+*** Wildcard: Katsushika,Nerima,Itabashi
+
+So Blue spends 3 cards from their hand
+	and Moves the customers in Minato
+	
+When moving customers
+	you first take all the customers in that location
+		(you can't choose a subset)
+	and then you choose which station you would like to start from
+
+There are 4 stations to start from in Minato
+	but only one of them is relevant at this point
+	so Blue starts in Shimbashi
+	where they (conveniently) have a Book store
+
+The customer matches the store,
+	so Blue takes the Book customer
+This customer will be used later in endgame scoring
+
+*** @ 5:34
+*** ACTION 2: Income
+
+For Blue's second action, they decide to Draw Income
+This allows them to draw their hand back up to 4 cards
+	or to draw an additional card if they already have 4 or more cards
+
+*** Draw Chiyoda, Minato
+
+*** BLUE ENDING CARDS: Setagaya Chuo Chiyoda Minato
+
+*** ============
+*** TURN 4 - RED @ 5:44
+*** ============
+*** RED STARTING CARDS: Edogawa Shinagawa Bunkyo
+
+On Red's turn
+	a new Food customer is added to Taito
+
+			+-------------+
+			| Taito       | Food -> Map
+			+-------------+
+			+-------------+
+			| Ota         | Clothing
+			+-------------+
+			| Nakano      | +Book2
+			+-------------+
+			| Chuo        |
+			+-------------+
+			| Shibuya     |
+			+-------------+
+
+	and a double-book customer is added to the queue
+
+*** @ 5:50
+*** ACTION 1: Move Food customers in Shinjuku
+
+Red would like to move the customers in Shinjuku
+	But they don't have a Shinjuku card
+	so they also need to spend 3 cards to make a wildcard
+
+*** Wildcard: Edogawa Shinagawa Bunkyo
+
+This allows them to pick up the 2 Food customers
+Note that because there is more than 1 customer being Moved
+	the customers must move across at least one segment of track
+
+So Red picks up the Food customers
+	and starts them in Shinjuku station
+
+Even though both customers match the store
+	Each store can only match one customer at a time
+	so Red gives one of the customers to the store
+
+Since the remaining customer must travel across at least one segment of track
+	Red moves them over to Yotsuya
+
+At this point, Red can choose to either
+	stop here
+	or continue along more track
+Red decides to stop here and drop the customer back in Shinjuku
+
+In this case, the remaining customer is dropped back in the same location
+	where they started
+But usually when they cross a track they will end up in a neighboring location
+
+*** @ 6:40
+*** ACTION 2: Open Food store in Taito
+
+For Red's second action, they spend their last card
+	to open a Food store in Taito
+
+*** RED ENDING CARDS: <none>
+
+*** =============
+*** TURN 5 - BLUE @ 6:45
+*** =============
+*** BLUE STARTING CARDS: Setagaya Chuo Chiyoda Minato
+
+The new customer that arrivers on Blue's turn wants Clothing and is placed in Ota
+
+			+-------------+
+			| Ota         | Clothing -> Map
+			+-------------+
+			+-------------+
+			| Nakano      | Book2 +Book
+			+-------------+
+			| Chuo        |
+			+-------------+
+			| Shibuya     |
+			+-------------+
+			| Nakano      |
+			+-------------+
+
+The customer that is drawn into the queue is a Book customer
+	so it is placed on the card with the existing Book customer
+
+*** @ 6:54
+*** ACTION 1: Open Food store in Chiyoda
+
+Blue would like to get that remaing Food customer in Shinjuku
+
+So Blue uses a Chiyoda card to build a Food store
+
+*** @ 7:01
+*** ACTION 2: Move Food from Yotsuya -> Tokyo (Minato as wild)
+
+To move the customers
+	Blue could spend 3 cards to make a wildcard
+But there is another way to create wildcards
+
+Every location on the map where you have a store (or department store)
+	is a wildcard for you
+
+Blue currently has stores in Chiyoda and Minato
+	which means that Blue can use the Minato card as a wildcard
+	to match any location
+
+So Blue spends the Minato card
+	to Move the customers in Shinjuku
+
+Blue chooses to start from Yotsuya to avoid the Red Food store.
+	and follows the Red track over to the Blue Food store in Chiyoda
+
+This gives Blue the Food customer
+
+Recall that Blue made use of Red's track during this Move
+	whenever you use another player's track during your Move action
+	that player may immediately draw Income
+	Note that only 1 Income draw is triggered per player
+		regardless of how many segments of track were used during the Move.
+
+*** BLUE ENDING CARDS: Setagaya Chuo Ota
+
+*** ============
+*** TURN 6 - RED @ 7:45
+*** ============
+*** RED STARTING CARDS: Suginami Koto Meguro Nerima
+
+Even though Red ended last turn with no cards
+	because of the bonus Income from Blue's Move,
+	Red now has a full hand of 4 cards
+
+Red takes the 2 Book customers from the queue
+	places them in Nakano
+	
+			+-------------+
+			| Nakano      | Book2 + Book -> Map
+			+-------------+
+			+-------------+
+			| Chuo        | +Clothing
+			+-------------+
+			| Shibuya     | +Elect2
+			+-------------+
+			| Nakano      |
+			+-------------+
+			| Shinagawa   |
+			+-------------+
+
+	and draws 2 replacement customers
+
+*** @ 7:59
+*** ACTION 1: Upgrade Food store in Shinjuku to a department store
+
+Red's first action is to upgrade their Food store in Shinjuku
+	to a department store
+	
+Note that only certain stations on the map
+	can be upgraded to a department.
+	These stations are marked with a Sakura icon.
+	Unsurprisingly, Shinjuku station is one of those marked locations
+
+Since Red doesn't have a Shinjuku card,
+	they will once again need to spend 3 cards to make a wildcard
+
+When upgrading to a department store
+	You need to pay a card that matches the location
+	but you also need to pay a customer
+		that matches the store type that you're upgrading
+
+So in this case,
+	Red needs to give up a Food customer that they've earned previously
+
+The spent customer is added to the Customer Queue
+	permanently increasing the number of customers in the queue
+
+The department store token replaces the store token on the map
+	and you take the store back so that you can use it again
+
+*** @ 8:43
+
+When you upgrade a store to a department store
+	you should the next available Upgrade Bonus token
+	these tokens are used during endgame scoring
+
+*** @ 8:50
+*** ACTION 2:
+
+Red's second action is to add some more track extending out to Nakano
+
+	
+*** =============
+*** TURN 7 - BLUE @ 8:55 
+*** =============
+*** BLUE STARTING CARDS: Setagaya Chuo Ota
+
+At the start of Blue's turn
+	another customer is added to Chuo
+	adding to the customer already there
+	
+			+-------------+
+			| Chuo        | Clothing -> Map
+			+-------------+
+			+-------------+
+			| Shibuya     | Elect2
+			+-------------+
+			| Nakano      | Food (from upgrade)
+			+-------------+
+			| Shinagawa   | +Book
+			+-------------+
+			| Suginami    |
+			+-------------+
+
+Blue's hand now contains 2 Chuo cards
+	and Blue can use them to make a new wildcard
+
+*** @ 9:06
+ACTION 1: Open Clothing store in Chuo
+
+Using one of the two Chuo cards
+	Blue can open a Clothing store
+
+Since every location where you have a store is wild for you
+	the remaining Chuo card is now a wildcard
+
+*** @ 9:15
+ACTION 2:
+
+The second Chuo card can now be used
+	to pick up the customers in Nakano
+
+The Move starts in Nakano station
+	and crosses the red track over to Red's department store in Shinjuku
+	
+A department store can match one of any kind of customer
+	so Red will definitely get one of these customers
+	but Blue gets to choose which one
+
+Blue chooses to give Red the single Book customer
+
+And then continues down the track over to Chiyoda
+	and down to Minato, passing by the Food store
+
+The move ends at the Blue Book store
+
+Both Book customers are claimed
+	Blue gets the double Book customer
+	while Red gets the regular Book customer
+
+Also, Blue made use of at least one Red track
+	so Red also gets to draw Income
+
+Endgame @ 9:53
+=======
+
+The endgame is triggered when the last customer is placed on the map
+
+Every player takes one last turn and then the customers are scored.
+
+Scoring @ 10:01
+=======
+
+Scoring is based on set collection:
+
+For every set of 4 customers, you get 10 points
+For every set of 3, 6 points
+Every set of 2 is 3 points
+And every remaining customer is worth 1 point.
+
+Double customers count as if they were 2 separate tokens of that type.
+
+*** @ 10:16
+
+For each of the Upgrade Bonus tokens you earned:
+	you may choose what type you want that token to be
+	and then it is worth 1 of that type for each star on the Bonus token
+
+*** @ 10:24
+
+Winner is the player with the most points
+
+Outro
+=====
+
+For more information
+you can find links on BoardGameGeek
+or on the Shinjuku Github site.

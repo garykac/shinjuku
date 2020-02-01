@@ -1,0 +1,296 @@
+Shinjuku - Game Overview
+
+Script Outline Draft v2a
+
+Goal: Short video describing how to play the game
+
+Max 4 or 5 min, shorter is better
+
+# Intro
+
+* Shinjuku is a game where you
+	* control one of Tokyo's rail and shopping conglomerates.
+* In the game, you need to
+	* build a network of track and stores
+	* and then pick-up-and-deliver customers to your stores
+	* while avoiding the stores of your opponents
+
+# Overview
+
+## The Map
+
+* The game is played on a map of central Tokyo
+	* which is divided into 23 "special wards"
+	* like Shinjuku, Chiyoda or Minato
+* Each of these wards contains one or more stations
+* And these stations have connections to other stations
+	* where track can be built
+
+* Some of the stations are marked with a Sakura
+	* to identify them as locations
+	* that can be upgraded to a department store
+
+## The Cards
+
+* The game also has a deck of 72 cards
+	* Each card identifies a single ward on the map
+
+* there are multiple copies of each card in the deck
+	* Wards with higher population (like Edogawa) have a higher card count
+	* than less populated wards (like Sumida)
+
+## Customers
+
+* There are 4 types of customers in Shinjuku:
+	* Customers that want to buy food
+	* Those that want to buy clothing
+	* And others who want books
+	* or electronics
+
+* Some of the customers are marked with a "2"
+	* to indicate that they count as 2 customers in endgame scoring
+
+* Each customer type has a different number of tokens in the game
+* And they each have different distributions of single- and double- customers.
+
+* Each player has stores available that can provide the goods that these customers want
+* And also department stores which can provide any of these goods.
+
+## Gameplay
+
+* In Shinjuku, each turn follows the same pattern:
+	* First, add new customers to the map from the Customer Queue on the side of the map
+	* And then take 2 different player actions
+
+* There are 5 actions to choose from, you can:
+	* Open a new store,
+	* Upgrade an existing store to a department store,
+	* Expand your rail connections on the map,
+	* draw more cards into your hand as Income,
+	* or Move customers around on the map
+
+We'll discuss each of these actions in more detail
+
+# Adding Customers to the Map
+
+* Each turn starts with customers being placed on the map
+
+* These customers are taken from the customer queue
+	* which is located in the upper right of the game board
+
+* At the start of the game,
+	* 4 cards are put in the queue
+	* along with 2 customers
+
+* The game starts with only 2 customers in the queue
+* But as the game progresses, the number of customers waiting in the queue will increase
+
+* When you're adding a new customer
+	* If it matches a customer already in the queue,
+		* then place the new customer on the same card the matching customer
+	* Otherwise, place the customer on the next available card
+
+* At the beginning of your turn,
+	* take the customers at the head of the queue
+	* and place them in the location identified by the card
+* after the customers are placed.
+	* take the card into your hand
+
+* and refresh the queue by
+	* sliding the cards over and drawing a new card
+	* and then replacing the customers that were just placed on the map
+* in this case, since we placed 3 customers on the map
+	* we need to add 3 new customers to the queue
+
+# Player Actions
+
+* Once the new customers are placed on the map
+* You takes 2 actions
+
+## Open a new store
+
+* pay card from your hand that matches the location where you want to build
+* place one of your store markers on a station
+* stores can only be opened in stations that don't already have a store
+
+## Upgrade to department store
+
+* if you have built a store on one of the specially marked stations
+	* you can upgrade it to a department store
+* you can only perform this action after you have acquired some customers
+* To upgrade, simply
+	* pay a card that matches the store's location
+	* and a matching customer that you earned previously
+* the customer is added to the customer queue
+	* which permanently increases the size of the queue
+	* so that the game accelerates as department stores are built
+* After upgrading,
+	* claim the next Upgrade Bonus token
+	* which will be used when scoring
+
+## Expand track
+
+Adding a new segment of track to the map doesn't cost a card
+and you can place the track on any unused connection
+
+After placing a track segment, you may optionally
+	pay a card that matches either endpoint
+	to place a second segment of track that extends the first one.
+
+## Draw Income
+
+The income action allows you to draw more cards into your hand
+When you take this action:
+	draw your hand back up to 4 cards
+	or draw a single card if you already have 4 or more
+
+## Move customers
+
+* The Move action is how you get customers on the map to your stores
+* The easiest way to explain the Move action is to demonstrate
+* So let's start with a sample mid-game setup:
+	* Here, the blue player has:
+		* A Clothing store in Shimbashi station
+		* A Book store in Meidai Mae station
+		* And some track
+	* The Red player has:
+		* A Food store in Yotsuya station
+		* A department store in Tokyo station
+		* And some track
+	* And finally, there are 4 customers in Minato:
+		* A customer that wants Food
+		* Two that want Clothing
+		* And another that wants Books
+
+An important thing to note about customer placement
+	is that the customers are in Minato,
+	but they are not associated with any particular station
+
+
+<img src="../../images/video-setup.png"/>
+
+## Blue Example
+
+* Let's start by assuming it's the Blue player's turn
+* Blue wants to move the customers in Minato to the Blue stores
+* Note that when you Move, you must take *all* of the customers in that location
+	* You can't select a subset
+	* So, Blue takes all the customers in Minato
+* And selects which station to start from
+	* The obvious choice is Shimbashi station
+* At each station visited, you need to check to see if there is a store there that matches any customers
+* In Shimbashi, the Blue Clothing store matches the 2 Clothing customers
+	* But each store can only match one customer at a time
+	* So Blue can choose either the single or double Clothing customer
+* At this point, Blue *could* choose to stop the Move action here
+	* and end their action with one Clothing customer 
+* But Blue really wants to match the Book customer
+	* so Blue continues
+	* even though it means that they must pass through some stations with Red stores
+* Blue takes the remaining 3 customers and moves to Tokyo station
+	* Red has a dept store here
+	* A dept store matches all customers, but it can still only accept 1 of them
+	* Since Blue is performing Move action, Blue gets to choose which one
+	* Blue chooses to give the Food customer to the Red dept store.
+* Continuing, Blue moves the remaining 2 customers to Yotsuya station
+	* where red has an Food store
+	* sadly, there are no more Food customers, so no customers match
+* Blue continues on to Shinjuku station
+	* There are no stores here, so nothing matches
+* And then continues onward to Meidai Mae station
+	* Where the Book customer matches the Blue Book store
+* Here, Blue ends the Move action
+	* And the remaining Clothing customer is added to Setagaya
+* Overall:
+	* Blue ends up with 2 customers
+	* And Red gets 1 customer
+* As part of the Move, note that Blue made use of some Red track,
+	* Whenever you use an opponent's track, they gain a free Income action
+	* So Red gets an Income because of Blue's move
+
+## Red Player
+
+* Let's reset the customers and see how this might have played out if it was Red's turn instead of Blue's
+* Red could also choose to start at Shimbashi station
+	* giving Blue a Clothing customer
+* And then continue to the dept store in Tokyo station
+	* Here, Red could take the Clothing customer
+* And then continue onward to Yotsuya station
+	* And take the Food customer
+* Ending here:
+	* The remaining Clothing customer is placed in Shinjuku.
+	* Red ends up with 2 customers
+	* While Blue gets 1 customer
+	* Here, Red made use of Blue track, so Blue would get to draw card income
+
+* But remember that each player takes 2 actions on each turn
+	* So Red could use their first action to build a rail connection between Roppongi and Yotsuya stations
+	* This allows Red to start their Move in Roppongi station
+		* Avoiding the Blue Clothing store
+	* Continuing on to
+		* Yotsuya - Red would take a Food customer
+	* And then on to Tokyo - Red would take a Clothing customer
+	* In this way, Red gets 2 customers and gives Blue nothing.
+
+# Wildcards
+
+There is a limited number of each card in the deck
+	and this can make it hard to get the exact card you want.
+
+If would be nice if there were wildcards that you could play as if they were any card
+
+While there are no explicit wildcards in the deck.
+	there are 2 different ways that you can create wildcards
+
+The first way is to:
+	Spend any 3 cards from your hand as if they were a single wildcard
+
+Another way to get wildcards is through the stores that you build:
+	Cards become wildcards for you once you have built a store in that location.
+	For example:
+		build a store in Akihabara station, and now the Chiyoda card is wild for you.
+
+So as the game progresses
+	it becomes more likely that you will draw a wildcard
+
+# Scoring
+
+* The endgame is triggered when the last set of customers is placed on the map from the queue.
+* There is a Final Round where everyone takes one last turn
+	* and then the customers are scored.
+
+* Endgame scoring is based entirely on the customers that you acquire during the game
+
+* Scoring is basic set collection:
+	* 10 points for every set of 4 different customers
+	* 6 points for every set of 3
+	* 3 points for 2
+	* and 1 point for every remaining customer
+* Double customers count as if they were 2 separate tokens
+
+* Each Upgrade Bonus token can be chosen to be any customer type
+	* they count as single- double- or triple- of that type.
+
+* Winner is the player with the most points.
+
+# Outro
+
+* owari
+終　おわり
+
+# Unused
+
+* xxx
+	* The game is set in modern Tokyo
+		* which is home to many of the busiest rail stations in the world
+	* And is comprised of dozens of private and public operators
+		* Many of whom (conveniently) also own department stores or other popular destinations in the city
+
+* xxx
+	* These customers are important because they become your victory points at the end of the game.
+	* As a player, your job it to build your own rail and shopping empire
+		* and acquire more customers than the other players
+
+* You start with 4 cards in your hand
+* Set of tokens for stores, department stores and track
+

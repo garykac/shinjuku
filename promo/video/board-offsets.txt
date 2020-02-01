@@ -1,0 +1,89 @@
+Shinjuku Video
+
+Component scales
+	Cards
+		19% when on board
+		30% when in players hand
+		35% when explaining
+	Customers:
+		4% on map
+		12% when highlighted
+	Stores:
+		4% on map
+		12% when highlighted
+	Track:
+		3.5% on map
+		8% when highlighted during Move
+		12% when highlighted
+	Dept Stores
+		8% on map
+		12% hilighted
+
+Deck of Cards (19%)
+	top card: 406,-396
+	...
+	bottom: 420, -410
+
+Customer Queue
+	Cards:
+		(1) 597,439  (y-offset 173)
+		(2) 597,266
+		(3) 597,93
+		(4) 597,-80
+	Customers
+		start 12% @ 1100,450 (offscreen)
+		move into 800,450
+		pause
+		move onto card
+		scale down to 4%
+
+Player hands
+	Blue player
+		x,y -700,-600
+		scale 30%
+		anchor 0,-600
+		rotate 0
+		rotate -10 10  (top ... bottom)
+		rotate -20 0 20
+		rotate -30 -10 10 30
+		rotate -30 -15 0 15 30
+
+	Red player
+		700,-600
+
+	Partial offscreen @ x,-750
+	Fully offscreen @ x,-900
+
+Player track
+	Blue
+		x = -920,-900,-880,-860,  -820,-800,-780,-760
+		top row y = -380
+		bottom row y = -470
+	Red
+		x = 920,900,880,860,  820,800,780,760
+
+Player stores
+	y:
+		Food = -115
+		Clothing = -170
+		Books = -225
+		Electronics = -280
+	x:
+		Blue -870, -810
+		Red 870 810
+
+Dept stores
+	y = -20
+	x:
+		Blue = -770, -840, -910
+		Red = 770, 840, 910
+
+Customers Acquired
+	y = 75
+	x:
+		Blue -900,-840
+		Red 900
+
+Upgrade Tokens
+	-680,-500
+	
