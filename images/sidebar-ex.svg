@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="358.31097"
-     inkscape:cy="884.10482"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="580.86446"
+     inkscape:cy="924.61938"
      inkscape:document-units="px"
-     inkscape:current-layer="g4285"
+     inkscape:current-layer="g4207"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
@@ -56,18 +56,6 @@
      id="layer1"
      transform="translate(0,-62.362205)"
      style="display:inline">
-    <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/map/sidebar.png"
-       y="-923.02148"
-       x="142.59793"
-       id="image22178"
-       xlink:href="file:///Users/garykac/projects/github/shinjuku/map/sidebar.png"
-       preserveAspectRatio="none"
-       height="1068.9"
-       width="368.10001"
-       transform="matrix(0,1,-1,0,0,0)"
-       inkscape:export-xdpi="150.12224"
-       inkscape:export-ydpi="150.12224" />
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
        y="1203.4099"
@@ -264,6 +252,17 @@
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara25239">2</flowPara></flowRoot>      </g>
     </g>
+    <image
+       sodipodi:absref="/Users/garykac/projects/github/shinjuku/images/sidebar.png"
+       xlink:href="sidebar.png"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       y="142.74794"
+       x="-146.0285"
+       id="image4411-8"
+       preserveAspectRatio="none"
+       height="367.79999"
+       width="1069.2" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -273,7 +272,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/22-katsushika.png"
        y="109.69104"
-       x="658.71655"
+       x="662.71655"
        id="image22727"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/22-katsushika.png"
        preserveAspectRatio="none"
@@ -342,7 +341,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        y="109.69103"
-       x="398.6507"
+       x="402.6507"
        id="image22321"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        preserveAspectRatio="none"
@@ -409,7 +408,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        y="109.69103"
-       x="138.5849"
+       x="142.5849"
        id="image22617"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        preserveAspectRatio="none"
@@ -493,7 +492,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        y="109.69103"
-       x="-121.48093"
+       x="-117.48093"
        id="image22539"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        preserveAspectRatio="none"
@@ -501,7 +500,7 @@
        width="225.89999" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="2-place customer"
      id="g4207"
      inkscape:groupmode="layer">
@@ -582,7 +581,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        id="image4229"
-       x="398.6507"
+       x="402.6507"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png" />
     <g
@@ -649,7 +648,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        id="image4253"
-       x="138.5849"
+       x="142.5849"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png" />
     <g
@@ -733,7 +732,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        id="image4283"
-       x="-121.48093"
+       x="-117.48093"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png" />
   </g>
@@ -741,11 +740,11 @@
      inkscape:groupmode="layer"
      id="g4285"
      inkscape:label="3-refesh"
-     style="display:inline">
+     style="display:none">
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        y="109.69103"
-       x="658.71655"
+       x="662.71655"
        id="image4307"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        preserveAspectRatio="none"
@@ -812,7 +811,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        y="109.69103"
-       x="398.6507"
+       x="402.6507"
        id="image4331"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        preserveAspectRatio="none"
@@ -896,7 +895,7 @@
     <image
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        y="109.69103"
-       x="138.5849"
+       x="142.5849"
        id="image4361"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        preserveAspectRatio="none"
@@ -937,7 +936,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="3-add customers"
+     inkscape:label="4-add customers"
      id="g4347"
      inkscape:groupmode="layer">
     <image
@@ -946,7 +945,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png"
        id="image4349"
-       x="658.71655"
+       x="662.71655"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/20-nerima.png" />
     <g
@@ -1013,7 +1012,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
        id="image4373"
-       x="398.6507"
+       x="402.6507"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png" />
     <g
@@ -1097,7 +1096,7 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png"
        id="image4403"
-       x="138.5849"
+       x="142.5849"
        y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/12-setagaya.png" />
     <g
@@ -1126,11 +1125,10 @@
        preserveAspectRatio="none"
        xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/03-minato.png"
        id="image4411"
-       x="-121.48093"
-       y="172.05324"
+       x="-117.48093"
+       y="109.69103"
        sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/03-minato.png"
-       style="display:inline"
-       transform="translate(0,-62.362205)" />
+       style="display:inline" />
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -1195,7 +1193,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/customer-types-x2.png"
        id="g25133-7"
-       transform="translate(-89.287876,-637.96601)">
+       transform="translate(-89.28788,-643.96601)">
       <g
          inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/clothing.png"
          id="use25135-8"
@@ -1249,5 +1247,62 @@
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara25149-2">2</flowPara></flowRoot>      </g>
     </g>
-  </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ed0500;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4414"
+       cx="306.72781"
+       cy="174.51826"
+       r="29.625519" />
+    <circle
+       r="29.625519"
+       cy="175.42857"
+       cx="32.857143"
+       id="circle4416"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ed0500;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="29.625519"
+       cy="257.74786"
+       cx="749.96106"
+       id="circle4418"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ed0500;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4420"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed0500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(21.625893,22.008992)"><flowRegion
+         id="flowRegion4422"><rect
+           id="rect4424"
+           width="59.598999"
+           height="49.497475"
+           x="-37.375645"
+           y="123.28912"
+           style="fill:#ed0500;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4426"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#ed0500;fill-opacity:1">3</flowPara></flowRoot>    <flowRoot
+       transform="translate(296.70031,20.783683)"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed0500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4428"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4430"><rect
+           y="123.28912"
+           x="-37.375645"
+           height="49.497475"
+           width="59.598999"
+           id="rect4432"
+           style="fill:#ed0500;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#ed0500;fill-opacity:1"
+         id="flowPara4434">1</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4436"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed0500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(738.71856,104.26078)"><flowRegion
+         id="flowRegion4438"><rect
+           id="rect4440"
+           width="59.598999"
+           height="49.497475"
+           x="-37.375645"
+           y="123.28912"
+           style="fill:#ed0500;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4442"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#ed0500;fill-opacity:1">2</flowPara></flowRoot>  </g>
 </svg>
