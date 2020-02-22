@@ -27,10 +27,12 @@ Double Check:
 
 Export the following map images at 300dpi:
 
-* Layer "Border 18x24" export as `tokyo-map-border-300dpi.png` (7200x5400 pixels)
-* [optional] Layer "View 18x24" as `tokyo-map-300dpi.png` (7200x5400 pixels).
-  Hide layer after selecting rect.
-  Used only if sending to be printed (PrintPlayGames).
+* With Border
+   * Layer "Border 18x24" export @300dpi as `tokyo-map-border-300dpi.png` (7200x5400 pixels)
+* [optional] Borderless
+   * Layer "Border 18x24" export @300dpi as `tokyo-map-300dpi.png` (7200x5400 pixels).
+   * Hide Layer "Border 18x24" after selecting rect
+   * Used only if sending to be printed (PrintPlayGames).
 
 ### Generate compact images
 
@@ -67,7 +69,7 @@ In Inkscape, open `map/tokyo-map.svg`:
 
 In Affinity Photo, open `tmp`:
 
-* Export 3600x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-color.png`
+* Export 3600x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-color.jpg`
 
 In Inkscape, open `map/tokyo-map.svg` and export the 6 map PNGs that comprise the map
 
