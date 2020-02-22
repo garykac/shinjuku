@@ -5,7 +5,7 @@
 #
 # Before running this script, make sure the SVG file has layers hidden as follows:
 #
-# * All top level layers should be HIDDEN *except* for the three layer grouls:
+# * All top level layers should be HIDDEN *except* for the three layer groups:
 #   "B&W", "Clip" and "Bleed"
 # * Within the "B&W", "Clip" and "Bleed" groups, all layers should be HIDDEN,
 #   including the "Background" layer group.
