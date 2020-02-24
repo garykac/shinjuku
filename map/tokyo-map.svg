@@ -3217,10 +3217,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="1758.7947"
-     inkscape:cy="1602.8606"
+     inkscape:cx="666.31471"
+     inkscape:cy="1037.1752"
      inkscape:document-units="px"
-     inkscape:current-layer="layer99"
+     inkscape:current-layer="layer98"
      showgrid="false"
      units="in"
      inkscape:window-width="1635"
@@ -17633,7 +17633,7 @@
        inkscape:groupmode="layer"
        id="layer99"
        inkscape:label="Overlay: Sidebar"
-       style="display:inline">
+       style="display:none">
       <rect
          style="opacity:1;fill:#b5b5b5;fill-opacity:0.57819902;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect21548"
@@ -17643,6 +17643,22 @@
          y="93.414001"
          inkscape:export-xdpi="150.02806"
          inkscape:export-ydpi="150.02806" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer98"
+       inkscape:label="Overlay: Shinjuku Zoom"
+       style="display:none">
+      <rect
+         style="opacity:1;fill:#b8d1e3;fill-opacity:0.59090905;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8634"
+         width="295.57062"
+         height="295.57062"
+         x="391.03003"
+         y="581.65509"
+         rx="3.833045e-14"
+         inkscape:export-xdpi="150.11638"
+         inkscape:export-ydpi="150.11638" />
     </g>
   </g>
   <g
