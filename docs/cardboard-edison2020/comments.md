@@ -2,10 +2,10 @@
 
 Each game was judged on four criteria, on a scale of 1 to 7. Here are the average scores for Shinjuku:
 
-Engagement: 5.4
-Originality of theme: 5.4
-Originality of mechanics: 5.2
-Overall score: 5.4
+* Engagement: 5.4
+* Originality of theme: 5.4
+* Originality of mechanics: 5.2
+* Overall score: 5.4
 
 Here's the full feedback from the judges:
 
