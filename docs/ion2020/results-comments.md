@@ -1,4 +1,5 @@
 ## Ion Award 2020 Ratings and Comments - Shinjuku
+
 | Rate this game | What did you like about this game? | What did you dislike about this game? |
 | --- | --- | --- |
 |  9  | Looks like a great medium-light strategy game | |
