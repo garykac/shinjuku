@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="477.26024"
-     inkscape:cy="701.4741"
+     inkscape:zoom="1.4"
+     inkscape:cx="360.70057"
+     inkscape:cy="759.92087"
      inkscape:document-units="px"
      inkscape:current-layer="layer99"
      showgrid="false"
@@ -62,6 +62,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="White Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4151"
+       width="738.57141"
+       height="691.42859"
+       x="17.142857"
+       y="14.285722"
+       rx="3.6943301e-14" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -164,7 +177,7 @@
      inkscape:label="Select"
      style="display:none">
     <rect
-       style="opacity:1;fill:#67ddc9;fill-opacity:0.52229297;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.85;fill:#67ddc9;fill-opacity:0.52229297;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8819"
        width="475.60239"
        height="279.582"

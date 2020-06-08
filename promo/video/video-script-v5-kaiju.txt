@@ -1,0 +1,47 @@
+### Shinjuku - Kaiju Expansion
+###
+
+# Intro
+
+The Kaiju is 
+
+
+At the start of the game, the Kaiju starts in Tokyo Bay
+
+During your turn, you have an additional action available to you:
+	The Kaiju Action
+	
+This action allows you to move the Kaiju
+	from its current location
+	into a neighboring location
+
+To move the Kaiju,
+	you need to play a card that matches its current location
+
+Since there is no Tokyo Bay card in the game
+	the very first time you move the Kaiju
+	you need to use a wildcard to match its location
+
+When the Kaiju moves into a new location,
+	the following things happen
+
+First, any customers there are scared into a neighboring location
+	You choose one of the neighboring location
+	and then all the customers go as a group to that location
+
+Second, while the Kaiju is there
+	no one can Build, Upgrade or Move through any of the stations in that location
+	you also cannot build any track that connects to any of those stations
+	
+## Adding Customers on top of the Kaiju
+
+When new customers are being added to the board
+If they are going to be placed in the location with the Kaiju
+	then the player first moves the Kaiju before the customers are placed
+
+
+
+=====
+
+Move back into Tokyo Bay? yes
+

@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="293.69668"
-     inkscape:cy="673.52805"
+     inkscape:zoom="0.7"
+     inkscape:cx="513.97502"
+     inkscape:cy="570.5741"
      inkscape:document-units="px"
      inkscape:current-layer="layer100"
      showgrid="false"
@@ -50,6 +50,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer102"
+     inkscape:label="White Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9631"
+       width="691.42859"
+       height="604.28571"
+       x="42.857143"
+       y="41.42857"
+       rx="3.97678e-14" />
+  </g>
   <g
      inkscape:label="Card"
      inkscape:groupmode="layer"
