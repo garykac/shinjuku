@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="1205.2704"
-     inkscape:cy="195.12044"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="571.03076"
+     inkscape:cy="-11.846502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="3440"
+     inkscape:window-height="1395"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -220,7 +220,7 @@
          y="0"
          xlink:href="#g4681"
          id="use5362"
-         transform="translate(760,-46.0401)"
+         transform="translate(760,-26.0401)"
          width="100%"
          height="100%" />
       <use
@@ -454,7 +454,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(640,13.9599)"
+         transform="translate(640,33.9599)"
          id="use4776"
          xlink:href="#g4708"
          y="0"
@@ -466,7 +466,7 @@
          y="0"
          xlink:href="#g4708"
          id="use4774"
-         transform="translate(620,13.9599)"
+         transform="translate(620,33.9599)"
          width="100%"
          height="100%" />
       <use
@@ -474,7 +474,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(600,13.9599)"
+         transform="translate(600,33.9599)"
          id="use4772"
          xlink:href="#g4708"
          y="0"
@@ -484,7 +484,7 @@
          y="0"
          xlink:href="#g4708"
          id="use5379"
-         transform="translate(580,13.9599)"
+         transform="translate(580,33.9599)"
          width="100%"
          height="100%"
          inkscape:export-xdpi="300"
@@ -1098,7 +1098,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(380,133.95991)"
+         transform="translate(380,153.95991)"
          id="use5061"
          xlink:href="#g4669"
          y="0"
@@ -1108,7 +1108,7 @@
          y="0"
          xlink:href="#g4669"
          id="use5059"
-         transform="translate(360,133.95991)"
+         transform="translate(360,153.95991)"
          width="100%"
          height="100%"
          inkscape:export-xdpi="300"
@@ -1118,7 +1118,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(340,133.95991)"
+         transform="translate(340,153.95991)"
          id="use5057"
          xlink:href="#g4669"
          y="0"
@@ -1128,7 +1128,7 @@
          y="0"
          xlink:href="#g4669"
          id="use5055"
-         transform="translate(320,133.95991)"
+         transform="translate(320,153.95991)"
          width="100%"
          height="100%"
          inkscape:export-xdpi="300"
@@ -1138,7 +1138,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(300,133.95991)"
+         transform="translate(300,153.95991)"
          id="use4690"
          xlink:href="#g4669"
          y="0"
@@ -1150,7 +1150,7 @@
          y="0"
          xlink:href="#g4669"
          id="use4701"
-         transform="translate(280,133.95991)"
+         transform="translate(280,153.95991)"
          width="100%"
          height="100%" />
       <use
@@ -1158,7 +1158,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(260,133.95991)"
+         transform="translate(260,153.95991)"
          id="use4703"
          xlink:href="#g4669"
          y="0"
@@ -1168,7 +1168,7 @@
          y="0"
          xlink:href="#g4669"
          id="use5049"
-         transform="translate(240,133.95991)"
+         transform="translate(240,153.95991)"
          width="100%"
          height="100%"
          inkscape:export-xdpi="300"
@@ -1178,7 +1178,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(220,133.95991)"
+         transform="translate(220,153.95991)"
          id="use5051"
          xlink:href="#g4669"
          y="0"
@@ -1188,7 +1188,7 @@
          y="0"
          xlink:href="#g4669"
          id="use5053"
-         transform="translate(200,133.95991)"
+         transform="translate(200,153.95991)"
          width="100%"
          height="100%"
          inkscape:export-xdpi="300"
@@ -1198,7 +1198,7 @@
          inkscape:export-xdpi="300"
          height="100%"
          width="100%"
-         transform="translate(180,133.95991)"
+         transform="translate(180,153.95991)"
          id="use5383"
          xlink:href="#g4669"
          y="0"
@@ -3735,7 +3735,8 @@
        id="g4681"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-x2.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="translate(0,-20)">
       <use
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3764,25 +3765,23 @@
            cx="32.32143"
            id="circle5054"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
+        <g
            transform="translate(525.14819,663.79582)"
-           xml:space="preserve"
-           id="flowRoot5056"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-             id="flowRegion5058"><rect
-               id="rect5060"
-               width="73.654579"
-               height="39.987968"
-               x="-529.60803"
-               y="165.17477" /></flowRegion><flowPara
-             id="flowPara5062"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5056">
+          <path
+             d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 l 0,-2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 l -2.9125,0 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 l 4.3875,0 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="path5409" />
+        </g>
+      </g>
     </g>
     <g
        id="g4708"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-x2.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="translate(0,-20)">
       <use
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3811,25 +3810,23 @@
            cx="32.32143"
            id="circle5054-9"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
+        <g
            transform="translate(525.14819,663.79582)"
-           xml:space="preserve"
-           id="flowRoot5056-4"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-             id="flowRegion5058-3"><rect
-               id="rect5060-2"
-               width="73.654579"
-               height="39.987968"
-               x="-529.60803"
-               y="165.17477" /></flowRegion><flowPara
-             id="flowPara5062-5"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5056-4">
+          <path
+             d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 l 0,-2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 l -2.9125,0 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 l 4.3875,0 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="path5412" />
+        </g>
+      </g>
     </g>
     <g
        id="g4649"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-x2.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="translate(0,-20)">
       <use
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3858,25 +3855,23 @@
            cx="32.32143"
            id="circle5054-8"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
+        <g
            transform="translate(525.14819,663.79582)"
-           xml:space="preserve"
-           id="flowRoot5056-1"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-             id="flowRegion5058-9"><rect
-               id="rect5060-6"
-               width="73.654579"
-               height="39.987968"
-               x="-529.60803"
-               y="165.17477" /></flowRegion><flowPara
-             id="flowPara5062-2"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5056-1">
+          <path
+             d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 l 0,-2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 l -2.9125,0 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 l 4.3875,0 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="path5415" />
+        </g>
+      </g>
     </g>
     <g
        id="g4669"
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-x2.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="translate(0,-20)">
       <use
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3905,19 +3900,16 @@
            cx="32.32143"
            id="circle5054-2"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
+        <g
            transform="translate(525.14819,663.79582)"
-           xml:space="preserve"
-           id="flowRoot5056-3"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-             id="flowRegion5058-5"><rect
-               id="rect5060-9"
-               width="73.654579"
-               height="39.987968"
-               x="-529.60803"
-               y="165.17477" /></flowRegion><flowPara
-             id="flowPara5062-3"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>      </g>
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5056-3">
+          <path
+             d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 l 0,-2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 l -2.9125,0 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 l 4.3875,0 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="path5418" />
+        </g>
+      </g>
     </g>
     <g
        transform="translate(280,60)"
@@ -7822,20 +7814,16 @@
            id="path5221"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            sodipodi:type="star" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot5223"
+        <g
+           transform="translate(-1.6121344,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-1.6121344,7.3117164)"><flowRegion
-             id="flowRegion5225"><rect
-               id="rect5227"
-               width="23.468128"
-               height="18.832449"
-               x="372.68933"
-               y="646.76654"
-               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5229"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">1</flowPara></flowRoot>        <circle
+           id="flowRoot5223">
+          <path
+             d="m 381.68199,648.00688 c 0.495,-0.0563 0.93375,-0.0788 1.3725,-0.0788 l 0.45,0 0,5.73749 c 0,0.6525 -0.0225,1.18125 -0.09,1.69875 l 2.4525,0 c -0.0675,-0.55124 -0.09,-1.02374 -0.09,-1.69875 l 0,-5.895 c 0,-0.74249 0.0225,-1.215 0.0788,-1.81124 -0.45,0.045 -0.59625,0.045 -1.395,0.045 l -1.42875,0 c -0.6525,0 -0.945,-0.0113 -1.35,-0.0788 l 0,2.08126 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="path5541" />
+        </g>
+        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5688-4-2"
            cx="382.57208"
@@ -7876,20 +7864,16 @@
            d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
            transform="matrix(0,-0.36129105,0.36129105,0,362.33941,688.94231)"
            inkscape:transform-center-y="-0.51906523" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot5223-4"
+        <g
+           transform="translate(-1.8942847,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-1.8942847,7.3117164)"><flowRegion
-             id="flowRegion5225-8"><rect
-               id="rect5227-0"
-               width="23.468128"
-               height="18.832449"
-               x="372.68933"
-               y="646.76654"
-               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5229-4"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">6</flowPara></flowRoot>        <circle
+           id="flowRoot5223-4">
+          <path
+             d="m 388.10574,648.04062 c -0.23625,-0.58499 -0.4275,-0.91125 -0.75375,-1.26 -0.6075,-0.64125 -1.53,-0.99 -2.6325,-0.99 -1.40625,0 -2.44125,0.495 -3.1725,1.50751 -0.585,0.80999 -0.93375,2.12625 -0.93375,3.54374 0,1.53001 0.39375,2.79001 1.1475,3.62251 0.6525,0.74249 1.6425,1.13625 2.8125,1.13625 2.21625,0 3.74625,-1.36126 3.74625,-3.3075 0,-1.93501 -1.2825,-3.15 -3.31875,-3.15 -0.585,0 -1.06875,0.09 -1.49625,0.29249 -0.28125,0.12376 -0.43875,0.23625 -0.70875,0.50625 0.0675,-0.67499 0.14625,-1.01249 0.32625,-1.395 0.30375,-0.64125 0.82125,-0.96749 1.5075,-0.96749 0.68625,0 1.06875,0.28125 1.27125,0.93374 l 2.205,-0.4725 z m -3.51,2.89125 c 0.9675,0 1.5525,0.52876 1.5525,1.395 0,0.855 -0.66375,1.45126 -1.5975,1.45126 -0.9,0 -1.56375,-0.59626 -1.56375,-1.42876 0,-0.86625 0.63,-1.4175 1.60875,-1.4175 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="path5557" />
+        </g>
+        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5688-4-2-3"
            cx="382.57208"
@@ -7930,20 +7914,16 @@
            d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
            transform="matrix(0,-0.36129105,0.36129105,0,362.33941,688.94231)"
            inkscape:transform-center-y="-0.51906523" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot5223-5"
+        <g
+           transform="translate(-1.8605319,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-1.8605319,7.3117164)"><flowRegion
-             id="flowRegion5225-9"><rect
-               id="rect5227-9"
-               width="23.468128"
-               height="18.832449"
-               x="372.68933"
-               y="646.76654"
-               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5229-3"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>        <circle
+           id="flowRoot5223-5">
+          <path
+             d="m 383.26824,647.81562 2.61,0 c 0.72,0 1.2375,0.0225 1.83375,0.0788 l 0,-1.96875 c -0.45,0.0562 -0.86625,0.0788 -1.85625,0.0788 l -3.36375,0 c -0.54,0 -0.6525,0 -1.125,-0.0225 -0.0112,0.4275 -0.0225,0.69751 -0.045,0.93375 l -0.30375,3.51 c -0.0337,0.31501 -0.0675,0.585 -0.1125,0.9225 l 2.0925,0.2025 c 0.2475,-0.55125 0.70875,-0.8325 1.4175,-0.8325 0.945,0 1.5525,0.58501 1.5525,1.485 0,0.9 -0.63,1.49626 -1.575,1.49626 -0.81,0 -1.2825,-0.34875 -1.47375,-1.09126 l -2.26125,0.34875 c 0.16875,0.585 0.30375,0.91125 0.5625,1.26 0.6525,0.90001 1.76625,1.38376 3.18375,1.38376 2.385,0 3.8025,-1.28251 3.8025,-3.4425 0,-0.94501 -0.28125,-1.67626 -0.84375,-2.25 -0.59625,-0.60751 -1.4175,-0.9225 -2.41875,-0.9225 -0.73125,0 -1.31625,0.16874 -1.8225,0.53999 0.0225,-0.19124 0.0337,-0.30375 0.0337,-0.36 l 0.1125,-1.35 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="path5554" />
+        </g>
+        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5688-4-2-4"
            cx="382.57208"
@@ -8000,20 +7980,16 @@
            d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
            transform="matrix(0,-0.36129105,0.36129105,0,368.61257,686.42912)"
            inkscape:transform-center-y="-0.51906523" />
-        <flowRoot
+        <g
            transform="translate(-1.8099097,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot5331"
-           xml:space="preserve"><flowRegion
-             id="flowRegion5333"><rect
-               style="text-align:center;text-anchor:middle"
-               y="646.76654"
-               x="372.68933"
-               height="18.832449"
-               width="23.468128"
-               id="rect5335" /></flowRegion><flowPara
+           id="flowRoot5331">
+          <path
+             d="m 386.23824,655.36437 c 0.79875,0 1.27125,0.0225 1.92375,0.0788 l 0,-2.12625 c -0.43875,0.0562 -0.95625,0.0788 -1.8,0.0788 l -2.62125,0 c 0.25875,-0.495 0.675,-0.88874 1.65375,-1.56375 1.1475,-0.79874 1.26,-0.87749 1.63125,-1.20375 0.6975,-0.57374 1.035,-1.27125 1.035,-2.0925 0,-0.48375 -0.12375,-0.9225 -0.37125,-1.31624 -0.5625,-0.91125 -1.72125,-1.41751 -3.24,-1.41751 -1.31625,0 -2.34,0.405 -2.98125,1.15876 -0.45,0.52874 -0.6525,1.02374 -0.82125,2.00249 l 2.3625,0.24751 c 0.0562,-0.47251 0.12375,-0.69751 0.28125,-0.94501 0.2475,-0.3825 0.63,-0.5625 1.17,-0.5625 0.72,0 1.20375,0.36001 1.20375,0.9 0,0.51751 -0.23625,0.81001 -1.20375,1.4625 -1.1475,0.77625 -1.575,1.10251 -2.0025,1.49625 -0.7875,0.73126 -1.3275,1.58626 -1.62,2.52 -0.135,0.43875 -0.19125,0.77625 -0.23625,1.3275 0.41625,-0.0337 0.675,-0.045 1.6875,-0.045 l 3.94875,0 z"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-             id="flowPara5337">2</flowPara></flowRoot>        <circle
+             id="path5544" />
+        </g>
+        <circle
            r="22.5"
            cy="663.84265"
            cx="382.57208"
@@ -8070,20 +8046,16 @@
            id="path5363"
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            sodipodi:type="star" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot5365"
+        <g
+           transform="translate(-1.8099097,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-1.8099097,7.3117164)"><flowRegion
-             id="flowRegion5367"><rect
-               id="rect5369"
-               width="23.468128"
-               height="18.832449"
-               x="372.68933"
-               y="646.76654"
-               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             id="flowPara5371"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>        <circle
+           id="flowRoot5365">
+          <path
+             d="m 380.46699,652.92313 c 0.0788,0.2925 0.12375,0.43875 0.19125,0.59624 0.2475,0.61875 0.64125,1.11375 1.15875,1.45126 0.59625,0.39374 1.60875,0.63 2.62125,0.63 0.84375,0 1.755,-0.16876 2.34,-0.43876 0.41625,-0.19124 0.81,-0.50625 1.0575,-0.84375 0.2925,-0.39374 0.45,-0.9225 0.45,-1.49625 0,-0.6525 -0.27,-1.23749 -0.7425,-1.66499 -0.39375,-0.3375 -0.765,-0.49501 -1.45125,-0.59626 1.29375,-0.30374 1.935,-1.04625 1.935,-2.23875 0,-0.64125 -0.21375,-1.18125 -0.63,-1.5975 -0.64125,-0.61874 -1.65375,-0.95624 -2.88,-0.95624 -1.3725,0 -2.4075,0.38249 -3.09375,1.125 -0.36,0.39374 -0.54,0.73124 -0.75375,1.42874 l 2.43,0.34875 c 0.16875,-0.72 0.57375,-1.035 1.3725,-1.035 0.7425,0 1.17,0.34875 1.17,0.95625 0,0.72 -0.52875,1.08 -1.5975,1.08 -0.43875,0 -0.81,-0.0225 -1.1925,-0.0675 l 0,1.935 c 0.43875,-0.045 0.945,-0.0675 1.38375,-0.0675 0.43875,0 0.7875,0.0563 1.04625,0.14625 0.3825,0.14625 0.6075,0.50625 0.6075,0.96751 0,0.68625 -0.55125,1.125 -1.42875,1.125 -0.54,0 -0.99,-0.16876 -1.29375,-0.48376 -0.18,-0.19125 -0.2475,-0.34875 -0.315,-0.71999 l -2.385,0.41625 z"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="path5547" />
+        </g>
+        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5373"
            cx="382.57208"
@@ -8140,20 +8112,16 @@
            d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
            transform="matrix(0,-0.36129105,0.36129105,0,368.61257,686.42912)"
            inkscape:transform-center-y="-0.51906523" />
-        <flowRoot
+        <g
            transform="translate(-2.1962163,7.3117164)"
            style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot5381"
-           xml:space="preserve"><flowRegion
-             id="flowRegion5383"><rect
-               style="text-align:center;text-anchor:middle"
-               y="646.76654"
-               x="372.68933"
-               height="18.832449"
-               width="23.468128"
-               id="rect5385" /></flowRegion><flowPara
+           id="flowRoot5381">
+          <path
+             d="m 380.29824,653.45187 c 0.41625,-0.0337 0.73125,-0.045 1.4625,-0.045 l 3.18375,0 0,0.55124 c 0,0.55125 -0.0337,1.02375 -0.09,1.40625 l 2.3175,0 c -0.0675,-0.4275 -0.09,-0.75374 -0.09,-1.38374 l 0,-0.5625 0.3375,0 c 0.34875,0 0.765,0.0225 1.1025,0.0675 l 0,-2.0475 c -0.39375,0.0562 -0.765,0.09 -1.11375,0.09 l -0.32625,0 0,-3.65625 c 0,-0.75376 0.0225,-1.20375 0.09,-1.86751 l -2.30625,0 c -0.2925,0.43875 -0.50625,0.72 -1.04625,1.33875 l -2.44125,2.8575 c -0.57375,0.67501 -0.57375,0.67501 -1.08,1.23751 l 0,2.01374 z m 4.6575,-1.90125 -2.2725,0 1.6425,-2.00249 c 0.30375,-0.38251 0.4725,-0.60751 0.6975,-0.9225 -0.045,0.495 -0.0675,1.11374 -0.0675,1.62 l 0,1.30499 z"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-             id="flowPara5387">4</flowPara></flowRoot>        <circle
+             id="path5551" />
+        </g>
+        <circle
            r="22.5"
            cy="663.84265"
            cx="382.57208"
@@ -8192,5 +8160,624 @@
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/stores-track/red-dept.png"
        inkscape:export-xdpi="300.00018"
        inkscape:export-ydpi="300.00018" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-x2.png"
+       id="g5333"
+       transform="translate(0,40)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5350"
+         id="use5336"
+         transform="translate(0,140)"
+         width="100%"
+         height="100%"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,44.287877,160.79055)"
+         id="g5338"
+         style="display:inline">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle5340"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5342"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5344"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion5346"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect5348" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara5350">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-x2.png"
+       id="g5352"
+       transform="translate(0,40)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5331"
+         id="use5355"
+         transform="translate(0,140)"
+         width="100%"
+         height="100%"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,104.28787,160.79053)"
+         id="g5357"
+         style="display:inline">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle5359"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5361"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5363"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion5365"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect5367" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara5369">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-x2.png"
+       id="g5371"
+       transform="translate(0,40)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5312"
+         id="use5373"
+         transform="translate(0,140)"
+         width="100%"
+         height="100%"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,164.28788,160.79054)"
+         id="g5376"
+         style="display:inline">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle5378"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5380"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5382"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion5384"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect5386" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara5388">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-x2.png"
+       id="g5390"
+       transform="translate(0,40)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5293"
+         id="use5392"
+         transform="translate(0,140)"
+         width="100%"
+         height="100%"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.8,0,0,0.8,224.28788,160.79054)"
+         id="g5394"
+         style="display:inline">
+        <circle
+           r="9.4642859"
+           cy="833.25507"
+           cx="32.32143"
+           id="circle5396"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5398"
+           cx="32.32143"
+           cy="833.25507"
+           r="9.4642859" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5400"
+           xml:space="preserve"
+           transform="translate(525.14819,663.79582)"><flowRegion
+             id="flowRegion5402"><rect
+               y="165.17477"
+               x="-529.60803"
+               height="39.987968"
+               width="73.654579"
+               id="rect5404" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             id="flowPara5406">2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-1.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(20,60)"
+       id="g5420">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="-174.47641"
+         id="circle5422"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5424"
+         transform="translate(-557.0485,338.51956)">
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,362.33941,688.94231)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5426"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <path
+           sodipodi:type="star"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5428"
+           sodipodi:sides="5"
+           sodipodi:cx="45.42075"
+           sodipodi:cy="56.001076"
+           sodipodi:r1="15.045238"
+           sodipodi:r2="7.4209185"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.62831853"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           transform="matrix(0,-0.36129105,0.36129105,0,351.65651,682.94231)"
+           inkscape:transform-center-y="-0.51906523" />
+        <path
+           sodipodi:type="star"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5430"
+           sodipodi:sides="5"
+           sodipodi:cx="45.42075"
+           sodipodi:cy="56.001076"
+           sodipodi:r1="15.045238"
+           sodipodi:r2="7.4209185"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.62831853"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           transform="matrix(0,-0.36129105,0.36129105,0,373.02231,682.94231)"
+           inkscape:transform-center-y="-0.51906523" />
+        <flowRoot
+           transform="translate(-1.6121344,7.3117164)"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5432"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5434"><rect
+               style="text-align:center;text-anchor:middle"
+               y="646.76654"
+               x="372.68933"
+               height="18.832449"
+               width="23.468128"
+               id="rect5436" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara5438">1</flowPara></flowRoot>        <circle
+           r="22.5"
+           cy="663.84265"
+           cx="382.57208"
+           id="circle5440"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-6.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(-17.52426,60)"
+       id="g5442">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="163.04785"
+         id="circle5444"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-219.52423,338.5195)"
+         style="display:inline"
+         id="g5446">
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,362.33941,688.94231)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5448"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <flowRoot
+           transform="translate(-1.8942847,7.3117164)"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5450"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5452"><rect
+               style="text-align:center;text-anchor:middle"
+               y="646.76654"
+               x="372.68933"
+               height="18.832449"
+               width="23.468128"
+               id="rect5454" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara5456">6</flowPara></flowRoot>        <circle
+           r="22.5"
+           cy="663.84265"
+           cx="382.57208"
+           id="circle5458"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-5.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(-10.01945,60)"
+       id="g5460">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="95.543045"
+         id="circle5462"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-287.02906,338.5195)"
+         style="display:inline"
+         id="g5464">
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,362.33941,688.94231)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5466"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <flowRoot
+           transform="translate(-1.8605319,7.3117164)"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5468"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5470"><rect
+               style="text-align:center;text-anchor:middle"
+               y="646.76654"
+               x="372.68933"
+               height="18.832449"
+               width="23.468128"
+               id="rect5472" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara5474">5</flowPara></flowRoot>        <circle
+           r="22.5"
+           cy="663.84265"
+           cx="382.57208"
+           id="circle5477"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-2.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(12.495148,60)"
+       id="g5479">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="-106.97156"
+         id="circle5481"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5483"
+         transform="translate(-489.54362,338.51956)">
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,356.06625,686.42912)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5485"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,368.61257,686.42912)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5487"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5489"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-1.8099097,7.3117164)"><flowRegion
+             id="flowRegion5491"><rect
+               id="rect5493"
+               width="23.468128"
+               height="18.832449"
+               x="372.68933"
+               y="646.76654"
+               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+             id="flowPara5495"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</flowPara></flowRoot>        <circle
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5497"
+           cx="382.57208"
+           cy="663.84265"
+           r="22.5" />
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-3.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(4.99026,60)"
+       id="g5499">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="-39.466675"
+         id="circle5501"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-422.03875,338.51956)"
+         id="g5503">
+        <path
+           sodipodi:type="star"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5505"
+           sodipodi:sides="5"
+           sodipodi:cx="45.42075"
+           sodipodi:cy="56.001076"
+           sodipodi:r1="15.045238"
+           sodipodi:r2="7.4209185"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.62831853"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           transform="matrix(0,-0.36129105,0.36129105,0,356.06625,686.42912)"
+           inkscape:transform-center-y="-0.51906523" />
+        <path
+           sodipodi:type="star"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5507"
+           sodipodi:sides="5"
+           sodipodi:cx="45.42075"
+           sodipodi:cy="56.001076"
+           sodipodi:r1="15.045238"
+           sodipodi:r2="7.4209185"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.62831853"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           transform="matrix(0,-0.36129105,0.36129105,0,368.61257,686.42912)"
+           inkscape:transform-center-y="-0.51906523" />
+        <flowRoot
+           transform="translate(-1.8099097,7.3117164)"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5509"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5511"><rect
+               style="text-align:center;text-anchor:middle"
+               y="646.76654"
+               x="372.68933"
+               height="18.832449"
+               width="23.468128"
+               id="rect5513" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara5515">3</flowPara></flowRoot>        <circle
+           r="22.5"
+           cy="663.84265"
+           cx="382.57208"
+           id="circle5517"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/bonus-tokens/bonus-4.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(-2.51458,60)"
+       id="g5519">
+      <circle
+         r="22.5"
+         cy="1002.3622"
+         cx="28.038168"
+         id="circle5521"
+         style="display:inline;opacity:1;fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g5523"
+         transform="translate(-354.53394,338.51956)">
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,356.06625,686.42912)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5526"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <path
+           inkscape:transform-center-y="-0.51906523"
+           transform="matrix(0,-0.36129105,0.36129105,0,368.61257,686.42912)"
+           d="m 60.465987,56.001076 -9.041588,4.361906 -1.354415,9.946965 -6.942424,-7.251158 -9.878663,1.785655 4.750934,-8.843368 -4.750934,-8.843369 9.878663,1.785656 6.942424,-7.251158 1.354415,9.946964 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="0.62831853"
+           sodipodi:arg1="0"
+           sodipodi:r2="7.4209185"
+           sodipodi:r1="15.045238"
+           sodipodi:cy="56.001076"
+           sodipodi:cx="45.42075"
+           sodipodi:sides="5"
+           id="path5528"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5530"
+           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-2.1962163,7.3117164)"><flowRegion
+             id="flowRegion5532"><rect
+               id="rect5534"
+               width="23.468128"
+               height="18.832449"
+               x="372.68933"
+               y="646.76654"
+               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+             id="flowPara5536"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>        <circle
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle5538"
+           cx="382.57208"
+           cy="663.84265"
+           r="22.5" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-238.21429"
+       y="1003.0765"
+       id="text5559"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5561"
+         x="-238.21429"
+         y="1003.0765">text-to-path:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-26.954723"
+       y="799.87286"
+       id="text5559-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5561-1"
+         x="-26.954723"
+         y="799.87286">text-to-path:</tspan></text>
   </g>
 </svg>
