@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="x-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-kaicho.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/strategy.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -32,7 +32,7 @@
      inkscape:cx="37.333286"
      inkscape:cy="165.83022"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4883"
      showgrid="false"
      units="in"
      inkscape:window-width="2283"
@@ -80,7 +80,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Background"
+     inkscape:label="Gray Background"
      style="display:none">
     <rect
        style="fill:#dcdcdc;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -91,6 +91,21 @@
        y="0"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="White Background"
+     id="g4883"
+     inkscape:groupmode="layer">
+    <rect
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="0"
+       x="0"
+       height="337.5"
+       width="247.5"
+       id="rect4886"
+       style="fill:#ffffff;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      style="display:none"
