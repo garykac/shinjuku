@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="x-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/back.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-kaicho.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,14 +29,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="151.80697"
+     inkscape:cx="37.333286"
      inkscape:cy="218.4618"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="3440"
+     inkscape:window-height="1395"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -76,6 +76,20 @@
        y="-236.25"
        rx="12.6"
        transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Background">
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4793"
+       width="247.5"
+       height="337.5"
+       x="0"
+       y="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
   <g
      style="display:none"
@@ -1133,7 +1147,32 @@
    id="flowSpan4718"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Mini Action : Wander</flowSpan> (new)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4716">Once per turn, you may move the Princess into an adjacent location.</flowPara></flowRoot>  </g>
+         id="flowPara4716">Once per turn, you may move the Princess into an adjacent location.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-704.65035,64.48809)"
+       xml:space="preserve"
+       id="flowRoot4759"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion4761"><rect
+           id="rect4763"
+           width="186.10931"
+           height="89.753342"
+           x="735.88544"
+           y="164.71001"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRegion><flowPara
+         id="flowPara4777"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan4790">Note</flowSpan>: Mini-actions must be taken before either one of your two primary actions.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4782"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion4784"><rect
+           id="rect4786"
+           width="65.789474"
+           height="7.8947368"
+           x="111.18421"
+           y="253.94737" /></flowRegion><flowPara
+         id="flowPara4788"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -1243,7 +1282,7 @@
            style="font-weight:bold"
            id="flowSpan4826">Placing Customers at start of turn</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4828">If you draw a customer that would be placed in the Kaiju's location, then you must move the Kaiju into a neighboring location before placing the customer (or looking at the customer type).</flowPara></flowRoot>  </g>
+         id="flowPara4828">If the customers from the Customer Queue would be placed in the Kaiju's location, then you must move the Kaiju into a neighboring location before placing the customers on the map.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1269,23 +1308,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssccccsscscscccsssscscsssssccscsscs" />
     <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4441"
-       xml:space="preserve"
-       transform="translate(-705.00035,-60.511909)"><flowRegion
-         id="flowRegion4443"><rect
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-           y="164.71001"
-           x="735.88544"
-           height="92.753342"
-           width="176.60928"
-           id="rect4445" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4509">At start of each turn<flowSpan
-   style="font-weight:normal"
-   id="flowSpan4531" /></flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4525">If you start your turn with Hachiko on the Station Marker, move Hachiko to same location as your next random customer placement.</flowPara></flowRoot>    <flowRoot
        transform="translate(-704.65035,-105.51191)"
        xml:space="preserve"
        id="flowRoot4449"
@@ -1304,10 +1326,10 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4507">Place Station Marker on Shibuya.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4499">Place Hachiko on the Station Marker.</flowPara><flowPara
+         id="flowPara4499">Place Hachiko on the card at the head of the Customer Queue.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4501" /></flowRoot>    <flowRoot
-       transform="translate(-705.00035,7.488091)"
+       transform="translate(-705.00035,-52.511909)"
        xml:space="preserve"
        id="flowRoot4513"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1323,11 +1345,11 @@
    id="flowSpan4725"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Reunite</flowSpan> (new)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4723">Similar to Move action except the Reunite must start in Hachiko's location and end in Shibuya. Does not cost a card.</flowPara></flowRoot>    <flowRoot
+         id="flowPara4740">Similar to Move action except the Reunite must start in Hachiko's location and end at Shibuya station (dropping off other customers along the way. This action does not cost a card. </flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4626"
        xml:space="preserve"
-       transform="translate(-705.00035,63.488091)"><flowRegion
+       transform="translate(-705.00035,79.488091)"><flowRegion
          id="flowRegion4628"><rect
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
            y="164.71001"
@@ -1340,7 +1362,20 @@
    id="flowSpan4607"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Move </flowSpan>(modified)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4638">The Move action may not be used on the ward where Hachiko is located..</flowPara></flowRoot>  </g>
+         id="flowPara4638">The Move action may not start from the location where Hachiko is located..</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4744"
+       xml:space="preserve"
+       transform="translate(-705.00035,23.488091)"><flowRegion
+         id="flowRegion4746"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
+           y="164.71001"
+           x="735.88544"
+           height="142.25334"
+           width="186.60931"
+           id="rect4748" /></flowRegion><flowPara
+         id="flowPara4754"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">After taking this action, place Hachiko on the card at the head of the Customer Queue so that he can be placed on the map again.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g4750"
@@ -1462,13 +1497,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Mod - Chairman"
-     style="display:none">
+     inkscape:label="Mod - Kaicho"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6705"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(17.32168,0)"><flowRegion
+       transform="translate(27.363099,0)"><flowRegion
          id="flowRegion6707"><rect
            id="rect6709"
            width="197.54047"
@@ -1477,7 +1512,7 @@
            y="30.261524"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRegion><flowPara
          id="flowPara6711"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Busy Chairman</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Busy Kaichō</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -157.77678,105.14165 c -17.19612,0.61413 -25.70157,13.30244 -27.48234,21.80158 -1.80321,8.60637 2.45566,25.17867 2.45566,25.17867 0,0 -23.92894,8.8333 -34.08458,16.27521 -8.66001,6.34594 -20.92117,15.64337 -22.41666,27.33033 -0.93009,7.26842 5.83454,13.09756 12.89805,15.04737 9.25788,2.55555 26.82657,-8.64799 31.9353,-0.92147 5.02857,6.02788 -4.66753,22.91667 -11.05515,32.85674 -10.03145,15.61037 -24.12768,47.40806 -15.66009,47.59536 8.77036,0.1939 31.8057,-0.16199 45.75482,-0.61273 5.35915,-0.17321 10.89937,-27.02398 17.65499,-27.02398 6.75562,0 12.29822,26.85077 17.65737,27.02398 13.94908,0.45088 36.98445,0.80677 45.75481,0.61273 8.46759,-0.18723 -5.63103,-31.98499 -15.66247,-47.59536 -6.38763,-9.94007 -16.08134,-26.82886 -11.05277,-32.85674 5.10873,-7.72652 22.67738,3.47702 31.93526,0.92147 7.06354,-1.94981 13.82583,-7.77895 12.89574,-15.04737 -1.49553,-11.68696 -13.75669,-20.98439 -22.4167,-27.33033 -10.15563,-7.44191 -34.08454,-16.27521 -34.08454,-16.27521 0,0 4.26125,-16.5723 2.45801,-25.17867 -1.78076,-8.49914 -10.2886,-21.18745 -27.48471,-21.80158 z"
        id="path5268"
@@ -1501,7 +1536,7 @@
            id="flowSpan4410"
            style="font-weight:bold">Setup</flowSpan></flowPara><flowPara
          id="flowPara4414"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Each player starts with their own Chairman token in front of them.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Each player starts with their own Kaicho(chairperson) token in front of them.</flowPara><flowPara
          id="flowPara4416"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>    <flowRoot
        transform="translate(-704.65035,-61.51191)"
@@ -1520,7 +1555,7 @@
            style="font-weight:bold"
            id="flowSpan4444">Wildcards</flowSpan></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4446">The location of your Chairman is a wildcard for you. </flowPara><flowPara
+         id="flowPara4446">Cards that match the location of your Kaicho are wild for you. </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4448" /></flowRoot>    <flowRoot
        transform="translate(-704.65035,80.48809)"
@@ -1539,7 +1574,7 @@
    id="flowSpan5031"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Mini Action : Explore</flowSpan> (new)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara5029">Once per turn, you may move your Chairman into an adjacent location. If your Chairman is not currently on the map, then it may be placed anywhere.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5029">Once per turn, you may move your Kaicho into an adjacent location. If your Kaicho token is not currently on the map, then it may be placed anywhere.</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.55755424px;line-height:125%;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4539"
        xml:space="preserve"
@@ -1556,9 +1591,9 @@
    id="flowSpan5026"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Action : Move</flowSpan> (modified)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara5024">The Chairman is a customer and moves with other customers. A Chairman can be  matched with any store that would match one of the customers being moved and is used instead of that customer.</flowPara><flowPara
+         id="flowPara5024">The Kaicho is a customer and moves with other customers. A Kaicho can be  matched with any store that would match one of the customers being moved and is used instead of that customer.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4558">When matched, the Chairman is added to the ward where the match occurred. </flowPara></flowRoot>  </g>
+         id="flowPara4558">When matched, the Kaicho is added to the ward where the match occurred. </flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Mod - Bypass"
@@ -1708,7 +1743,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Mod - *** Back ***"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4863"
