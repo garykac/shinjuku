@@ -1,5 +1,21 @@
 # Playtest Notes
 
+[Playtest #69 - Wed 10 Jun 2020](2020-06-10-playtest-69.md)
+
+* 3 new players: BS, RM, BK
+* Testing: Tabletop Simulator version; New players starting with expansions
+
+**Orca-con** Playtests
+
+* Sun 12 Jan 2020 - Playtest #68 - 2-player
+* Sat 11 Jan 2020 - Playtest #67 - 3-player
+* Sat 11 Jan 2020 - Playtest #66 - 2-player
+
+Playtest #65 - Fri 10 Jan 2020
+
+* 3-player: AB JY GK
+* More testing with customer distribution and queue refresh
+
 [Playtest #64 - Mon 30 Dec 2019](2019-12-30-playtest-64.md)
 
 * 2 player: AB GK
