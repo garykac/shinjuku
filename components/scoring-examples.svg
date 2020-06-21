@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="863.95012"
-     inkscape:cy="305.68956"
+     inkscape:cx="739.66441"
+     inkscape:cy="362.83242"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="3440"
+     inkscape:window-height="1395"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -2447,7 +2447,7 @@
          x="1074.9692"
          id="tspan5173"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2-set</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3-set</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2503,7 +2503,7 @@
          sodipodi:role="line"
          id="tspan5189"
          x="1174.9692"
-         y="417.76239">= 3 pts</tspan></text>
+         y="417.76239">= 6 pts</tspan></text>
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -2531,7 +2531,7 @@
          sodipodi:role="line"
          id="tspan5197"
          x="1174.9692"
-         y="537.76239">= 54 pts</tspan></text>
+         y="537.76239">= 56 pts</tspan></text>
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -3035,33 +3035,6 @@
          width="100%"
          height="100%" />
       <use
-         style="display:inline;opacity:0.3"
-         x="0"
-         y="0"
-         xlink:href="#g5350"
-         id="use4695"
-         transform="translate(720,232.6378)"
-         width="100%"
-         height="100%" />
-      <use
-         height="100%"
-         width="100%"
-         transform="translate(720,292.6378)"
-         id="use4697"
-         xlink:href="#g5350"
-         y="0"
-         x="0"
-         style="display:inline;opacity:0.3" />
-      <use
-         height="100%"
-         width="100%"
-         id="use5203"
-         xlink:href="#g5563"
-         y="0"
-         x="0"
-         style="display:inline"
-         transform="translate(310,262.6378)" />
-      <use
          transform="translate(780,-7.3622)"
          style="display:inline;opacity:0.3"
          x="0"
@@ -3106,6 +3079,51 @@
          y="0"
          x="0"
          style="display:inline" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(760,232.6378)"
+         id="use4552"
+         xlink:href="#g5312"
+         y="0"
+         x="0"
+         style="display:inline;opacity:0.3" />
+      <use
+         height="100%"
+         width="100%"
+         id="use4554"
+         xlink:href="#g5293"
+         y="0"
+         x="0"
+         style="display:inline;opacity:0.3"
+         transform="translate(780,232.6378)" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5203"
+         xlink:href="#g5563"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="translate(500,222.6378)" />
     </g>
+    <use
+       style="display:inline;opacity:0.3"
+       x="0"
+       y="0"
+       xlink:href="#g5350"
+       id="use4695"
+       transform="translate(1239.2836,181.31969)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1239.2836,241.31969)"
+       id="use4697"
+       xlink:href="#g5350"
+       y="0"
+       x="0"
+       style="display:inline;opacity:0.3" />
   </g>
 </svg>
