@@ -189,6 +189,20 @@ Upload the updated documents to BoardGameGeek:
 
 ## Player Screen Updates
 
+Export for printing:
+
+* Export page (3600x5400) as `screen/screen-instr.png`
+
+### Tabletop Simulator
+
+Export instructions reference:
+
+* Select "Border - Instr" layer
+* Select the rectangle
+* Hide "Border - Instr"
+* Export selection @300dpi (2989 x 1405px) as `screen/reference.png`
+* Copy to `tts/` directory
+
 ### Print and Play
 
 Print out each individual screen (front and back).
