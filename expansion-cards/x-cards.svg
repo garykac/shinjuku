@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="x-cards.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-thief.png"
+   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/expansion-cards/x-hachiko.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="-77.140398"
+     inkscape:cx="-191.61408"
      inkscape:cy="165.83022"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -1252,7 +1252,7 @@
          id="flowPara4832"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'" /></flowRoot>  </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Mod - Thief"
      id="g4730"
      inkscape:groupmode="layer">
@@ -1700,7 +1700,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Mod - Hachiko"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6588"
@@ -1739,7 +1739,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4507">Place Station Marker on Shibuya.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
-         id="flowPara4499">Place Hachiko on the card at the head of the Customer Queue.</flowPara><flowPara
+         id="flowPara4499">Place Hachiko on the card at the head position	① of the Customer Queue.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
          id="flowPara4501" /></flowRoot>    <flowRoot
        transform="translate(-705.00035,-52.511909)"
