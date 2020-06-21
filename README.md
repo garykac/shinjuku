@@ -121,7 +121,7 @@ There are tokens that players can earn for the first 6 department store upgrades
 
 <img src="components/upgrade-tokens.png" height="40px"/>
 
-In endgame scoring, each Upgrade Bonus Token acts as a single customer type (player's choice) and counts as a number of customers equal to the number of stars on the token.
+These tokens give a bonus in endgame scoring.
 
 ### Gameplay
 
@@ -217,7 +217,6 @@ Customers are scored using set collection plus any bonuses from department store
 
 Customers marked with a “2” count as 2 separate customers.
 
-Each Upgrade Bonus Token acts as a single customer type (your choice) and counts as a number of customers equal to the number of stars on the token.
-
+In endgame scoring, each Upgrade Bonus Token acts as a number of wild customers equal to the number of stars on the token.
 
 ![Train Car](images/train-car-6.png)
