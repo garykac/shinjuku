@@ -201,7 +201,7 @@ Export instructions reference:
 * Select the rectangle
 * Hide "Border - Instr"
 * Export selection @300dpi (2989 x 1405px) as `screen/reference.png`
-* Copy to `tts/` directory
+* Copy to `tts/ref/` directory
 
 ### Print and Play
 
