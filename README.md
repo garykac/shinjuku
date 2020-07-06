@@ -16,6 +16,8 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 ## Links
 
+* [Tabletop Simulator implementation](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
+
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
 
 * Rules:
