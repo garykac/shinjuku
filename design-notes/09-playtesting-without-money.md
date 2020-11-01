@@ -45,8 +45,7 @@ It also adds an interesting decision when Moving customers. If the Red player (y
 
 Having more interesting decisions is good, even with the slight slowdown. But accepting this change does mean that I’ll need to balance this slowdown by speeding up other aspects of the game.
 
-<a href="../playtests/images/pt10/pt10-0686.jpg"><img src="images/pt10-0686
--crop.jpg" /></a>
+<a href="../playtests/images/pt10/pt10-0686.jpg"><img src="images/pt10-0686-crop.jpg" /></a>
 
 ## Speeding Up the Start
 
@@ -93,8 +92,7 @@ One that doesn’t feel so clunky.
 
 One that provides players with more flexibility without adding a lot of special rules just for the first turn.
 
-<a href="../playtests/images/pt08/pt08-0675.jpg"><img src="images/pt08-0675
--crop.jpg" /></a>
+<a href="../playtests/images/pt08/pt08-0675.jpg"><img src="images/pt08-0675-crop.jpg" /></a>
 
 ## The First ”Complete” Version
 
