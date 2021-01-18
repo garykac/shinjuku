@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="654.84369mm"
+   height="446.48438mm"
+   viewBox="0 0 654.84369 446.48438"
+   version="1.1"
+   id="svg916"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="events.svg"
+   inkscape:export-filename="/home/garykac/projects/github/shinjuku/tts/events/events.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs910" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1198.825"
+     inkscape:cy="882.28415"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1876"
+     inkscape:window-height="1105"
+     inkscape:window-x="1267"
+     inkscape:window-y="579"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata913">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,149.48438)">
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/unknown.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/unknown.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1603"
+       x="545.70306"
+       y="148.17188" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-add-store.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-add-store.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1614"
+       x="545.70306"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-add-track.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-add-track.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1625"
+       x="545.70306"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-arson.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-arson.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1636"
+       x="436.56247"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-bonus.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-bonus.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1647"
+       x="436.56247"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-double-track.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-double-track.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1658"
+       x="327.42184"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-flooding.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-flooding.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1669"
+       x="218.28123"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-hachiko.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-hachiko.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1680"
+       x="109.14062"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-kaicho.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-kaicho.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1691"
+       x="0"
+       y="-149.48438" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-kaiju.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-kaiju.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1702"
+       x="327.42184"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-move-store.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-move-store.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1713"
+       x="218.28123"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-move-track.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-move-track.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1724"
+       x="109.14062"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-parallel-track.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-parallel-track.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1735"
+       x="0"
+       y="-0.65625" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-princess.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-princess.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1746"
+       x="218.28123"
+       y="148.17188" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-refund.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-refund.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1757"
+       x="109.14062"
+       y="148.17188" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-thief.png"
+       xlink:href="/home/garykac/projects/github/shinjuku/events/x-thief.png"
+       width="109.14062"
+       height="148.82812"
+       preserveAspectRatio="none"
+       id="image1768"
+       x="0"
+       y="148.17188" />
+  </g>
+</svg>
