@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1198.825"
-     inkscape:cy="882.28415"
+     inkscape:zoom="0.54637037"
+     inkscape:cx="1237.4999"
+     inkscape:cy="697.32918"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,10 +40,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1876"
+     inkscape:window-width="2303"
      inkscape:window-height="1105"
-     inkscape:window-x="1267"
-     inkscape:window-y="579"
+     inkscape:window-x="162"
+     inkscape:window-y="605"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata913">
@@ -90,15 +90,6 @@
        x="545.70306"
        y="-149.48438" />
     <image
-       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-arson.png"
-       xlink:href="/home/garykac/projects/github/shinjuku/events/x-arson.png"
-       width="109.14062"
-       height="148.82812"
-       preserveAspectRatio="none"
-       id="image1636"
-       x="436.56247"
-       y="-0.65625" />
-    <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-bonus.png"
        xlink:href="/home/garykac/projects/github/shinjuku/events/x-bonus.png"
        width="109.14062"
@@ -115,15 +106,6 @@
        preserveAspectRatio="none"
        id="image1658"
        x="327.42184"
-       y="-149.48438" />
-    <image
-       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-flooding.png"
-       xlink:href="/home/garykac/projects/github/shinjuku/events/x-flooding.png"
-       width="109.14062"
-       height="148.82812"
-       preserveAspectRatio="none"
-       id="image1669"
-       x="218.28123"
        y="-149.48438" />
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-hachiko.png"
@@ -153,15 +135,6 @@
        x="327.42184"
        y="-0.65625" />
     <image
-       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-move-store.png"
-       xlink:href="/home/garykac/projects/github/shinjuku/events/x-move-store.png"
-       width="109.14062"
-       height="148.82812"
-       preserveAspectRatio="none"
-       id="image1713"
-       x="218.28123"
-       y="-0.65625" />
-    <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-move-track.png"
        xlink:href="/home/garykac/projects/github/shinjuku/events/x-move-track.png"
        width="109.14062"
@@ -186,8 +159,8 @@
        height="148.82812"
        preserveAspectRatio="none"
        id="image1746"
-       x="218.28123"
-       y="148.17188" />
+       x="436.56247"
+       y="-0.65625" />
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-refund.png"
        xlink:href="/home/garykac/projects/github/shinjuku/events/x-refund.png"
@@ -206,5 +179,32 @@
        id="image1768"
        x="0"
        y="148.17188" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-new-connection.png"
+       y="-149.48438"
+       x="218.28123"
+       id="image987"
+       xlink:href="file:///home/garykac/projects/github/shinjuku/events/x-new-connection.png"
+       preserveAspectRatio="none"
+       height="148.82812"
+       width="109.14062" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-relocate.png"
+       y="-0.65625"
+       x="218.28123"
+       id="image1049"
+       xlink:href="file:///home/garykac/projects/github/shinjuku/events/x-relocate.png"
+       preserveAspectRatio="none"
+       height="148.82812"
+       width="109.14062" />
+    <image
+       sodipodi:absref="/home/garykac/projects/github/shinjuku/events/x-move-customer.png"
+       y="148.17188"
+       x="218.28123"
+       id="image1007"
+       xlink:href="file:///home/garykac/projects/github/shinjuku/events/x-move-customer.png"
+       preserveAspectRatio="none"
+       height="148.82812"
+       width="109.14062" />
   </g>
 </svg>
