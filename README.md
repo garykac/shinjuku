@@ -126,7 +126,7 @@ These tokens give a bonus in endgame scoring.
 
 ### Mods
 
-Shinjuku Mods add new components and rules that can be layered on top of the core rule set.
+Shinjuku Mods are optional rules that can be layered on top of the core rule set.
 
 There are currently 5 Mods:
 
@@ -135,8 +135,6 @@ There are currently 5 Mods:
 * Faithful Dog Hachiko
 * Sneaky Thief
 * Busy Kaicho
-
-The game starts with just the Princess Mod, and other Mods are added once the city grows to a certain size.
 
 ### Gameplay
 
@@ -214,12 +212,6 @@ When you choose the **Move** action, do the following:
 	* If there are 2 or more customers being **Move**d, then you must cross at least one track segment.
 4. Any remaining customers are added to the ward that contains the final station visited, merging with any existing customers in that ward.
 5. If any track segments owned by other players were used during the **Move** action, then those players may immediately take an **Income** action. Maximum one **Income** action per player, regardless of the number of track segments used. You (the player taking the **Move** action) are not entitled to this Income bonus.
-
-### Phase 2 - City Growth
-
-The second phase of the game is triggered when the third department store is built. At this time, a new [Mod](#mods) is added to the game which will change some of the rules. These rule changes are described on the Mod card.
-
-The player with the most track on the map chooses which new Mod is added to the game. The chosen Mod is then set up following the instructions on the card, and gameplay continues as normal.
 
 ### End of Game
 
