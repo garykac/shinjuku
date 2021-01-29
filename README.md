@@ -36,7 +36,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 * Alternate Maps:
 	* [Paris](paris/paris-map.png), [London](london/london-map.png)
 
-* Sell sheet (1-page overview for publishers): [v1 (pdf)](docs/sellsheets/v1/sell-sellsheet.pdf) ,  [v2 (pdf)](docs/sellsheets/shinjuku_sellsheet.pdf) , [v3 (pdf)](docs/sellsheets/shinjuku_sellsheet.pdf)
+* Sell sheet (1-page overview for publishers): [v1 (pdf)](docs/sellsheets/v1/sell-sheet.pdf) ,  [v2 (pdf)](docs/sellsheets/v2/shinjuku_sellsheet.pdf) , [v3 (pdf)](docs/sellsheets/shinjuku_sellsheet.pdf)
 
 * Game Development
 	* Game categories: strategic; network building; pick-up and deliver
