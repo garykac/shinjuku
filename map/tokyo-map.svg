@@ -15,7 +15,7 @@
    viewBox="0 0 1800 1800"
    id="svg4516"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="tokyo-map.svg">
   <defs
      id="defs4518">
@@ -3408,17 +3408,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="1286.9147"
-     inkscape:cy="1359.0406"
+     inkscape:zoom="1"
+     inkscape:cx="1002.5035"
+     inkscape:cy="1105.3987"
      inkscape:document-units="px"
-     inkscape:current-layer="customer-queue-layer"
+     inkscape:current-layer="g11451"
      showgrid="false"
      units="in"
-     inkscape:window-width="1676"
-     inkscape:window-height="1006"
+     inkscape:window-width="2061"
+     inkscape:window-height="1356"
      inkscape:window-x="6"
-     inkscape:window-y="6"
+     inkscape:window-y="417"
      inkscape:window-maximized="0"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
@@ -3441,7 +3441,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5337,7 +5337,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7154"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(668.47099,202.60342)"><flowRegion
            id="flowRegion7156"><rect
              id="rect7158"
@@ -5347,9 +5347,9 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7164"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Chiyoda</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Chiyoda</flowPara></flowRoot>      <flowRoot
          transform="translate(-86.628833,574.48271)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7166"
          xml:space="preserve"><flowRegion
            id="flowRegion7168"><rect
@@ -5359,13 +5359,13 @@
              height="110.71429"
              width="227.85713"
              id="rect7170" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7174">Setagaya</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7176" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7176"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7178"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(280.66972,342.46843)"><flowRegion
            id="flowRegion7180"><rect
              id="rect7182"
@@ -5375,12 +5375,12 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7186"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Shibuya</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Shibuya</flowPara><flowPara
            id="flowPara7188"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7190"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(-157.28243,153.20058)"><flowRegion
            id="flowRegion7192"><rect
              id="rect7194"
@@ -5390,11 +5390,11 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7198"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Suginami</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Suginami</flowPara><flowPara
            id="flowPara7200"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          transform="translate(408.42176,98.601476)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7202"
          xml:space="preserve"><flowRegion
            id="flowRegion7204"><rect
@@ -5404,13 +5404,13 @@
              height="110.71429"
              width="227.85713"
              id="rect7206" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7210">Shinjuku</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7212" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7212"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7214"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(582.77781,494.42806)"><flowRegion
            id="flowRegion7216"><rect
              id="rect7218"
@@ -5420,12 +5420,12 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7222"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Minato</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Minato</flowPara><flowPara
            id="flowPara7224"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7226"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(502.91446,850.74784)"><flowRegion
            id="flowRegion7228"><rect
              id="rect7230"
@@ -5435,11 +5435,11 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7234"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Shinagawa</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Shinagawa</flowPara><flowPara
            id="flowPara7236"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          transform="translate(273.50869,641.92633)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7238"
          xml:space="preserve"><flowRegion
            id="flowRegion7240"><rect
@@ -5449,12 +5449,12 @@
              height="110.71429"
              width="227.85713"
              id="rect7242" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7246">Meguro</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7248" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7248"> </flowPara></flowRoot>      <flowRoot
          transform="translate(22.929432,-95.146443)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7250"
          xml:space="preserve"><flowRegion
            id="flowRegion7252"><rect
@@ -5464,12 +5464,12 @@
              height="110.71429"
              width="227.85713"
              id="rect7254" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7258">Nakano</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7260" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7260"> </flowPara></flowRoot>      <flowRoot
          transform="translate(290.67265,-228.90186)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7262"
          xml:space="preserve"><flowRegion
            id="flowRegion7264"><rect
@@ -5479,11 +5479,11 @@
              height="110.71429"
              width="227.85713"
              id="rect7266" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7270">Toshima</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7272"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(553.37622,-402.78384)"><flowRegion
            id="flowRegion7274"><rect
              id="rect7276"
@@ -5493,12 +5493,12 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7280"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Kita</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Kita</flowPara><flowPara
            id="flowPara7282"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7284"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(241.1864,-428.99745)"><flowRegion
            id="flowRegion7286"><rect
              id="rect7288"
@@ -5508,11 +5508,11 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7292"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Itabashi</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Itabashi</flowPara><flowPara
            id="flowPara7294"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          transform="translate(-91.536783,-331.79905)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7296"
          xml:space="preserve"><flowRegion
            id="flowRegion7298"><rect
@@ -5522,13 +5522,13 @@
              height="110.71429"
              width="227.85713"
              id="rect7300" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7304">Nerima</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7306" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7306"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7308"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(1165.8964,-79.046261)"><flowRegion
            id="flowRegion7310"><rect
              id="rect7312"
@@ -5538,11 +5538,11 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7316"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Sumida</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Sumida</flowPara><flowPara
            id="flowPara7318"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          transform="translate(838.10274,-366.27857)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7320"
          xml:space="preserve"><flowRegion
            id="flowRegion7322"><rect
@@ -5552,13 +5552,13 @@
              height="110.71429"
              width="227.85713"
              id="rect7324" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7328">Arakawa</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7330" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7330"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7332"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(915.25879,-555.22385)"><flowRegion
            id="flowRegion7334"><rect
              id="rect7336"
@@ -5568,11 +5568,11 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7340"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Adachi</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Adachi</flowPara><flowPara
            id="flowPara7342"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <flowRoot
          transform="translate(1315.8899,-325.12167)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7344"
          xml:space="preserve"><flowRegion
            id="flowRegion7346"><rect
@@ -5582,13 +5582,13 @@
              height="110.71429"
              width="227.85713"
              id="rect7348" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            id="flowPara7352">Katsushika</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara7354" /></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara7354"> </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot7356"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(1494.9951,413.34424)"><flowRegion
            id="flowRegion7358"><rect
              id="rect7360"
@@ -5598,14 +5598,14 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7364"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Edogawa</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Edogawa</flowPara><flowPara
            id="flowPara7366"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>      <g
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>      <g
          transform="translate(108.02439,21.941126)"
          id="g7743">
         <flowRoot
            transform="translate(559.35669,-111.71122)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot7745"
            xml:space="preserve"><flowRegion
              id="flowRegion7747"><rect
@@ -5616,11 +5616,11 @@
                width="227.85713"
                id="rect7749" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-             id="flowPara7751" /><flowPara
+             id="flowPara7751"> </flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara7753">Bunkyo</flowPara><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-             id="flowPara7755" /></flowRoot>        <path
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             id="flowPara7755"> </flowPara></flowRoot>        <path
            inkscape:connector-curvature="0"
            id="path7757"
            d="m 757.95073,149.87892 -7.83203,0 0,-2.05078 7.83203,0 0,2.05078 z"
@@ -5632,7 +5632,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot7761"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="translate(874.5609,151.76346)"><flowRegion
              id="flowRegion7763"><rect
                id="rect7765"
@@ -5642,11 +5642,11 @@
                y="223.21428"
                style="line-height:110.00000238%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
              id="flowPara7767"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara><flowPara
              id="flowPara7769"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Chuo</flowPara><flowPara
              id="flowPara7771"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>        <path
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>        <path
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 1044.5809,407.26763 -7.8321,0 0,-2.05078 7.8321,0 0,2.05078 z"
            id="path7773"
@@ -5658,7 +5658,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot7777"
          xml:space="preserve"><flowRegion
            id="flowRegion7779"><rect
@@ -5667,13 +5667,14 @@
              height="16.263456"
              width="6.3639612"
              id="rect7781" /></flowRegion><flowPara
-           id="flowPara7783" /></flowRoot>      <g
+           id="flowPara7783"
+           style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>      <g
          transform="translate(-80.610173,85.681241)"
          id="g7785">
         <flowRoot
            xml:space="preserve"
            id="flowRoot7787"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="translate(989.87798,-161.0417)"><flowRegion
              id="flowRegion7789"><rect
                id="rect7791"
@@ -5683,7 +5684,7 @@
                y="223.21428"
                style="line-height:110.00000238%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
              id="flowPara7793"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara><flowPara
              id="flowPara7795"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Taito</flowPara></flowRoot>        <path
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5697,7 +5698,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot7801"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="translate(1210.4045,177.9964)"><flowRegion
              id="flowRegion7803"><rect
                id="rect7805"
@@ -5707,7 +5708,7 @@
                y="223.21428"
                style="line-height:110.00000238%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
              id="flowPara7807"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara><flowPara
              id="flowPara7809"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">Koto</flowPara></flowRoot>        <path
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5725,7 +5726,7 @@
          transform="translate(110.30866,137.17872)">
         <flowRoot
            transform="translate(286.65042,989.23789)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot7817"
            xml:space="preserve"><flowRegion
              id="flowRegion7819"><rect
@@ -5736,7 +5737,7 @@
                width="227.85713"
                id="rect7821" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-             id="flowPara7823" /><flowPara
+             id="flowPara7823"> </flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara7825">Ota</flowPara></flowRoot>        <path
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5752,294 +5753,270 @@
        style="display:none">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="896.82843"
          y="763.31372"
-         id="text6757"
-         sodipodi:linespacing="125%"><tspan
+         id="text6757"><tspan
            sodipodi:role="line"
            id="tspan6759"
            x="896.82843"
            y="763.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6761"
          y="948.1615"
          x="1063.5341"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="948.1615"
            x="1063.5341"
            id="tspan6763"
            sodipodi:role="line">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7068"
          y="1047.3137"
          x="802.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1047.3137"
            x="802.82843"
            id="tspan7070"
            sodipodi:role="line">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7072"
          y="659.31372"
          x="632.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="659.31372"
            x="632.82843"
            id="tspan7074"
            sodipodi:role="line">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7076"
          y="505.79901"
          x="868.48529"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="505.79901"
            x="868.48529"
            id="tspan7078"
            sodipodi:role="line">1</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1130.4854"
          y="519.79901"
-         id="text7080"
-         sodipodi:linespacing="125%"><tspan
+         id="text7080"><tspan
            sodipodi:role="line"
            id="tspan7082"
            x="1130.4854"
            y="519.79901"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">1</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">1</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7084"
          y="479.79901"
          x="1384.4854"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="479.79901"
            x="1384.4854"
            id="tspan7086"
            sodipodi:role="line">1</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7088"
          y="947.31372"
          x="1372.8284"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="947.31372"
            x="1372.8284"
            id="tspan7090"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="722.82843"
          y="1419.3137"
-         id="text7092"
-         sodipodi:linespacing="125%"><tspan
+         id="text7092"><tspan
            sodipodi:role="line"
            id="tspan7094"
            x="722.82843"
            y="1419.3137"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="494.48529"
          y="1203.7991"
-         id="text7096"
-         sodipodi:linespacing="125%"><tspan
+         id="text7096"><tspan
            sodipodi:role="line"
            id="tspan7098"
            x="494.48529"
            y="1203.7991"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">1</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">1</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="616.82843"
          y="1723.3137"
-         id="text7100"
-         sodipodi:linespacing="125%"><tspan
+         id="text7100"><tspan
            sodipodi:role="line"
            id="tspan7102"
            x="616.82843"
            y="1723.3137"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="124.82843"
          y="1135.3137"
-         id="text7104"
-         sodipodi:linespacing="125%"><tspan
+         id="text7104"><tspan
            sodipodi:role="line"
            id="tspan7106"
            x="124.82843"
            y="1135.3137"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="500.82843"
          y="913.31372"
-         id="text7108"
-         sodipodi:linespacing="125%"><tspan
+         id="text7108"><tspan
            sodipodi:role="line"
            id="tspan7110"
            x="500.82843"
            y="913.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="328.48529"
          y="631.79901"
-         id="text7112"
-         sodipodi:linespacing="125%"><tspan
+         id="text7112"><tspan
            sodipodi:role="line"
            id="tspan7114"
            x="328.48529"
            y="631.79901"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2*</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2*</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7116"
          y="713.31372"
          x="60.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="713.31372"
            x="60.82843"
            id="tspan7118"
            sodipodi:role="line">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7120"
          y="387.31372"
          x="622.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="387.31372"
            x="622.82843"
            id="tspan7122"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="766.82843"
          y="157.31372"
-         id="text7124"
-         sodipodi:linespacing="125%"><tspan
+         id="text7124"><tspan
            sodipodi:role="line"
            id="tspan7126"
            x="766.82843"
            y="157.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7128"
          y="321.79901"
          x="1090.4854"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="321.79901"
            x="1090.4854"
            id="tspan7130"
            sodipodi:role="line">1</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7132"
          y="117.31372"
          x="458.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="117.31372"
            x="458.82843"
            id="tspan7134"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="132.82843"
          y="221.31372"
-         id="text7136"
-         sodipodi:linespacing="125%"><tspan
+         id="text7136"><tspan
            sodipodi:role="line"
            id="tspan7138"
            x="132.82843"
            y="221.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text7140"
          y="1.3137207"
          x="1132.8284"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1.3137207"
            x="1132.8284"
            id="tspan7142"
            sodipodi:role="line">3</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1530.8284"
          y="229.31372"
-         id="text7144"
-         sodipodi:linespacing="125%"><tspan
+         id="text7144"><tspan
            sodipodi:role="line"
            id="tspan7146"
            x="1530.8284"
            y="229.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1718.8284"
          y="963.31372"
-         id="text7148"
-         sodipodi:linespacing="125%"><tspan
+         id="text7148"><tspan
            sodipodi:role="line"
            id="tspan7150"
            x="1718.8284"
            y="963.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text8239"
          y="1585.3137"
          x="1749.9303"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
            y="1585.3137"
            x="1749.9303"
            id="tspan8241"
            sodipodi:role="line">48</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
-           y="1661.1471"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+           y="1647.5637"
            x="1749.9303"
            sodipodi:role="line"
            id="tspan8243">Cards</tspan></text>
@@ -6050,298 +6027,274 @@
        id="g6835"
        inkscape:groupmode="layer">
       <text
-         sodipodi:linespacing="125%"
          id="text6837"
          y="763.31372"
          x="896.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="763.31372"
            x="896.82843"
            id="tspan6839"
            sodipodi:role="line">3</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1063.5341"
          y="948.1615"
-         id="text6841"
-         sodipodi:linespacing="125%"><tspan
+         id="text6841"><tspan
            sodipodi:role="line"
            id="tspan6843"
            x="1063.5341"
            y="948.1615"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="802.82843"
          y="1047.3137"
-         id="text6845"
-         sodipodi:linespacing="125%"><tspan
+         id="text6845"><tspan
            sodipodi:role="line"
            id="tspan6847"
            x="802.82843"
            y="1047.3137"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="632.82843"
          y="659.31372"
-         id="text6849"
-         sodipodi:linespacing="125%"><tspan
+         id="text6849"><tspan
            sodipodi:role="line"
            id="tspan6852"
            x="632.82843"
            y="659.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="868.48529"
          y="505.79901"
-         id="text6854"
-         sodipodi:linespacing="125%"><tspan
+         id="text6854"><tspan
            sodipodi:role="line"
            id="tspan6856"
            x="868.48529"
            y="505.79901"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6859"
          y="519.79901"
          x="1130.4854"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="519.79901"
            x="1130.4854"
            id="tspan6861"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1384.4854"
          y="479.79901"
-         id="text6863"
-         sodipodi:linespacing="125%"><tspan
+         id="text6863"><tspan
            sodipodi:role="line"
            id="tspan6865"
            x="1384.4854"
            y="479.79901"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1372.8284"
          y="947.31372"
-         id="text6867"
-         sodipodi:linespacing="125%"><tspan
+         id="text6867"><tspan
            sodipodi:role="line"
            id="tspan6869"
            x="1372.8284"
            y="947.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6871"
          y="1419.3137"
          x="722.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1419.3137"
            x="722.82843"
            id="tspan6873"
            sodipodi:role="line">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6875"
          y="1203.7991"
          x="494.48529"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1203.7991"
            x="494.48529"
            id="tspan6877"
            sodipodi:role="line">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6879"
          y="1723.3137"
          x="616.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1723.3137"
            x="616.82843"
            id="tspan6881"
            sodipodi:role="line">5</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6883"
          y="1135.3137"
          x="124.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="1135.3137"
            x="124.82843"
            id="tspan6885"
            sodipodi:role="line">5*</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6887"
          y="913.31372"
          x="500.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="913.31372"
            x="500.82843"
            id="tspan6889"
            sodipodi:role="line">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6891"
          y="631.79901"
          x="328.48529"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="631.79901"
            x="328.48529"
            id="tspan6893"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="60.82843"
          y="713.31372"
-         id="text6895"
-         sodipodi:linespacing="125%"><tspan
+         id="text6895"><tspan
            sodipodi:role="line"
            id="tspan6897"
            x="60.82843"
            y="713.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="622.82843"
          y="387.31372"
-         id="text6899"
-         sodipodi:linespacing="125%"><tspan
+         id="text6899"><tspan
            sodipodi:role="line"
            id="tspan6901"
            x="622.82843"
            y="387.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6903"
          y="157.31372"
          x="766.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="157.31372"
            x="766.82843"
            id="tspan6905"
            sodipodi:role="line">2</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1078.4854"
          y="321.79901"
-         id="text6907"
-         sodipodi:linespacing="125%"><tspan
+         id="text6907"><tspan
            sodipodi:role="line"
            id="tspan6909"
            x="1078.4854"
            y="321.79901"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2*</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2*</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="458.82843"
          y="117.31372"
-         id="text6911"
-         sodipodi:linespacing="125%"><tspan
+         id="text6911"><tspan
            sodipodi:role="line"
            id="tspan6913"
            x="458.82843"
            y="117.31372"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6915"
          y="221.31372"
          x="132.82843"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="221.31372"
            x="132.82843"
            id="tspan6917"
            sodipodi:role="line">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1132.8284"
          y="1.3137207"
-         id="text6919"
-         sodipodi:linespacing="125%"><tspan
+         id="text6919"><tspan
            sodipodi:role="line"
            id="tspan6921"
            x="1132.8284"
            y="1.3137207"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6923"
          y="229.31372"
          x="1530.8284"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="229.31372"
            x="1530.8284"
            id="tspan6925"
            sodipodi:role="line">3</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text6927"
          y="963.31372"
          x="1718.8284"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
            y="963.31372"
            x="1718.8284"
            id="tspan6929"
            sodipodi:role="line">4</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1749.9303"
          y="1585.3137"
-         id="text6931"
-         sodipodi:linespacing="125%"><tspan
+         id="text6931"><tspan
            sodipodi:role="line"
            id="tspan6933"
            x="1749.9303"
            y="1585.3137"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">72</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">72</tspan><tspan
            id="tspan6935"
            sodipodi:role="line"
            x="1749.9303"
-           y="1661.1471"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">Cards</tspan></text>
+           y="1647.5637"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">Cards</tspan></text>
     </g>
   </g>
   <g
@@ -9886,7 +9839,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m -1377.8046,-299.07982 c -0.3351,4e-5 -0.64,0.30485 -0.64,0.64 0,2.47467 0,4.94933 0,7.424 0,0.33515 0.3048,0.63996 0.64,0.64 0,0 0,0 0,0 7.2533,0 14.5067,0 21.76,0 0,0 0,0 0,0 7.2533,0 14.5067,0 21.76,0 0.3351,-3e-5 0.64,-0.30491 0.64,-0.64 0,-2.47467 0,-4.94933 0,-7.424 0,0 0,0 0,0 0,-0.3351 -0.3049,-0.63997 -0.64,-0.64 -7.2533,0 -14.5067,0 -21.76,0 -7.2533,0 -14.5067,0 -21.76,0 z m 22.4,1.28 c 6.8267,0 13.6533,0 20.48,0 0,2.048 0,4.096 0,6.144 0,0 0,0 0,0 -6.8267,0 -13.6533,0 -20.48,0 0,0 0,0 0,0 0,-2.048 0,-4.096 0,-6.144 z"
+       d="m -1377.8046,-299.07982 c -0.3351,4e-5 -0.64,0.30485 -0.64,0.64 v 7.424 c 0,0 0,0 0,0 0,0.33515 0.3049,0.63996 0.64,0.64 h 21.76 0 21.76 c 0.3351,-3e-5 0.64,-0.30491 0.64,-0.64 l 0,-7.424 c 0,0 0,0 0,-10e-6 0,-0.33509 -0.3049,-0.63996 -0.64,-0.63999 h -21.76 z m 22.4,1.28 h 20.48 v 6.144 0 l -20.48,0 h 0 v -6.144"
        id="rect5732"
        inkscape:connector-curvature="0"
        inkscape:path-effect="#path-effect5847"
@@ -9918,7 +9871,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       d="m -1608.7332,-79.870819 0.4748,5.228478 c 4.3751,-0.396809 8.7566,-0.734681 13.1423,-1.011837 4.3857,-0.277157 8.7756,-0.493599 13.1675,-0.647547 l -0.1841,-5.250178 c -4.4417,0.155773 -8.8808,0.374935 -13.315,0.655709 -4.4342,0.280774 -8.8635,0.623158 -13.2855,1.025375 z m 13.3487,-0.0269 c 4.091,-0.258946 8.186,-0.465376 12.2834,-0.617884 l 0.121,3.249845 c -4.0689,0.151386 -8.1359,0.35622 -12.1992,0.613096 z m 13.2518,-1.654188 0.1841,5.250178 c 4.3919,-0.153948 8.7857,-0.245403 13.1792,-0.272587 4.3936,-0.02718 8.7868,0.0099 13.1774,0.113043 l 0.1236,-5.250379 c -4.4433,-0.104896 -8.8885,-0.142847 -13.3333,-0.11563 -4.4448,0.02722 -8.8892,0.119601 -13.331,0.275375 z m 13.3372,0.72519 c 4.1003,-0.02516 8.2008,0.0052 12.2998,0.0926 l -0.069,3.250472 c -4.0688,-0.08643 -8.1397,-0.116376 -12.2106,-0.09124 z m 13.3271,-0.884935 -0.1236,5.250379 c 4.3906,0.103138 8.7787,0.272325 13.1619,0.50934 4.3833,0.237016 8.7617,0.541859 13.133,0.916309 l 0.4483,-5.229079 c -4.4269,-0.379791 -8.8601,-0.68908 -13.2974,-0.929646 -4.4374,-0.240565 -8.8788,-0.412407 -13.3222,-0.517303 z m 13.2681,1.515859 c 4.0929,0.221784 8.1822,0.502164 12.2661,0.842546 l -0.2698,3.237788 c -4.0521,-0.337402 -8.11,-0.615276 -12.172,-0.835029 z m 13.3515,-0.06891 -0.4483,5.229079 c 4.3713,0.374449 8.7355,0.818505 13.0904,1.333945 4.3548,0.51544 8.7003,1.102264 13.0342,1.762251 l 0.7899,-5.186278 c -4.3923,-0.668912 -8.7954,-1.263765 -13.2072,-1.786339 -4.4118,-0.522573 -8.8322,-0.972867 -13.259,-1.352658 z m 13.1415,2.345109 c 4.0688,0.481878 8.1301,1.025391 12.1821,1.631946 l -0.4808,3.211794 c -4.0187,-0.601524 -8.047,-1.140481 -12.0832,-1.618276 z m 13.3247,0.793888 -0.7899,5.186278 c 4.3339,0.659987 8.6562,1.393136 12.9646,2.201226 4.3084,0.80809 8.6029,1.691121 12.8813,2.650871 l 1.1483,-5.121975 c -4.3396,-0.972259 -8.6945,-1.866903 -13.0627,-2.68571 -4.3681,-0.818807 -8.7494,-1.561777 -13.1416,-2.23069 z m 12.9575,3.21294 c 4.0279,0.755124 8.0445,1.574922 12.0479,2.460802 l -0.7023,3.172491 c -3.9684,-0.878798 -7.9505,-1.69199 -11.9442,-2.440979 z m 13.2468,1.70346 -1.1483,5.121975 c 1.0033,0.225066 2.0057,0.454351 3.0072,0.687878 3.2691,0.761678 6.5275,1.568814 9.7741,2.420909 4.2412,1.113128 8.4622,2.302981 12.6605,3.568443 l 1.515,-5.026253 c -4.2586,-1.283669 -8.5404,-2.490695 -12.8428,-3.619965 -3.2934,-0.86445 -6.5989,-1.683337 -9.9154,-2.456161 -1.0159,-0.236559 -2.0327,-0.468827 -3.0503,-0.696826 z m 12.7119,4.120182 c 3.9669,1.0412 7.9162,2.148693 11.846,3.321601 l -0.9294,3.114032 c -3.8952,-1.162578 -7.8098,-2.260287 -11.7417,-3.292248 z m 13.0966,2.65277 -1.515,5.026253 c 4.1982,1.265463 8.3737,2.606537 12.5239,4.022108 4.1502,1.415572 8.275,2.905641 12.3718,4.469095 l 1.8717,-4.904629 c -4.1554,-1.58579 -8.3392,-3.097163 -12.5488,-4.533005 -4.2096,-1.435842 -8.445,-2.796154 -12.7036,-4.079822 z m 12.3808,5.026211 c 3.8814,1.323907 7.7409,2.712205 11.5763,4.164016 l -1.1505,3.039319 c -3.8018,-1.439117 -7.6275,-2.815268 -11.4749,-4.127573 z m 12.8716,3.586616 -1.8717,4.904629 c 4.0968,1.563455 8.1657,3.200294 12.204,4.909406 4.0383,1.709111 8.046,3.490495 12.0206,5.343039 l 2.2178,-4.758228 c -4.0314,-1.879009 -8.0963,-3.685825 -12.1923,-5.419337 -4.096,-1.733512 -8.223,-3.39372 -12.3784,-4.979509 z m 11.9887,5.900371 c 3.7767,1.598384 7.5269,3.259257 11.2487,4.98174 l -1.365,2.949268 c -3.6892,-1.707425 -7.4067,-3.353787 -11.1504,-4.938206 z m 12.582,4.498475 -2.2178,4.758228 c 3.9745,1.852543 7.9159,3.776246 11.8215,5.769996 3.9056,1.99375 7.7754,4.057546 11.6069,6.190276 l 2.5533,-4.58705 c -3.8865,-2.163325 -7.8118,-4.256683 -11.7733,-6.278962 -3.9615,-2.02228 -7.9592,-3.97348 -11.9906,-5.852488 z m 11.536,6.743104 c 3.6526,1.86463 7.2744,3.789848 10.8633,5.774773 l -1.5729,2.843879 c -3.5573,-1.967504 -7.1474,-3.875846 -10.768,-5.724148 z m 12.2279,5.388346 -2.5533,4.58705 c 3.8314,2.13273 7.6244,4.334394 11.3765,6.603879 0.3883,0.234892 0.7762,0.470509 1.1637,0.706852 3.3567,2.047082 6.6803,4.147428 9.9704,6.299018 l 2.8728,-4.39246 c -3.3355,-2.181634 -6.7054,-4.311826 -10.1093,-6.388554 -0.3931,-0.239745 -0.7866,-0.478754 -1.1805,-0.717025 -3.8062,-2.302144 -7.6539,-4.535435 -11.5403,-6.69876 z m 11.0227,7.554411 c 0.3929,0.237628 0.7853,0.475991 1.1773,0.715088 3.1091,1.896727 6.1899,3.838264 9.2419,5.823057 l -1.7712,2.723836 c -3.0262,-1.967779 -6.0807,-3.892404 -9.1631,-5.772324 -0.3885,-0.236991 -0.7775,-0.473255 -1.1669,-0.70879 z m 11.8074,6.249928 -2.8728,4.39246 c 3.67,2.399987 7.2982,4.863733 10.884,7.3884316 3.5858,2.5246984 7.1293,5.1103496 10.6298,7.75414785 l 3.1631,-4.18839585 c -3.5466,-2.6783057 -7.1374,-5.2982156 -10.7716,-7.8569246 -3.6343,-2.558709 -7.312,-5.056217 -11.0325,-7.489719 z m 10.457,8.307085 c 3.3514,2.3596096 6.6659,4.7714906 9.9428,7.2334259 l -1.9516,2.5976505 c -3.2505,-2.4422073 -6.5378,-4.8344916 -9.8615,-7.1746361 z m 11.3471,7.0395586 -3.1631,4.18839585 c 3.5005,2.64379825 6.958,5.34574375 10.3718,8.10303095 3.4139,2.7572871 6.7842,5.5699156 10.1102,8.4350806 l 3.4269,-3.978369 c -3.3678,-2.9006666 -6.7809,-5.7485482 -10.2387,-8.5408397 -3.4579,-2.79229154 -6.9604,-5.5289929 -10.5071,-8.2072987 z m 9.8788,8.9852278 c 3.1891,2.5753883 6.3402,5.1982519 9.4527,7.8663736 l -2.1155,2.467774 c -3.0885,-2.647825 -6.215,-5.2505235 -9.379,-7.8058778 z m 10.867,7.7629106 -3.4269,3.978369 c 3.326,2.865166 6.6078,5.782867 9.8447,8.750299 3.2369,2.967432 6.4289,5.984595 9.5755,9.048683 l 3.6639,-3.762382 c -3.1839,-3.100583 -6.4143,-6.153992 -9.6907,-9.157422 -3.2764,-3.00343 -6.5988,-5.956881 -9.9665,-8.857547 z m 9.2906,9.594903 c 3.0221,2.770417 6.0052,5.583513 8.9486,8.437072 l -2.2629,2.334206 c -2.922,-2.832693 -5.883,-5.625055 -8.8826,-8.374869 z m 10.3666,8.420066 -3.6639,3.762382 c 3.1465,3.064088 6.2475,6.175101 9.3024,9.330234 1.0768,1.112105 2.1479,2.229691 3.2132,3.352636 1.9571,2.063159 3.8952,4.144259 5.8143,6.242695 l 3.8737,-3.542352 c -1.9403,-2.121864 -3.8999,-4.226495 -5.8789,-6.313286 -1.0774,-1.136045 -2.1607,-2.266701 -3.2498,-3.391844 -3.09,-3.192125 -6.2272,-6.339882 -9.411,-9.440465 z m 8.6924,10.136113 c 1.0868,1.12266 2.1677,2.250826 3.2428,3.384376 1.7447,1.83959 3.4743,3.693119 5.1888,5.560168 l -2.3934,2.197959 c -1.7029,-1.854224 -3.4206,-3.694877 -5.1534,-5.521544 -1.0676,-1.12544 -2.141,-2.245515 -3.2201,-3.360104 z m 9.8473,9.009482 -3.8737,3.542352 c 2.9637,3.2407 5.8823,6.522746 8.7562,9.843907 2.8739,3.321162 5.7032,6.681439 8.4885,10.078603 l 4.0591,-3.328164 c -2.8145,-3.432378 -5.6738,-6.828111 -8.5786,-10.184971 -2.9048,-3.356859 -5.8551,-6.674844 -8.8515,-9.951727 z m 8.0955,10.605924 c 2.6801,3.097225 5.3215,6.227717 7.9247,9.389714 l -2.5087,2.06523 c -2.5864,-3.141822 -5.2106,-6.252011 -7.873,-9.328805 z m 9.3346,9.530774 -4.0591,3.328164 c 2.7853,3.397164 5.5267,6.831215 8.2246,10.299923 2.6979,3.468709 5.3525,6.972075 7.9643,10.50787 l 4.2233,-3.119786 c -2.6374,-3.570041 -5.3185,-7.107895 -8.0438,-10.611333 -2.7253,-3.503438 -5.4949,-6.972461 -8.3093,-10.404838 z m 7.52,11.01879 c 2.5148,3.232912 4.9919,6.49528 7.4318,9.785343 l -2.6108,1.936099 c -2.4251,-3.270442 -4.8871,-6.513062 -7.3862,-9.726097 z m 8.8331,9.997381 -4.2233,3.119786 c 2.6118,3.535796 5.1808,7.104017 7.7076,10.702447 2.5269,3.59842 5.0115,7.22704 7.4547,10.88364 l 4.3663,-2.91722 c -2.4652,-3.68987 -4.9729,-7.35202 -7.5236,-10.9842 -2.5506,-3.632186 -5.1444,-7.234413 -7.7817,-10.804453 z m 6.9632,11.379263 c 2.354,3.35212 4.6713,6.72987 6.9525,10.13152 l -2.6999,1.81056 c -2.2684,-3.38258 -4.5726,-6.74114 -6.9129,-10.07393 z m 8.3421,10.40939 -4.3663,2.91722 c 2.4431,3.65659 4.8447,7.34116 7.2053,11.05146 0.4265,0.67033 0.8517,1.3415 1.2755,2.01349 1.922,3.04767 3.8167,6.11248 5.6846,9.19369 l 4.4891,-2.72129 c -1.8836,-3.10739 -3.7944,-6.19856 -5.7329,-9.27276 -0.4275,-0.67791 -0.8563,-1.35499 -1.2864,-2.03124 -2.381,-3.7431 -4.8037,-7.4607 -7.2689,-11.15057 z m 6.4251,11.68735 c 0.4295,0.67512 0.8576,1.35108 1.2843,2.02786 1.7571,2.78644 3.4914,5.58689 5.2034,8.4008 l -2.7763,1.68909 c -1.7031,-2.79918 -3.4283,-5.5848 -5.1761,-8.35633 -0.4245,-0.67312 -0.8504,-1.34542 -1.2776,-2.01687 z m 7.8631,10.76722 -4.4891,2.72129 c 2.2797,3.76064 4.5194,7.5457 6.7197,11.35386 2.2003,3.80816 4.3612,7.6394 6.4835,11.4924 l 4.5983,-2.53288 c -2.1394,-3.88385 -4.318,-7.74623 -6.5365,-11.58579 -2.2185,-3.83956 -4.4769,-7.6563 -6.7759,-11.44888 z m 5.9101,11.94912 c 2.0479,3.54425 4.0617,7.10805 6.0421,10.69034 l -2.8442,1.5723 c -1.9705,-3.5646 -3.9742,-7.11057 -6.0117,-10.63685 z m 7.4023,11.08555 -4.5983,2.53288 c 2.1223,3.85299 4.2058,7.72773 6.2514,11.62287 2.0456,3.89514 4.0532,7.81069 6.0235,11.7453 l 4.6947,-2.35094 c -1.9853,-3.96439 -4.0084,-7.90999 -6.0701,-11.83545 -2.0616,-3.92547 -4.1618,-7.8308 -6.3012,-11.71466 z m 5.4159,12.17963 c 1.9032,3.62386 3.7736,7.26498 5.6116,10.92229 l -2.9041,1.45952 c -1.8294,-3.64024 -3.6909,-7.26415 -5.5849,-10.87066 z m 6.9554,11.37048 -4.6947,2.35094 c 1.9703,3.93461 3.9032,7.88827 5.7996,11.85966 1.8963,3.97138 3.756,7.96048 5.5797,11.96596 l 4.7783,-2.17551 c -1.8366,-4.03417 -3.7097,-8.05224 -5.62,-12.05286 -1.9102,-4.00063 -3.8577,-7.9838 -5.8429,-11.94819 z m 4.9404,12.37912 c 1.7637,3.69354 3.4956,7.40204 5.1965,11.12443 l -2.9562,1.35077 c -1.6934,-3.70595 -3.4177,-7.39785 -5.1734,-11.07466 z m 6.5225,11.62193 -4.7783,2.17551 c 0.6307,1.38513 1.2571,2.77223 1.8792,4.16122 1.1768,2.62771 2.3384,5.26225 3.4848,7.90341 1.7524,4.03731 3.4692,8.0901 5.1507,12.15764 l 4.8517,-2.00562 c -1.6931,-4.09572 -3.4219,-8.17674 -5.1865,-12.24232 -1.1544,-2.65966 -2.3242,-5.31271 -3.5093,-7.95894 -0.6264,-1.39886 -1.2572,-2.79584 -1.8923,-4.1909 z m 4.4843,12.54799 c 1.6293,3.75377 3.228,7.52074 4.7962,11.30033 l -3.0018,1.24552 c -1.5615,-3.76345 -3.1534,-7.51427 -4.7757,-11.25185 z m 6.1038,11.84417 -4.8517,2.00562 c 1.6814,4.06753 3.3274,8.1498 4.9381,12.24607 1.6107,4.09627 3.1861,8.20653 4.7263,12.33004 l 4.9182,-1.837 c -1.5507,-4.15153 -3.1369,-8.28985 -4.7586,-12.41423 -1.6218,-4.12437 -3.2792,-8.23478 -4.9723,-12.3305 z m 4.0416,12.69644 c 1.4974,3.80815 2.9645,7.62823 4.4012,11.45966 l -3.0431,1.14112 c -1.4307,-3.81539 -2.8916,-7.61941 -4.3827,-11.41147 z m 5.6893,12.04829 -4.9182,1.837 c 1.5401,4.12352 3.0451,8.26028 4.515,12.40956 1.4698,4.14927 2.9046,8.31105 4.3043,12.48459 l 4.9776,-1.66938 c -1.4091,-4.2014 -2.8534,-8.39107 -4.3332,-12.56828 -1.4797,-4.17721 -2.9949,-8.34195 -4.5455,-12.49349 z m 3.6029,12.82741 c 1.3663,3.85702 2.7024,7.72471 4.0084,11.60248 l -3.08,1.03733 c -1.3006,-3.86182 -2.6313,-7.71354 -3.9919,-11.55458 z m 5.2758,12.23436 -4.9776,1.66938 c 0.4678,1.3948 0.9317,2.79092 1.3917,4.18832 0.9164,2.78422 1.8178,5.57327 2.7033,8.36713 1.33,4.19625 2.6244,8.40336 3.8804,12.62127 l 5.0318,-1.4984 c -1.265,-4.24825 -2.5684,-8.48467 -3.9074,-12.70921 -0.8915,-2.81269 -1.7989,-5.62012 -2.7213,-8.42227 -0.4631,-1.4067 -0.93,-2.81212 -1.4009,-4.21622 z m 3.1689,12.94065 c 1.2364,3.90073 2.4423,7.81144 3.6156,11.7321 l -3.1137,0.93182 c -1.1681,-3.90338 -2.3689,-7.79736 -3.6001,-11.6819 z m 4.8607,12.40705 -5.0318,1.4984 c 1.2561,4.21791 2.4739,8.44662 3.6508,12.68608 1.177,4.23946 2.313,8.48967 3.4056,12.75058 l 5.0853,-1.30402 c -1.1014,-4.29536 -2.2464,-8.579 -3.4322,-12.85085 -1.1859,-4.27186 -2.4126,-8.53194 -3.6777,-12.78019 z m 2.7141,13.04767 c 1.0948,3.94375 2.1546,7.8974 3.1775,11.8609 l -3.1469,0.81207 c -1.0177,-3.94388 -2.0724,-7.87844 -3.1621,-11.80365 z m 4.3958,12.58337 -5.0853,1.30402 c 0.5259,2.05086 1.0417,4.10421 1.5472,6.16002 0.5447,2.21544 1.0772,4.43257 1.5941,6.65195 0.6308,2.7078 1.2383,5.41894 1.8164,8.13443 l 0,0 c 0.276,1.29653 0.5448,2.59097 0.801,3.8843 l 0,0 0.1617,0.83649 5.1537,-1.00112 -0.1632,-0.84379 c -0.2632,-1.32865 -0.5377,-2.65139 -0.8183,-3.96919 l 0,0 c -0.586,-2.7519 -1.2008,-5.49558 -1.8381,-8.23204 -0.5224,-2.24287 -1.0599,-4.48088 -1.6092,-6.71459 -0.5097,-2.07288 -1.0298,-4.14304 -1.56,-6.21048 z m 2.1953,13.15191 c 0.636,2.731 1.2494,5.46848 1.8339,8.21345 0.2696,1.26646 0.5335,2.53628 0.7867,3.81031 l -3.189,0.6266 c -0.2491,-1.25325 -0.5095,-2.50633 -0.7764,-3.7601 -0.5797,-2.72242 -1.1885,-5.43976 -1.8205,-8.15302 z"
+       d="m -1608.7332,-79.870819 0.4748,5.228478 c 4.3751,-0.396809 8.7566,-0.734681 13.1423,-1.011837 4.3857,-0.277157 8.7756,-0.493599 13.1675,-0.647547 l -0.1841,-5.250178 c -4.4417,0.155773 -8.8808,0.374935 -13.315,0.655709 -4.4342,0.280774 -8.8635,0.623158 -13.2855,1.025375 z m 13.3487,-0.0269 c 4.091,-0.258946 8.186,-0.465376 12.2834,-0.617884 l 0.121,3.249845 c -4.0689,0.151386 -8.1359,0.35622 -12.1992,0.613096 z m 13.2518,-1.654188 0.1841,5.250178 c 4.3919,-0.153948 8.7857,-0.245403 13.1792,-0.272587 4.3936,-0.02718 8.7868,0.0099 13.1774,0.113043 l 0.1236,-5.250379 c -4.4433,-0.104896 -8.8885,-0.142847 -13.3333,-0.11563 -4.4448,0.02722 -8.8892,0.119601 -13.331,0.275375 z m 13.3372,0.72519 c 4.1003,-0.02516 8.2008,0.0052 12.2998,0.0926 l -0.069,3.250472 c -4.0688,-0.08643 -8.1397,-0.116376 -12.2106,-0.09124 z m 13.3271,-0.884935 -0.1236,5.250379 c 4.3906,0.103138 8.7787,0.272325 13.1619,0.50934 4.3833,0.237016 8.7617,0.541859 13.133,0.916309 l 0.4483,-5.229079 c -4.4269,-0.379791 -8.8601,-0.68908 -13.2974,-0.929646 -4.4374,-0.240565 -8.8788,-0.412407 -13.3222,-0.517303 z m 13.2681,1.515859 c 4.0929,0.221784 8.1822,0.502164 12.2661,0.842546 l -0.2698,3.237788 c -4.0521,-0.337402 -8.11,-0.615276 -12.172,-0.835029 z m 13.3515,-0.06891 -0.4483,5.229079 c 4.3713,0.374449 8.7355,0.818505 13.0904,1.333945 4.3548,0.51544 8.7003,1.102264 13.0342,1.762251 l 0.7899,-5.186278 c -4.3923,-0.668912 -8.7954,-1.263765 -13.2072,-1.786339 -4.4118,-0.522573 -8.8322,-0.972867 -13.259,-1.352658 z m 13.1415,2.345109 c 4.0688,0.481878 8.1301,1.025391 12.1821,1.631946 l -0.4808,3.211794 c -4.0187,-0.601524 -8.047,-1.140481 -12.0832,-1.618276 z m 13.3247,0.793888 -0.7899,5.186278 c 4.3339,0.659987 8.6562,1.393136 12.9646,2.201226 4.3084,0.80809 8.6029,1.691121 12.8813,2.650871 l 1.1483,-5.121975 c -4.3396,-0.972259 -8.6945,-1.866903 -13.0627,-2.68571 -4.3681,-0.818807 -8.7494,-1.561777 -13.1416,-2.23069 z m 12.9575,3.21294 c 4.0279,0.755124 8.0445,1.574922 12.0479,2.460802 l -0.7023,3.172491 c -3.9684,-0.878798 -7.9505,-1.69199 -11.9442,-2.440979 z m 13.2468,1.70346 -1.1483,5.121975 c 1.0033,0.225066 2.0057,0.454351 3.0072,0.687878 3.2691,0.761678 6.5275,1.568814 9.7741,2.420909 4.2412,1.113128 8.4622,2.302981 12.6605,3.568443 l 1.515,-5.026253 c -4.2586,-1.283669 -8.5404,-2.490695 -12.8428,-3.619965 -3.2934,-0.86445 -6.5989,-1.683337 -9.9154,-2.456161 -1.0159,-0.236559 -2.0327,-0.468827 -3.0503,-0.696826 z m 12.7119,4.120182 c 3.9669,1.0412 7.9162,2.148693 11.846,3.321601 l -0.9294,3.114032 c -3.8952,-1.162578 -7.8098,-2.260287 -11.7417,-3.292248 z m 13.0966,2.65277 -1.515,5.026253 c 4.1982,1.265463 8.3737,2.606537 12.5239,4.022108 4.1502,1.415572 8.275,2.905641 12.3718,4.469095 l 1.8717,-4.904629 c -4.1554,-1.58579 -8.3392,-3.097163 -12.5488,-4.533005 -4.2096,-1.435842 -8.445,-2.796154 -12.7036,-4.079822 z m 12.3808,5.026211 c 3.8814,1.323907 7.7409,2.712205 11.5763,4.164016 l -1.1505,3.039319 c -3.8018,-1.439117 -7.6275,-2.815268 -11.4749,-4.127573 z m 12.8716,3.586616 -1.8717,4.904629 c 4.0968,1.563455 8.1657,3.200294 12.204,4.909406 4.0383,1.709111 8.046,3.490495 12.0206,5.343039 l 2.2178,-4.758228 c -4.0314,-1.879009 -8.0963,-3.685825 -12.1923,-5.419337 -4.096,-1.733512 -8.223,-3.39372 -12.3784,-4.979509 z m 11.9887,5.900371 c 3.7767,1.598384 7.5269,3.259257 11.2487,4.98174 l -1.365,2.949268 c -3.6892,-1.707425 -7.4067,-3.353787 -11.1504,-4.938206 z m 12.582,4.498475 -2.2178,4.758228 c 3.9745,1.852543 7.9159,3.776246 11.8215,5.769996 3.9056,1.99375 7.7754,4.057546 11.6069,6.190276 l 2.5533,-4.58705 c -3.8865,-2.163325 -7.8118,-4.256683 -11.7733,-6.278962 -3.9615,-2.02228 -7.9592,-3.97348 -11.9906,-5.852488 z m 11.536,6.743104 c 3.6526,1.86463 7.2744,3.789848 10.8633,5.774773 l -1.5729,2.843879 c -3.5573,-1.967504 -7.1474,-3.875846 -10.768,-5.724148 z m 12.2279,5.388346 -2.5533,4.58705 c 3.8314,2.13273 7.6244,4.334394 11.3765,6.603879 0.3883,0.234892 0.7762,0.470509 1.1637,0.706852 3.3567,2.047082 6.6803,4.147428 9.9704,6.299018 l 2.8728,-4.39246 c -3.3355,-2.181634 -6.7054,-4.311826 -10.1093,-6.388554 -0.3931,-0.239745 -0.7866,-0.478754 -1.1805,-0.717025 -3.8062,-2.302144 -7.6539,-4.535435 -11.5403,-6.69876 z m 11.0227,7.554411 c 0.3929,0.237628 0.7853,0.475991 1.1773,0.715088 3.1091,1.896727 6.1899,3.838264 9.2419,5.823057 l -1.7712,2.723836 c -3.0262,-1.967779 -6.0807,-3.892404 -9.1631,-5.772324 -0.3885,-0.236991 -0.7775,-0.473255 -1.1669,-0.70879 z m 11.8074,6.249928 -2.8728,4.39246 c 3.67,2.399987 7.2982,4.863733 10.884,7.3884316 3.5858,2.5246984 7.1293,5.1103496 10.6298,7.75414785 l 3.1631,-4.18839585 c -3.5466,-2.6783057 -7.1374,-5.2982156 -10.7716,-7.8569246 -3.6343,-2.558709 -7.312,-5.056217 -11.0325,-7.489719 z m 10.457,8.307085 c 3.3514,2.3596096 6.6659,4.7714906 9.9428,7.2334259 l -1.9516,2.5976505 c -3.2505,-2.4422073 -6.5378,-4.8344916 -9.8615,-7.1746361 z m 11.3471,7.0395586 -3.1631,4.18839585 c 3.5005,2.64379825 6.958,5.34574375 10.3718,8.10303095 3.4139,2.7572871 6.7842,5.5699156 10.1102,8.4350806 l 3.4269,-3.978369 c -3.3678,-2.9006666 -6.7809,-5.7485482 -10.2387,-8.5408397 -3.4579,-2.79229154 -6.9604,-5.5289929 -10.5071,-8.2072987 z m 9.8788,8.9852278 c 3.1891,2.5753883 6.3402,5.1982519 9.4527,7.8663736 l -2.1155,2.467774 c -3.0885,-2.647825 -6.215,-5.2505235 -9.379,-7.8058778 z m 10.867,7.7629106 -3.4269,3.978369 c 3.326,2.865166 6.6078,5.782867 9.8447,8.750299 3.2369,2.967432 6.4289,5.984595 9.5755,9.048683 l 3.6639,-3.762382 c -3.1839,-3.100583 -6.4143,-6.153992 -9.6907,-9.157422 -3.2764,-3.00343 -6.5988,-5.956881 -9.9665,-8.857547 z m 9.2906,9.594903 c 3.0221,2.770417 6.0052,5.583513 8.9486,8.437072 l -2.2629,2.334206 c -2.922,-2.832693 -5.883,-5.625055 -8.8826,-8.374869 z m 10.3666,8.420066 -3.6639,3.762382 c 3.1465,3.064088 6.2475,6.175101 9.3024,9.330234 1.0768,1.112105 2.1479,2.229691 3.2132,3.352636 1.9571,2.063159 3.8952,4.144259 5.8143,6.242695 l 3.8737,-3.542352 c -1.9403,-2.121864 -3.8999,-4.226495 -5.8789,-6.313286 -1.0774,-1.136045 -2.1607,-2.266701 -3.2498,-3.391844 -3.09,-3.192125 -6.2272,-6.339882 -9.411,-9.440465 z m 8.6924,10.136113 c 1.0868,1.12266 2.1677,2.250826 3.2428,3.384376 1.7447,1.83959 3.4743,3.693119 5.1888,5.560168 l -2.3934,2.197959 c -1.7029,-1.854224 -3.4206,-3.694877 -5.1534,-5.521544 -1.0676,-1.12544 -2.141,-2.245515 -3.2201,-3.360104 z m 9.8473,9.009482 -3.8737,3.542352 c 2.9637,3.2407 5.8823,6.522746 8.7562,9.843907 2.8739,3.321162 5.7032,6.681439 8.4885,10.078603 l 4.0591,-3.328164 c -2.8145,-3.432378 -5.6738,-6.828111 -8.5786,-10.184971 -2.9048,-3.356859 -5.8551,-6.674844 -8.8515,-9.951727 z m 8.0955,10.605924 c 2.6801,3.097225 5.3215,6.227717 7.9247,9.389714 l -2.5087,2.06523 c -2.5864,-3.141822 -5.2106,-6.252011 -7.873,-9.328805 z m 9.3346,9.530774 -4.0591,3.328164 c 2.7853,3.397164 5.5267,6.831215 8.2246,10.299923 2.6979,3.468709 5.3525,6.972075 7.9643,10.50787 l 4.2233,-3.119786 c -2.6374,-3.570041 -5.3185,-7.107895 -8.0438,-10.611333 -2.7253,-3.503438 -5.4949,-6.972461 -8.3093,-10.404838 z m 7.52,11.01879 c 2.5148,3.232912 4.9919,6.49528 7.4318,9.785343 l -2.6108,1.936099 c -2.4251,-3.270442 -4.8871,-6.513062 -7.3862,-9.726097 z m 8.8331,9.997381 -4.2233,3.119786 c 2.6118,3.535796 5.1808,7.104017 7.7076,10.702447 2.5269,3.59842 5.0115,7.22704 7.4547,10.88364 l 4.3663,-2.91722 c -2.4652,-3.68987 -4.9729,-7.35202 -7.5236,-10.9842 -2.5506,-3.632186 -5.1444,-7.234413 -7.7817,-10.804453 z m 6.9632,11.379263 c 2.354,3.35212 4.6713,6.72987 6.9525,10.13152 l -2.6999,1.81056 c -2.2684,-3.38258 -4.5726,-6.74114 -6.9129,-10.07393 z m 8.3421,10.40939 -4.3663,2.91722 c 2.4431,3.65659 4.8447,7.34116 7.2053,11.05146 0.4265,0.67033 0.8517,1.3415 1.2755,2.01349 1.922,3.04767 3.8167,6.11248 5.6846,9.19369 l 4.4891,-2.72129 c -1.8836,-3.10739 -3.7944,-6.19856 -5.7329,-9.27276 -0.4275,-0.67791 -0.8563,-1.35499 -1.2864,-2.03124 -2.381,-3.7431 -4.8037,-7.4607 -7.2689,-11.15057 z m 6.4251,11.68735 c 0.4295,0.67512 0.8576,1.35108 1.2843,2.02786 1.7571,2.78644 3.4914,5.58689 5.2034,8.4008 l -2.7763,1.68909 c -1.7031,-2.79918 -3.4283,-5.5848 -5.1761,-8.35633 -0.4245,-0.67312 -0.8504,-1.34542 -1.2776,-2.01687 z m 7.8631,10.76722 -4.4891,2.72129 c 2.2797,3.76064 4.5194,7.5457 6.7197,11.35386 2.2003,3.80816 4.3612,7.6394 6.4835,11.4924 l 4.5983,-2.53288 c -2.1394,-3.88385 -4.318,-7.74623 -6.5365,-11.58579 -2.2185,-3.83956 -4.4769,-7.6563 -6.7759,-11.44888 z m 5.9101,11.94912 c 2.0479,3.54425 4.0617,7.10805 6.0421,10.69034 l -2.8442,1.5723 c -1.9705,-3.5646 -3.9742,-7.11057 -6.0117,-10.63685 z m 7.4023,11.08555 -4.5983,2.53288 c 2.1223,3.85299 4.2058,7.72773 6.2514,11.62287 2.0456,3.89514 4.0532,7.81069 6.0235,11.7453 l 4.6947,-2.35094 c -1.9853,-3.96439 -4.0084,-7.90999 -6.0701,-11.83545 -2.0616,-3.92547 -4.1618,-7.8308 -6.3012,-11.71466 z m 5.4159,12.17963 c 1.9032,3.62386 3.7736,7.26498 5.6116,10.92229 l -2.9041,1.45952 c -1.8294,-3.64024 -3.6909,-7.26415 -5.5849,-10.87066 z m 6.9554,11.37048 -4.6947,2.35094 c 1.9703,3.93461 3.9032,7.88827 5.7996,11.85966 1.8963,3.97138 3.756,7.96048 5.5797,11.96596 l 4.7783,-2.17551 c -1.8366,-4.03417 -3.7097,-8.05224 -5.62,-12.05286 -1.9102,-4.00063 -3.8577,-7.9838 -5.8429,-11.94819 z m 4.9404,12.37912 c 1.7637,3.69354 3.4956,7.40204 5.1965,11.12443 l -2.9562,1.35077 c -1.6934,-3.70595 -3.4177,-7.39785 -5.1734,-11.07466 z m 6.5225,11.62193 -4.7783,2.17551 c 0.6307,1.38513 1.2571,2.77223 1.8792,4.16122 1.1768,2.62771 2.3384,5.26225 3.4848,7.90341 1.7524,4.03731 3.4692,8.0901 5.1507,12.15764 l 4.8517,-2.00562 c -1.6931,-4.09572 -3.4219,-8.17674 -5.1865,-12.24232 -1.1544,-2.65966 -2.3242,-5.31271 -3.5093,-7.95894 -0.6264,-1.39886 -1.2572,-2.79584 -1.8923,-4.1909 z m 4.4843,12.54799 c 1.6293,3.75377 3.228,7.52074 4.7962,11.30033 l -3.0018,1.24552 c -1.5615,-3.76345 -3.1534,-7.51427 -4.7757,-11.25185 z m 6.1038,11.84417 -4.8517,2.00562 c 1.6814,4.06753 3.3274,8.1498 4.9381,12.24607 1.6107,4.09627 3.1861,8.20653 4.7263,12.33004 l 4.9182,-1.837 c -1.5507,-4.15153 -3.1369,-8.28985 -4.7586,-12.41423 -1.6218,-4.12437 -3.2792,-8.23478 -4.9723,-12.3305 z m 4.0416,12.69644 c 1.4974,3.80815 2.9645,7.62823 4.4012,11.45966 l -3.0431,1.14112 c -1.4307,-3.81539 -2.8916,-7.61941 -4.3827,-11.41147 z m 5.6893,12.04829 -4.9182,1.837 c 1.5401,4.12352 3.0451,8.26028 4.515,12.40956 1.4698,4.14927 2.9046,8.31105 4.3043,12.48459 l 4.9776,-1.66938 c -1.4091,-4.2014 -2.8534,-8.39107 -4.3332,-12.56828 -1.4797,-4.17721 -2.9949,-8.34195 -4.5455,-12.49349 z m 3.6029,12.82741 c 1.3663,3.85702 2.7024,7.72471 4.0084,11.60248 l -3.08,1.03733 c -1.3006,-3.86182 -2.6313,-7.71354 -3.9919,-11.55458 z m 5.2758,12.23436 -4.9776,1.66938 c 0.4678,1.3948 0.9317,2.79092 1.3917,4.18832 0.9164,2.78422 1.8178,5.57327 2.7033,8.36713 1.33,4.19625 2.6244,8.40336 3.8804,12.62127 l 5.0318,-1.4984 c -1.265,-4.24825 -2.5684,-8.48467 -3.9074,-12.70921 -0.8915,-2.81269 -1.7989,-5.62012 -2.7213,-8.42227 -0.4631,-1.4067 -0.93,-2.81212 -1.4009,-4.21622 z m 3.1689,12.94065 c 1.2364,3.90073 2.4423,7.81144 3.6156,11.7321 l -3.1137,0.93182 c -1.1681,-3.90338 -2.3689,-7.79736 -3.6001,-11.6819 z m 4.8607,12.40705 -5.0318,1.4984 c 1.2561,4.21791 2.4739,8.44662 3.6508,12.68608 1.177,4.23946 2.313,8.48967 3.4056,12.75058 l 5.0853,-1.30402 c -1.1014,-4.29536 -2.2464,-8.579 -3.4322,-12.85085 -1.1859,-4.27186 -2.4126,-8.53194 -3.6777,-12.78019 z m 2.7141,13.04767 c 1.0948,3.94375 2.1546,7.8974 3.1775,11.8609 l -3.1469,0.81207 c -1.0177,-3.94388 -2.0724,-7.87844 -3.1621,-11.80365 z m 4.3958,12.58337 -5.0853,1.30402 c 0.5259,2.05086 1.0417,4.10421 1.5472,6.16002 0.5447,2.21544 1.0772,4.43257 1.5941,6.65195 0.6308,2.7078 1.2383,5.41894 1.8164,8.13443 l 0,0 c 0.2764,1.29848 0.5456,2.59488 0.8022,3.89017 l 0,0 c 0.055,0.27645 0.1087,0.55175 0.1615,0.82597 l 5.1553,-0.99252 c -0.055,-0.28595 -0.1108,-0.57046 -0.1669,-0.8536 -0.2628,-1.3267 -0.537,-2.64748 -0.8172,-3.96333 l 0,0 c -0.586,-2.7519 -1.2008,-5.49558 -1.8381,-8.23204 -0.5224,-2.24287 -1.0599,-4.48088 -1.6092,-6.71459 -0.5097,-2.07288 -1.0298,-4.14304 -1.56,-6.21048 z m 2.1953,13.15191 c 0.636,2.731 1.2494,5.46848 1.8339,8.21345 0.2694,1.2653 0.533,2.53394 0.7861,3.80681 l -3.1877,0.6336 c -0.2493,-1.25442 -0.51,-2.50866 -0.7771,-3.7636 -0.5797,-2.72242 -1.1885,-5.43976 -1.8205,-8.15302 z"
        id="use6420"
        inkscape:path-effect="#path-effect6422;#path-effect6426"
        inkscape:original-d="M 0,0"
@@ -13187,7 +13140,7 @@
      inkscape:label="Dept Store Rank (1-12)"
      style="display:none">
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8"
        xml:space="preserve"
        transform="translate(516.48159,1144.2864)"><flowRegion
@@ -13198,9 +13151,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1">12</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-3"
        xml:space="preserve"
        transform="translate(678.63478,1246.5159)"><flowRegion
@@ -13211,9 +13164,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-3"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-0">11</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-39"
        xml:space="preserve"
        transform="translate(1068.3926,669.27678)"><flowRegion
@@ -13224,9 +13177,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-0"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-7">10</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-8"
        xml:space="preserve"
        transform="translate(987.87731,805.13124)"><flowRegion
@@ -13237,9 +13190,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-2"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-79">4</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-7"
        xml:space="preserve"
        transform="translate(953.23905,960.69472)"><flowRegion
@@ -13250,9 +13203,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-25"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-8">7</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-1"
        xml:space="preserve"
        transform="translate(546.65768,998.06641)"><flowRegion
@@ -13263,9 +13216,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-4"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-1">3</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-4"
        xml:space="preserve"
        transform="translate(527.13662,728.05666)"><flowRegion
@@ -13276,9 +13229,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-40"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-6">1</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-6"
        xml:space="preserve"
        transform="translate(564.844,537.99659)"><flowRegion
@@ -13289,9 +13242,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-1"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-3">6</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-86"
        xml:space="preserve"
        transform="translate(625.14401,382.95357)"><flowRegion
@@ -13302,9 +13255,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-23"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-5">2</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-81"
        xml:space="preserve"
        transform="translate(1104.5448,529.96179)"><flowRegion
@@ -13315,9 +13268,9 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-37"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-05">8</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot9584-8-66-5-8-9-8-10"
        xml:space="preserve"
        transform="translate(1289.1098,233.42561)"><flowRegion
@@ -13328,12 +13281,12 @@
            width="32.278954"
            id="rect9588-100-27-17-4-9-5-22"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara9590-22-3-66-3-4-1-00">9</flowPara></flowRoot>    <flowRoot
        transform="translate(836.54644,1271.0095)"
        xml:space="preserve"
        id="flowRoot6616"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
          id="flowRegion6618"><rect
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect6620"
@@ -13342,7 +13295,7 @@
            x="-0.56340188"
            y="1.0278535" /></flowRegion><flowPara
          id="flowPara6622"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer18"
@@ -17582,7 +17535,7 @@
              transform="translate(525.14819,663.79582)"
              xml:space="preserve"
              id="flowRoot5426-8"
-             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                id="flowRegion5428-6"><rect
                  id="rect5430-0"
                  width="73.654579"
@@ -17590,7 +17543,7 @@
                  x="-529.60803"
                  y="165.17477" /></flowRegion><flowPara
                id="flowPara5432-7"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
       </g>
     </g>
     <g
@@ -18608,7 +18561,7 @@
              transform="translate(525.14819,663.79582)"
              xml:space="preserve"
              id="flowRoot6024"
-             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                id="flowRegion6026"><rect
                  id="rect6028"
                  width="73.654579"
@@ -18616,7 +18569,7 @@
                  x="-529.60803"
                  y="165.17477" /></flowRegion><flowPara
                id="flowPara6030"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
       </g>
       <g
          inkscape:export-ydpi="300"
@@ -18660,7 +18613,7 @@
              transform="translate(525.14819,663.79582)"
              xml:space="preserve"
              id="flowRoot5426"
-             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                id="flowRegion5428"><rect
                  id="rect5430"
                  width="73.654579"
@@ -18668,7 +18621,7 @@
                  x="-529.60803"
                  y="165.17477" /></flowRegion><flowPara
                id="flowPara5432"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>        </g>
       </g>
     </g>
     <g
@@ -18914,7 +18867,7 @@
              cy="833.25507"
              r="9.4642859" />
           <flowRoot
-             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot6498"
              xml:space="preserve"
              transform="translate(525.14819,663.79582)"><flowRegion
@@ -18924,7 +18877,7 @@
                  height="39.987968"
                  width="73.654579"
                  id="rect6502" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                id="flowPara6504">2</flowPara></flowRoot>        </g>
       </g>
     </g>
@@ -19094,7 +19047,7 @@
              cy="833.25507"
              r="9.4642859" />
           <flowRoot
-             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="flowRoot6254"
              xml:space="preserve"
              transform="translate(525.14819,663.79582)"><flowRegion
@@ -19104,7 +19057,7 @@
                  height="39.987968"
                  width="73.654579"
                  id="rect6258" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                id="flowPara6260">2</flowPara></flowRoot>        </g>
       </g>
       <g
@@ -19242,7 +19195,7 @@
      inkscape:groupmode="layer">
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.44761909;fill-rule:evenodd;stroke:none;stroke-width:9.5097208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -2.5275545,0.0060875 1800.0000545,0 0,1620.0000125 -1800.0000545,0 z"
+       d="M -2.5275545,0.0060875 H 1797.4725 V 1620.0061 H -2.5275545 Z"
        id="path11453"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="299.99997"
