@@ -596,7 +596,8 @@
          inkscape:connector-curvature="0" /></g></g><g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Background - White"><rect
+     inkscape:label="Background - White"
+     style="display:none"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5509"
        width="1154.0071"
@@ -4772,7 +4773,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Cut / Fold"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true"><path
        inkscape:connector-curvature="0"
        id="path394"
