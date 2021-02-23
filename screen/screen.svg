@@ -270,12 +270,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.77989135"
-     inkscape:cx="603.44536"
+     inkscape:cx="382.2607"
      inkscape:cy="1111.192"
      inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" /><g
+     inkscape:current-layer="layer4" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Text"
@@ -607,7 +607,7 @@
        rx="16.200001" /></g><g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Border - Instr"
+     inkscape:label="Border - Player Screen Instr"
      style="display:none"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5499"
@@ -617,7 +617,8 @@
        y="89.419594"
        rx="16.200001"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" /></g><g
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/tts/ref/reference.png" /></g><g
      inkscape:label="Border - Company Logo"
      id="g5501"
      inkscape:groupmode="layer"
