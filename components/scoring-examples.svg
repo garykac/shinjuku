@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="656.10081"
-     inkscape:cy="287.01116"
+     inkscape:cx="552.56017"
+     inkscape:cy="689.05187"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="3440"
@@ -750,7 +750,9 @@
     </g>
     <g
        id="g1294"
-       transform="translate(-5.7714838,-7.614502)">
+       transform="translate(-5.7714838,-7.614502)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
       <circle
          r="22.5"
          cy="442.00909"
