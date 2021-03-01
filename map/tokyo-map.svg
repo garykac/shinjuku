@@ -3459,10 +3459,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.91418952"
-     inkscape:cx="618.81893"
+     inkscape:cx="623.19439"
      inkscape:cy="1261.9803"
      inkscape:document-units="px"
-     inkscape:current-layer="g6419"
+     inkscape:current-layer="svg4516"
      showgrid="false"
      units="in"
      inkscape:window-width="3440"
@@ -22490,7 +22490,7 @@
      inkscape:groupmode="layer"
      id="layer90"
      inkscape:label="Rulebook Overlays"
-     style="display:inline"
+     style="display:none"
      transform="translate(6.0003662,-71.25)">
     <g
        inkscape:groupmode="layer"
@@ -22873,7 +22873,7 @@
     </g>
     <g
        transform="translate(2.5275545,89.993925)"
-       style="display:inline"
+       style="display:none"
        inkscape:label="Overlay: Move Example 2"
        id="g6419"
        inkscape:groupmode="layer">
@@ -22886,7 +22886,7 @@
          height="410.12195"
          width="748.11896"
          id="rect6492"
-         style="opacity:1;fill:none;fill-opacity:0.6857143;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#1f85ff;fill-opacity:0.24031007;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          style="display:inline"
          id="g5711-4"
