@@ -31,7 +31,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="255.39122"
-     inkscape:cy="874.93934"
+     inkscape:cy="632.50273"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -743,7 +743,7 @@
      inkscape:groupmode="layer"
      id="g4285"
      inkscape:label="3-refesh"
-     style="display:none">
+     style="display:inline">
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/20-nerima.png"
        xlink:href="../cards/ku-cards-clip/20-nerima.png"
@@ -938,7 +938,7 @@
        style="display:inline" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="4-add customers"
      id="g4347"
      inkscape:groupmode="layer">
