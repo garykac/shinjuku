@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="255.39122"
-     inkscape:cy="632.50273"
+     inkscape:zoom="1.4"
+     inkscape:cx="605.62932"
+     inkscape:cy="843.43465"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,21 +62,21 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/15-suginami.png"
        xlink:href="../cards/ku-cards-clip/15-suginami.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22259"
+       y="1203.4099"
        x="102.1048"
-       y="1203.4099" />
+       id="image22259"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/23-edogawa.png"
        xlink:href="../cards/ku-cards-clip/23-edogawa.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22477"
+       y="1192.3887"
        x="567.20593"
-       y="1192.3887" />
+       id="image22477"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        style="display:inline"
        inkscape:export-ydpi="300"
@@ -258,14 +258,14 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/sidebar.png"
        xlink:href="sidebar.png"
-       width="1069.2"
-       height="367.79999"
-       preserveAspectRatio="none"
-       id="image4411-8"
-       x="-146.0285"
-       y="142.74794"
+       inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       y="142.74794"
+       x="-146.0285"
+       id="image4411-8"
+       preserveAspectRatio="none"
+       height="367.79999"
+       width="1069.2" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -275,12 +275,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/22-katsushika.png"
        xlink:href="../cards/ku-cards-clip/22-katsushika.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22727"
+       y="112.5321"
        x="661.76953"
-       y="112.5321" />
+       id="image22727"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        style="display:inline"
        inkscape:export-ydpi="300"
@@ -344,12 +344,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/20-nerima.png"
        xlink:href="../cards/ku-cards-clip/20-nerima.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22321"
+       y="112.53209"
        x="401.70367"
-       y="112.53209" />
+       id="image22321"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -398,7 +398,7 @@
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot24903"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.19648)"><flowRegion
              id="flowRegion24905"><rect
                y="165.17477"
                x="-529.60803"
@@ -411,12 +411,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/14-nakano.png"
        xlink:href="../cards/ku-cards-clip/14-nakano.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22617"
+       y="112.53209"
        x="141.63788"
-       y="112.53209" />
+       id="image22617"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        id="g25022"
        transform="translate(99.58546,-585.4491)">
@@ -462,7 +462,7 @@
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot25032"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.19648)"><flowRegion
              id="flowRegion25034"><rect
                y="165.17477"
                x="-529.60803"
@@ -495,12 +495,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/12-setagaya.png"
        xlink:href="../cards/ku-cards-clip/12-setagaya.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22539"
+       y="112.53209"
        x="-118.42795"
-       y="112.53209" />
+       id="image22539"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
   </g>
   <g
      style="display:none"
@@ -510,14 +510,14 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/22-katsushika.png"
        xlink:href="../cards/ku-cards-clip/22-katsushika.png"
-       inkscape:export-ydpi="150.12224"
-       inkscape:export-xdpi="150.12224"
-       y="-310.30896"
-       x="658.71655"
-       id="image4209"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4209"
+       x="658.71655"
+       y="-310.30896"
+       inkscape:export-xdpi="150.12224"
+       inkscape:export-ydpi="150.12224" />
     <g
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png"
        transform="translate(794.4426,-315.38373)"
@@ -581,12 +581,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/20-nerima.png"
        xlink:href="../cards/ku-cards-clip/20-nerima.png"
-       y="112.53209"
-       x="401.70367"
-       id="image4229"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4229"
+       x="401.70367"
+       y="112.53209" />
     <g
        transform="translate(299.75016,-577.64674)"
        id="g4231"
@@ -632,7 +632,7 @@
            id="circle4243"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <flowRoot
-           transform="translate(525.14819,663.79582)"
+           transform="translate(525.14819,659.97234)"
            xml:space="preserve"
            id="flowRoot4245"
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -648,12 +648,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/14-nakano.png"
        xlink:href="../cards/ku-cards-clip/14-nakano.png"
-       y="112.53209"
-       x="141.63788"
-       id="image4253"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4253"
+       x="141.63788"
+       y="112.53209" />
     <g
        transform="translate(99.58546,-585.4491)"
        id="g4255">
@@ -696,7 +696,7 @@
            id="circle4267"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <flowRoot
-           transform="translate(525.14819,663.79582)"
+           transform="translate(525.14819,659.97234)"
            xml:space="preserve"
            id="flowRoot4269"
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -732,12 +732,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/12-setagaya.png"
        xlink:href="../cards/ku-cards-clip/12-setagaya.png"
-       y="112.53209"
-       x="-118.42795"
-       id="image4283"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4283"
+       x="-118.42795"
+       y="112.53209" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -747,12 +747,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/20-nerima.png"
        xlink:href="../cards/ku-cards-clip/20-nerima.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image4307"
+       y="112.53209"
        x="661.76953"
-       y="112.53209" />
+       id="image4307"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -801,7 +801,7 @@
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4323"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.19651)"><flowRegion
              id="flowRegion4325"><rect
                y="165.17477"
                x="-529.60803"
@@ -814,12 +814,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/14-nakano.png"
        xlink:href="../cards/ku-cards-clip/14-nakano.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image4331"
+       y="112.53209"
        x="401.70367"
-       y="112.53209" />
+       id="image4331"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        id="g4333"
        transform="translate(359.65126,-585.4491)">
@@ -865,7 +865,7 @@
            style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot4347"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.19651)"><flowRegion
              id="flowRegion4349"><rect
                y="165.17477"
                x="-529.60803"
@@ -898,12 +898,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/12-setagaya.png"
        xlink:href="../cards/ku-cards-clip/12-setagaya.png"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image4361"
+       y="112.53209"
        x="141.63788"
-       y="112.53209" />
+       id="image4361"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999" />
     <g
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png"
        transform="translate(362.4426,-179.38373)"
@@ -927,15 +927,15 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/03-minato.png"
        xlink:href="../cards/ku-cards-clip/03-minato.png"
-       inkscape:export-ydpi="150.12224"
-       inkscape:export-xdpi="150.12224"
-       width="225.89999"
-       height="315.89999"
-       preserveAspectRatio="none"
-       id="image22415"
-       x="-441.48093"
+       style="display:inline"
        y="109.69103"
-       style="display:inline" />
+       x="-441.48093"
+       id="image22415"
+       preserveAspectRatio="none"
+       height="315.89999"
+       width="225.89999"
+       inkscape:export-xdpi="150.12224"
+       inkscape:export-ydpi="150.12224" />
   </g>
   <g
      style="display:none"
@@ -945,12 +945,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/20-nerima.png"
        xlink:href="../cards/ku-cards-clip/20-nerima.png"
-       y="112.53209"
-       x="661.76953"
-       id="image4349"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4349"
+       x="661.76953"
+       y="112.53209" />
     <g
        transform="translate(559.81602,-577.64674)"
        id="g4351"
@@ -1012,12 +1012,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/14-nakano.png"
        xlink:href="../cards/ku-cards-clip/14-nakano.png"
-       y="112.53209"
-       x="401.70367"
-       id="image4373"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4373"
+       x="401.70367"
+       y="112.53209" />
     <g
        transform="translate(359.65126,-585.4491)"
        id="g4375">
@@ -1096,12 +1096,12 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/12-setagaya.png"
        xlink:href="../cards/ku-cards-clip/12-setagaya.png"
-       y="112.53209"
-       x="141.63788"
-       id="image4403"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4403"
+       x="141.63788"
+       y="112.53209" />
     <g
        style="display:inline"
        inkscape:export-ydpi="300"
@@ -1125,13 +1125,13 @@
     <image
        sodipodi:absref="/home/garykac/projects/github/shinjuku/images/../cards/ku-cards-clip/03-minato.png"
        xlink:href="../cards/ku-cards-clip/03-minato.png"
-       style="display:inline"
-       y="112.53209"
-       x="-118.42795"
-       id="image4411"
-       preserveAspectRatio="none"
+       width="225.89999"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       id="image4411"
+       x="-118.42795"
+       y="112.53209"
+       style="display:inline" />
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
