@@ -20,13 +20,32 @@ Don't need to worry about adding cards tot he queue once last customer is placed
 
 Game end on 2:05
 
+K 52
+A 54
+G 42
+C 25
+
 Questions:
 
 How did you feel about how the game started?
+
+Chris:
+Never had a problem with 1st few turns
+like infra decisions
+feels like open market that he can sieze upon
+
+See what he could have done differently
+
+Adam:
+Adachi Gambit
+assessment of when pivot in 4-player game
+	you can get 3 dept stores
+in 4 player game, he needed to start collecting earlier
 
 
 TODO:
 Make customers not snap in TTS
 
-Use wild customer to upgrade to a dept store
+Calrify:
+You can use wild customer to upgrade to a dept store
 
