@@ -3484,10 +3484,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3232148"
-     inkscape:cx="-239.25222"
-     inkscape:cy="1182.61"
+     inkscape:cx="364.06174"
+     inkscape:cy="1157.8587"
      inkscape:document-units="px"
-     inkscape:current-layer="g7301"
+     inkscape:current-layer="svg4516"
      showgrid="false"
      units="in"
      inkscape:window-width="3440"
@@ -24270,7 +24270,7 @@
       <rect
          inkscape:export-ydpi="300.00876"
          inkscape:export-xdpi="300.00876"
-         inkscape:export-filename="/home/garykac/projects/github/shinjuku/images/walkthrough-turn-7.png"
+         inkscape:export-filename="/home/garykac/projects/github/shinjuku/images/walkthrough-turn-2.png"
          rx="3.97678e-14"
          y="405.72971"
          x="150.55965"
@@ -24627,7 +24627,7 @@
          sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Walkthrough - Setup Bonus 3"
        id="g7350"
        inkscape:groupmode="layer">
@@ -25128,7 +25128,7 @@
          width="218.84064" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 3 customers"
        id="g7506"
        inkscape:groupmode="layer">
@@ -25238,7 +25238,7 @@
          style="display:inline" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 4 customers"
        id="g7522"
        inkscape:groupmode="layer">
@@ -25270,7 +25270,7 @@
          r="29.625519" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 4"
        id="g7536"
        inkscape:groupmode="layer">
@@ -25447,7 +25447,7 @@
       </g>
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 5 customers"
        id="g7547"
        inkscape:groupmode="layer">
@@ -25480,7 +25480,7 @@
          r="29.625519" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 5"
        id="g7562"
        inkscape:groupmode="layer">
@@ -25654,7 +25654,7 @@
       </g>
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 6 customers"
        id="g7596"
        inkscape:groupmode="layer">
@@ -25735,7 +25735,7 @@
          style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ed0500;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5180)" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 6"
        id="g7604"
        inkscape:groupmode="layer">
@@ -25770,7 +25770,7 @@
        inkscape:groupmode="layer"
        id="g5341"
        inkscape:label="Walkthrough - Turn 7 Queue"
-       style="display:inline">
+       style="display:none">
       <image
          width="218.84062"
          height="306.02814"
@@ -25905,7 +25905,7 @@
       </g>
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 7 customers"
        id="g7634"
        inkscape:groupmode="layer">
@@ -25938,7 +25938,7 @@
          style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ed0500;stroke-width:5.33333349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5180)" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Walkthrough - Turn 7"
        id="g7648"
        inkscape:groupmode="layer">
