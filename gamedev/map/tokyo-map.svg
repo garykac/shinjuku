@@ -3484,10 +3484,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3232148"
-     inkscape:cx="364.06174"
-     inkscape:cy="1157.8587"
+     inkscape:cx="-307.31841"
+     inkscape:cy="1145.483"
      inkscape:document-units="px"
-     inkscape:current-layer="svg4516"
+     inkscape:current-layer="g4034"
      showgrid="false"
      units="in"
      inkscape:window-width="3440"
@@ -24464,41 +24464,41 @@
        id="g7323"
        inkscape:groupmode="layer">
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/03-minato.png"
-         id="image7303"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/03-minato.png"
+         xlink:href="../cards/ku-cards-clip/03-minato.png"
+         y="1700.3147"
          x="981.86273"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/03-minato.png" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image7303"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/04-shinjuku.png"
-         id="image7305"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/04-shinjuku.png"
+         xlink:href="../cards/ku-cards-clip/04-shinjuku.png"
+         y="1700.3147"
          x="720.36066"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/04-shinjuku.png" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image7305"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         id="image7307"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         y="1700.3147"
          x="460.90948"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image7307"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         id="image7309"
-         x="200.43285"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/06-taito.png"
+         xlink:href="../cards/ku-cards-clip/06-taito.png"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png" />
+         x="200.43285"
+         id="image7309"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
       <g
          style="display:inline;filter:url(#filter8312-9-0)"
          inkscape:export-ydpi="300"
@@ -24546,85 +24546,85 @@
        id="g7342"
        inkscape:groupmode="layer">
       <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
+         y="1710.2875"
+         x="75.085129"
          id="use7326"
-         x="75.085129"
-         y="1710.2875"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
+         y="1765.8492"
+         x="75.085129"
          id="use7328"
-         x="75.085129"
-         y="1765.8492"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
+         y="1821.4111"
+         x="75.085129"
          id="use7330"
-         x="75.085129"
-         y="1821.4111"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7332"
-         x="75.085129"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1876.9729"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7334"
          x="75.085129"
+         id="use7332"
+         preserveAspectRatio="none"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1932.5347"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
+         x="75.085129"
+         id="use7334"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7336"
-         x="84.460129"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1710.2875"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7338"
          x="84.460129"
+         id="use7336"
+         preserveAspectRatio="none"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1765.8492"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7340"
          x="84.460129"
+         id="use7338"
+         preserveAspectRatio="none"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1821.4111"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
+         x="84.460129"
+         id="use7340"
+         preserveAspectRatio="none"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
     </g>
     <g
        style="display:inline"
@@ -24632,35 +24632,35 @@
        id="g7350"
        inkscape:groupmode="layer">
       <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="image7344"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
+         y="1654.7257"
          x="75.085129"
-         y="1654.7257"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
+         id="image7344"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7346"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
+         y="1654.7257"
          x="84.460129"
-         y="1654.7257"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
-      <image
-         style="display:inline;filter:url(#filter8312-9-0)"
-         width="48.169933"
-         height="48.169933"
+         id="use7346"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/components/bonus-token.png"
-         id="use7348"
-         x="93.835129"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../components/bonus-token.png"
+         xlink:href="../components/bonus-token.png"
          y="1654.7257"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/components/bonus-token.png" />
+         x="93.835129"
+         id="use7348"
+         preserveAspectRatio="none"
+         height="48.169933"
+         width="48.169933"
+         style="display:inline;filter:url(#filter8312-9-0)" />
     </g>
     <g
        style="display:none"
@@ -24668,45 +24668,45 @@
        id="g7372"
        inkscape:groupmode="layer">
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         id="image7352"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/05-bunkyo.png"
+         xlink:href="../cards/ku-cards-clip/05-bunkyo.png"
+         style="display:inline"
+         y="1700.3147"
          x="200.43285"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         style="display:inline" />
+         id="image7352"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
       <image
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/04-shinjuku.png"
-         y="1700.3147"
-         x="981.86273"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/04-shinjuku.png"
+         xlink:href="../cards/ku-cards-clip/04-shinjuku.png"
+         style="display:inline"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7354"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/04-shinjuku.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062"
-         style="display:inline" />
+         x="981.86273"
+         y="1700.3147" />
       <image
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         y="1700.3147"
-         x="720.36066"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         style="display:inline"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7356"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062"
-         style="display:inline" />
+         x="720.36066"
+         y="1700.3147" />
       <image
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         y="1700.3147"
-         x="460.90948"
-         id="image7358"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         preserveAspectRatio="none"
-         height="306.02814"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/06-taito.png"
+         xlink:href="../cards/ku-cards-clip/06-taito.png"
+         style="display:inline"
          width="218.84062"
-         style="display:inline" />
+         height="306.02814"
+         preserveAspectRatio="none"
+         id="image7358"
+         x="460.90948"
+         y="1700.3147" />
       <g
          style="display:inline;filter:url(#filter8312-9-0)"
          inkscape:export-ydpi="300"
@@ -24847,35 +24847,35 @@
        inkscape:label="Walkthrough - Turn 2 Queue"
        style="display:none">
       <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         y="1700.3147"
-         x="460.90948"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/05-bunkyo.png"
+         xlink:href="../cards/ku-cards-clip/05-bunkyo.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7402"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
+         x="460.90948"
+         y="1700.3147"
+         style="display:inline" />
       <image
-         style="display:inline"
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         id="image7404"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         y="1700.3147"
          x="981.86273"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png" />
-      <image
-         style="display:inline"
-         width="218.84062"
-         height="306.02814"
+         id="image7404"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         id="image7406"
-         x="720.36066"
+         height="306.02814"
+         width="218.84062"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/06-taito.png"
+         xlink:href="../cards/ku-cards-clip/06-taito.png"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png" />
+         x="720.36066"
+         id="image7406"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062"
+         style="display:inline" />
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -24929,15 +24929,15 @@
                id="flowPara7420">2</flowPara></flowRoot>        </g>
       </g>
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         id="image7428"
-         x="200.43285"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         style="display:inline"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         style="display:inline" />
+         x="200.43285"
+         id="image7428"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
     </g>
     <g
        style="display:inline"
@@ -25087,45 +25087,45 @@
        id="g7714"
        inkscape:groupmode="layer">
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         id="image7676"
-         x="720.36066"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         style="display:inline" />
-      <image
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         y="1700.3147"
-         x="981.86273"
-         id="image7680"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/06-taito.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062"
-         style="display:inline" />
-      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/05-bunkyo.png"
+         xlink:href="../cards/ku-cards-clip/05-bunkyo.png"
          style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
          y="1700.3147"
-         x="460.90948"
-         id="image7702"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
+         x="720.36066"
+         id="image7676"
          preserveAspectRatio="none"
          height="306.02814"
          width="218.84062" />
       <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/06-taito.png"
+         xlink:href="../cards/ku-cards-clip/06-taito.png"
          style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         y="1700.3147"
-         x="200.43283"
-         id="image7704"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         preserveAspectRatio="none"
+         width="218.84062"
          height="306.02814"
-         width="218.84064" />
+         preserveAspectRatio="none"
+         id="image7680"
+         x="981.86273"
+         y="1700.3147" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
+         id="image7702"
+         x="460.90948"
+         y="1700.3147"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         width="218.84064"
+         height="306.02814"
+         preserveAspectRatio="none"
+         id="image7704"
+         x="200.43283"
+         y="1700.3147"
+         style="display:inline" />
     </g>
     <g
        style="display:none"
@@ -25197,45 +25197,45 @@
        inkscape:label="Walkthrough - Turn 4 Queue"
        style="display:none">
       <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
-         y="1700.3147"
-         x="981.86267"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/05-bunkyo.png"
+         xlink:href="../cards/ku-cards-clip/05-bunkyo.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7755"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/05-bunkyo.png"
+         x="981.86267"
+         y="1700.3147"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         style="display:inline"
+         y="1700.3147"
+         x="720.36066"
+         id="image7759"
          preserveAspectRatio="none"
          height="306.02814"
          width="218.84062" />
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         id="image7759"
-         x="720.36066"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         style="display:inline"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         style="display:inline" />
-      <image
-         width="218.84064"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         id="image7761"
          x="460.90948"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image7761"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         id="image7763"
-         x="200.43285"
+         height="306.02814"
+         width="218.84064" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/13-shibuya.png"
+         xlink:href="../cards/ku-cards-clip/13-shibuya.png"
+         style="display:inline"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         style="display:inline" />
+         x="200.43285"
+         id="image7763"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
     </g>
     <g
        style="display:none"
@@ -25317,65 +25317,65 @@
        id="g7847"
        inkscape:groupmode="layer">
       <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         y="1700.3147"
-         x="981.86273"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7835"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
+         x="981.86273"
          y="1700.3147"
-         x="720.36066"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         width="218.84064"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7837"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84064" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
+         x="720.36066"
          y="1700.3147"
-         x="460.90948"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/13-shibuya.png"
+         xlink:href="../cards/ku-cards-clip/13-shibuya.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7839"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
+         x="460.90948"
          y="1700.3147"
-         x="200.43285"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         width="218.84064"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7841"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84064" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
+         x="200.43285"
          y="1700.3147"
-         x="-464.36682"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/09-shinagawa.png"
+         xlink:href="../cards/ku-cards-clip/09-shinagawa.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image7843"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
+         x="-464.36682"
          y="1700.3147"
-         x="-627.42108"
-         id="image7845"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         preserveAspectRatio="none"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/15-suginami.png"
+         xlink:href="../cards/ku-cards-clip/15-suginami.png"
+         width="218.84062"
          height="306.02814"
-         width="218.84062" />
+         preserveAspectRatio="none"
+         id="image7845"
+         x="-627.42108"
+         y="1700.3147"
+         style="display:inline" />
       <g
          style="display:inline;filter:url(#filter8312-9-0)"
          id="g7586-9"
@@ -25527,55 +25527,55 @@
        inkscape:label="Walkthrough - Turn 6 Queue"
        style="display:none">
       <image
-         width="218.84064"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         id="image5131"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         style="display:inline"
+         y="1700.3147"
          x="981.86273"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image5131"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         id="image5133"
+         height="306.02814"
+         width="218.84064" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/13-shibuya.png"
+         xlink:href="../cards/ku-cards-clip/13-shibuya.png"
+         style="display:inline"
+         y="1700.3147"
          x="720.36066"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         style="display:inline" />
-      <image
-         width="218.84064"
-         height="306.02814"
+         id="image5133"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         id="image5135"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         style="display:inline"
+         y="1700.3147"
          x="460.90948"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image5135"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         id="image5137"
+         height="306.02814"
+         width="218.84064" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/09-shinagawa.png"
+         xlink:href="../cards/ku-cards-clip/09-shinagawa.png"
+         style="display:inline"
+         y="1700.3147"
          x="200.43285"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image5137"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         id="image5139"
-         x="-627.42108"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/15-suginami.png"
+         xlink:href="../cards/ku-cards-clip/15-suginami.png"
+         style="display:inline"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         style="display:inline" />
+         x="-627.42108"
+         id="image5139"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
     </g>
     <g
        style="display:none"
@@ -25583,55 +25583,55 @@
        id="g5297"
        inkscape:groupmode="layer">
       <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         y="1700.3147"
-         x="981.86273"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/02-chuo.png"
+         xlink:href="../cards/ku-cards-clip/02-chuo.png"
+         width="218.84064"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image5287"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/02-chuo.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84064" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
+         x="981.86273"
          y="1700.3147"
-         x="720.36066"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/13-shibuya.png"
+         xlink:href="../cards/ku-cards-clip/13-shibuya.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image5289"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
+         x="720.36066"
          y="1700.3147"
-         x="460.90948"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         width="218.84064"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image5291"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84064" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
+         x="460.90948"
          y="1700.3147"
-         x="200.43285"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/09-shinagawa.png"
+         xlink:href="../cards/ku-cards-clip/09-shinagawa.png"
+         width="218.84062"
+         height="306.02814"
+         preserveAspectRatio="none"
          id="image5293"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         preserveAspectRatio="none"
-         height="306.02814"
-         width="218.84062" />
-      <image
-         style="display:inline"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
+         x="200.43285"
          y="1700.3147"
-         x="-627.42108"
-         id="image5295"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         preserveAspectRatio="none"
+         style="display:inline" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/15-suginami.png"
+         xlink:href="../cards/ku-cards-clip/15-suginami.png"
+         width="218.84062"
          height="306.02814"
-         width="218.84062" />
+         preserveAspectRatio="none"
+         id="image5295"
+         x="-627.42108"
+         y="1700.3147"
+         style="display:inline" />
       <g
          style="display:inline;filter:url(#filter8312-9-0)"
          inkscape:export-ydpi="300"
@@ -25772,45 +25772,45 @@
        inkscape:label="Walkthrough - Turn 7 Queue"
        style="display:none">
       <image
-         width="218.84062"
-         height="306.02814"
-         preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         id="image5323"
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/13-shibuya.png"
+         xlink:href="../cards/ku-cards-clip/13-shibuya.png"
+         style="display:inline"
+         y="1700.3147"
          x="981.86273"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/13-shibuya.png"
-         style="display:inline" />
-      <image
-         width="218.84064"
-         height="306.02814"
+         id="image5323"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         id="image5325"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/14-nakano.png"
+         xlink:href="../cards/ku-cards-clip/14-nakano.png"
+         style="display:inline"
+         y="1700.3147"
          x="720.36066"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/14-nakano.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image5325"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         id="image5327"
+         height="306.02814"
+         width="218.84064" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/09-shinagawa.png"
+         xlink:href="../cards/ku-cards-clip/09-shinagawa.png"
+         style="display:inline"
+         y="1700.3147"
          x="460.90948"
-         y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/09-shinagawa.png"
-         style="display:inline" />
-      <image
-         width="218.84062"
-         height="306.02814"
+         id="image5327"
          preserveAspectRatio="none"
-         xlink:href="file:///home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         id="image5329"
-         x="200.43285"
+         height="306.02814"
+         width="218.84062" />
+      <image
+         sodipodi:absref="/home/garykac/projects/github/shinjuku/gamedev/map/../cards/ku-cards-clip/15-suginami.png"
+         xlink:href="../cards/ku-cards-clip/15-suginami.png"
+         style="display:inline"
          y="1700.3147"
-         sodipodi:absref="/home/garykac/projects/github/shinjuku/cards/ku-cards-clip/15-suginami.png"
-         style="display:inline" />
+         x="200.43285"
+         id="image5329"
+         preserveAspectRatio="none"
+         height="306.02814"
+         width="218.84062" />
       <g
          inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png"
          transform="translate(958.31102,1817.1976)"
