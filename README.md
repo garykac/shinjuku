@@ -97,20 +97,18 @@ A department store (represented by a tall cylinder) sells all of these goods.
 
 There are a total of 60 customers. They are stored in a bag so that they can be drawn at random.
 
-<img src="gamedev/components/customer-types.png" height="40px"/>
-
 The 4 customer types match the store types:
 
 | | | |
 | --- | --- | --- |
-| <img src="gamedev/components/customers/food.png" height="30px"/> | 20 customers want Food | <img src="gamedev/components/customers/food-23.png" height="30px"/> 
-| <img src="gamedev/components/customers/clothing.png" height="30px"/> | 17 customers want Clothing | <img src="gamedev/components/customers/clothing-20.png" height="30px"/> |
-| <img src="gamedev/components/customers/books.png" height="30px"/> | 13 customers want Books | <img src="gamedev/components/customers/books-16.png" height="30px"/> |
-| <img src="gamedev/components/customers/electronics.png" height="30px"/> | 10 customers want Electronics | <img src="gamedev/components/customers/electronics-13.png" height="30px"/> |
+| <img src="gamedev/components/customers/food.png" height="30px"/> | 20 customers want Food | <img src="gamedev/components/customers/food-20.png" height="30px"/> 
+| <img src="gamedev/components/customers/clothing.png" height="30px"/> | 17 customers want Clothing | <img src="gamedev/components/customers/clothing-17.png" height="30px"/> |
+| <img src="gamedev/components/customers/books.png" height="30px"/> | 13 customers want Books | <img src="gamedev/components/customers/books-13.png" height="30px"/> |
+| <img src="gamedev/components/customers/electronics.png" height="30px"/> | 10 customers want Electronics | <img src="gamedev/components/customers/electronics-10.png" height="30px"/> |
 
-Some customers count as 2 customers:
+Some customer tokens are marked with a "2" which indicates that they count as 2 customers during scoring:
 
-<img src="gamedev/components/customer-types-x2.png" height="40px"/>
+<img src="gamedev/components/customers/clothing-x2.png" height="40px"/> <img src="gamedev/components/customers/books-x2.png" height="40px"/> <img src="gamedev/components/customers/electronics-x2.png" height="40px"/>
 
 ### Upgrade Bonus Tokens
 
