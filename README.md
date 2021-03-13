@@ -25,7 +25,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 * Rules:
 	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
 	* Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
-	* Mods Guide: Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_mods.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_mods_a4.pdf))
+	* Variants: ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf))
 
 
 * Videos
