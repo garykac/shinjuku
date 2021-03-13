@@ -112,11 +112,11 @@ Some customer tokens are marked with a "2" which indicates that they count as 2 
 
 ### Upgrade Bonus Tokens
 
-There are tokens that players can earn for the first 6 department store upgrades.
+Players can earn a stack of Upgrade Bonus tokens when they upgrade one of their stores to a department store.
 
-<img src="gamedev/components/upgrade-tokens.png" height="40px"/>
+<img src="gamedev/components/bonus-token.png" height="40px"/>
 
-These tokens give a bonus in endgame scoring.
+These tokens can act as a customer of any type during the endgame set-collection scoring.
 
 ### Gameplay
 
