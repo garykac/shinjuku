@@ -16,17 +16,16 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 ## Links
 
+| | | |
+| --- | --- | --- |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf"><img src="docs/shinjuku_rules_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf"><img src="docs/shinjuku_quickstart_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf"><img src="docs/shinjuku_variants_tn.png" height="200px"/></a> |
+| <p align="center">Rules of Play<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf">A4</a></p> | <p align="center">Quickstart Guide<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf">A4</a></p> | <p align="center">Variants<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf">A4</a></p> |
+
 * [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
 * [Tabletop Simulator implementation](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
-
-* Rules:
-	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
-	* Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
-	* Variants: ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf))
-
 
 * Videos
 	* [General Overview](https://www.youtube.com/watch?v=WozxrZ81nBs) (4:42 rule/gameplay summary)
