@@ -10,8 +10,6 @@ map/map*-150dpi.png
 *.afpub
 
 ref/*
-paris/ref/*
-london/ref/*
 
 # Temp files for generating PNP files
 pnp/cards-bw/*
@@ -21,5 +19,4 @@ pnp/map-color/*
 pnp/screen/*
 
 images/screenshots/*
-components/tabletopia/*
 design-notes/ref/*
