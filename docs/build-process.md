@@ -212,6 +212,7 @@ For front (with logo):
 * Select the "Bleed" ouline (unlock layer first)
 * Hide the "Bleed" layer
 * Export PNG @ 150dpi.
+* Re-lock "Bleed" layer
 * Rotate 90deg CW
 
 For backs (with player aide info)
@@ -220,6 +221,7 @@ For backs (with player aide info)
 * Select the "Bleed" ouline (unlock layer first)
 * Hide the "Bleed" layer
 * Export PNG @ 150dpi
+* Re-lock "Bleed" layer
 * Rotate 90deg CCW
 
 Export each as 1541 x719 quality 80 jpg
@@ -228,26 +230,17 @@ Combine into a PDF (title: "Shinjuku Player Screens"), alternating front/back so
 
 Temp screen images are stored in `pnp/screen`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (`screens-a4.pdf` for A4 version).
 
-## Expansion Pack Updates
+## Variants Updates
 
 ### Rulebook
 
 Similar to the main Rulebook/Quickstart Updates:
 
-* Export `docs/shinjuku_ex_1.afpub` as PDF for Letter and A4
+* Export `docs/shinjuku_variants.afpub` as PDF for Letter and A4
 
 ## Print and Play Instruction Updates
 
-To update the PNP instructions, there are 2 places that need to be kept in sync:
-
-* The downloadable PDF
-* The online markdown file: [pnp/index.md](../pnp/index.md)
-
-Similar to the main Rulebook/Quickstart Updates:
-
-* Export `pnp/shinjuku_pnp_instr.afpub` as PDF for Letter/A4
-
-Except that the PDF files should be saved in `pnp/shinjuku-pnp` directory.
+PnP instructions no longer include variants.
 
 ### Update BGG
 
