@@ -12,7 +12,7 @@ Every turn, new customers will arrive on the map looking to purchase one of 4 di
 
 You start with a hand of 4 location cards and get a new card each turn. The Build, Upgrade and Move actions require that you play a matching location card from your hand. Cards in your hand that match locations where you have previously built a store are Wild and can be used to match any location.
 
-The game ends when the last customer is placed (+ one final round) and victory goes to the player that can create the most sets of each type of customer.
+The game ends when the last customer is placed (+ one final turn for the other players) and victory goes to the player that can create the most sets of each type of customer.
 
 ## Links
 
