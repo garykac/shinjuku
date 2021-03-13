@@ -21,8 +21,8 @@ You will need the following files:
 
 * Player Screens - 4 double-sided pages - ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/screens.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/screens-a4.pdf))
 
-## Customer and Store Labels (Stickers)
+* Labels (stickers) for customers/stores ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers-a4.pdf))
 
-* Image to print on sticker sheet ([Letter](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers.pdf), [A4](https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/stickers-a4.pdf))
+<hr/>
 
 ![Train Car](../images/train-car-6.png)
