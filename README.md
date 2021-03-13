@@ -193,7 +193,6 @@ When you choose the **Move** action, do the following:
 		* A store can satisfy a single customer that matches the store type. A department store can satisfy a single customer of _any_ type.
 		* If more than one customer matches (e.g., with a department store; or if there are multiple customers of the same type), then you may choose which single customer is given to the store owner.
 	* No station may be visited more than once during this action.
-	* If there are 2 or more customers being **Move**d, then you must cross at least one track segment.
 4. Any remaining customers are added to the ward that contains the final station visited, merging with any existing customers in that ward.
 5. If any track segments owned by other players were used during the **Move** action, then those players may immediately take an **Income** action. Maximum one **Income** action per player, regardless of the number of track segments used. You (the player taking the **Move** action) are not entitled to this Income bonus.
 
