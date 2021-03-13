@@ -25,7 +25,7 @@ The game ends when the last customer is placed (+ one final round) and victory g
 * Rules:
 	* Complete Rules of Play ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf))
 	* Quickstart Guide ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf))
-	* Mods Guide: Princess, Thief, Chairman, Hachiko, Kaiju ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_mods.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_mods_a4.pdf))
+	* Variants: ([Letter](https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf), [A4](https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf))
 
 
 * Videos
@@ -121,18 +121,6 @@ There are tokens that players can earn for the first 6 department store upgrades
 
 These tokens give a bonus in endgame scoring.
 
-### Mods
-
-Shinjuku Mods are optional rules that can be layered on top of the core rule set.
-
-There are currently 5 Mods:
-
-* Wandering Princess
-* Angry Kaiju
-* Faithful Dog Hachiko
-* Sneaky Thief
-* Busy Kaicho
-
 ### Gameplay
 
 #### Initial Setup
@@ -212,9 +200,7 @@ When you choose the **Move** action, do the following:
 
 ### End of Game
 
-When the last customer is drawn from the bag, play continues until the customer queue is emptied. The player that places the final customer from the queue finishes their turn and then the Final Round begins.
-
-For the Final Round, everyone discards all of their cards and then everyone takes one final turn, continuing the game where it left off so that the player who placed the last customer takes the final turn of the game. During the Final Round, players take two different actions (as usual), but cards do not need to be paid to perform Open, Expand, Upgrade or Move actions.
+When the last customer is drawn from the bag, play continues until the customer queue is emptied. The player that places the final customer from the queue finishes their turn and then every other player takes one last turn.
 
 ### Endgame Scoring
 
@@ -227,6 +213,6 @@ Customers are scored using set collection plus any bonuses from department store
 
 Customers marked with a “2” count as 2 separate customers.
 
-In endgame scoring, each Upgrade Bonus Token acts as a number of wild customers equal to the number of stars on the token.
+In endgame scoring, each Upgrade Bonus Token acts as a wild customer and can be used in place of any single customer.
 
 ![Train Car](images/train-car-6.png)
