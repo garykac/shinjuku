@@ -3590,13 +3590,13 @@
      id="namedview4"
      showgrid="false"
      units="in"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1066.4848"
-     inkscape:cy="-34.882533"
+     inkscape:zoom="2"
+     inkscape:cx="2138.8208"
+     inkscape:cy="-1997.0534"
      inkscape:window-x="0"
      inkscape:window-y="417"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g7509"
+     inkscape:current-layer="layer6"
      showguides="false"
      inkscape:snap-nodes="true"
      inkscape:object-nodes="true"
@@ -3642,6 +3642,7 @@
      id="tspan64"
      style="font-size:17px;line-height:1.25">Side</tspan></text>
 
+
 <text
    transform="matrix(0,1,1,0,1195.4858,450.6479)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3651,6 +3652,7 @@
      sodipodi:role="line"
      id="tspan68"
      style="font-size:17px;line-height:1.25">Side</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,666.6475,73.2744)"
@@ -3662,6 +3664,7 @@
      id="tspan72"
      style="font-size:17px;line-height:1.25">Side</tspan></text>
 
+
 <text
    transform="matrix(-1,0,0,1,701.353,861.4834)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3671,6 +3674,7 @@
      sodipodi:role="line"
      id="tspan76"
      style="font-size:17px;line-height:1.25">Side</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,664.292,457.8164)"
@@ -3687,6 +3691,7 @@
      id="tspan82"
      style="font-size:24px;line-height:1.25">of Box</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-1,578.7246,592.1064)"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3696,6 +3701,7 @@
      sodipodi:role="line"
      id="tspan86"
      style="font-size:13.43910027px;line-height:1.25">Box template | 12.43&quot; x 9.43&quot; x 1.5&quot;</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,616.7417,328.5176)"
@@ -3716,6 +3722,7 @@
      sodipodi:role="line"
      id="tspan94"
      style="font-size:9px;line-height:1.25">Bleed for background colour or artwork</tspan></text>
+
 
 <g
    id="g96"
@@ -3934,6 +3941,7 @@
      sodipodi:role="line"
      id="tspan406"
      style="font-size:9px;line-height:1.25">Important! Remove guide layers before upload</tspan></text>
+
 
 </g><g
      inkscape:groupmode="layer"
@@ -7422,7 +7430,7 @@
    inkscape:groupmode="layer"
    inkscape:label="Stripes Yellow"><path
      style="display:inline;opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 917.6543,1545.623 0,37.5118 274.416,0 0,-37.5118 -274.416,0 z m 27.65234,10.877 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.43359,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.70317,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4316,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.7031,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4336,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.7031,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4317,0 2.5,0 c 0.831,0 1.5,0.669 1.5,1.5 l 0,10 c 0,0.831 -0.669,1.5 -1.5,1.5 l -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m -238.959,0.3398 5.125,0 c 1.21223,0 2.1875,0.9773 2.1875,2.1895 l 0,8.623 c 0,1.2123 -0.97527,2.1875 -2.1875,2.1875 l -5.125,0 c -1.21223,0 -2.1875,-0.9752 -2.1875,-2.1875 l 0,-8.623 c 0,-1.2122 0.97527,-2.1895 2.1875,-2.1895 z m 50.66797,0 23.95312,0 c 1.12131,0 2.02344,0.9041 2.02344,2.0254 l 0,8.9512 c 0,1.1213 -0.90213,2.0234 -2.02344,2.0234 l -23.95312,0 c -1.12132,0 -2.02344,-0.9021 -2.02344,-2.0234 l 0,-8.9512 c 0,-1.1213 0.90212,-2.0254 2.02344,-2.0254 z m 69.31833,0 23.9532,0 c 1.1213,0 2.0234,0.9041 2.0234,2.0254 l 0,8.9512 c 0,1.1213 -0.9021,2.0234 -2.0234,2.0234 l -23.9532,0 c -1.1213,0 -2.0234,-0.9021 -2.0234,-2.0234 l 0,-8.9512 c 0,-1.1213 0.9021,-2.0254 2.0234,-2.0254 z m 69.3203,0 23.9512,0 c 1.1213,0 2.0234,0.9041 2.0235,2.0254 l 0,8.9512 c 0,1.1213 -0.9022,2.0234 -2.0235,2.0234 l -23.9512,0 c -1.1213,0 -2.0254,-0.9021 -2.0253,-2.0234 l 0,-8.9512 c 0,-1.1213 0.904,-2.0254 2.0253,-2.0254 z m 68.9727,0 5.123,0 c 1.2122,0 2.1875,0.9773 2.1875,2.1895 l 0,8.623 c 0,1.2123 -0.9753,2.1875 -2.1875,2.1875 l -5.123,0 c -1.2123,0 -2.1895,-0.9752 -2.1895,-2.1875 l 0,-8.623 c 0,-1.2122 0.9772,-2.1895 2.1895,-2.1895 z"
+     d="m 917.6543,1545.623 v 37.5118 h 274.416 v -37.5118 z m 27.65234,10.877 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.43359,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.70317,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4316,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.7031,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4336,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 59.7031,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m 9.4317,0 h 2.5 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 h -2.5 c -0.831,0 -1.5,-0.669 -1.5,-1.5 v -10 c 0,-0.831 0.669,-1.5 1.5,-1.5 z m -238.959,0.3398 h 5.125 c 1.21223,0 2.1875,0.9773 2.1875,2.1895 v 8.623 c 0,1.2123 -0.97527,2.1875 -2.1875,2.1875 h -5.125 c -1.21223,0 -2.1875,-0.9752 -2.1875,-2.1875 v -8.623 c 0,-1.2122 0.97527,-2.1895 2.1875,-2.1895 z m 50.66797,0 h 23.95312 c 1.12131,0 2.02344,0.9041 2.02344,2.0254 v 8.9512 c 0,1.1213 -0.90213,2.0234 -2.02344,2.0234 h -23.95312 c -1.12132,0 -2.02344,-0.9021 -2.02344,-2.0234 v -8.9512 c 0,-1.1213 0.90212,-2.0254 2.02344,-2.0254 z m 69.31833,0 h 23.9532 c 1.1213,0 2.0234,0.9041 2.0234,2.0254 v 8.9512 c 0,1.1213 -0.9021,2.0234 -2.0234,2.0234 h -23.9532 c -1.1213,0 -2.0234,-0.9021 -2.0234,-2.0234 v -8.9512 c 0,-1.1213 0.9021,-2.0254 2.0234,-2.0254 z m 69.3203,0 h 23.9512 c 1.1213,0 2.0234,0.9041 2.0235,2.0254 v 8.9512 c 0,1.1213 -0.9022,2.0234 -2.0235,2.0234 h -23.9512 c -1.1213,0 -2.0254,-0.9021 -2.0253,-2.0234 v -8.9512 c 0,-1.1213 0.904,-2.0254 2.0253,-2.0254 z m 68.9727,0 h 5.123 c 1.2122,0 2.1875,0.9773 2.1875,2.1895 v 8.623 c 0,1.2123 -0.9753,2.1875 -2.1875,2.1875 h -5.123 c -1.2123,0 -2.1895,-0.9752 -2.1895,-2.1875 v -8.623 c 0,-1.2122 0.9772,-2.1895 2.1895,-2.1895 z"
      id="rect10127"
      inkscape:connector-curvature="0" /><path
      style="display:inline;opacity:1;fill:#f9f947;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7496,6 +7504,32 @@
      id="path10433"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" /></g><g
+   style="display:inline"
+   inkscape:label="Stripes Purple End"
+   inkscape:groupmode="layer"
+   transform="translate(0,100)"
+   id="stripes-purple-end"><rect
+     ry="1.3877788e-16"
+     y="1545.6222"
+     x="1817.6533"
+     height="37.511734"
+     width="274.41772"
+     id="rect3907"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path3909"
+     d="m 1817.7402,1571.4473 v 5 h 262.2539 v -5 z"
+     style="opacity:1;fill:#cd2ef0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path3911"
+     d="m 1817.7441,1551.8828 v 2.5 h 270.25 v -2.5 z"
+     style="opacity:1;fill:#cd2ef0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><path
+     id="path3913"
+     d="m 2073.584,1554.9082 v 26.5508 h 8.6387 v -26.5508 z m 2.8828,1.5918 h 2.875 c 0.6232,0 1.125,0.5017 1.125,1.125 v 8.9375 c 0,0.6233 -0.5018,1.125 -1.125,1.125 h -2.875 c -0.6233,0 -1.125,-0.5017 -1.125,-1.125 v -8.9375 c 0,-0.6233 0.5017,-1.125 1.125,-1.125 z"
+     style="display:inline;opacity:1;fill:#cd2ef0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" /></g><g
    id="g10539"
    inkscape:groupmode="layer"
    inkscape:label="Stripes Purple"><path
@@ -9082,6 +9116,7 @@
      y="1414.1862"
      style="font-size:15px;line-height:1.25">Edit Layers</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -9093,6 +9128,7 @@
      x="388.91089"
      y="1418.2084"
      style="font-size:15px;line-height:1.25">Copyable Clones</tspan></text>
+
 
 <use
    inkscape:export-ydpi="300"
@@ -10906,6 +10942,7 @@
      sodipodi:role="line"
      style="font-size:15px;line-height:1.25">De-cloned Copies</tspan></text>
 
+
 <g
    id="g3890"
    transform="translate(1800,440)"><use
@@ -11004,7 +11041,58 @@
      xlink:href="#g6320"
      y="0"
      x="0"
-     style="display:inline" /></g></g><g
+     style="display:inline" /></g><g
+   transform="translate(1200,440)"
+   id="g3927"><use
+     inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/teal-0.png"
+     x="0"
+     y="0"
+     xlink:href="#g13389"
+     id="use3917"
+     transform="translate(-900,920)"
+     width="100%"
+     height="100%"
+     inkscape:export-xdpi="599.84827"
+     inkscape:export-ydpi="599.84827" /><use
+     height="100%"
+     width="100%"
+     transform="translate(0,860)"
+     id="use3919"
+     xlink:href="#rect5665"
+     y="0"
+     x="0"
+     style="display:inline" /><use
+     inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/teal-0.png"
+     height="100%"
+     width="100%"
+     transform="translate(-300,820)"
+     id="use3921"
+     xlink:href="#g7675"
+     y="0"
+     x="0"
+     inkscape:export-xdpi="599.84827"
+     inkscape:export-ydpi="599.84827" /><use
+     inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/teal-0.png"
+     height="100%"
+     width="100%"
+     transform="translate(-1200,1020)"
+     id="use3923"
+     xlink:href="#stripes-purple-end"
+     y="0"
+     x="0"
+     inkscape:export-xdpi="599.84827"
+     inkscape:export-ydpi="599.84827" /><use
+     inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/teal-0.png"
+     style="display:inline"
+     x="0"
+     y="0"
+     xlink:href="#g6320"
+     id="use3925"
+     width="100%"
+     height="100%"
+     transform="translate(-600,1220)"
+     inkscape:export-xdpi="599.84827"
+     inkscape:export-ydpi="599.84827" /></g></g><g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="De-cloned"
@@ -13512,7 +13600,52 @@
        y="3099.3306"
        inkscape:export-xdpi="599.41583"
        inkscape:export-ydpi="599.41583"
-       inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/orange-0.png" /></g><g
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/orange-0.png" /><rect
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-0.png"
+       inkscape:export-ydpi="599.41583"
+       inkscape:export-xdpi="599.41583"
+       y="3099.3306"
+       x="1813.0786"
+       height="59.60791"
+       width="283.81873"
+       id="rect3929"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><rect
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-c.png"
+       y="2619.3306"
+       x="1813.0786"
+       height="59.607998"
+       width="283.20001"
+       id="rect3931"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="599.4165"
+       inkscape:export-ydpi="599.4165" /><rect
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-b.png"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3933"
+       width="283.20001"
+       height="59.607998"
+       x="1813.0786"
+       y="2379.3306"
+       inkscape:export-xdpi="599.41693"
+       inkscape:export-ydpi="599.41693" /><rect
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-a.png"
+       y="2139.3306"
+       x="1813.0786"
+       height="59.607998"
+       width="283.20001"
+       id="rect3935"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="599.4165"
+       inkscape:export-ydpi="599.4165" /><rect
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-d.png"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3939"
+       width="283.20001"
+       height="59.607998"
+       x="1813.0786"
+       y="2859.3306"
+       inkscape:export-xdpi="599.41583"
+       inkscape:export-ydpi="599.41583" /></g><g
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="Tall 600dpi export"
@@ -13539,7 +13672,15 @@
        id="path3936"
        d="m 1213.0786,2123.8932 h 283.2 v 75.0454 h -283.2 z"
        style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/orange-a.png" /></g><g
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/promo/export/orange-a.png" /><path
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/promo/export/purple-a2.png"
+       style="display:inline;opacity:1;fill:#84d56e;fill-opacity:0.24175828;fill-rule:evenodd;stroke:none;stroke-width:0.91988689;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1813.0786,2123.8932 h 283.2 v 75.0454 h -283.2 z"
+       id="path3937"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="599.63678"
+       inkscape:export-ydpi="599.63678" /></g><g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Train Front"
@@ -14143,6 +14284,7 @@
      id="tspan9501"
      sodipodi:role="line">Gary Kacmarcik</tspan></text>
 
+
 </g></g><g
      inkscape:groupmode="layer"
      id="layer18"
@@ -14175,6 +14317,7 @@
      x="380.1347"
      y="504.71896"
      style="font-size:13.0494833px;line-height:1.25"> </tspan></text>
+
 
 <flowRoot
    xml:space="preserve"
@@ -14672,6 +14815,7 @@
      sodipodi:role="line"
      style="font-size:13.0494833px;line-height:1.25"> </tspan></text>
 
+
 <flowRoot
    transform="matrix(0.9375974,0,0,0.9375974,324.38469,473.14739)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:1.0365572;stroke-miterlimit:4;stroke-dasharray:none"
@@ -14914,6 +15058,7 @@
      id="tspan7574"
      sodipodi:role="line"
      style="font-size:5.07552099px;line-height:1.25"> </tspan></text>
+
 
 <flowRoot
    transform="matrix(0,0.33836804,-0.33836804,0,1159.8283,-242.62911)"
