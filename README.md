@@ -33,13 +33,8 @@ The game ends when the last customer is placed (+ one final round) and victory g
 
 * [Print and Play Instructions](https://garykac.github.io/shinjuku/pnp/index.html)
 
-* Alternate Maps:
-	* [Paris](paris/paris-map.png), [London](london/london-map.png)
-
-* Sell sheet (1-page overview for publishers): [v1](docs/sellsheets/v1/sell-sheet.pdf) ,  [v2](docs/sellsheets/v2/shinjuku_sellsheet.pdf) , [v3](docs/sellsheets/shinjuku_sellsheet.pdf)
-
 * Game Development
-	* Game categories: strategic; network building; pick-up and deliver
+	* Game categories: strategic; network building; pick-up and deliver, set collection
 	* [Design Notes](https://boardgamegeek.com/blogpost/96561/introduction) (design diary on BGG)
 	* [Github repository](https://github.com/garykac/shinjuku)
 	* [Playtest notes](playtests/playtests.md)
@@ -66,7 +61,7 @@ Every turn, new customers will arrive looking to purchase one of 4 different goo
 
 _Shinjuku_ is played on a map of central Tokyo:
 
-![](map/tokyo-map.png)
+![](gamedev/map/tokyo-map.png)
 
 The map is divided into the 23 regions (known as "wards", or "区" (_ku_) in Japanese).
 
@@ -78,7 +73,7 @@ On the bottom of the board is the customer queue (④ ③ ② ①). Customers wi
 
 There are 72 cards and each card identifies a single ward on the map.
 
-<img src="cards/ku-cards-clip/04-shinjuku.png" height="200px"/> <img src="cards/ku-cards-clip/03-minato.png" height="200px"/> <img src="cards/ku-cards-clip/12-setagaya.png" height="200px"/> <img src="cards/ku-cards-clip/06-taito.png" height="200px"/>
+<img src="gamedev/cards/ku-cards-clip/04-shinjuku.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/03-minato.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/12-setagaya.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/06-taito.png" height="200px"/>
 
 There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
@@ -86,16 +81,16 @@ There are multiple copies of each card based on the population of that ward. The
 
 Each player starts with 3 department stores, 8 stores and 16 track segments.
 
-<img src="components/player.png" height="190px"/>
+<img src="gamedev/components/player.png" height="190px"/>
 
 There are 4 kinds of stores:
 
 | | |
 | --- | --- |
-| <img src="components/stores-track/generic-food.png" height="40px"/> | sells Food |
-| <img src="components/stores-track/generic-clothing.png" height="40px"/> | sells Clothing |
-| <img src="components/stores-track/generic-book.png" height="40px"/> | sells Books |
-| <img src="components/stores-track/generic-electronics.png" height="40px"/> | sells Electronics |
+| <img src="gamedev/components/stores-track/generic-food.png" height="40px"/> | sells Food |
+| <img src="gamedev/components/stores-track/generic-clothing.png" height="40px"/> | sells Clothing |
+| <img src="gamedev/components/stores-track/generic-book.png" height="40px"/> | sells Books |
+| <img src="gamedev/components/stores-track/generic-electronics.png" height="40px"/> | sells Electronics |
 
 A department store (represented by a tall cylinder) sells all of these goods.
 
@@ -103,26 +98,26 @@ A department store (represented by a tall cylinder) sells all of these goods.
 
 There are a total of 60 customers. They are stored in a bag so that they can be drawn at random.
 
-<img src="components/customer-types.png" height="40px"/>
+<img src="gamedev/components/customer-types.png" height="40px"/>
 
 The 4 customer types match the store types:
 
 | | | |
 | --- | --- | --- |
-| <img src="components/customers/food.png" height="30px"/> | 20 customers want Food | <img src="components/customers/food-23.png" height="30px"/> 
-| <img src="components/customers/clothing.png" height="30px"/> | 17 customers want Clothing | <img src="components/customers/clothing-20.png" height="30px"/> |
-| <img src="components/customers/books.png" height="30px"/> | 13 customers want Books | <img src="components/customers/books-16.png" height="30px"/> |
-| <img src="components/customers/electronics.png" height="30px"/> | 10 customers want Electronics | <img src="components/customers/electronics-13.png" height="30px"/> |
+| <img src="gamedev/components/customers/food.png" height="30px"/> | 20 customers want Food | <img src="gamedev/components/customers/food-23.png" height="30px"/> 
+| <img src="gamedev/components/customers/clothing.png" height="30px"/> | 17 customers want Clothing | <img src="gamedev/components/customers/clothing-20.png" height="30px"/> |
+| <img src="gamedev/components/customers/books.png" height="30px"/> | 13 customers want Books | <img src="gamedev/components/customers/books-16.png" height="30px"/> |
+| <img src="gamedev/components/customers/electronics.png" height="30px"/> | 10 customers want Electronics | <img src="gamedev/components/customers/electronics-13.png" height="30px"/> |
 
 Some customers count as 2 customers:
 
-<img src="components/customer-types-x2.png" height="40px"/>
+<img src="gamedev/components/customer-types-x2.png" height="40px"/>
 
 ### Upgrade Bonus Tokens
 
 There are tokens that players can earn for the first 6 department store upgrades.
 
-<img src="components/upgrade-tokens.png" height="40px"/>
+<img src="gamedev/components/upgrade-tokens.png" height="40px"/>
 
 These tokens give a bonus in endgame scoring.
 
