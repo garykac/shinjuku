@@ -15,10 +15,18 @@
    viewBox="0 0 990 765"
    id="svg4516"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="components-icon.svg">
   <defs
-     id="defs4518" />
+     id="defs4518">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 382.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="990 : 382.5 : 1"
+       inkscape:persp3d-origin="495 : 255 : 1"
+       id="perspective2212" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,17 +34,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="421.86924"
-     inkscape:cy="236.13753"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="140.95896"
+     inkscape:cy="183.49786"
      inkscape:document-units="px"
-     inkscape:current-layer="g4967"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="3440"
+     inkscape:window-height="1406"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="417"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="false"
@@ -212,7 +220,7 @@
     </g>
     <g
        id="g4948"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/food-23.png"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/components/customers/food-20.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
@@ -418,7 +426,7 @@
     </g>
     <g
        id="g4967"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-20.png"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/components/customers/clothing-17.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <use
@@ -594,7 +602,7 @@
     </g>
     <g
        id="g4983"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-16.png"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/components/customers/books-13.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <g
@@ -627,17 +635,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5671"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5673"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5675" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5677">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -671,17 +679,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5693"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5695"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5697" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5699">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -715,17 +723,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5711"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5713"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5715" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5717">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -759,17 +767,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5729"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5731"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5733" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5735">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -803,17 +811,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5747"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5749"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5751" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5753">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -847,17 +855,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5634"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5636"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5638" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5640">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -891,17 +899,17 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5653"
                xml:space="preserve"
-               transform="translate(525.14819,663.79582)"><flowRegion
+               transform="translate(525.14819,660.56425)"><flowRegion
                  id="flowRegion5655"><rect
                    y="165.17477"
                    x="-529.60803"
                    height="39.987968"
                    width="73.654579"
                    id="rect5657" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5659">2</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -968,7 +976,7 @@
     </g>
     <g
        id="g4997"
-       inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-13.png"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/components/customers/electronics-10.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        transform="translate(-60,0)">
@@ -1260,15 +1268,15 @@
        y="218.28801" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="36.568542"
        y="731.12347"
-       id="text6408"
-       sodipodi:linespacing="125%"><tspan
+       id="text6408"><tspan
          sodipodi:role="line"
          id="tspan6410"
          x="36.568542"
-         y="731.12347">Master</tspan></text>
+         y="731.12347"
+         style="font-size:15px;line-height:1.25">Master</tspan></text>
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -4635,16 +4643,16 @@
          transform="translate(85.761786,171.7662)"
          xml:space="preserve"
          id="flowRoot9584-8-66-5-8-9-8-1"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
            id="flowRegion9586-4-62-31-84-5-5-7"><rect
-             style="fill:#8c8c8c;fill-opacity:1;"
+             style="fill:#8c8c8c;fill-opacity:1"
              id="rect9588-100-27-17-4-9-5-4"
              width="32.278954"
              height="38.667496"
              x="-0.56340188"
              y="1.0278535" /></flowRegion><flowPara
            id="flowPara9590-22-3-66-3-4-1-1"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8c8c8c;fill-opacity:1;">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';fill:#8c8c8c;fill-opacity:1">3</flowPara></flowRoot>    </g>
     <g
        id="g4768"
        inkscape:export-xdpi="300"
@@ -5388,15 +5396,15 @@
        ry="10.125842" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="180"
        y="1268.7908"
-       id="text5147"
-       sodipodi:linespacing="125%"><tspan
+       id="text5147"><tspan
          sodipodi:role="line"
          id="tspan5149"
          x="180"
-         y="1268.7908">de-cloned</tspan></text>
+         y="1268.7908"
+         style="font-size:15px;line-height:1.25">de-cloned</tspan></text>
     <g
        id="g6904"
        transform="translate(0,-180)">
@@ -5444,7 +5452,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot5426"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion5428"><rect
                    id="rect5430"
                    width="73.654579"
@@ -5452,7 +5460,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara5432"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png"
@@ -5937,7 +5945,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5501"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -5947,7 +5955,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect5505" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5507">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -5992,7 +6000,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot5984"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion5986"><rect
                    id="rect5988"
                    width="73.654579"
@@ -6000,7 +6008,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara5990"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -6041,7 +6049,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6004"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -6051,7 +6059,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6008" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6010">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -6096,7 +6104,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6024"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6026"><rect
                    id="rect6028"
                    width="73.654579"
@@ -6104,7 +6112,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6030"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/clothing.png"
@@ -6484,7 +6492,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot5520"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion5522"><rect
                    id="rect5524"
                    width="73.654579"
@@ -6492,7 +6500,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara5526"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            transform="translate(440,520)"
@@ -6529,7 +6537,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6134"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -6539,7 +6547,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6138" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6140">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -6580,7 +6588,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6154"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6156"><rect
                    id="rect6158"
                    width="73.654579"
@@ -6588,7 +6596,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6160"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            transform="translate(400,520)"
@@ -6625,7 +6633,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6174"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -6635,7 +6643,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6178" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6180">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -6676,7 +6684,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6194"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6196"><rect
                    id="rect6198"
                    width="73.654579"
@@ -6684,7 +6692,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6200"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            transform="translate(360,520)"
@@ -6721,7 +6729,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6214"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -6731,7 +6739,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6218" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6220">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -6772,7 +6780,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6234"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6236"><rect
                    id="rect6238"
                    width="73.654579"
@@ -6780,7 +6788,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6240"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            transform="translate(320,520)"
@@ -6817,7 +6825,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6254"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -6827,7 +6835,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6258" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6260">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7032,7 +7040,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot5537"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7042,7 +7050,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect5541" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara5543">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7086,7 +7094,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6316"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6318"><rect
                    id="rect6320"
                    width="73.654579"
@@ -7094,7 +7102,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6322"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -7134,7 +7142,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6336"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7144,7 +7152,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6340" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6342">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7188,7 +7196,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6356"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6358"><rect
                    id="rect6360"
                    width="73.654579"
@@ -7196,7 +7204,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6362"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -7236,7 +7244,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6376"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7246,7 +7254,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6380" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6382">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7290,7 +7298,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6396"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6398"><rect
                    id="rect6400"
                    width="73.654579"
@@ -7298,7 +7306,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6402"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -7338,7 +7346,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6417"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7348,7 +7356,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6421" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6423">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7392,7 +7400,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6438"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6440"><rect
                    id="rect6442"
                    width="73.654579"
@@ -7400,7 +7408,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6444"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -7440,7 +7448,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6458"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7450,7 +7458,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6462" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6464">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -7494,7 +7502,7 @@
                transform="translate(525.14819,663.79582)"
                xml:space="preserve"
                id="flowRoot6478"
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
                  id="flowRegion6480"><rect
                    id="rect6482"
                    width="73.654579"
@@ -7502,7 +7510,7 @@
                    x="-529.60803"
                    y="165.17477" /></flowRegion><flowPara
                  id="flowPara6484"
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle">2</flowPara></flowRoot>          </g>
         </g>
         <g
            inkscape:export-ydpi="300"
@@ -7542,7 +7550,7 @@
                cy="833.25507"
                r="9.4642859" />
             <flowRoot
-               style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                id="flowRoot6498"
                xml:space="preserve"
                transform="translate(525.14819,663.79582)"><flowRegion
@@ -7552,7 +7560,7 @@
                    height="39.987968"
                    width="73.654579"
                    id="rect6502" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                  id="flowPara6504">2</flowPara></flowRoot>          </g>
         </g>
         <g
@@ -8044,17 +8052,17 @@
            cy="833.25507"
            r="9.4642859" />
         <flowRoot
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5344"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.31907)"><flowRegion
              id="flowRegion5346"><rect
                y="165.17477"
                x="-529.60803"
                height="39.987968"
                width="73.654579"
                id="rect5348" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara5350">2</flowPara></flowRoot>      </g>
     </g>
     <g
@@ -8092,17 +8100,17 @@
            cy="833.25507"
            r="9.4642859" />
         <flowRoot
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5363"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.19648)"><flowRegion
              id="flowRegion5365"><rect
                y="165.17477"
                x="-529.60803"
                height="39.987968"
                width="73.654579"
                id="rect5367" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara5369">2</flowPara></flowRoot>      </g>
     </g>
     <g
@@ -8140,17 +8148,17 @@
            cy="833.25507"
            r="9.4642859" />
         <flowRoot
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5382"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.56425)"><flowRegion
              id="flowRegion5384"><rect
                y="165.17477"
                x="-529.60803"
                height="39.987968"
                width="73.654579"
                id="rect5386" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara5388">2</flowPara></flowRoot>      </g>
     </g>
     <g
@@ -8188,17 +8196,17 @@
            cy="833.25507"
            r="9.4642859" />
         <flowRoot
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5400"
            xml:space="preserve"
-           transform="translate(525.14819,663.79582)"><flowRegion
+           transform="translate(525.14819,660.56425)"><flowRegion
              id="flowRegion5402"><rect
                y="165.17477"
                x="-529.60803"
                height="39.987968"
                width="73.654579"
                id="rect5404" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
              id="flowPara5406">2</flowPara></flowRoot>      </g>
     </g>
     <g
@@ -8269,7 +8277,7 @@
            inkscape:transform-center-y="-0.51906523" />
         <flowRoot
            transform="translate(-1.6121344,7.3117164)"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5432"
            xml:space="preserve"><flowRegion
              id="flowRegion5434"><rect
@@ -8279,7 +8287,7 @@
                height="18.832449"
                width="23.468128"
                id="rect5436" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara5438">1</flowPara></flowRoot>        <circle
            r="22.5"
            cy="663.84265"
@@ -8323,7 +8331,7 @@
            sodipodi:type="star" />
         <flowRoot
            transform="translate(-1.8942847,7.3117164)"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5450"
            xml:space="preserve"><flowRegion
              id="flowRegion5452"><rect
@@ -8333,7 +8341,7 @@
                height="18.832449"
                width="23.468128"
                id="rect5454" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara5456">6</flowPara></flowRoot>        <circle
            r="22.5"
            cy="663.84265"
@@ -8377,7 +8385,7 @@
            sodipodi:type="star" />
         <flowRoot
            transform="translate(-1.8605319,7.3117164)"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5468"
            xml:space="preserve"><flowRegion
              id="flowRegion5470"><rect
@@ -8387,7 +8395,7 @@
                height="18.832449"
                width="23.468128"
                id="rect5472" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara5474">5</flowPara></flowRoot>        <circle
            r="22.5"
            cy="663.84265"
@@ -8448,7 +8456,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot5489"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="translate(-1.8099097,7.3117164)"><flowRegion
              id="flowRegion5491"><rect
                id="rect5493"
@@ -8458,7 +8466,7 @@
                y="646.76654"
                style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
              id="flowPara5495"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</flowPara></flowRoot>        <circle
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</flowPara></flowRoot>        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5497"
            cx="382.57208"
@@ -8517,7 +8525,7 @@
            inkscape:transform-center-y="-0.51906523" />
         <flowRoot
            transform="translate(-1.8099097,7.3117164)"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot5509"
            xml:space="preserve"><flowRegion
              id="flowRegion5511"><rect
@@ -8527,7 +8535,7 @@
                height="18.832449"
                width="23.468128"
                id="rect5513" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
              id="flowPara5515">3</flowPara></flowRoot>        <circle
            r="22.5"
            cy="663.84265"
@@ -8588,7 +8596,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot5530"
-           style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="translate(-2.1962163,7.3117164)"><flowRegion
              id="flowRegion5532"><rect
                id="rect5534"
@@ -8598,7 +8606,7 @@
                y="646.76654"
                style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
              id="flowPara5536"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>        <circle
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>        <circle
            style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle5538"
            cx="382.57208"
@@ -8608,26 +8616,26 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-238.21429"
        y="1003.0765"
-       id="text5559"
-       sodipodi:linespacing="125%"><tspan
+       id="text5559"><tspan
          sodipodi:role="line"
          id="tspan5561"
          x="-238.21429"
-         y="1003.0765">text-to-path:</tspan></text>
+         y="1003.0765"
+         style="font-size:7.5px;line-height:1.25">text-to-path:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-26.954723"
        y="799.87286"
-       id="text5559-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text5559-5"><tspan
          sodipodi:role="line"
          id="tspan5561-1"
          x="-26.954723"
-         y="799.87286">text-to-path:</tspan></text>
+         y="799.87286"
+         style="font-size:7.5px;line-height:1.25">text-to-path:</tspan></text>
     <g
        id="g5554"
        transform="translate(720,440)">
@@ -9106,7 +9114,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5660"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9116,7 +9124,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5664" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5666">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9150,7 +9158,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5678"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9160,7 +9168,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5682" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5684">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9194,7 +9202,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5696"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9204,7 +9212,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5700" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5702">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9238,7 +9246,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5714"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9248,7 +9256,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5718" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5720">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9282,7 +9290,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5732"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9292,7 +9300,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5736" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5738">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9326,7 +9334,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5753"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9336,7 +9344,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5757" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5759">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9370,7 +9378,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5772"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9380,7 +9388,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5776" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5778">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9414,7 +9422,7 @@
                  cy="833.25507"
                  r="9.4642859" />
               <flowRoot
-                 style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  id="flowRoot5790"
                  xml:space="preserve"
                  transform="translate(525.14819,663.79582)"><flowRegion
@@ -9424,7 +9432,7 @@
                      height="39.987968"
                      width="73.654579"
                      id="rect5794" /></flowRegion><flowPara
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
                    id="flowPara5796">2</flowPara></flowRoot>            </g>
           </g>
         </g>
@@ -9644,6 +9652,212 @@
            xlink:href="#g5293"
            y="0"
            x="0" />
+      </g>
+    </g>
+    <g
+       id="g2250">
+      <g
+         style="display:inline"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="translate(-406.65284,668.21906)"
+         id="g2224"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/books.png">
+        <circle
+           r="22.5"
+           cy="123.67554"
+           cx="45.047859"
+           id="circle2220"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path2222"
+           d="m 43.22968,110.4379 c -0.0571,0.0205 -0.11421,0.0563 -0.1543,0.0977 l -11.57812,15.0625 c 0,0 -0.0819,0.16157 -0.17578,0.41602 -0.17023,0.46163 -0.35747,1.04328 -0.36133,1.77344 -0.006,1.12044 0.2222,1.69267 0.55664,2.49023 0.1097,0.33796 0.32185,0.50529 0.48633,0.58984 l 14.6582,4.80078 c 0.29088,0.0998 0.5446,0.0223 0.70899,-0.17773 l 10.90234,-14.29297 c 0.22995,-0.30643 0.25134,-0.76639 0.25474,-1.02932 0.004,-0.30349 -0.23447,-0.66823 -0.47154,-0.48603 L 47.08124,134.0986 c -0.13276,0.18172 -0.35573,0.31706 -0.56445,0.25338 l -13.82227,-4.5 c -0.42041,-0.63228 -0.62405,-1.15648 -0.57226,-1.82057 0.0573,-0.85729 0.14472,-1.46379 0.62109,-2.13844 l 13.82032,4.61524 c 0.33299,0.10369 0.66536,0.0544 0.83593,-0.17774 l 10.95313,-14.3457 c 0.16598,-0.18451 0.0907,-0.52215 -0.25,-0.65625 L 43.38398,110.4379 c -0.041,-0.024 -0.0971,-0.0205 -0.1543,0 z m 4.67188,4.44531 1.87304,0.62305 c -0.25203,0.23945 -0.47631,0.51392 -0.83789,0.98632 l -0.5,0.65625 2.69531,0.89649 c 0.57002,0.18941 1.02479,0.31374 1.48243,0.39844 l -1.29688,1.69531 c -0.43027,-0.21032 -0.81009,-0.36305 -1.36914,-0.54883 l -1.93945,-0.64453 c -0.1669,0.84682 -0.19496,1.40342 -0.0879,2.17969 0.151,1.0602 0.472,1.88134 1.04492,2.67773 -0.79455,0.40932 -1.29757,0.7257 -2.15234,1.35742 -0.38931,-0.74885 -0.54558,-1.19121 -0.69922,-1.88867 l -0.74024,0.9668 c -0.32613,-0.14878 -0.63813,-0.27955 -1.05469,-0.41797 l -0.78906,-0.26367 -0.43554,0.57031 c -0.41088,0.53681 -0.75971,1.02596 -1.0254,1.46289 l -1.88476,-0.625 c 0.37255,-0.41488 0.77507,-0.88799 1.17773,-1.41406 l 0.43555,-0.56836 -0.71289,-0.23633 c -0.40559,-0.13478 -0.77149,-0.23149 -1.125,-0.30859 l 0.75586,-0.98633 c -1.09323,0.40433 -1.72452,0.5977 -2.71094,0.80859 0.26835,-0.85353 0.35438,-1.26901 0.35938,-1.88672 1.32071,-0.23448 2.51214,-0.60539 3.85742,-1.19531 0.948,-0.4122 1.49924,-0.70062 2.48828,-1.32812 l -1.77734,-0.58985 c -0.53713,-0.17849 -0.96846,-0.29688 -1.45899,-0.39258 l 1.29688,-1.69531 c 0.39739,0.19938 0.80857,0.36253 1.3457,0.54102 l 2.58789,0.85937 0.5,-0.6543 c 0.36158,-0.4724 0.54663,-0.74853 0.69728,-1.03515 z m -3.46289,4.7207 c -0.95342,0.59893 -1.67155,0.98101 -2.8086,1.47852 0.21924,0.0729 0.28511,0.0946 0.48242,0.16015 l 0.81055,0.26954 0.76563,-0.99805 c 0.25475,-0.33282 0.43772,-0.55606 0.75,-0.91016 z m 1.64062,0.53321 c -0.42456,0.62653 -0.50288,0.74717 -0.64258,0.92968 l -0.78125,1.01953 0.92188,0.30664 c 0.2302,0.0765 0.29543,0.0986 0.41601,0.13868 -0.077,-0.83359 -0.0536,-1.51167 0.0859,-2.39453 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="display:inline"
+         transform="matrix(1.1903525,0,0,-1.1903525,-464.98538,1230.1303)"
+         id="g2230"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/clothing.png">
+        <circle
+           r="18.901964"
+           cy="-368.15625"
+           cx="36.443321"
+           id="circle2226"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:2.52026176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="scale(1,-1)" />
+        <path
+           sodipodi:nodetypes="csccsccccccsccscscccccccc"
+           inkscape:connector-curvature="0"
+           id="path2228"
+           d="m 32.948125,380.26115 c 0,0 -2.26764,-0.98973 -3.783804,-2.84918 -2.641016,-3.239 -4.070685,-10.97781 -4.070685,-10.97781 l 5.575735,-1.0419 c 0,0 0.09984,2.65741 0.484814,3.91594 0.07258,0.23723 0.23683,0.66502 0.23683,0.66502 l -0.05746,-7.68535 -0.334725,-6.25799 h 10.538828 l -0.25432,6.25799 -0.0525,7.68535 c 0,0 0.12724,-0.4314 0.186516,-0.66502 0.322459,-1.27078 0.464879,-3.91594 0.464879,-3.91594 l 5.340788,1.0419 c 0,0 -1.68503,8.45422 -4.044558,11.36743 -0.991513,1.22419 -3.273392,2.45956 -3.273392,2.45956 0,0 -2.37691,-1.78195 -3.484112,-2.87656 -1.105252,-1.09268 -1.90992,-1.77226 -3.103622,-3.40247 0.56203,1.80156 1.446823,2.71133 2.45996,3.88956 z M 31.60653,368.0684 h 9.364958 v -2.10186 H 31.60653 Z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+      <g
+         style="display:inline"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g2236"
+         transform="translate(-425.8902,691.9926)"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/images/food.png">
+        <circle
+           r="22.5"
+           cy="99.902"
+           cx="-55.714779"
+           id="circle2232"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#303030;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccsssccc"
+           inkscape:connector-curvature="0"
+           id="path2234"
+           d="m -45.448177,86.656813 -4.142578,6.337891 c -0.224281,-0.08667 -0.462679,-0.131039 -0.703125,-0.130859 -0.24698,7.3e-4 -0.491565,0.04845 -0.720703,0.140625 -0.182762,-0.908019 -0.980021,-1.56151 -1.90625,-1.5625 -0.521262,-1.08e-4 -1.02079,0.20885 -1.386719,0.580078 -0.332629,-0.650671 -1.001659,-1.060234 -1.732421,-1.060547 -0.773691,3.54e-4 -1.473729,0.458867 -1.783204,1.167969 -0.349295,-0.291076 -0.789462,-0.450697 -1.24414,-0.451172 -0.931186,0.0014 -1.731002,0.662 -1.908203,1.576172 -0.217785,-0.08277 -0.44866,-0.125768 -0.681641,-0.126953 -1.074833,7.13e-4 -1.945678,0.872428 -1.945312,1.947265 v 0.0078 c -0.05455,-0.0049 -0.109289,-0.0075 -0.164063,-0.0078 -1.074833,7.13e-4 -1.945678,0.872432 -1.945313,1.947266 3.04e-4,0.218162 0.03728,0.434721 0.109376,0.640625 -0.898698,0.08306 -1.607844,0.66538 -1.738282,1.546519 h 22.580078 c -0.114377,-0.905741 -0.841464,-1.513237 -1.763672,-1.589488 0.111416,-0.248862 0.169306,-0.518352 0.169922,-0.791016 -9.2e-4,-0.510334 -0.202217,-0.999902 -0.560546,-1.363281 l 5.726562,-5.466797 -1.029297,-1.193359 -5.894531,6.050781 c -0.08606,-0.0123 -0.102525,0.02804 -0.189453,0.02734 -0.01628,4.47e-4 -0.03256,0.0011 -0.04883,0.002 0.0018,-0.02471 0.0031,-0.04946 0.0039,-0.07422 -3.8e-4,-0.364776 -0.01145,-0.583432 -0.205078,-0.892578 l 4.335937,-6.277344 z m -24.037109,12.989398 c 0.007,0.753909 0.08022,1.339389 0.208984,2.030129 h 26.542969 c 0.129256,-0.69079 0.20343,-1.27605 0.210938,-2.030129 z m 0.246094,2.432129 c 0.781194,3.82015 3.392347,6.72531 7.140625,8.59679 h 12.175781 c 3.753023,-1.87 6.36615,-4.77543 7.150391,-8.59679 z m 7.396484,9.01728 v 1.88346 c 0,0.0999 0.07982,0.18164 0.179688,0.18164 h 11.318359 c 0.09987,0 0.179686,-0.0818 0.179688,-0.18164 v -1.88346 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       id="g2336"
+       transform="translate(0,-9.375)">
+      <g
+         id="g2278"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/clothing-x2.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(-543.75,36.25)">
+        <use
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           height="100%"
+           width="100%"
+           transform="translate(0,140)"
+           id="use2266"
+           xlink:href="#g5331"
+           y="0"
+           x="0" />
+        <g
+           style="display:inline"
+           id="g2276"
+           transform="matrix(0.8,0,0,0.8,104.28787,160.79053)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle2268"
+             cx="32.32143"
+             cy="833.25507"
+             r="9.4642859" />
+          <circle
+             r="9.4642859"
+             cy="833.25507"
+             cx="32.32143"
+             id="circle2270"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             transform="translate(525.14819,663.79582)"
+             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="g2274">
+            <path
+               inkscape:connector-curvature="0"
+               d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+               id="path2272" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g2292"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/books-x2.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(-543.75,36.25)">
+        <use
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           height="100%"
+           width="100%"
+           transform="translate(0,140)"
+           id="use2280"
+           xlink:href="#g5312"
+           y="0"
+           x="0" />
+        <g
+           style="display:inline"
+           id="g2290"
+           transform="matrix(0.8,0,0,0.8,164.28788,160.79054)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle2282"
+             cx="32.32143"
+             cy="833.25507"
+             r="9.4642859" />
+          <circle
+             r="9.4642859"
+             cy="833.25507"
+             cx="32.32143"
+             id="circle2284"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             transform="translate(525.14819,663.79582)"
+             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="g2288">
+            <path
+               inkscape:connector-curvature="0"
+               d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+               id="path2286" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g2306"
+         inkscape:export-filename="/Users/garykac/projects/github/shinjuku/components/customers/electronics-x2.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(-543.75,36.25)">
+        <use
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           height="100%"
+           width="100%"
+           transform="translate(0,140)"
+           id="use2294"
+           xlink:href="#g5293"
+           y="0"
+           x="0" />
+        <g
+           style="display:inline"
+           id="g2304"
+           transform="matrix(0.8,0,0,0.8,224.28788,160.79054)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle2296"
+             cx="32.32143"
+             cy="833.25507"
+             r="9.4642859" />
+          <circle
+             r="9.4642859"
+             cy="833.25507"
+             cx="32.32143"
+             id="circle2298"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             transform="translate(525.14819,663.79582)"
+             style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="g2302">
+            <path
+               inkscape:connector-curvature="0"
+               d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+               id="path2300" />
+          </g>
+        </g>
       </g>
     </g>
   </g>
