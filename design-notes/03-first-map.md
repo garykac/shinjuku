@@ -32,7 +32,7 @@ I was also concerned about the number of stations that I would need on the map. 
 
 Fortunately, the government of Tokyo divides the central core of the city (technically a "metropolis") into [23 special wards](https://en.wikipedia.org/wiki/Special_wards_of_Tokyo), which seems like a more manageable number.
 
-<a href="../map/tokyo-23-wards.png"><img src="maps/tokyo-23-wards.jpg" /></a>
+<a href="../gamedev/map/tokyo-23-wards.png"><img src="maps/tokyo-23-wards.jpg" /></a>
 
 But how can I confirm that 23 regions a good number? Clearly I needed to create the game and playtest it, but before that I could look at existing games as a point of comparison:
 
@@ -60,7 +60,7 @@ Fortunately, Tokyo has a well-known train line that forms a ring around the core
 
 Along the Yamanote, there are 6 stations that are highlighted on the JR maps: Shinjuku, Ikebukuro, Shibuya, Tokyo, Shinagawa and Ueno (these are shown as red dots on the map above). Three of these (Shinjuku, Ikebukuro and Shibuya) are the top three busiest stations in the world and the others are in the top 10, so these are great starting points for the map.
 
-<a href="../archive/tokyo-map/v01-yamanote/tokyo-stations-01.jpg"><img src="../archive/tokyo-map/v01-yamanote/tokyo-stations-01.jpg" height="300px" width="285px" /></a>
+<a href="../gamedev/archive/tokyo-map/v01-yamanote/tokyo-stations-01.jpg"><img src="../gamedev/archive/tokyo-map/v01-yamanote/tokyo-stations-01.jpg" height="300px" width="285px" /></a>
 
 Following around the Yamanote, I added other major stations to connect the loop and then started working outward. New stations were added based roughly on the number of passengers while making sure that each ward had at least one station. Priority was given to stations that connected multiple rail lines.
 
@@ -104,7 +104,7 @@ Note the following:
 * (Gotanda) Not enough room on map between Shinagawa and Meguro
 * (Kamata) Removed because it's off map to south past Omori
 
-<a href="../archive/tokyo-map/v02/tokyo-stations-2-sm.jpg"><img src="../archive/tokyo-map/v02/tokyo-stations-2-sm.jpg" height="270px" width="300px" /></a>
+<a href="../gamedev/archive/tokyo-map/v02/tokyo-stations-2-sm.jpg"><img src="../gamedev/archive/tokyo-map/v02/tokyo-stations-2-sm.jpg" height="270px" width="300px" /></a>
 
 In the end, 41 stations were selected to be included on the map.
 
