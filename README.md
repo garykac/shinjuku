@@ -30,6 +30,11 @@ The game ends when the last customer is placed (+ one final turn for the other p
 * Videos
 	* [General Overview](https://www.youtube.com/watch?v=WozxrZ81nBs) (4:42 rule/gameplay summary)
 
+| | |
+| --- | --- |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf"><img src="docs/shinjuku_variants_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf"><img src="pnp/shinjuku-pnp/shinjuku-pnp-instr-tn.png" height="200px"/></a> |
+| Variants<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf">A4</a> | Print and Play<br/><a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf">A4</a> |
+
 * [Print and Play Instructions](https://garykac.github.io/shinjuku/pnp/index.html)
 
 * Game Development
