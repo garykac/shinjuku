@@ -16,10 +16,10 @@ The game ends when the last customer is placed (+ one final turn for the other p
 
 ## Links
 
-| | | |
-| --- | --- | --- |
-| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf"><img src="docs/shinjuku_rules_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf"><img src="docs/shinjuku_quickstart_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf"><img src="docs/shinjuku_variants_tn.png" height="200px"/></a> |
-| Rules of Play<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf">A4</a> | Quickstart Guide<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf">A4</a> | Variants<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf">A4</a> |
+| | |
+| --- | --- |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf"><img src="docs/shinjuku_rules_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf"><img src="docs/shinjuku_quickstart_tn.png" height="200px"/></a> |
+| Rules of Play<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf">A4</a> | Quickstart Guide<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf">A4</a> |
 
 * [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
@@ -30,19 +30,27 @@ The game ends when the last customer is placed (+ one final turn for the other p
 * Videos
 	* [General Overview](https://www.youtube.com/watch?v=WozxrZ81nBs) (4:42 rule/gameplay summary)
 
-| | |
-| --- | --- |
-| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf"><img src="docs/shinjuku_variants_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf"><img src="pnp/shinjuku-pnp/shinjuku-pnp-instr-tn.png" height="200px"/></a> |
-| Variants<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf">A4</a> | Print and Play<br/><a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf">A4</a> |
+* Variants - A Shinjuku _variant_ adds new components and/or rules that can be layered on top of the base rule set.
+
+| |
+| --- |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf"><img src="docs/shinjuku_variants_tn.png" height="150px"/></a> |
+| Variants<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_variants_a4.pdf">A4</a> |
 
 * [Print and Play Instructions](https://garykac.github.io/shinjuku/pnp/index.html)
 
-* Game Development
-	* Game categories: strategic; network building; pick-up and deliver, set collection
-	* Design Notes/Diary - [BGG](https://boardgamegeek.com/blogpost/96561/introduction) or [here on github](https://garykac.github.io/shinjuku/design-notes/00-introduction.html)
-	* [Github repository](https://github.com/garykac/shinjuku)
-	* [Playtest notes](playtests/playtests.md)
-	* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
+| |
+| --- |
+| <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf"><img src="pnp/shinjuku-pnp/shinjuku-pnp-instr-tn.png" height="150px"/></a> |
+| Print and Play<br/><a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf">A4</a> |
+
+#### Game Development Links
+
+* Game categories: strategic; network building; pick-up and deliver, set collection
+* Design Notes/Diary - [BGG](https://boardgamegeek.com/blogpost/96561/introduction) or [here on github](https://garykac.github.io/shinjuku/design-notes/00-introduction.html)
+* [Github repository](https://github.com/garykac/shinjuku)
+* [Playtest notes](playtests/playtests.md)
+* [Blank playtest comment sheet (pdf)](docs/playtest_comment_sheet.pdf)
 
 ## Background
 
