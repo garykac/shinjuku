@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="1024"
-   viewBox="0 0 270.93333 270.93334"
+   width="1092.2667"
+   height="1092.2667"
+   viewBox="0 0 1024 1024"
    version="1.1"
    id="svg1213"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="customer.svg"
    inkscape:export-filename="/home/garykac/projects/github/shinjuku/tts/textures/bonus-star.png"
    inkscape:export-xdpi="96.000008"
@@ -30,17 +30,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93338095"
-     inkscape:cx="367.35763"
-     inkscape:cy="548.31852"
+     inkscape:cx="133.79812"
+     inkscape:cy="848.30322"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer12"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
      inkscape:window-width="1680"
      inkscape:window-height="1006"
-     inkscape:window-x="-33"
-     inkscape:window-y="66"
+     inkscape:window-x="0"
+     inkscape:window-y="417"
      inkscape:window-maximized="0"
      inkscape:snap-center="true"
      inkscape:snap-object-midpoints="true"
@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="White background"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#fffffd;fill-opacity:0.99248125;stroke-width:0.26458332"
        id="rect6235"
@@ -85,7 +85,7 @@
        style="fill:#000000;fill-opacity:0.99248125;stroke-width:0.26458332" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Bonus background"
      id="g1338"
      inkscape:groupmode="layer">
@@ -102,7 +102,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-26.06665)"
-     style="display:inline">
+     style="display:none">
     <circle
        id="path5073"
        cx="67.749374"
@@ -122,6 +122,21 @@
        height="134.30191"
        x="7.1207683e-06"
        y="26.066658" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Tabletopia Background">
+    <circle
+       transform="translate(0,-26.06665)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26113135"
+       r="64.442078"
+       cy="229.05016"
+       cx="67.749374"
+       id="circle1189"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/customers/electronics-x2.png"
+       inkscape:export-xdpi="104.75"
+       inkscape:export-ydpi="104.75" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1300,7 +1315,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Electronics x2"
-     style="display:none">
+     style="display:inline">
     <g
        id="g6177"
        transform="matrix(12.825,0,0,12.825,-2399.3915,-1534.563)">
@@ -1933,7 +1948,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Bonus - star"
      id="g1218"
      inkscape:groupmode="layer">

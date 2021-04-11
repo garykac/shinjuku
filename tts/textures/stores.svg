@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="581.49247"
+     inkscape:cx="145.49247"
      inkscape:cy="419.40643"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1164"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
      inkscape:window-width="1690"
      inkscape:window-height="1230"
-     inkscape:window-x="70"
-     inkscape:window-y="0"
+     inkscape:window-x="35"
+     inkscape:window-y="435"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata1210">
@@ -83,7 +83,7 @@
      inkscape:label="Hachiko"
      id="g1146"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="g1039"
@@ -864,9 +864,9 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Blue"
-     style="display:none">
+     style="display:inline">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Blue background"
        id="g1145"
        inkscape:groupmode="layer">
@@ -880,9 +880,25 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Blue Tabletopia"
+       style="display:inline">
+      <circle
+         transform="translate(0,-26.06665)"
+         style="display:inline;fill:#1f85ff;fill-opacity:1;stroke-width:0.26113135"
+         r="64.442078"
+         cy="229.05016"
+         cx="67.749374"
+         id="circle1046"
+         inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/blue/dept-store.png"
+         inkscape:export-xdpi="29.559999"
+         inkscape:export-ydpi="29.559999" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="Electronics"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          id="g5598"
