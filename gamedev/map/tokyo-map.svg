@@ -3483,11 +3483,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3918722"
-     inkscape:cx="365.66701"
-     inkscape:cy="1175.0573"
+     inkscape:zoom="0.69593609"
+     inkscape:cx="606.37137"
+     inkscape:cy="1278.3207"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g4034"
      showgrid="false"
      units="in"
      inkscape:window-width="3440"
@@ -8456,7 +8456,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="display:inline;opacity:0.525"
+     style="display:inline;opacity:1"
      inkscape:label="Wards - Color Pattern"
      id="g7495"
      inkscape:groupmode="layer"
@@ -8745,7 +8745,7 @@
      inkscape:groupmode="layer"
      id="g5439"
      inkscape:label="Wards - Color Solid"
-     style="display:inline;opacity:0.64150943"
+     style="display:inline;opacity:0.658"
      sodipodi:insensitive="true">
     <g
        style="display:inline"
@@ -26007,7 +26007,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Tabletopia Overlay - Export 3000x3300"
-     style="display:inline">
+     style="display:none">
     <g
        id="g5184"
        transform="translate(857.099,-31.505676)">
