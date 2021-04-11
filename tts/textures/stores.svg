@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="145.49247"
+     inkscape:cx="-290.50753"
      inkscape:cy="419.40643"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g1291"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
      inkscape:window-width="1690"
      inkscape:window-height="1230"
-     inkscape:window-x="35"
-     inkscape:window-y="435"
+     inkscape:window-x="69"
+     inkscape:window-y="545"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata1210">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -148,7 +148,7 @@
      inkscape:label="Yellow"
      style="display:none">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Yellow background"
        id="g1439"
        inkscape:groupmode="layer">
@@ -162,9 +162,25 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g1066"
+       inkscape:label="Yellow Tabletopia"
+       style="display:inline">
+      <circle
+         transform="translate(0,-26.06665)"
+         style="display:inline;fill:#f7e400;fill-opacity:1;stroke-width:0.26113135"
+         r="64.442078"
+         cy="229.05016"
+         cx="67.749374"
+         id="circle1064"
+         inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/yellow/food.png"
+         inkscape:export-xdpi="29.559999"
+         inkscape:export-ydpi="29.559999" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer20"
        inkscape:label="Electronics"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          transform="matrix(3.4290001,0,0,3.4290001,-86.71974,-452.62912)"
@@ -418,7 +434,7 @@
        inkscape:groupmode="layer"
        id="layer23"
        inkscape:label="Food"
-       style="display:none">
+       style="display:inline">
       <g
          style="display:inline"
          id="g5451"
@@ -503,7 +519,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Green"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="g1291"
@@ -518,10 +534,26 @@
          y="8.0200198e-06" />
     </g>
     <g
+       style="display:inline"
+       inkscape:label="Green Tabletopia"
+       id="g1060"
+       inkscape:groupmode="layer">
+      <circle
+         inkscape:export-ydpi="29.559999"
+         inkscape:export-xdpi="29.559999"
+         inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/green/food.png"
+         id="circle1058"
+         cx="67.749374"
+         cy="229.05016"
+         r="64.442078"
+         style="display:inline;fill:#22e50c;fill-opacity:1;stroke-width:0.26113135"
+         transform="translate(0,-26.06665)" />
+    </g>
+    <g
        inkscape:groupmode="layer"
        id="layer15"
        inkscape:label="Electronics"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          transform="matrix(3.4290001,0,0,3.4290001,-86.71974,-452.62912)"
@@ -779,7 +811,7 @@
        inkscape:groupmode="layer"
        id="layer18"
        inkscape:label="Food"
-       style="display:none">
+       style="display:inline">
       <g
          style="display:inline"
          transform="matrix(3.4290001,0,0,3.4290001,-2401.4612,-2304.8619)"
@@ -864,7 +896,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Blue"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:none"
        inkscape:label="Blue background"
@@ -1246,7 +1278,7 @@
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="Red background"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#e50500;fill-opacity:1;stroke-width:0.26458332"
          id="rect6235"
@@ -1256,10 +1288,26 @@
          y="8.0200198e-06" />
     </g>
     <g
+       style="display:inline"
+       inkscape:label="Red Tabletopia"
+       id="g1054"
+       inkscape:groupmode="layer">
+      <circle
+         inkscape:export-ydpi="29.559999"
+         inkscape:export-xdpi="29.559999"
+         inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/red/food.png"
+         id="circle1050"
+         cx="67.749374"
+         cy="229.05016"
+         r="64.442078"
+         style="display:inline;fill:#e50500;fill-opacity:1;stroke-width:0.26113135"
+         transform="translate(0,-26.06665)" />
+    </g>
+    <g
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="Electronics"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          transform="matrix(3.4290001,0,0,3.4290001,-86.71974,-452.62912)"
@@ -1517,7 +1565,7 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Food"
-       style="display:none">
+       style="display:inline">
       <g
          inkscape:export-ydpi="300.00018"
          inkscape:export-xdpi="300.00018"
