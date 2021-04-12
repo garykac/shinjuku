@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-290.50753"
-     inkscape:cy="419.40643"
+     inkscape:cx="421.49247"
+     inkscape:cy="409.40643"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1291"
+     inkscape:current-layer="g1439"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
@@ -146,9 +146,9 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="Yellow"
-     style="display:none">
+     style="display:inline">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Yellow background"
        id="g1439"
        inkscape:groupmode="layer">
@@ -519,7 +519,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Green"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="g1291"
@@ -896,7 +896,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Blue"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:none"
        inkscape:label="Blue background"
@@ -1273,7 +1273,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Red"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer11"
