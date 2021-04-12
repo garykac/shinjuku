@@ -17,9 +17,9 @@
    id="svg1213"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="customer.svg"
-   inkscape:export-filename="/home/garykac/projects/github/shinjuku/tts/textures/bonus-star.png"
-   inkscape:export-xdpi="96.000008"
-   inkscape:export-ydpi="96.000008">
+   inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/bonus.png"
+   inkscape:export-xdpi="104.75"
+   inkscape:export-ydpi="104.75">
   <defs
      id="defs1207" />
   <sodipodi:namedview
@@ -30,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93338095"
-     inkscape:cx="133.79812"
+     inkscape:cx="-99.761393"
      inkscape:cy="848.30322"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g1193"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -126,7 +126,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer12"
-     inkscape:label="Tabletopia Background">
+     inkscape:label="Tabletopia Background"
+     style="display:none">
     <circle
        transform="translate(0,-26.06665)"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26113135"
@@ -137,6 +138,22 @@
        inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/customers/electronics-x2.png"
        inkscape:export-xdpi="104.75"
        inkscape:export-ydpi="104.75" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Tabletopia Bonus Background"
+     id="g1193"
+     inkscape:groupmode="layer">
+    <circle
+       inkscape:export-ydpi="104.75"
+       inkscape:export-xdpi="104.75"
+       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/bonus.png"
+       id="circle1191"
+       cx="67.749374"
+       cy="229.05016"
+       r="64.442078"
+       style="display:inline;fill:#dcdcdc;fill-opacity:1;stroke-width:0.26113135"
+       transform="translate(0,-26.06665)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1315,7 +1332,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Electronics x2"
-     style="display:inline">
+     style="display:none">
     <g
        id="g6177"
        transform="matrix(12.825,0,0,12.825,-2399.3915,-1534.563)">
@@ -1948,7 +1965,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Bonus - star"
      id="g1218"
      inkscape:groupmode="layer">
