@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
    height="11in"
    viewBox="0 0 765 990"
    id="svg4516"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="card-info.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="card-info.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4518" />
   <sodipodi:namedview
@@ -27,17 +27,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="513.97502"
-     inkscape:cy="570.5741"
+     inkscape:cx="514.28571"
+     inkscape:cy="570.71429"
      inkscape:document-units="px"
-     inkscape:current-layer="layer100"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="3440"
+     inkscape:window-height="1405"
      inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="394"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata4521">
     <rdf:RDF>
@@ -46,7 +47,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,14 +70,13 @@
      transform="translate(0,-62.362205)"
      style="display:inline">
     <image
-       sodipodi:absref="/Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/01-chiyoda.png"
-       y="215.84079"
-       x="248.47859"
-       id="image9554"
-       xlink:href="file:///Users/garykac/projects/github/shinjuku/cards/ku-cards-clip/01-chiyoda.png"
-       preserveAspectRatio="none"
+       width="225.90001"
        height="315.89999"
-       width="225.89999" />
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/01-chiyoda.png"
+       id="image926"
+       x="248.47858"
+       y="215.84079" />
   </g>
   <g
      inkscape:groupmode="layer"
