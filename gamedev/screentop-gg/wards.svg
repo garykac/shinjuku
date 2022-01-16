@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4337.2803"
+   height="4043.52"
+   viewBox="0 0 1147.5721 1069.8481"
+   version="1.1"
+   id="svg1346"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="wards.svg"
+   inkscape:export-filename="/home/garykac/projects/github/shinjuku/screentop-gg/wards.png"
+   inkscape:export-xdpi="48.005699"
+   inkscape:export-ydpi="48.005699"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1340" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1134.2857"
+     inkscape:cy="1855.7143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3440"
+     inkscape:window-height="1405"
+     inkscape:window-x="0"
+     inkscape:window-y="394"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata1343">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.0517578e-5,817.42511)">
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/01-chiyoda.png"
+       id="image1502"
+       x="-3.0517578e-05"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/02-chuo.png"
+       id="image1514"
+       x="191.26198"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/03-minato.png"
+       id="image1526"
+       x="382.52399"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/04-shinjuku.png"
+       id="image1538"
+       x="573.78601"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/05-bunkyo.png"
+       id="image1550"
+       x="765.04803"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/06-taito.png"
+       id="image1562"
+       x="956.31006"
+       y="-817.42511" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/07-sumida.png"
+       id="image1574"
+       x="-3.0517578e-05"
+       y="-549.96313" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/08-koto.png"
+       id="image1586"
+       x="191.26198"
+       y="-549.96307" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/09-shinagawa.png"
+       id="image1598"
+       x="382.52399"
+       y="-549.96313" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/10-meguro.png"
+       id="image1610"
+       x="573.78601"
+       y="-549.96313" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/11-ota.png"
+       id="image1622"
+       x="765.04803"
+       y="-549.96313" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/12-setagaya.png"
+       id="image1634"
+       x="956.31006"
+       y="-549.96313" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/13-shibuya.png"
+       id="image1646"
+       x="-3.0517578e-05"
+       y="-282.50113" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/14-nakano.png"
+       id="image1658"
+       x="191.26198"
+       y="-282.50107" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/15-suginami.png"
+       id="image1670"
+       x="382.52399"
+       y="-282.50107" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/16-toshima.png"
+       id="image1682"
+       x="573.78601"
+       y="-282.50107" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/17-kita.png"
+       id="image1694"
+       x="765.04803"
+       y="-282.50107" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/18-arakawa.png"
+       id="image1706"
+       x="956.31006"
+       y="-282.50113" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/19-itabashi.png"
+       id="image1718"
+       x="-3.0517578e-05"
+       y="-15.039124" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/20-nerima.png"
+       id="image1730"
+       x="191.26198"
+       y="-15.039124" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/21-adachi.png"
+       id="image1742"
+       x="382.52399"
+       y="-15.039124" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/22-katsushika.png"
+       id="image1754"
+       x="573.78601"
+       y="-15.039124" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/23-edogawa.png"
+       id="image1766"
+       x="765.04803"
+       y="-15.039124" />
+    <image
+       width="191.26201"
+       height="267.46201"
+       preserveAspectRatio="none"
+       xlink:href="../gamedev/cards/ku-cards-clip/back.png"
+       id="image1778"
+       x="956.31006"
+       y="-15.039124" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="Box"
+     transform="translate(3.0517578e-5,56.091756)"
+     style="display:none">
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.264583"
+       id="rect2258"
+       width="1195.3875"
+       height="1114.4252"
+       x="-3.0517578e-05"
+       y="-56.091759" />
+  </g>
+</svg>
