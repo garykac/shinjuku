@@ -205,7 +205,7 @@ Customers are scored using set collection plus any bonuses from department store
 
 * 10 pts for each set of 4 different customers
 * 6 pts for each set of 3 different customers
-* 3 pts for each set of 3 different customers
+* 3 pts for each set of 2 different customers
 * 1 pt for each remaining customer
 
 Customers marked with a “2” count as 2 separate customers.
