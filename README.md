@@ -23,7 +23,10 @@ The game ends when the last customer is placed (+ one final turn for the other p
 
 * [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
-* [Tabletop Simulator implementation](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
+* Online virtual tabletops:
+   * [Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
+   * [Tabletopia](https://tabletopia.com/workshop/games/shinjuku)
+   * [Screentop.gg](https://screentop.gg/@garykac/Shinjuku)
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
 
