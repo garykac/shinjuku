@@ -23,7 +23,10 @@ The game ends when the last customer is placed (+ one final turn for the other p
 
 * [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
-* [Tabletop Simulator implementation](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
+* Online virtual tabletops:
+   * [Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
+   * [Tabletopia](https://tabletopia.com/workshop/games/shinjuku)
+   * [Screentop.gg](https://screentop.gg/@garykac/Shinjuku)
 
 * [BoardGameGeek](https://boardgamegeek.com/boardgame/286690/shinjuku), [Instagram](https://www.instagram.com/shinjuku.game/)
 
@@ -205,7 +208,7 @@ Customers are scored using set collection plus any bonuses from department store
 
 * 10 pts for each set of 4 different customers
 * 6 pts for each set of 3 different customers
-* 3 pts for each set of 3 different customers
+* 3 pts for each set of 2 different customers
 * 1 pt for each remaining customer
 
 Customers marked with a “2” count as 2 separate customers.
