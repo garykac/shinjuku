@@ -6,9 +6,6 @@ tokyo-map*-300dpi.png
 tokyo-map*-300dpi.jpg
 map/map*-150dpi.png
 
-# Affinity Publisher docs
-*.afpub
-
 ref/*
 
 # Temp files for generating PNP files
