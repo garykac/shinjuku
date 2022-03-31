@@ -7,10 +7,10 @@ import numpy
 import random
 
 _customer_types = {
-    'f': 20,#23,    # Food
-    'c': 17,#20,    # Clothing
-    'b': 13,#16,    # Books
-    'e': 10,#13,    # Electronics (Video games)
+    'f': 23,#20,    # Food
+    'c': 20,#17,    # Clothing
+    'b': 16,#13,    # Books
+    'e': 13,#10,    # Electronics (Video games)
 }
 
 _customer_names = {
@@ -289,12 +289,15 @@ class MonteCarloProb():
         #print('Avg number of turns:', average, 'stddev:', sd)
         print("Avg number of turns {0:5.2f} stddev {1:4.2f}".format(average, sd))
 
-        print('Size of clumps placed on map:')
+        print('Size of customer clumps placed on map each turn:')
+        avg_cust = 0
         for clump_size in sorted(self.data_clump.keys()):
             percent = self.data_clump[clump_size] / self.total_turns
             sd = numpy.std(self.data_clump_percent[clump_size])
             #print(clump_size, percent, 'stddev:', sd)
-            print("   {0} {1:5.2f}% stddev {2:4.2f}".format(clump_size, percent * 100, sd * 100))
+            print("   {0} - {1:5.2f}% stddev {2:4.2f}".format(clump_size, percent * 100, sd * 100))
+            avg_cust += clump_size * percent
+        print("Average clump size: {0:5.2f}".format(avg_cust))
 
 def static_check():
     print()
@@ -310,10 +313,10 @@ def monte_carlo_check():
     print('*** Monte Carlo check ***')
     prob = MonteCarloProb()
     
-    customer_count = 6
+    customer_count = 8
     
     prob.set_verbosity(False)
-    prob.run_simulations(customer_count, 1)
+    prob.run_simulations(customer_count, 1000)
     prob.summary(customer_count)
     
 #static_check()
