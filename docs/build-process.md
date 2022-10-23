@@ -96,36 +96,6 @@ Create Color PDF (A4)
 * Set PDF title "Shinjuku PNP Color Map"
 * Save PDF as `pnp/shinjuku-pnp/map-color-a4.pdf`
 
-### Generate B&W maps for PNP
-
-Process is basically the same as color pnp maps except save files in `map-bw` instead of `map-color`.
-
-Hide the following layers:
-
-* "Station Shadows"
-* "Wards - Color"
-* "Water Boundaries Clone - Shadow"
-
-And show:
-
-* "Ku Names - B&W"
-* "Wards - Thin Outline"
-* "Wards - B&W"
-* "Water Boundaries Clone - Dot B&W"
-* "Water - B&W"
-
-In Inkscape, open `map/tokyo-map.svg`:
-
-* Layer "Border 18x24" export at 150dpi (3600x2700) -> `tmp`
-
-In Affinity Photo, open `tmp`:
-
-* Export 3600x2700 quality 60 as JPG `pnp/shinjuku-pnp/map-bw.png`
-
-In Inkscape, export the 8 7x10" maps images as for color maps. Save images as `pnp/map-bw/` directory.
-
-Create PDFs as for color maps. Final PDFs should be stored in `pnp/shinjuku-pnp/map-bw-letter.pdf` and `pnp/shinjuku-pnp/map-bw-a4.pdf`
-
 ### Extra Things to Consider
 
 * Do the cards need to be updated with the map changes?
