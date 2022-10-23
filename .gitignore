@@ -1,4 +1,5 @@
 .DS_Store
+*.pyc
 
 # Large 18-up images for PPG
 *-18.png
