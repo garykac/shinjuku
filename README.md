@@ -99,48 +99,71 @@ A department store (represented by a tall cylinder) sells all of these goods.
 
 ### Customers
 
-There are a total of 60 customers. They are stored in a bag so that they can be drawn at random.
+There are a total of 72 customers. They are stored in a bag so that they can be drawn at random.
 
 The 4 customer types match the store types:
 
 | | | |
 | --- | --- | --- |
-| <img src="gamedev/components/customers/food.png" height="30px"/> | 20 customers want Food | <img src="gamedev/components/customers/food-20.png" height="30px"/> 
-| <img src="gamedev/components/customers/clothing.png" height="30px"/> | 17 customers want Clothing | <img src="gamedev/components/customers/clothing-17.png" height="30px"/> |
-| <img src="gamedev/components/customers/books.png" height="30px"/> | 13 customers want Books | <img src="gamedev/components/customers/books-13.png" height="30px"/> |
-| <img src="gamedev/components/customers/electronics.png" height="30px"/> | 10 customers want Electronics | <img src="gamedev/components/customers/electronics-10.png" height="30px"/> |
+| <img src="gamedev/components/customers/food.png" height="30px"/> | 23 customers want Food | <img src="gamedev/components/customers/food-23.png" height="30px"/> 
+| <img src="gamedev/components/customers/clothing.png" height="30px"/> | 20 customers want Clothing | <img src="gamedev/components/customers/clothing-20.png" height="30px"/> |
+| <img src="gamedev/components/customers/books.png" height="30px"/> | 16 customers want Books | <img src="gamedev/components/customers/books-16.png" height="30px"/> |
+| <img src="gamedev/components/customers/electronics.png" height="30px"/> | 13 customers want Electronics | <img src="gamedev/components/customers/electronics-13.png" height="30px"/> |
 
 Some customer tokens are marked with a "2" which indicates that they count as 2 customers during scoring:
 
-<img src="gamedev/components/customers/clothing-x2.png" height="40px"/> <img src="gamedev/components/customers/books-x2.png" height="40px"/> <img src="gamedev/components/customers/electronics-x2.png" height="40px"/>
+<img src="gamedev/components/customers/food-x2.png" height="40px"/> <img src="gamedev/components/customers/clothing-x2.png" height="40px"/> <img src="gamedev/components/customers/books-x2.png" height="40px"/> <img src="gamedev/components/customers/electronics-x2.png" height="40px"/>
 
 ### Upgrade Bonus Tokens
 
-Players can earn a stack of Upgrade Bonus tokens when they upgrade one of their stores to a department store.
-
 <img src="gamedev/components/bonus-token.png" height="40px"/>
+
+Players can earn a stack of Upgrade Bonus tokens when they upgrade one of their stores to a department store.
 
 These tokens can act as a customer of any type during the endgame set-collection scoring.
 
+### Matsuri (Festival) Token
+
+<img src="gamedev/components/matsuri.png" height="40px"/>
+
+The Matsuri token is moved each turn and identifies where a festival is taking place. Cards that match the festival location are wild.
+
 ### Gameplay
 
-#### Initial Setup
+#### Per-player Setup
 
-Choose a player color, take the pieces and then draw 4 cards into your hand.
+* Choose a player color and take the matching pieces
 
-Initialize the Customer Queue:
+* Draw 4 cards into your hand.
 
-* Draw 4 ward cards and place them on the 4 queue spaces: ④ ③ ② ①
-* Add 2 customers to the queue.
+#### General Setup
+
+* Add initial customers to map:
+   * Draw 4 different ward cards (re-draw if you get a duplicate)
+   * Draw 2 customers for each location drawn
+
+* Determine starting location for the Matsuri:
+   * Draw a ward card
+   * Place the Matsuri token in that location
+
+* Choose a starting player and have them take the Start Player Token.
+
+* Initialize the Customer Queue:
+   * Draw 4 ward cards and place them on the 4 queue spaces: ④ ③ ② ①
+   * Add 2 customers to the queue.
 
 To add a customer to the queue:
 
 * Draw a customer from the bag
 * Is there already a customer of the same type in the queue?
-	* If so, place the new customer on the card with the matching customer.
+   * If so, place the new customer on the card with the matching customer
 * Otherwise, place the new customer on the next available (empty) card.
 
 #### Each Turn
+
+##### Move the Matsuri
+
+Move the Matsuri token from its current location into a neighboring location.
 
 ##### Place Customers
 
@@ -182,6 +205,10 @@ Once you've built a store (or department store) in a ward, the cards for that wa
 
 Because the card frequency varies based on the population of that ward, some wards work better as wildcards (because you're more likely to draw them).
 
+#### ...from the Matsuri
+
+Cards that match the current location of the Matsuri token are wild.
+
 ### Moving Customers
 
 The **Move** action is the most important action in _Shinjuku_ because it is the only way to gain customers (which are needed to win the game).
@@ -200,7 +227,7 @@ When you choose the **Move** action, do the following:
 
 ### End of Game
 
-When the last customer is drawn from the bag, play continues until the customer queue is emptied. The player that places the final customer from the queue finishes their turn and then every other player takes one last turn.
+When the last customer is drawn from the bag, play continues until the customer queue is emptied. The player that places the final customer from the queue finishes their turn and play continues until the player with the Start Player Token (so that every player has the same number of turns).
 
 ### Endgame Scoring
 
