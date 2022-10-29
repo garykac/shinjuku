@@ -7,9 +7,9 @@
    viewBox="0 0 270.93333 270.93334"
    version="1.1"
    id="svg1153"
-   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="matsuri-lantern.svg"
-   inkscape:export-filename="/Users/garykac/projects/github/shinjuku/tts/textures/matsuri-lantern.png"
+   inkscape:export-filename="matsuri-lantern.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.64052329"
-     inkscape:cx="645.56591"
-     inkscape:cy="539.40271"
+     inkscape:cx="368.44874"
+     inkscape:cy="433.23952"
      inkscape:window-width="1647"
      inkscape:window-height="969"
      inkscape:window-x="0"
@@ -39,14 +39,16 @@
      units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-page="false"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs1150" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Image"
-     style="display:inline">
+     inkscape:label="UV Map"
+     style="display:none">
     <image
        width="270.93332"
        height="270.93332"
@@ -77,13 +79,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <rect
-       style="fill:#e30000;fill-opacity:1;stroke:#e30000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2406"
-       width="153.25035"
-       height="232.83099"
-       x="0"
-       y="38.002781" />
     <g
        id="g16986"
        transform="matrix(1.2705,0,0,1,-20.727111,0)">
@@ -117,48 +112,20 @@
       </g>
     </g>
     <path
-       style="display:inline;fill:#000000;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="m 231.33159,77.196367 c -3.83837,-8.214426 -12.59875,-12.082404 -21.78964,-9.397426 -4.56945,1.334896 -10.59644,6.805855 -10.43012,15.077192 0.15597,7.756129 4.3264,12.603769 8.77782,14.147774 7.08993,2.459189 14.61549,1.343229 18.48505,-2.375174 4.42403,-4.25121 8.79525,-9.237941 4.95689,-17.452366 z"
+       style="display:inline;fill:#000000;fill-opacity:0.993266;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 231.25414,77.247999 c -2.0864,-3.866316 -5.09469,-6.960003 -8.91344,-8.811806 -3.78412,-1.835007 -8.10004,-2.392815 -13.00529,-0.585618 -4.46693,1.645711 -10.3899,6.805854 -10.22358,15.077191 0.15597,7.756134 5.08537,11.6759 9.37161,13.760515 6.23736,3.033539 14.69294,0.413814 18.14943,-2.917327 2.20892,-2.128818 5.17428,-5.764744 6.37148,-8.651733 1.07636,-2.595602 -0.41359,-5.394328 -1.75021,-7.871222 z"
        id="path1935-1"
-       sodipodi:nodetypes="zssssz" />
+       sodipodi:nodetypes="ssssssss" />
     <path
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 229.96627,204.59983 c -3.83837,-8.21443 -12.59875,-12.08241 -21.78964,-9.39743 -4.56945,1.3349 -10.59644,6.80586 -10.43012,15.07719 0.15597,7.75613 4.3264,12.60377 8.77782,14.14778 7.08993,2.45919 14.61549,1.34323 18.48505,-2.37518 4.42403,-4.25121 8.79525,-9.23794 4.95689,-17.45236 z"
+       d="m 230.11231,205.03796 c -4.07579,-8.09925 -12.67177,-12.08241 -21.97219,-9.14185 -4.53898,1.43511 -10.04878,6.51377 -9.88246,14.7851 0.15597,7.75613 4.48526,11.62742 8.92387,13.74616 6.60931,3.15492 13.77574,0.72254 17.86436,-2.81331 2.32042,-2.00671 5.09428,-5.99569 6.26057,-8.61124 1.1663,-2.61554 0.6155,-4.3688 -1.19415,-7.96486 z"
        id="path1935-1-5"
-       sodipodi:nodetypes="zssssz" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Layer 2"
-     style="display:none">
-    <path
-       style="display:inline;fill:none;stroke:#e30000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 223.78268,80.755908 c -0.84358,-5.219641 -6.29937,-8.364741 -11.35952,-7.332057 -4.6643,0.951899 -7.68848,5.668423 -7.84841,8.777817 -0.26657,5.182715 2.45607,8.237138 5.8863,9.707232 3.6144,1.549025 7.50299,0.840391 10.12031,-1.652295 2.16864,-2.065368 4.0449,-4.281056 3.20132,-9.500697 z"
-       id="path1935"
-       sodipodi:nodetypes="zssssz" />
-    <path
-       style="display:inline;fill:none;stroke:#e30000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 222.02712,208.53049 c -0.84358,-5.21965 -5.98957,-8.05494 -11.04972,-7.02226 -4.6643,0.9519 -7.27073,5.92389 -7.17716,9.036 0.1465,4.8729 1.62992,7.10119 5.06015,8.57128 3.6144,1.54903 7.34809,0.94365 9.96541,-1.54903 2.16864,-2.06537 4.0449,-3.81635 3.20132,-9.03599 z"
-       id="path3697"
-       sodipodi:nodetypes="zssssz" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#e30000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="281.12747"
-       y="-88.604736"
-       id="text5473"
-       transform="rotate(62.762203)"><tspan
-         sodipodi:role="line"
-         id="tspan5471"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#e30000;fill-opacity:1;stroke-width:0.264583"
-         x="281.12747"
-         y="-88.604736">T</tspan></text>
+       sodipodi:nodetypes="sssssss" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Kanji Strokes"
+     inkscape:label="Matsuri Kanji Strokes"
      style="display:none">
     <path
        style="fill:#e30000;fill-opacity:0.738095;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -218,7 +185,7 @@
   <g
      inkscape:groupmode="layer"
      id="g12871"
-     inkscape:label="Kanji Outine"
+     inkscape:label="Matsuri Kanji Outine"
      style="display:none">
     <g
        id="g13300">
