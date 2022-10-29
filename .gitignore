@@ -1,5 +1,6 @@
 .DS_Store
 *.pyc
+*.blend1
 
 # Large 18-up images for PPG
 *-18.png
