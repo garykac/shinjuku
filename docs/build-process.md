@@ -198,7 +198,7 @@ Export each as 1541 x719 quality 80 jpg
 
 Combine into a PDF (title: "Shinjuku Player Screens"), alternating front/back so that it can be printed double-sided.
 
-Temp screen images are stored in `pnp/screen`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (`screens-a4.pdf` for A4 version).
+Temp screen images are stored in `pnp/screen-pages`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (`screens-a4.pdf` for A4 version).
 
 ## Variants Updates
 
