@@ -277,17 +277,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1728"
-     inkscape:window-height="1051"
+     inkscape:window-width="1476"
+     inkscape:window-height="899"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4768432"
-     inkscape:cx="676.32295"
-     inkscape:cy="753.91659"
+     inkscape:zoom="1.3487162"
+     inkscape:cx="351.81605"
+     inkscape:cy="614.28787"
      inkscape:window-x="0"
      inkscape:window-y="38"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" /><g
@@ -631,7 +631,7 @@
        y="0" /></g><g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Border - Player Screen Instr"
+     inkscape:label="Border - TTS Player Screen Instr"
      style="display:none"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#0a0a0a;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5499"
@@ -642,7 +642,7 @@
        rx="16.200001"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
-       inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/screentop-gg/reference.png" /></g><g
+       inkscape:export-filename="reference.png" /></g><g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Instructions - 60 customers"
@@ -2951,7 +2951,7 @@
        y="0"
        x="0" /><g
        id="g11421"><flowRoot
-   transform="translate(46.391553,-27.552967)"
+   transform="translate(46.391553,-28.248072)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10273"
    xml:space="preserve"><flowRegion
@@ -2966,7 +2966,7 @@
    xml:space="preserve"
    id="flowRoot10285"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="matrix(0.90383694,0,0,0.90383694,35.704699,42.403147)"><flowRegion
+   transform="matrix(0.90383694,0,0,0.90383694,35.704699,43.583042)"><flowRegion
      id="flowRegion10277"><rect
        id="rect10275"
        width="400.70975"
@@ -2978,7 +2978,7 @@
      style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.1279px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"><flowSpan
        style="font-size:19.3619px"
        id="flowSpan6430">② Place Customers</flowSpan></flowPara></flowRoot><flowRoot
-   transform="matrix(0.90383694,0,0,0.90383694,46.475972,113.02268)"
+   transform="matrix(0.90383694,0,0,0.90383694,46.475972,114.89768)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10293"
    xml:space="preserve"><flowRegion
@@ -3089,7 +3089,7 @@
          x="441.89618"
          y="442.75424" /></flowRegion><flowPara
        id="flowPara10357"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.7554px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Build 1 track segment. Optionally pay a matching card to build a second track segment that extends from the first.</flowPara></flowRoot><flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.7554px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'">Build 1 track segment. Optionally pay a matching card to build two connected segments of track.</flowPara></flowRoot><flowRoot
      transform="translate(20.433924,14.061799)"
      style="font-style:normal;font-weight:normal;font-size:11.7554px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot10369"
@@ -3119,7 +3119,7 @@
    xml:space="preserve"
    id="flowRoot10389"
    style="font-style:normal;font-weight:normal;font-size:11.7554px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="matrix(0.90383694,0,0,0.90383694,-6.4903018,-184.6448)"><flowRegion
+   transform="matrix(0.90383694,0,0,0.90383694,-5.7951964,-182.7698)"><flowRegion
      id="flowRegion10383"><rect
        id="rect10381"
        width="344.50635"
@@ -3130,7 +3130,7 @@
      id="flowPara10387">Take the card into your hand and <flowSpan
    style="font-weight:bold;font-size:11.7554px"
    id="flowSpan10385">refresh</flowSpan> the queue.</flowPara></flowRoot><flowRoot
-   transform="translate(331.1791,-29.055454)"
+   transform="translate(331.1791,-25.305454)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10397"
    xml:space="preserve"><flowRegion
@@ -3142,7 +3142,7 @@
        id="rect10391" /></flowRegion><flowPara
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Semi-Bold'"
      id="flowPara10395">Wildcards</flowPara></flowRoot><flowRoot
-   transform="translate(0.976515,54.555)"
+   transform="translate(-0.898485,47.055)"
    xml:space="preserve"
    id="flowRoot10405"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -3157,7 +3157,7 @@
    xml:space="preserve"
    id="flowRoot10413"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="translate(25.890497,-14.364474)"><flowRegion
+   transform="translate(25.890497,-18.114474)"><flowRegion
      id="flowRegion10409"><rect
        id="rect10407"
        width="150.97693"
@@ -3169,7 +3169,7 @@
    xml:space="preserve"
    id="flowRoot10421"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="translate(321.1791,113.56955)"><flowRegion
+   transform="translate(321.1791,109.81955)"><flowRegion
      id="flowRegion10417"><rect
        id="rect10415"
        width="306.32419"
@@ -3203,14 +3203,14 @@
      id="flowPara10433">Note: Each action may only be taken <flowSpan
    style="font-weight:bold"
    id="flowSpan10431">once</flowSpan> per turn.</flowPara></flowRoot><flowRoot
-   transform="translate(-7.25223,-41.43)"
+   transform="translate(-9.12723,-37.68)"
    xml:space="preserve"
    id="flowRoot10445"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
      id="flowRegion10439"><rect
        id="rect10437"
-       width="181.41667"
-       height="48.807652"
+       width="191.14816"
+       height="48.807648"
        x="735.88544"
        y="164.71001" /></flowRegion><flowPara
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
@@ -3218,11 +3218,11 @@
    style="font-style:italic"
    id="flowSpan10441">From <flowSpan
    style="font-weight:bold"
-   id="flowSpan6527">stores</flowSpan></flowSpan>: Every card where you have a store (or department store) is a wildcard for you.</flowPara></flowRoot><flowRoot
+   id="flowSpan6527">stores</flowSpan></flowSpan>: Cards that match where you have a store are wild for you.</flowPara></flowRoot><flowRoot
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10455"
    xml:space="preserve"
-   transform="translate(-4.6476276,-0.9300104)"><flowRegion
+   transform="translate(-6.5226276,-8.4300104)"><flowRegion
      id="flowRegion10449"><rect
        y="164.71001"
        x="735.88544"
@@ -3238,7 +3238,7 @@
    style="font-style:normal;font-weight:normal;font-size:10.625px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10463"
    xml:space="preserve"
-   transform="translate(0,21.266972)"><flowRegion
+   transform="translate(1.3902109,22.446867)"><flowRegion
      id="flowRegion10459"><rect
        y="165.03284"
        x="398.91177"
@@ -3247,7 +3247,7 @@
        id="rect10457" /></flowRegion><flowPara
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.625px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
      id="flowPara10461">Take the next set of customers from the queue and place them at the location specified by the card.</flowPara></flowRoot><flowRoot
-   transform="translate(337.1791,203.16287)"
+   transform="translate(337.1791,201.28787)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot10471"
    xml:space="preserve"><flowRegion
@@ -3261,7 +3261,7 @@
      id="flowPara10469">Endgame Scoring</flowPara></flowRoot><g
    id="g10473"
    transform="translate(50,-176)" /><g
-   transform="matrix(0.32733531,0,0,0.32733531,743.83258,-30.899131)"
+   transform="matrix(0.32733531,0,0,0.32733531,743.83258,-34.649131)"
    style="display:inline"
    id="g10479"><path
      inkscape:connector-curvature="0"
@@ -4255,9 +4255,9 @@
          id="flowPara11357"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle;fill:#4a4a4a;fill-opacity:0.71327">1</flowPara></flowRoot></g></g><g
    id="g11389"
-   transform="translate(-4,-13.921663)"><g
+   transform="translate(-4,-14.616768)"><g
    id="g11375"
-   transform="matrix(0.53961542,0,0,0.53961542,870.48515,-21.804286)"
+   transform="matrix(0.53961542,0,0,0.53961542,869.79004,-21.109181)"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><circle
      r="9.4642859"
@@ -4300,7 +4300,7 @@
      y="420.94772"
      style="font-size:15px;line-height:1.25"> </tspan></text>
 </g><flowRoot
-   transform="translate(-8.109503,13.760526)"
+   transform="translate(-8.109503,11.885526)"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot11397"
    xml:space="preserve"><flowRegion
@@ -4329,7 +4329,7 @@
    style="font-style:italic"
    id="flowSpan11403">Upgrade Tokens</flowSpan>: Each token counts as a single wild customer.</flowPara></flowRoot></g><g
    id="g11419"
-   transform="matrix(0.03690652,0,0,0.03741137,880.77108,295.3937)"><circle
+   transform="matrix(0.03690652,0,0,0.03741137,880.77108,293.5187)"><circle
      id="circle11411"
      cx="967.763"
      cy="271.09415"
@@ -4360,7 +4360,7 @@
        cy="212.58702"
        r="18.039772" /></g></g><g
    id="g185528"
-   transform="translate(-17.413903,-125.16937)"><flowRoot
+   transform="translate(-17.413903,-125.86448)"><flowRoot
      xml:space="preserve"
      id="flowRoot10413-3"
      style="font-style:normal;font-weight:normal;line-height:12px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4388,7 +4388,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Bold';text-align:end;text-anchor:end"
        id="flowPara135828">10 6 3 1</flowPara></flowRoot></g><g
    id="g2811"
-   transform="translate(-15.923796,5.584347)"><ellipse
+   transform="translate(-12.173796,-3.790653)"><ellipse
      id="circle2763"
      cx="916.48785"
      cy="200.53571"
@@ -4402,7 +4402,7 @@
    xml:space="preserve"
    id="flowRoot6461"
    style="font-style:normal;font-weight:normal;font-size:11.7554px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="matrix(0.90383694,0,0,0.90383694,11.331492,-253.03678)"><flowRegion
+   transform="matrix(0.90383694,0,0,0.90383694,9.2461762,-253.73189)"><flowRegion
      id="flowRegion6455"><rect
        id="rect6453"
        width="344.50635"
@@ -4412,7 +4412,7 @@
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.7554px;line-height:1.25;font-family:'Hiragino Kaku Gothic Pro';-inkscape-font-specification:'Hiragino Kaku Gothic Pro Light'"
      id="flowPara6459">Move the Matsuri token into a neighboring location.</flowPara></flowRoot><g
    id="g6525"
-   transform="translate(-10.742761,1.875)"><flowRoot
+   transform="translate(-10.742761,1.1798946)"><flowRoot
      xml:space="preserve"
      id="flowRoot3517"
      style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4442,7 +4442,7 @@
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="flowRoot6545"
    xml:space="preserve"
-   transform="translate(-1.7896,27.19499)"><flowRegion
+   transform="translate(-3.6646,19.69499)"><flowRegion
      id="flowRegion6537"><rect
        y="164.71001"
        x="735.88544"
@@ -4848,7 +4848,7 @@
        id="path5570"
        d="m 541.81307,1070.9868 c -8.21089,0.01 -15.75693,4.5444 -19.60896,11.7956 a 1.3686825,1.3686825 0 0 0 0,1.2836 c 3.8494,7.2551 11.39596,11.7966 19.60896,11.8034 8.21101,0 15.75661,-4.5416 19.60897,-11.7928 a 1.3686825,1.3686825 0 0 0 0,-1.2836 c -3.84932,-7.2556 -11.39553,-11.7995 -19.60897,-11.8062 z m -7.8027,4.4066 a 9.5972083,9.5972083 0 0 0 -1.70581,5.4427 9.5972083,9.5972083 0 0 0 9.59763,9.5977 9.5972083,9.5972083 0 0 0 9.59691,-9.5977 9.5972083,9.5972083 0 0 0 -1.61528,-5.3196 c 3.56926,1.6619 6.60698,4.4049 8.65915,7.9158 -3.48225,5.9514 -9.79425,9.6964 -16.7299,9.7002 -6.938,0 -13.24733,-3.7551 -16.72706,-9.7108 2.1041,-3.5946 5.2416,-6.3823 8.92436,-8.0283 z m 4.23834,0.889 a 3.422206,3.422206 0 0 1 3.42221,3.4222 3.422206,3.422206 0 0 1 -3.42221,3.4222 3.422206,3.422206 0 0 1 -3.42222,-3.4222 3.422206,3.422206 0 0 1 3.42222,-3.4222 z"
        style="opacity:1;fill:#0058c1;fill-opacity:1;stroke:none;stroke-width:6.99689;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" /></g><g
-     inkscape:label="Border - Company Logo"
+     inkscape:label="Border - TTS Company Logo"
      id="g5501"
      inkscape:groupmode="layer"
      style="display:none"><rect
@@ -4885,7 +4885,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Safe"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><path
        inkscape:connector-curvature="0"
        id="path434"
@@ -4963,7 +4963,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Bleed"
-     style="display:none"><path
+     style="display:inline"><path
        transform="matrix(1.25,0,0,-1.25,0,1620)"
        inkscape:connector-curvature="0"
        id="path426"
