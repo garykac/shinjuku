@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1092.2667"
    height="1092.2667"
    viewBox="0 0 1024 1024"
    version="1.1"
    id="svg1213"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="customer.svg"
    inkscape:export-filename="/home/garykac/projects/github/shinjuku/gamedev/tabletopia/bonus.png"
    inkscape:export-xdpi="104.75"
-   inkscape:export-ydpi="104.75">
+   inkscape:export-ydpi="104.75"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1207" />
   <sodipodi:namedview
@@ -29,23 +29,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93338095"
-     inkscape:cx="-99.761393"
-     inkscape:cy="848.30322"
+     inkscape:zoom="2.0594236"
+     inkscape:cx="129.64792"
+     inkscape:cy="141.78724"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1193"
+     inkscape:current-layer="layer11"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
      inkscape:window-width="1680"
      inkscape:window-height="1006"
      inkscape:window-x="0"
-     inkscape:window-y="417"
+     inkscape:window-y="83"
      inkscape:window-maximized="0"
      inkscape:snap-center="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1210">
     <rdf:RDF>
@@ -54,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,14 +65,20 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="White background"
-     style="display:none">
+     style="display:inline"
+     inkscape:export-filename="customer-books-x2b.png"
+     inkscape:export-xdpi="104.75"
+     inkscape:export-ydpi="104.75">
     <rect
-       style="fill:#fffffd;fill-opacity:0.99248125;stroke-width:0.26458332"
+       style="fill:#fffffd;fill-opacity:0.992481;stroke-width:0.264583"
        id="rect6235"
        width="270.93332"
        height="270.93332"
        x="7.1207683e-06"
-       y="8.0200198e-06" />
+       y="8.0200198e-06"
+       inkscape:export-filename="customer-food-x2b.png"
+       inkscape:export-xdpi="104.75"
+       inkscape:export-ydpi="104.75" />
   </g>
   <g
      style="display:none"
@@ -82,7 +91,7 @@
        height="270.93332"
        width="270.93332"
        id="rect1051"
-       style="fill:#000000;fill-opacity:0.99248125;stroke-width:0.26458332" />
+       style="fill:#000000;fill-opacity:0.992481;stroke-width:0.264583" />
   </g>
   <g
      style="display:none"
@@ -95,7 +104,7 @@
        height="270.93332"
        width="270.93332"
        id="rect1336"
-       style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.26458332" />
+       style="fill:#dcdcdc;fill-opacity:1;stroke-width:0.264583" />
   </g>
   <g
      inkscape:label="Template"
@@ -108,15 +117,15 @@
        cx="67.749374"
        cy="229.05016"
        r="64.442078"
-       style="fill:#0000ae;fill-opacity:0.31395347;stroke-width:0.26113135" />
+       style="fill:#0000ae;fill-opacity:0.313953;stroke-width:0.261131" />
     <circle
-       style="fill:#0000ae;fill-opacity:0.31395347;stroke-width:0.26113135"
+       style="fill:#0000ae;fill-opacity:0.313953;stroke-width:0.261131"
        r="64.442078"
        cy="229.05016"
        cx="203.21613"
        id="circle5880" />
     <rect
-       style="fill:#0000ae;fill-opacity:0.31395347;stroke-width:0.26458332"
+       style="fill:#0000ae;fill-opacity:0.313953;stroke-width:0.264583"
        id="rect5882"
        width="270.93332"
        height="134.30191"
@@ -130,7 +139,7 @@
      style="display:none">
     <circle
        transform="translate(0,-26.06665)"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26113135"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.261131"
        r="64.442078"
        cy="229.05016"
        cx="67.749374"
@@ -140,7 +149,7 @@
        inkscape:export-ydpi="104.75" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Tabletopia Bonus Background"
      id="g1193"
      inkscape:groupmode="layer">
@@ -152,7 +161,7 @@
        cx="67.749374"
        cy="229.05016"
        r="64.442078"
-       style="display:inline;fill:#dcdcdc;fill-opacity:1;stroke-width:0.26113135"
+       style="display:inline;fill:#dcdcdc;fill-opacity:1;stroke-width:0.261131"
        transform="translate(0,-26.06665)" />
   </g>
   <g
@@ -861,7 +870,7 @@
            id="circle5499-28"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle4890-97"
            cx="-443.36633"
            cy="166.62816"
@@ -875,10 +884,10 @@
              height="2.3218606"
              width="9.1508617"
              id="rect5509-61"
-             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <rect
              transform="rotate(90)"
-             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect5511-29"
              width="9.1508617"
              height="2.3218606"
@@ -921,7 +930,7 @@
            id="circle5499-94"
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <circle
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle4890-78"
            cx="-443.36633"
            cy="166.62816"
@@ -935,10 +944,10 @@
              height="2.3218606"
              width="9.1508617"
              id="rect5509-5"
-             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <rect
              transform="rotate(90)"
-             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:#e50500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect5511-03"
              width="9.1508617"
              height="2.3218606"
@@ -1572,7 +1581,7 @@
            cy="-368.15625"
            cx="36.443321"
            id="circle6125"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.52026176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.52026;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            transform="scale(1,-1)" />
         <path
            sodipodi:nodetypes="csccsccccccsccscscccccccc"
@@ -1623,7 +1632,7 @@
          inkscape:export-ydpi="300">
         <circle
            transform="scale(1,-1)"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.52026176;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.52026;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="circle6280"
            cx="36.443321"
            cy="-368.15625"
@@ -1670,7 +1679,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Food x2"
-     style="display:none">
+     style="display:inline">
     <g
        id="g6147"
        transform="matrix(12.825,0,0,12.825,-1669.6107,-1534.3765)">
@@ -1776,6 +1785,185 @@
              id="path6344" />
         </g>
       </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="x2 Edge"
+     style="display:none">
+    <g
+       id="flowRoot5056-2-4"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,643.96428,-913.68134)">
+      <path
+         id="path5409-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g862"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,914.92968,-913.68134)">
+      <path
+         id="path860"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g866"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,881.059,-913.68134)">
+      <path
+         id="path864"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g870"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,847.18833,-913.68134)">
+      <path
+         id="path868"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g874"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,745.5763,-913.68134)">
+      <path
+         id="path872"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g878"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,677.83496,-913.68134)">
+      <path
+         id="path876"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g911"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,813.31765,-913.68134)">
+      <path
+         id="path909"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g915"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,711.70563,-913.68134)">
+      <path
+         id="path913"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g919"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,779.44698,-913.68134)">
+      <path
+         id="path917"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g969"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,660.89962,-819.93134)">
+      <path
+         id="path967"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g973"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,694.77029,-819.93134)">
+      <path
+         id="path971"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g977"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,728.64097,-819.93134)">
+      <path
+         id="path975"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g981"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,762.51164,-819.93134)">
+      <path
+         id="path979"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g985"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,796.38232,-819.93134)">
+      <path
+         id="path983"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g989"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,830.25299,-819.93134)">
+      <path
+         id="path987"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g993"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,864.12367,-819.93134)">
+      <path
+         id="path991"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g997"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.30302,0,0,5.21208,897.99434,-819.93134)"
+       inkscape:export-filename="customer-clothing-x2b.png"
+       inkscape:export-xdpi="104.75"
+       inkscape:export-ydpi="104.75">
+      <path
+         id="path995"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';text-align:center;text-anchor:middle"
+         d="m -490.76426,174.72799 c 0.8875,0 1.4125,0.025 2.1375,0.0875 v -2.3625 c -0.4875,0.0625 -1.0625,0.0875 -2,0.0875 h -2.9125 c 0.2875,-0.55 0.75,-0.9875 1.8375,-1.7375 1.275,-0.8875 1.4,-0.975 1.8125,-1.3375 0.775,-0.6375 1.15,-1.4125 1.15,-2.325 0,-0.5375 -0.1375,-1.025 -0.4125,-1.4625 -0.625,-1.0125 -1.9125,-1.575 -3.6,-1.575 -1.4625,0 -2.6,0.45 -3.3125,1.2875 -0.5,0.5875 -0.725,1.1375 -0.9125,2.225 l 2.625,0.275 c 0.0625,-0.525 0.1375,-0.775 0.3125,-1.05 0.275,-0.425 0.7,-0.625 1.3,-0.625 0.8,0 1.3375,0.4 1.3375,1 0,0.575 -0.2625,0.9 -1.3375,1.625 -1.275,0.8625 -1.75,1.225 -2.225,1.6625 -0.875,0.8125 -1.475,1.7625 -1.8,2.8 -0.15,0.4875 -0.2125,0.8625 -0.2625,1.475 0.4625,-0.0375 0.75,-0.05 1.875,-0.05 z"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
@@ -1965,7 +2153,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Bonus - star"
      id="g1218"
      inkscape:groupmode="layer">
@@ -1994,7 +2182,7 @@
          cy="212.58702"
          cx="241.88284"
          id="path1265"
-         style="opacity:0.60500004;fill:none;fill-opacity:1;stroke:none;stroke-width:0.21166666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="opacity:0.605;fill:none;fill-opacity:1;stroke:none;stroke-width:0.211667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
     <g
        style="display:inline"
@@ -2022,7 +2210,7 @@
          cy="212.58702"
          cx="241.88284"
          id="path1265-7"
-         style="opacity:0.60500004;fill:none;fill-opacity:1;stroke:none;stroke-width:0.21166666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="opacity:0.605;fill:none;fill-opacity:1;stroke:none;stroke-width:0.211667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
   </g>
   <g
