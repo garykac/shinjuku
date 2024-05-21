@@ -167,9 +167,9 @@ Export for printing:
 
 Export instructions reference:
 
-* Select "Border - Instr" layer
+* Select "Border - TTS Player Screen Instr" layer
 * Select the rectangle
-* Hide "Border - Instr"
+* Hide "Border - TTS Player Screen Instr"
 * Export selection @300dpi (2989 x 1405px) as `screen/reference.png`
 * Copy to `tts/ref/` directory
 
@@ -185,7 +185,7 @@ For front (with logo):
 * Re-lock "Bleed" layer
 * Rotate 90deg CW
 
-For backs (with player aide info)
+For backs (with player aid info)
 
 * Show the "Cut/Fold" layer
 * Select the "Bleed" ouline (unlock layer first)
@@ -194,9 +194,11 @@ For backs (with player aide info)
 * Re-lock "Bleed" layer
 * Rotate 90deg CCW
 
-Export each as 1541 x719 quality 80 jpg
+Export each as 719 x 1541 image:
+  front: quality 80 jpg
+  back: png
 
-Combine into a PDF (title: "Shinjuku Player Screens"), alternating front/back so that it can be printed double-sided.
+Combine into a PDF by printing from MacOS Preview app (title: "Shinjuku Player Screens"), alternating front/back so that it can be printed double-sided.
 
 Temp screen images are stored in `pnp/screen-pages`. Final files are placed in `pnp/shinjuku-pnp/screens.pdf` (`screens-a4.pdf` for A4 version).
 
