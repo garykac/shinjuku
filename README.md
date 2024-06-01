@@ -14,12 +14,27 @@ You start with a hand of 4 location cards and get a new card each turn. The Buil
 
 The game ends when the last customer is placed (+ one final turn for the other players) and victory goes to the player that can create the most sets of each type of customer.
 
-## Links
+## Japanese Edition
+
+Originally released at Tokyo Game Market Spring 2024 by [Rigoler](http://shop.rigoler.jp/shopdetail/000000000258/).
+
+| | | |
+| --- | --- | --- |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng_tn.pdf"><img src="docs/shinjuku_jpn_eng_tn.jpg" height="200px"/></a> |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn-eng.pdf">English translation<br/>of Japanese rulebook</a> |
+
+## General Rulebooks
+
+The Rules of Play and Quickstart Guide were written for the Print-and-Play and online versions, but they can also be used to augment the Japanese rules because they provide addition rule clarifications and examples of play.
 
 | | | |
 | --- | --- | --- |
 | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf"><img src="docs/shinjuku_rules_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf"><img src="docs/shinjuku_quickstart_tn.png" height="200px"/></a> | <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf"><img src="pnp/shinjuku-pnp/shinjuku-pnp-instr-tn.png" height="200px"/></a> |
 | Rules of Play<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_rules_a4.pdf">A4</a> | Quickstart Guide<br/><a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/docs/shinjuku_quickstart_a4.pdf">A4</a> | Print and Play<br/><a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr.pdf">Letter</a>, <a href="https://garykac.github.io/shinjuku/pnp/shinjuku-pnp/shinjuku-pnp-instr-a4.pdf">A4</a> |
+
+## Links
+
+#### General Links
 
 * [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
@@ -161,10 +176,6 @@ To add a customer to the queue:
 
 #### Each Turn
 
-##### Move the Matsuri
-
-Move the Matsuri token from its current location into a neighboring location.
-
 ##### Place Customers
 
 Customers are taken from the queue and placed on the map as follows:
@@ -180,6 +191,10 @@ To refresh the customer queue:
 * Slide the existing cards (with customers) down
 * Draw a new card and place it on ④
 * Add customers to the queue equal to the number that were just placed on the map. 
+
+##### Move the Matsuri
+
+Move the Matsuri token from its current location into a neighboring location.
 
 ##### Take Two Actions
 
