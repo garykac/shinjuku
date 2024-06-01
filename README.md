@@ -16,7 +16,7 @@ The game ends when the last customer is placed (+ one final turn for the other p
 
 ## Japanese Edition
 
-Originally released at Tokyo Game Market Spring 2024 by [Rigoler](http://shop.rigoler.jp/shopdetail/000000000258/).
+Originally released at Tokyo Game Market Spring 2024 by [リゴレ (Rigoler)](http://shop.rigoler.jp/shopdetail/000000000258/).
 
 | |
 | --- |
