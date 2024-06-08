@@ -20,8 +20,8 @@ Originally released at Tokyo Game Market Spring 2024 by [リゴレ (Rigoler)](ht
 
 | |
 | --- |
-| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng_tn.pdf"><img src="docs/shinjuku_jpn_eng_tn.jpg" height="200px"/></a> |
-| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn-eng.pdf">English translation<br/>of Japanese rulebook</a> |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng.pdf"><img src="docs/shinjuku_jpn_eng_tn.jpg" height="200px"/></a> |
+| <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng.pdf">English translation<br/>of Japanese rulebook</a> |
 
 ## General Rulebooks
 
