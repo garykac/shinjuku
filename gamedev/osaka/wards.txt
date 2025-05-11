@@ -1,0 +1,79 @@
+osaka wards
+
+1	Abeno-ku	阿倍野区	107,000
+2	Asahi-ku	旭区	90,854
+3	Chūō-ku	中央区	100,998
+4	Fukushima-ku	福島区	78,348
+5	Higashinari-ku	東成区	83,684
+6	Higashisumiyoshi-ku	東住吉区	126,704
+7	Higashiyodogawa-ku	東淀川区	176,943
+8	Hirano-ku	平野区	193,282
+9	Ikuno-ku	生野区	129,641
+10	Jōtō-ku	城東区	167,925
+11	Kita-ku	北区	136,602
+12	Konohana-ku	此花区	65,086
+13	Minato-ku	港区	80,759
+14	Miyakojima-ku	都島区	107,555
+15	Naniwa-ku	浪速区	74,992
+16	Nishi-ku	西区	103,089
+17	Nishinari-ku	西成区	108,654
+18	Nishiyodogawa-ku	西淀川区	95,960
+19	Suminoe-ku	住之江区	120,629
+20	Sumiyoshi-ku	住吉区	153,425
+21	Taishō-ku	大正区	62,872
+22	Tennōji-ku	天王寺区	80,830
+23	Tsurumi-ku	鶴見区	111,501
+24	Yodogawa-ku	淀川区	182,254
+
+
+
+Connectivity of internal stations Shinjuku (Tokyo)
+Excluding stations on outer border
+4 Nakano
+3 Ikebukuro - DEPT STORE
+4 Komagome
+4 Nishi Nippori
+5 Ueno - DEPT STORE
+4 Oshiage
+4 Kinshicho
+3 Hirai
+4 Mozen Nakacho
+3 Shin Kiba
+2 Todai Mae
+4 Takadanobaba - DEPT STORE
+6 Shinjuku - DEPT STORE
+3 Yotsuya
+5 Tokyo - DEPT STORE
+6 Iidabashi
+4 Akihabara - DEPT STORE
+2 Hatchobori
+2 Kachidoki
+3 Yoyogi
+5 Shibuya - DEPT STORE
+4 Ebisu
+2 Sangenjaya
+3 Meidai Mae
+3 Naka Meguro - DEPT STORE
+4 Jiyugaoka
+4 Roppongi
+5 Shimbashi - DEPT STORE
+3 Shinagawa - DEPT STORE
+3 Daiba
+3 Meguro - DEPT STORE
+5 Oimachi
+
+Outer border:
+3 Adachi - DEPT STORE
+1 Nerima
+1 Oyama
+2 Oji
+2 Aoto
+1 Shin Koiwa
+1 Kasai Rinkai Koen
+1 Omori
+1 Tamagawa
+2 Futako Tamagawa
+1 Eifukucho
+1 Koenji
+
+
