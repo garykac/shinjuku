@@ -11,6 +11,7 @@ tokyo-map*-300dpi.jpg
 map/map*-150dpi.png
 
 ref/*
+gamedev/london/_ref/*
 
 # Temp files for generating PNP files
 pnp/cards-bw/*
