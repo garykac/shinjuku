@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2.75in"
    height="3.75in"
    viewBox="0 0 247.5 337.5"
    id="svg4516"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="london-cards.svg"
    inkscape:export-filename="/Users/garykac/Downloads/tokyo maps/ku-cards/23-edogawa.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs7455">
     <clipPath
@@ -291,16 +291,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6790725"
-     inkscape:cx="66.044603"
-     inkscape:cy="94.870997"
+     inkscape:cx="99.288093"
+     inkscape:cy="135.30802"
      inkscape:document-units="px"
      inkscape:current-layer="wandsworth"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
      inkscape:window-height="1005"
-     inkscape:window-x="-1"
-     inkscape:window-y="6"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -310,7 +310,10 @@
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-others="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4521">
     <rdf:RDF>
@@ -1139,7 +1142,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7496"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion7498"><rect
              id="rect7500"
@@ -1148,7 +1151,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara7502"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">7</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">7</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        id="westminster-title"
@@ -1163,7 +1167,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot7728"
          xml:space="preserve"><flowRegion
            id="flowRegion7730"><rect
@@ -1173,10 +1177,11 @@
              height="110.71429"
              width="227.85713"
              id="rect7732" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
            id="flowPara7736">Westminster</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
-           id="flowPara7738" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Heavy'"
+           id="flowPara7738"> </flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(-79.062018,-15.820779)"
@@ -1191,7 +1196,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7768"
          xml:space="preserve"><flowRegion
            id="flowRegion7770"><rect
@@ -1201,8 +1206,9 @@
              height="110.71429"
              width="227.85713"
              id="rect7772" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7774">Paddington</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7774">Paddington</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 100.18187,75.744854 87.174599,122.16569"
@@ -1311,7 +1317,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7896"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion7898"><rect
              id="rect7900"
@@ -1321,9 +1327,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7902"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Baker</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7972">Street</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Baker</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7972">Street</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(17.063382,2.7480376)"
@@ -1338,7 +1345,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7908"
          xml:space="preserve"><flowRegion
            id="flowRegion7910"><rect
@@ -1348,10 +1355,11 @@
              height="110.71429"
              width="227.85713"
              id="rect7912" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara7914">Oxford</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7970">Circus</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7970">Circus</flowPara></flowRoot>
+    </g>
     <g
        id="g7916"
        transform="translate(37.855194,35.417021)"
@@ -1367,7 +1375,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7920"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion7922"><rect
              id="rect7924"
@@ -1377,9 +1385,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7926"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Piccadilly</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7964">Circus</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Piccadilly</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7964">Circus</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(33.989352,77.528518)"
@@ -1394,7 +1403,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7932"
          xml:space="preserve"><flowRegion
            id="flowRegion7934"><rect
@@ -1404,10 +1413,11 @@
              height="110.71429"
              width="227.85713"
              id="rect7936" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara7938">Charing</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7966">Cross</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7966">Cross</flowPara></flowRoot>
+    </g>
     <g
        id="g7940"
        transform="translate(-13.981037,122.10867)"
@@ -1423,7 +1433,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7944"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion7946"><rect
              id="rect7948"
@@ -1433,7 +1443,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7950"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Victoria</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Victoria</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(-83.048115,110.2315)"
@@ -1448,7 +1459,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7956"
          xml:space="preserve"><flowRegion
            id="flowRegion7958"><rect
@@ -1458,10 +1469,11 @@
              height="110.71429"
              width="227.85713"
              id="rect7960" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara7962">Green</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7968">Park</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7968">Park</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1614,7 +1626,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot8701"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion8703"><rect
              id="rect8705"
@@ -1624,9 +1636,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara8709"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">East</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara8917">Putney</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">East</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara8917">Putney</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 50.57716,193.51511 9.317137,-65.44947"
@@ -1669,7 +1682,7 @@
          height="100%"
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot8905"
          xml:space="preserve"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
@@ -1680,10 +1693,11 @@
              height="118.13347"
              width="169.56351"
              id="rect8909" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara8921">Clapham</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara8925">Junction</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara8925">Junction</flowPara></flowRoot>
+    </g>
     <g
        id="wandsworth-title"
        style="display:inline"
@@ -1698,7 +1712,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot9118"
          xml:space="preserve"><flowRegion
            id="flowRegion9120"><rect
@@ -1708,8 +1722,9 @@
              height="110.71429"
              width="227.85713"
              id="rect9122" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara9128">Wandsworth</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara9128">Wandsworth</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline;opacity:1"
        id="g9130"
@@ -1752,7 +1767,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot9140"
          xml:space="preserve"><flowRegion
            id="flowRegion9142"><rect
@@ -1761,8 +1776,9 @@
              height="48.33437"
              width="40.348694"
              id="rect9144" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara9146">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara9146">4</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1832,7 +1848,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12445"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion12447"><rect
              id="rect12449"
@@ -1841,7 +1857,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara12451"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        id="waltham-forest-title"
@@ -1857,7 +1874,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12457"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion12459"><rect
              id="rect12461"
@@ -1867,7 +1884,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara12465"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Waltham Forest</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Waltham Forest</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 179.91397,54.622971 119.22685,73.366902"
@@ -1905,7 +1923,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot12479"
          xml:space="preserve"><flowRegion
            id="flowRegion12481"><rect
@@ -1915,10 +1933,11 @@
              height="110.71429"
              width="227.85713"
              id="rect12483" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara12485">Walthamstow</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12705">Central</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12705">Central</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="84.277199"
@@ -1940,7 +1959,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12697"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion12699"><rect
              id="rect12701"
@@ -1950,7 +1969,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara12703"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Leyton</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Leyton</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2000,7 +2020,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot10696"
          xml:space="preserve"><flowRegion
            id="flowRegion10698"><rect
@@ -2010,8 +2030,9 @@
              height="110.71429"
              width="227.85713"
              id="rect10700" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10704">Tower Hamlets</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10704">Tower Hamlets</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline;opacity:1"
        id="g10706"
@@ -2054,7 +2075,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot10716"
          xml:space="preserve"><flowRegion
            id="flowRegion10718"><rect
@@ -2063,8 +2084,9 @@
              height="48.33437"
              width="40.348694"
              id="rect10720" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara10722">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara10722">4</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 157.21553,126.69357 145.51984,83.662969"
@@ -2103,7 +2125,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10746"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion10748"><rect
              id="rect10750"
@@ -2113,9 +2135,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara10752"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Tower</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11129">Hill</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Tower</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11129">Hill</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="126.69357"
@@ -2142,7 +2165,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11107"
          xml:space="preserve"><flowRegion
            id="flowRegion11109"><rect
@@ -2152,10 +2175,11 @@
              height="110.71429"
              width="227.85713"
              id="rect11111" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara11113">Canary</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11127">Wharf</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11127">Wharf</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(6.8169408e-4,-3.3477497)"
@@ -2170,7 +2194,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11119"
          xml:space="preserve"><flowRegion
            id="flowRegion11121"><rect
@@ -2180,8 +2204,9 @@
              height="110.71429"
              width="227.85713"
              id="rect11123" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11125">Whitechapel</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11125">Whitechapel</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2266,7 +2291,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9848"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion9850"><rect
              id="rect9852"
@@ -2276,7 +2301,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara9858"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Southwark</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Southwark</flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-14.03571,-21.642885)"
        id="g9860"
@@ -2329,7 +2355,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9872"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion9874"><rect
              id="rect9876"
@@ -2338,7 +2364,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara9878"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2366,7 +2393,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10228"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion10230"><rect
              id="rect10232"
@@ -2376,9 +2403,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara10234"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Peckham</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10331">Rye</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Peckham</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10331">Rye</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10281"
@@ -2422,7 +2450,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot10299"
          xml:space="preserve"><flowRegion
            id="flowRegion10301"><rect
@@ -2432,10 +2460,11 @@
              height="110.71429"
              width="227.85713"
              id="rect10303" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara10305">Elephant</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10333">&amp; Castle</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10333">&amp; Castle</flowPara></flowRoot>
+    </g>
     <g
        id="g10307"
        transform="translate(-24.017601,-3.6116804)"
@@ -2451,7 +2480,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10311"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion10313"><rect
              id="rect10315"
@@ -2461,9 +2490,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara10317"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">London</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10335">Bridge</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">London</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10335">Bridge</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(44.633102,16.652257)"
@@ -2478,7 +2508,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot10323"
          xml:space="preserve"><flowRegion
            id="flowRegion10325"><rect
@@ -2488,10 +2518,11 @@
              height="110.71429"
              width="227.85713"
              id="rect10327" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara10329">Canada</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10337">Water</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10337">Water</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 128.37869,97.058118 9.62863,47.148552"
@@ -2593,7 +2624,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11135"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion11137"><rect
              id="rect11139"
@@ -2603,7 +2634,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara11143"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Newham</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Newham</flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-17.03571,-21.642885)"
        id="g11145"
@@ -2647,7 +2679,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11155"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion11157"><rect
              id="rect11159"
@@ -2656,7 +2688,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara11161"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2712,7 +2745,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11185"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion11187"><rect
              id="rect11189"
@@ -2722,7 +2755,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara11193"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Stratford</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Stratford</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="116.73447"
@@ -2743,7 +2777,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11265"
          xml:space="preserve"><flowRegion
            id="flowRegion11267"><rect
@@ -2753,10 +2787,11 @@
              height="110.71429"
              width="227.85713"
              id="rect11269" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara11273">West</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara13375">Ham</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara13375">Ham</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 201.74339,116.73447 -34.12977,26.04791"
@@ -2825,7 +2860,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot10347"
          xml:space="preserve"><flowRegion
            id="flowRegion10349"><rect
@@ -2834,8 +2869,9 @@
              height="48.33437"
              width="40.348694"
              id="rect10351" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara10353">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara10353">3</flowPara></flowRoot>
+    </g>
     <g
        id="lewisham-title"
        style="display:inline"
@@ -2850,7 +2886,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot10375"
          xml:space="preserve"><flowRegion
            id="flowRegion10377"><rect
@@ -2860,8 +2896,9 @@
              height="110.71429"
              width="227.85713"
              id="rect10379" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10383">Lewisham</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10383">Lewisham</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2899,7 +2936,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot10411"
          xml:space="preserve"><flowRegion
            id="flowRegion10413"><rect
@@ -2909,8 +2946,9 @@
              height="110.71429"
              width="227.85713"
              id="rect10415" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10417">Lewisham</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10417">Lewisham</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10429"
@@ -2932,7 +2970,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10439"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion10441"><rect
              id="rect10443"
@@ -2942,7 +2980,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara10445"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">New Cross</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">New Cross</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 195.88738,142.51453 -2.29647,45.80359"
@@ -2992,7 +3031,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot8931"
          xml:space="preserve"><flowRegion
            id="flowRegion8933"><rect
@@ -3002,10 +3041,11 @@
              height="110.71429"
              width="227.85713"
              id="rect8935" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara8939">Lambeth</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara8941" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara8941"> </flowPara></flowRoot>
+    </g>
     <g
        style="display:inline;opacity:1"
        id="g8943"
@@ -3048,7 +3088,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot8953"
          xml:space="preserve"><flowRegion
            id="flowRegion8955"><rect
@@ -3057,8 +3097,9 @@
              height="48.33437"
              width="40.348694"
              id="rect8957" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara8959">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara8959">4</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 112.84005,164.99846 74.357531,154.39561"
@@ -3097,7 +3138,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9444"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion9446"><rect
              id="rect9448"
@@ -3107,7 +3148,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara9452"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Waterloo</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Waterloo</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="164.99846"
@@ -3134,7 +3176,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot9482"
          xml:space="preserve"><flowRegion
            id="flowRegion9484"><rect
@@ -3144,8 +3186,9 @@
              height="110.71429"
              width="227.85713"
              id="rect9486" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara9490">Vauxhall</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara9490">Vauxhall</flowPara></flowRoot>
+    </g>
     <g
        id="g9492"
        transform="translate(28.268998,90.113048)"
@@ -3161,7 +3204,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9496"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion9498"><rect
              id="rect9500"
@@ -3171,7 +3214,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara9504"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Brixton</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Brixton</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3275,7 +3319,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7982"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion7984"><rect
              id="rect7986"
@@ -3284,7 +3328,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara7988"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        id="kensington-title"
@@ -3299,7 +3344,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot8146"
          xml:space="preserve"><flowRegion
            id="flowRegion8148"><rect
@@ -3313,8 +3358,9 @@
            id="flowPara8154">Kensington</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara8368">&amp; Chelsea</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara8156" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara8156"> </flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3359,7 +3405,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot8458"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion8460"><rect
              id="rect8462"
@@ -3369,9 +3415,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara8464"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Notting Hill</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Notting Hill</flowPara><flowPara
            id="flowPara8466"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Gate</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Gate</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(9.97107,70.818593)"
@@ -3386,7 +3433,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot8521"
          xml:space="preserve"><flowRegion
            id="flowRegion8523"><rect
@@ -3396,10 +3443,11 @@
              height="110.71429"
              width="227.85713"
              id="rect8525" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara8527">South</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara8529">Kensington</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara8529">Kensington</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 123.36388,135.12429 75.063087,157.41487"
@@ -3495,7 +3543,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11557"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion11559"><rect
              id="rect11561"
@@ -3504,7 +3552,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara11563"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3542,7 +3591,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11577"
          xml:space="preserve"><flowRegion
            id="flowRegion11579"><rect
@@ -3552,8 +3601,9 @@
              height="110.71429"
              width="227.85713"
              id="rect11581" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11583">Farringdon</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11583">Farringdon</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle11663"
@@ -3581,7 +3631,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11679"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion11681"><rect
              id="rect11683"
@@ -3591,9 +3641,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara11685"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Finsbury</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11701">Park</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Finsbury</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11701">Park</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(39.313417,45.541658)"
@@ -3608,7 +3659,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11691"
          xml:space="preserve"><flowRegion
            id="flowRegion11693"><rect
@@ -3618,10 +3669,11 @@
              height="110.71429"
              width="227.85713"
              id="rect11695" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara11697">Highbury &amp;</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11699">Islington</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11699">Islington</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 127.74339,94.998413 51.95589,-0.375679"
@@ -3671,7 +3723,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot5179"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion5181"><rect
              id="rect5183"
@@ -3681,7 +3733,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara5185"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Islington</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Islington</flowPara></flowRoot>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3733,7 +3786,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot12238"
          xml:space="preserve"><flowRegion
            id="flowRegion12240"><rect
@@ -3742,8 +3795,9 @@
              height="48.33437"
              width="40.348694"
              id="rect12242" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara12244">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara12244">3</flowPara></flowRoot>
+    </g>
     <g
        id="haringey-title"
        style="display:inline"
@@ -3758,7 +3812,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot12250"
          xml:space="preserve"><flowRegion
            id="flowRegion12252"><rect
@@ -3768,8 +3822,9 @@
              height="110.71429"
              width="227.85713"
              id="rect12254" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12258">Haringey</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12258">Haringey</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3814,7 +3869,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12370"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion12372"><rect
              id="rect12374"
@@ -3824,7 +3879,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara12378"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Harringay</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Harringay</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(30.414487,28.904855)"
@@ -3839,7 +3895,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot12421"
          xml:space="preserve"><flowRegion
            id="flowRegion12423"><rect
@@ -3849,10 +3905,11 @@
              height="110.71429"
              width="227.85713"
              id="rect12425" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara12429">Seven</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12435">Sisters</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12435">Sisters</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 145.7321,54.470543 26.30922,24.702976"
@@ -3921,7 +3978,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot8543"
          xml:space="preserve"><flowRegion
            id="flowRegion8545"><rect
@@ -3930,8 +3987,9 @@
              height="48.33437"
              width="40.348694"
              id="rect8547" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara8549">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara8549">3</flowPara></flowRoot>
+    </g>
     <g
        id="hammersmith-title"
        style="display:inline"
@@ -3947,7 +4005,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot8555"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion8557"><rect
              id="rect8559"
@@ -3961,7 +4019,8 @@
            id="flowPara8565"
            style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">&amp; Fulham</flowPara><flowPara
            id="flowPara8567"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 69.375214,106.88302 42.91066,142.80495"
@@ -3999,7 +4058,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot8581"
          xml:space="preserve"><flowRegion
            id="flowRegion8583"><rect
@@ -4009,10 +4068,11 @@
              height="110.71429"
              width="227.85713"
              id="rect8585" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara8587">Shepherd's</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara8589">Bush</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara8589">Bush</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="156.20667"
@@ -4034,7 +4094,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot8685"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion8687"><rect
              id="rect8689"
@@ -4044,7 +4104,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara8693"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Hammersmith</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Hammersmith</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4070,7 +4131,7 @@
      style="display:none">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f2ddca;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 126.0281,73.689558 5.92577,-7.00978 -1.08398,-3.613274 7.66018,-0.867194 4.98632,-1.51758 3.25195,0.433597 5.99806,-0.93945 4.11915,-1.806644 2.31249,6.070319 2.67385,2.673823 1.08397,2.09571 4.40822,4.335941 -0.50586,1.87891 1.66211,1.806635 3.68555,-0.433587 2.3125,0.36132 2.60157,1.011727 2.60156,-0.93946 3.54103,2.818371 0.57811,1.662112 3.68556,2.673829 1.15625,3.97461 -1.22851,0.216799 1.15625,5.419934 0.43359,3.902343 -3.97462,-0.216798 -2.60155,0.361331 -1.95118,1.083982 -3.46876,-2.529296 -2.7461,3.324224 -3.68555,5.492188 -3.03516,1.73438 -3.03516,-1.08398 -1.87891,1.51758 -1.73437,0 -2.5293,1.15625 -2.09571,-1.58985 -0.36132,2.5293 -2.02345,0.36133 -0.57812,1.80664 -4.19141,0.72266 -2.0957,1.37305 -1.15626,2.5293 0.65038,3.90234 -0.21679,2.45704 -1.73439,0.4336 -1.87889,-0.57813 -1.08398,2.45703 -1.95118,-0.36132 0.65039,-3.68556 -0.57813,-1.01171 0.28907,-2.02345 -1.80665,0 -0.93945,-1.51758 -4.76954,-2.24024 0,-0.93945 -1.01171,-3.17969 7.08203,-4.91407 2.67383,-8.960947 -0.28905,-2.240242 5.20312,0.722662 -0.14453,-1.951177 -2.24023,-4.625005 -4.11915,-0.289065 -2.45704,-1.951167 -1.15624,-0.289065 0.14453,-4.408207 -1.01173,-2.673828 -2.96289,-1.15626 -1.95118,0.505864 z"
+       d="m 126.0281,73.689558 5.92577,-7.00978 -1.08398,-3.613274 7.66018,-0.867194 4.98632,-1.51758 3.25195,0.433597 5.99806,-0.93945 4.11915,-1.806644 2.31249,6.070319 2.67385,2.673823 1.08397,2.09571 4.40822,4.335941 -0.50586,1.87891 1.66211,1.806635 3.68555,-0.433587 2.3125,0.36132 2.60157,1.011727 2.60156,-0.93946 3.54103,2.818371 0.57811,1.662112 3.68556,2.673829 1.15625,3.97461 -1.22851,0.216799 1.15625,5.419934 0.43359,3.902343 -3.97462,-0.216798 -2.60155,0.361331 -1.95118,1.083982 -3.46876,-2.529296 -2.7461,3.324224 -3.68555,5.492188 -3.03516,1.73438 -3.03516,-1.08398 -1.87891,1.51758 h -1.73437 l -2.5293,1.15625 -2.09571,-1.58985 -0.36132,2.5293 -2.02345,0.36133 -0.57812,1.80664 -4.19141,0.72266 -2.0957,1.37305 -1.15626,2.5293 0.65038,3.90234 -0.21679,2.45704 -1.73439,0.4336 -1.87889,-0.57813 -1.08398,2.45703 -1.95118,-0.36132 0.65039,-3.68556 -0.57813,-1.01171 0.28907,-2.02345 h -1.80665 l -0.93945,-1.51758 -4.76954,-2.24024 v -0.93945 l -1.01171,-3.17969 7.08203,-4.91407 2.67383,-8.960947 -0.28905,-2.240242 5.20312,0.722662 -0.14453,-1.951177 -2.24023,-4.625005 -4.11915,-0.289065 -2.45704,-1.951167 -1.15624,-0.289065 0.14453,-4.408207 -1.01173,-2.673828 -2.96289,-1.15626 -1.95118,0.505864 z"
        id="path84620"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -4078,7 +4139,7 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path6189"
-       d="m 126.0281,73.689558 5.92577,-7.00978 -1.08398,-3.613274 7.66018,-0.867194 4.98632,-1.51758 3.25195,0.433597 5.99806,-0.93945 4.11915,-1.806644 2.31249,6.070319 2.67385,2.673823 1.08397,2.09571 4.40822,4.335941 -0.50586,1.87891 1.66211,1.806635 3.68555,-0.433587 2.3125,0.36132 2.60157,1.011727 2.60156,-0.93946 3.54103,2.818371 0.57811,1.662112 3.68556,2.673829 1.15625,3.97461 -1.22851,0.216799 1.15625,5.419934 0.43359,3.902343 -3.97462,-0.216798 -2.60155,0.361331 -1.95118,1.083982 -3.46876,-2.529296 -2.7461,3.324224 -3.68555,5.492188 -3.03516,1.73438 -3.03516,-1.08398 -1.87891,1.51758 -1.73437,0 -2.5293,1.15625 -2.09571,-1.58985 -0.36132,2.5293 -2.02345,0.36133 -0.57812,1.80664 -4.19141,0.72266 -2.0957,1.37305 -1.15626,2.5293 0.65038,3.90234 -0.21679,2.45704 -1.73439,0.4336 -1.87889,-0.57813 -1.08398,2.45703 -1.95118,-0.36132 0.65039,-3.68556 -0.57813,-1.01171 0.28907,-2.02345 -1.80665,0 -0.93945,-1.51758 -4.76954,-2.24024 0,-0.93945 -1.01171,-3.17969 7.08203,-4.91407 2.67383,-8.960947 -0.28905,-2.240242 5.20312,0.722662 -0.14453,-1.951177 -2.24023,-4.625005 -4.11915,-0.289065 -2.45704,-1.951167 -1.15624,-0.289065 0.14453,-4.408207 -1.01173,-2.673828 -2.96289,-1.15626 -1.95118,0.505864 z"
+       d="m 126.0281,73.689558 5.92577,-7.00978 -1.08398,-3.613274 7.66018,-0.867194 4.98632,-1.51758 3.25195,0.433597 5.99806,-0.93945 4.11915,-1.806644 2.31249,6.070319 2.67385,2.673823 1.08397,2.09571 4.40822,4.335941 -0.50586,1.87891 1.66211,1.806635 3.68555,-0.433587 2.3125,0.36132 2.60157,1.011727 2.60156,-0.93946 3.54103,2.818371 0.57811,1.662112 3.68556,2.673829 1.15625,3.97461 -1.22851,0.216799 1.15625,5.419934 0.43359,3.902343 -3.97462,-0.216798 -2.60155,0.361331 -1.95118,1.083982 -3.46876,-2.529296 -2.7461,3.324224 -3.68555,5.492188 -3.03516,1.73438 -3.03516,-1.08398 -1.87891,1.51758 h -1.73437 l -2.5293,1.15625 -2.09571,-1.58985 -0.36132,2.5293 -2.02345,0.36133 -0.57812,1.80664 -4.19141,0.72266 -2.0957,1.37305 -1.15626,2.5293 0.65038,3.90234 -0.21679,2.45704 -1.73439,0.4336 -1.87889,-0.57813 -1.08398,2.45703 -1.95118,-0.36132 0.65039,-3.68556 -0.57813,-1.01171 0.28907,-2.02345 h -1.80665 l -0.93945,-1.51758 -4.76954,-2.24024 v -0.93945 l -1.01171,-3.17969 7.08203,-4.91407 2.67383,-8.960947 -0.28905,-2.240242 5.20312,0.722662 -0.14453,-1.951177 -2.24023,-4.625005 -4.11915,-0.289065 -2.45704,-1.951167 -1.15624,-0.289065 0.14453,-4.408207 -1.01173,-2.673828 -2.96289,-1.15626 -1.95118,0.505864 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7955a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="hackney-title"
@@ -4094,7 +4155,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot11283"
          xml:space="preserve"><flowRegion
            id="flowRegion11285"><rect
@@ -4104,8 +4165,9 @@
              height="110.71429"
              width="227.85713"
              id="rect11287" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11291">Hackney</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11291">Hackney</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline;opacity:1"
        id="g11293"
@@ -4148,7 +4210,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot11303"
          xml:space="preserve"><flowRegion
            id="flowRegion11305"><rect
@@ -4157,8 +4219,9 @@
              height="48.33437"
              width="40.348694"
              id="rect11307" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara11309">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara11309">4</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 102.89523,89.991039 60.84816,2.591008"
@@ -4186,7 +4249,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot11323"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion11325"><rect
              id="rect11327"
@@ -4196,7 +4259,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara11329"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Old Street</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Old Street</flowPara></flowRoot>
+    </g>
     <circle
        r="1.8309015"
        cy="92.582047"
@@ -4208,7 +4272,7 @@
        id="g11515"
        transform="matrix(0.5,0,0,0.5,28.924187,3.8891676)">
       <circle
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.8039999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.804;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle11517"
          cx="148.55888"
          cy="171.39774"
@@ -4228,7 +4292,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11523"
          xml:space="preserve"><flowRegion
            id="flowRegion11525"><rect
@@ -4238,10 +4302,11 @@
              height="110.71429"
              width="227.85713"
              id="rect11527" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara11529">Hackney</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11531">Central</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11531">Central</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4257,7 +4322,7 @@
          cy="171.39774"
          cx="148.55888"
          id="circle11315"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.8039999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.804;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
@@ -4311,7 +4376,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10455"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion10457"><rect
              id="rect10459"
@@ -4320,7 +4385,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara10461"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        id="greenwich-title"
@@ -4336,7 +4402,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot10467"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion10469"><rect
              id="rect10471"
@@ -4346,7 +4412,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara10475"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Greenwich</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Greenwich</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 145.65305,173.65912 46.60691,0.65895"
@@ -4390,7 +4457,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot10682"
          xml:space="preserve"><flowRegion
            id="flowRegion10684"><rect
@@ -4400,10 +4467,11 @@
              height="110.71429"
              width="227.85713"
              id="rect10686" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara10688">North</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara10690">Greenwich</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara10690">Greenwich</flowPara></flowRoot>
+    </g>
     <g
        id="g12401"
        transform="translate(-0.32247869,86.945793)"
@@ -4419,7 +4487,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12405"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion12407"><rect
              id="rect12409"
@@ -4429,7 +4497,8 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara12413"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Greenwich</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Greenwich</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4480,7 +4549,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9516"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion9518"><rect
              id="rect9520"
@@ -4490,7 +4559,8 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara9526"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">City of London</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">City of London</flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-17.03571,-21.642885)"
        id="g9528"
@@ -4534,7 +4604,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9538"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion9540"><rect
              id="rect9542"
@@ -4543,7 +4613,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara9544"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4581,7 +4652,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot9568"
          xml:space="preserve"><flowRegion
            id="flowRegion9570"><rect
@@ -4591,8 +4662,9 @@
              height="110.71429"
              width="227.85713"
              id="rect9572" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara9574">Blackfriars</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara9574">Blackfriars</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle9802"
@@ -4620,7 +4692,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot9820"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion9822"><rect
              id="rect9824"
@@ -4630,9 +4702,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara9826"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Liverpool</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara9842">Street</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Liverpool</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara9842">Street</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(40.201767,100.78416)"
@@ -4647,7 +4720,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot9832"
          xml:space="preserve"><flowRegion
            id="flowRegion9834"><rect
@@ -4657,10 +4730,11 @@
              height="110.71429"
              width="227.85713"
              id="rect9836" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara9838">Bank &amp;</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara9840">Monument</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara9840">Monument</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 153.12956,101.0764 -10.99025,27.50565"
@@ -4761,7 +4835,7 @@
          style="stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="translate(-33.884766,-6)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          id="flowRoot11707"
          xml:space="preserve"><flowRegion
            id="flowRegion11709"><rect
@@ -4771,8 +4845,9 @@
              height="110.71429"
              width="227.85713"
              id="rect11711" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara11715">Camden</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara11715">Camden</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline;opacity:1"
        id="g11717"
@@ -4824,7 +4899,7 @@
          ry="3.5999999" />
       <flowRoot
          transform="translate(10.318909,11.451555)"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot11729"
          xml:space="preserve"><flowRegion
            id="flowRegion11731"><rect
@@ -4833,8 +4908,9 @@
              height="48.33437"
              width="40.348694"
              id="rect11733" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara11735">5</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara11735">5</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 61.743393,93.835526 46.718215,60.567006"
@@ -4872,7 +4948,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot11759"
          xml:space="preserve"><flowRegion
            id="flowRegion11761"><rect
@@ -4883,9 +4959,10 @@
              width="227.85713"
              id="rect11763" /></flowRegion><flowPara
            id="flowPara11767"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">West</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12216">Hampstead</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">West</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12216">Hampstead</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle12132"
@@ -4925,7 +5002,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12162"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion12164"><rect
              id="rect12166"
@@ -4934,10 +5011,11 @@
              x="43.57143"
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara12170">Camden</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12220">Town</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12220">Town</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(29.673082,42.389339)"
@@ -4952,7 +5030,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot12176"
          xml:space="preserve"><flowRegion
            id="flowRegion12178"><rect
@@ -4963,9 +5041,10 @@
              width="227.85713"
              id="rect12180" /></flowRegion><flowPara
            id="flowPara12184"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">King's</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12224">Cross</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">King's</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12224">Cross</flowPara></flowRoot>
+    </g>
     <g
        id="g12186"
        transform="translate(-10.742924,106.14301)"
@@ -4981,7 +5060,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot12190"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion12192"><rect
              id="rect12194"
@@ -4990,8 +5069,9 @@
              x="43.57143"
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara12198">Holborn</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara12198">Holborn</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="translate(-55.681347,86.981046)"
@@ -5006,7 +5086,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot12204"
          xml:space="preserve"><flowRegion
            id="flowRegion12206"><rect
@@ -5017,7 +5097,8 @@
              width="227.85713"
              id="rect12208" /></flowRegion><flowPara
            id="flowPara12212"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Euston</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Euston</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -5153,7 +5234,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot6902"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion6904"><rect
              id="rect6906"
@@ -5163,9 +5244,10 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara6910"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Brent</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Brent</flowPara><flowPara
            id="flowPara6912"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-17.03571,-21.642885)"
        id="g6914"
@@ -5209,7 +5291,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot6924"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion6926"><rect
              id="rect6928"
@@ -5218,7 +5300,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara6930"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-9.0360064,-15.043212)"
        id="g7408"
@@ -5233,7 +5316,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7412"
          xml:space="preserve"><flowRegion
            id="flowRegion7414"><rect
@@ -5244,9 +5327,10 @@
              width="169.56351"
              id="rect7416" /></flowRegion><flowPara
            id="flowPara7420"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Willesden</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7480">Green</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Willesden</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7480">Green</flowPara></flowRoot>
+    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -5268,7 +5352,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7428"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion7430"><rect
              id="rect7432"
@@ -5278,9 +5362,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7436"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Queen's</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara7476">Park</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Queen's</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara7476">Park</flowPara></flowRoot>
+    </g>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle7442"
@@ -5354,7 +5439,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot6219"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1"
          transform="translate(-33.884766,-6)"><flowRegion
            id="flowRegion6221"><rect
              id="rect6223"
@@ -5364,9 +5449,10 @@
              y="223.21428"
              style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara6227"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:114.99999762%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Barnet</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.5px;line-height:115%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">Barnet</flowPara><flowPara
            id="flowPara6229"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:27.5px;line-height:100%;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"> </flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-14.03571,-21.642885)"
        id="g6231"
@@ -5419,7 +5505,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot6243"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(10.318909,11.451555)"><flowRegion
            id="flowRegion6245"><rect
              id="rect6247"
@@ -5428,7 +5514,8 @@
              x="133.65504"
              y="282.86115" /></flowRegion><flowPara
            id="flowPara6249"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        id="g7343-0"
@@ -5444,7 +5531,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot7347-6"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"><flowRegion
            id="flowRegion7349-2"><rect
              id="rect7351-6"
@@ -5454,9 +5541,10 @@
              y="223.21428"
              style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
            id="flowPara7355-0"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">East</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara6888">Finchley</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'">East</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara6888">Finchley</flowPara></flowRoot>
+    </g>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 75.681624,103.19948 62.718292,65.99511"
@@ -5477,7 +5565,7 @@
          style="stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <flowRoot
          transform="matrix(0.5,0,0,0.5,64.43284,-49.099505)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1"
          id="flowRoot7387-2"
          xml:space="preserve"><flowRegion
            id="flowRegion7389-7"><rect
@@ -5487,10 +5575,11 @@
              height="116.0137"
              width="146.24605"
              id="rect7391-1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
            id="flowPara7393-2">Golders</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
-           id="flowPara6890">Green</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy'"
+           id="flowPara6890">Green</flowPara></flowRoot>
+    </g>
     <g
        style="display:inline"
        transform="matrix(0.5,0,0,0.5,1.8840611,17.532788)"

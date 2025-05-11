@@ -2,24 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2.75in"
    height="3.75in"
    viewBox="0 0 247.5 337.5"
    id="svg4516"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="england-back.svg"
    inkscape:export-filename="/Users/garykac/Downloads/tokyo maps/ku-cards/23-edogawa.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs7455">
     <clipPath
@@ -41,17 +40,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8943903"
-     inkscape:cx="140.64761"
-     inkscape:cy="177.47679"
+     inkscape:cx="153.08355"
+     inkscape:cy="183.70026"
      inkscape:document-units="px"
-     inkscape:current-layer="g6495"
+     inkscape:current-layer="svg4516"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="1440"
+     inkscape:window-height="840"
      inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-intersection-paths="true"
@@ -61,7 +60,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-others="true"
      inkscape:snap-global="false"
-     inkscape:snap-bbox="true" />
+     inkscape:snap-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4521">
     <rdf:RDF>
@@ -89,56 +91,6 @@
        inkscape:export-filename="/Users/garykac/projects/github/shinjuku/ku-cards/r23-edogawa.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Map"
-     style="display:none;opacity:1"
-     sodipodi:insensitive="true">
-    <g
-       id="g4565"
-       transform="matrix(0.1617722,0,0,0.1617722,112.84013,115.49357)">
-      <image
-         sodipodi:absref="/Users/garykac/projects/github/shinjuku/london/ref/england/Screen Shot 2019-02-05 at 07.18.33.png"
-         xlink:href="ref/england/Screen Shot 2019-02-05 at 07.18.33.png"
-         y="501.85605"
-         x="-467.2536"
-         id="image4301"
-         preserveAspectRatio="none"
-         height="887.5"
-         width="1502.5"
-         style="opacity:1" />
-      <image
-         sodipodi:absref="/Users/garykac/projects/github/shinjuku/london/ref/england/Screen Shot 2019-02-05 at 07.19.05.png"
-         xlink:href="ref/england/Screen Shot 2019-02-05 at 07.19.05.png"
-         y="-238.86624"
-         x="-842.13605"
-         id="image4364"
-         preserveAspectRatio="none"
-         height="868.75"
-         width="1495"
-         style="opacity:1" />
-      <image
-         sodipodi:absref="/Users/garykac/projects/github/shinjuku/london/ref/england/Screen Shot 2019-02-05 at 07.19.27.png"
-         xlink:href="ref/england/Screen Shot 2019-02-05 at 07.19.27.png"
-         y="-820.85339"
-         x="-827.30371"
-         id="image4489"
-         preserveAspectRatio="none"
-         height="850"
-         width="1498.75"
-         style="display:inline;opacity:1" />
-      <image
-         sodipodi:absref="/Users/garykac/projects/github/shinjuku/london/ref/england/Screen Shot 2019-02-05 at 07.27.37.png"
-         xlink:href="ref/england/Screen Shot 2019-02-05 at 07.27.37.png"
-         y="96.674995"
-         x="-911.98846"
-         id="image4559"
-         preserveAspectRatio="none"
-         height="896.25"
-         width="1062.5" />
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -195,7 +147,7 @@
        r="3.8930731" />
     <flowRoot
        transform="translate(-78.368437,-21.547959)"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-opacity:1"
        id="flowRoot4203"
        xml:space="preserve"><flowRegion
          id="flowRegion4205"><rect
@@ -206,7 +158,8 @@
            width="237.53813"
            id="rect4207" /></flowRegion><flowPara
          id="flowPara4209"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-opacity:1">LONDON</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-opacity:1">LONDON</flowPara></flowRoot>
+    <path
        sodipodi:type="star"
        style="opacity:1;fill:#d53c4c;fill-opacity:1;fill-rule:evenodd;stroke:#f4cbcf;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4175"
@@ -225,7 +178,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4170"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="translate(-42.506465,28.60827)"><flowRegion
          id="flowRegion4172"><rect
            id="rect4174"
@@ -234,8 +187,9 @@
            x="102.64747"
            y="154.60088"
            style="fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4176">SHINJUKU</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Bold';fill:#d53c4c;fill-opacity:1;stroke:#f4cbcf;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4176">SHINJUKU</flowPara></flowRoot>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer32"
