@@ -91,7 +91,7 @@ On the bottom of the board is the customer queue (④ ③ ② ①). Customers wi
 
 There are 72 cards and each card identifies a single ward on the map.
 
-<img src="gamedev/cards/ku-cards-clip/04-shinjuku.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/03-minato.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/12-setagaya.png" height="200px"/> <img src="gamedev/cards/ku-cards-clip/06-taito.png" height="200px"/>
+<img src="gamedev/cards/png/04-shinjuku.png" height="200px"/> <img src="gamedev/cards/png/03-minato.png" height="200px"/> <img src="gamedev/cards/png/12-setagaya.png" height="200px"/> <img src="gamedev/cards/png/06-taito.png" height="200px"/>
 
 There are multiple copies of each card based on the population of that ward. The numbers on the map and on each card indicate how many of each card are in the deck (this information is important later).
 
