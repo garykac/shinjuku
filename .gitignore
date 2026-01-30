@@ -14,6 +14,7 @@ ref/*
 gamedev/london/_ref/*
 gamedev/osaka/_ref/*
 gamedev/paris/_ref/*
+gamedev/seoul/*
 
 # Temp files for generating PNP files
 pnp/cards-bw/*
