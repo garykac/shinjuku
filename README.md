@@ -23,6 +23,12 @@ Originally released at Tokyo Game Market Spring 2024 by [リゴレ (Rigoler)](ht
 | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng.pdf"><img src="docs/shinjuku_jpn_eng_tn.jpg" height="200px"/></a> |
 | <a href="https://garykac.github.io/shinjuku/docs/shinjuku_jpn_eng.pdf">English translation<br/>of Japanese rulebook</a> |
 
+## Supernova Edition
+
+An Italian/English version was released by [Studio Supernova](https://www.studiosupernova.it/products/shinjuku) in April 2025.
+
+A German version was released by [Heidelbär](https://www.heidelbaer.de/shinjuku) in June 2025.
+
 ## General Rulebooks
 
 The Rules of Play and Quickstart Guide were written for the Print-and-Play and online versions, but they can also be used to augment the Japanese rules because they provide addition rule clarifications and examples of play.
@@ -35,8 +41,6 @@ The Rules of Play and Quickstart Guide were written for the Print-and-Play and o
 ## Links
 
 #### General Links
-
-* [Kickstarter Upcoming Project](https://www.kickstarter.com/projects/garykac/shinjuku)
 
 * Online virtual tabletops:
    * [Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2138588825)
@@ -137,12 +141,6 @@ Players can earn a stack of Upgrade Bonus tokens when they upgrade one of their 
 
 These tokens can act as a customer of any type during the endgame set-collection scoring.
 
-### Matsuri (Festival) Token
-
-<img src="gamedev/components/matsuri.png" height="40px"/>
-
-The Matsuri token is moved each turn and identifies where a festival is taking place. Cards that match the festival location are wild.
-
 ### Gameplay
 
 #### Per-player Setup
@@ -156,10 +154,6 @@ The Matsuri token is moved each turn and identifies where a festival is taking p
 * Add initial customers to map:
    * Draw 4 different ward cards (re-draw if you get a duplicate)
    * Draw 2 customers for each location drawn
-
-* Determine starting location for the Matsuri:
-   * Draw a ward card
-   * Place the Matsuri token in that location
 
 * Choose a starting player and have them take the Start Player Token.
 
@@ -192,10 +186,6 @@ To refresh the customer queue:
 * Draw a new card and place it on ④
 * Add customers to the queue equal to the number that were just placed on the map. 
 
-##### Move the Matsuri
-
-Move the Matsuri token from its current location into a neighboring location.
-
 ##### Take Two Actions
 
 Choose any two of the following actions (must be different actions):
@@ -219,10 +209,6 @@ You can play any three cards from your hand as a single wildcard.
 Once you've built a store (or department store) in a ward, the cards for that ward become wildcards for you.
 
 Because the card frequency varies based on the population of that ward, some wards work better as wildcards (because you're more likely to draw them).
-
-#### ...from the Matsuri
-
-Cards that match the current location of the Matsuri token are wild.
 
 ### Moving Customers
 
