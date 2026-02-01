@@ -38,7 +38,7 @@ OSAKA_WARDS = [
 CARD_DIR = 'cards'
 
 options = {
-	'main_svg': 'osaka.svg',
+	'card_svg': 'osaka.svg',
 	'temp_png': '_temp.png',
 
 	'wards': OSAKA_WARDS,
@@ -56,7 +56,9 @@ options = {
 	'ppg_18up_dir': os.path.join(CARD_DIR, 'ppg-18up'),
 
 	# Map
+	'map_svg': 'osaka.svg',
 	'map_png': 'osaka.png',
+	'map_landscape': True,
 	'map_export': "gameboard-export",
 	'map_layers': [
 		"gameboard-outline",
@@ -72,7 +74,6 @@ options = {
 		"ward-outlines",
 	],
 }
-
 
 print("Generating Shinjuku - Osaka files...")
 dir = os.getcwd()

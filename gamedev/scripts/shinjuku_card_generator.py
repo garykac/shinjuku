@@ -43,7 +43,7 @@ class ShinjukuCardGenerator:
 	# output_dirname: Target dir where exported files will be written
 	# wards: Array of ward names
 	def export_ward_cards(self, dir, export_id, width, height, output_dirname, wards):
-		src_svg = os.path.join(dir, self.options['main_svg'])
+		src_svg = os.path.join(dir, self.options['card_svg'])
 
 		outdir = os.path.join(dir, output_dirname)
 		if not os.path.isdir(outdir):
@@ -168,7 +168,7 @@ class ShinjukuCardGenerator:
 	
 	def export_map(self, dir):
 		print("Exporting map...")
-		svg = os.path.join(dir, self.options['main_svg'])
+		svg = os.path.join(dir, self.options['map_svg'])
 		png = os.path.join(dir, self.options['map_png'])
 		temp_png = os.path.join(dir, self.options['temp_png'])
 		self.export_map_png(svg, temp_png)
@@ -182,7 +182,10 @@ class ShinjukuCardGenerator:
 			actions.layerShow(layer)
 
 		actions.exportFilename(png)
-		actions.exportSize(6600, 6000)
+		if self.options["map_landscape"]:
+			actions.exportSize(6600, 6000)
+		else:
+			actions.exportSize(6000, 6600)
 		actions.exportId(self.options["map_export"])
 		actions.exportDo()
 		Inkscape.run_actions(svg, actions)
