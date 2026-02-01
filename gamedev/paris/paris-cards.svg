@@ -7,7 +7,7 @@
    viewBox="0 0 247.5 337.5"
    id="svg4516"
    version="1.1"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    sodipodi:docname="paris-cards.svg"
    inkscape:export-filename="/Users/garykac/Downloads/tokyo maps/ku-cards/23-edogawa.png"
    inkscape:export-xdpi="300"
@@ -449,15 +449,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.6324089"
      inkscape:cx="120.68055"
-     inkscape:cy="163.56196"
+     inkscape:cy="163.25566"
      inkscape:document-units="px"
-     inkscape:current-layer="g146"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1584"
      inkscape:window-height="924"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-x="1074"
+     inkscape:window-y="1692"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -1336,7 +1336,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="20-menilmontant"
+     id="card-20-menilmontant"
      inkscape:label="20 Menilmontant"
      style="display:none">
     <g
@@ -1633,7 +1633,7 @@
   <g
      style="display:none"
      inkscape:label="19 Buttes-Chaumont"
-     id="19-buttes-chaumont"
+     id="card-19-buttes-chaumont"
      inkscape:groupmode="layer">
     <g
        id="g156"
@@ -1891,7 +1891,7 @@
   <g
      style="display:none"
      inkscape:label="18 Butte-Montmartre"
-     id="18-butte-montmartre"
+     id="card-18-butte-montmartre"
      inkscape:groupmode="layer">
     <g
        id="g144"
@@ -2229,7 +2229,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="17-batignolles-monceau"
+     id="card-17-batignolles-monceau"
      inkscape:label="17 Batignolles-Monceau"
      style="display:none">
     <g
@@ -2487,7 +2487,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="16-passy"
+     id="card-16-passy"
      inkscape:label="16 Passy"
      style="display:none">
     <g
@@ -2730,7 +2730,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="15-vaugirard"
+     id="card-15-vaugirard"
      inkscape:label="15 Vaugirard"
      style="display:none">
     <g
@@ -3028,7 +3028,7 @@
   <g
      style="display:none"
      inkscape:label="14 Observatoire"
-     id="14-observatoire"
+     id="card-14-observatoire"
      inkscape:groupmode="layer">
     <g
        id="g114"
@@ -3318,7 +3318,7 @@
   <g
      style="display:none"
      inkscape:label="13 Gobelins"
-     id="13-gobelins"
+     id="card-13-gobelins"
      inkscape:groupmode="layer">
     <g
        id="g104"
@@ -3662,7 +3662,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="12-reuilly"
+     id="card-12-reuilly"
      inkscape:label="12 Reuilly"
      style="display:none">
     <g
@@ -4032,7 +4032,7 @@
   <g
      style="display:none"
      inkscape:label="11 Popincourt"
-     id="11-popincourt"
+     id="card-11-popincourt"
      inkscape:groupmode="layer">
     <g
        id="g91"
@@ -4273,7 +4273,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="10-entrepot"
+     id="card-10-entrepot"
      inkscape:label="10 Entrepot"
      style="display:none">
     <g
@@ -4622,7 +4622,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="09-opera"
+     id="card-09-opera"
      inkscape:label="9 Opera"
      style="display:none">
     <g
@@ -4858,7 +4858,7 @@
   <g
      style="display:none"
      inkscape:label="8 Elysee"
-     id="08-elysee"
+     id="card-08-elysee"
      inkscape:groupmode="layer">
     <g
        id="g65"
@@ -5242,7 +5242,7 @@
   <g
      style="display:none"
      inkscape:label="7 Palais-Bourbon"
-     id="07-palais-bourbon"
+     id="card-07-palais-bourbon"
      inkscape:groupmode="layer">
     <g
        id="g53"
@@ -5555,7 +5555,7 @@
   <g
      style="display:none"
      inkscape:label="6 Luxembourg"
-     id="06-luxembourg"
+     id="card-06-luxembourg"
      inkscape:groupmode="layer">
     <g
        id="g46"
@@ -5735,7 +5735,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="05-pantheon"
+     id="card-05-pantheon"
      inkscape:label="5 Pantheon"
      style="display:none">
     <g
@@ -5986,7 +5986,7 @@
   <g
      style="display:none"
      inkscape:label="4 Hotel-de-Ville"
-     id="04-hotel-de-ville"
+     id="card-04-hotel-de-ville"
      inkscape:groupmode="layer">
     <g
        id="g35"
@@ -6236,7 +6236,7 @@
   <g
      style="display:none"
      inkscape:label="3 Temple"
-     id="03-temple"
+     id="card-03-temple"
      inkscape:groupmode="layer">
     <g
        id="g30"
@@ -6422,7 +6422,7 @@
   <g
      style="display:none"
      inkscape:label="2 Bourse"
-     id="02-bourse"
+     id="card-02-bourse"
      inkscape:groupmode="layer">
     <g
        id="g22"
@@ -6601,7 +6601,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="01-louvre"
+     id="card-01-louvre"
      inkscape:label="1 Louvre"
      style="display:none">
     <g
@@ -8668,9 +8668,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer31"
+     id="card-info-layer"
      inkscape:label="Index Line"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.703125;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        d="M 35.36344,37.982954 V 140.44034"
