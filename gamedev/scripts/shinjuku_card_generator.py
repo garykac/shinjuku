@@ -51,14 +51,22 @@ class ShinjukuCardGenerator:
 
 		temp_png = os.path.join(dir, self.options['temp_png'])
 
+		card_layers = self.options['card_layers']
 		for w in wards:
 			print(f"...{w}")
+
+			# List of layers to make visible.
+			layers = [f"card-{w}"]
+			layers += self.options['card_layers_common'].copy()
+			if w in card_layers:
+				layers += card_layers[w]
+			
 			# Export the card to have the correct width,height (in 300-dpi pixels) for the
 			# card. Since the SVG doesn't have the file properly scaled for the card size
 			# (because the map image is shared for the cards and board map) Inkscape will
 			# automatically calculate the corresponding dpi based on the WxH, which we'll
 			# have to correct afterwards to get a proper 300-dpi file of the right size.
-			self.export_card(src_svg, ["card-info-layer", f"card-{w}"], export_id, width, height, temp_png)
+			self.export_card(src_svg, layers, export_id, width, height, temp_png)
 		
 			# Force dpi to be 300 (without scaling the image).
 			ImageMagick.force_300_dpi(temp_png, os.path.join(outdir, f'{w}.png'))

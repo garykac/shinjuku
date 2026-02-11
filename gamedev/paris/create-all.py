@@ -47,6 +47,10 @@ options = {
 	'card_back_svg': os.path.join(CARD_DIR, 'paris-back.svg'),
 	'card_back_png': '_back.png',
 
+	# Card layers
+	'card_layers_common': ["card-info-layer"],
+	'card_layers': {},
+	
 	# PrintPlayGames 18up
 	'ppg_18up_svg': os.path.join(CARD_DIR, 'ppg-18up.svg'),
 	'ppg_18up_dir': os.path.join(CARD_DIR, 'ppg-18up'),
