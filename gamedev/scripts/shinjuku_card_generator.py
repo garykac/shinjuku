@@ -11,26 +11,33 @@ from imagemagick import ImageMagick
 from inkscape import Inkscape, InkscapeActions
 from shutil import copyfile
 
+TEMPLATE_DIR = "templates"
+
+TEMP_DIR = "_combined"
+
 class ShinjukuCardGenerator:
-	def __init__(self, options):
+	def __init__(self, dir, options):
+		self.dir = dir
 		self.options = options
+		
+		self.template_dir = os.path.join(os.path.dirname(__file__), TEMPLATE_DIR)
 	
 	# Export cards for each ward (standard size and with bleed).
 	
-	def export_cards(self, dir):
+	def export_cards(self):
 		wards = self.options['wards']
-		self.export_wards_png(dir, wards)
-		self.export_wards_png_bleed(dir, wards)
+		self.export_wards_png(wards)
+		self.export_wards_png_bleed(wards)
 
-	def export_wards_png(self, dir, wards):
+	def export_wards_png(self, wards):
 		print("Exporting png:")
 		outdir = self.options['card_png_dir']
-		self.export_ward_cards(dir, 'card-export', 750, 1050, outdir, wards)
+		self.export_ward_cards('card-export', 750, 1050, outdir, wards)
 
-	def export_wards_png_bleed(self, dir, wards):
+	def export_wards_png_bleed(self, wards):
 		print("Exporting png-bleed:")
 		outdir = self.options['card_png_bleed_dir']
-		self.export_ward_cards(dir, 'card-export-bleed', 822, 1122, outdir, wards)
+		self.export_ward_cards('card-export-bleed', 822, 1122, outdir, wards)
 
 	# dir: Working directory
 	# export_id: Id of svg element to export
@@ -38,14 +45,14 @@ class ShinjukuCardGenerator:
 	# height: height in pixels of output
 	# output_dirname: Target dir where exported files will be written
 	# wards: Array of ward names
-	def export_ward_cards(self, dir, export_id, width, height, output_dirname, wards):
-		src_svg = os.path.join(dir, self.options['card_svg'])
+	def export_ward_cards(self, export_id, width, height, output_dirname, wards):
+		src_svg = os.path.join(self.dir, self.options['card_svg'])
 
-		outdir = os.path.join(dir, output_dirname)
+		outdir = os.path.join(self.dir, output_dirname)
 		if not os.path.isdir(outdir):
 			os.makedirs(outdir);
 
-		temp_png = os.path.join(dir, self.options['temp_png'])
+		temp_png = os.path.join(self.dir, self.options['temp_png'])
 
 		card_layers = self.options['card_layers']
 		for w in wards:
@@ -85,14 +92,14 @@ class ShinjukuCardGenerator:
 
 	# Export card backs (with and without bleed).
 
-	def export_card_backs(self, dir):
+	def export_card_backs(self):
 		print("Exporting card backs")
-		svg = os.path.join(dir, self.options['card_back_svg'])
+		svg = os.path.join(self.dir, self.options['card_back_svg'])
 		card_back_png = self.options['card_back_png']
 		self.export_card_back(svg, "export-rect",
-				os.path.join(*[dir, self.options['card_png_dir'], card_back_png]))
+				os.path.join(*[self.dir, self.options['card_png_dir'], card_back_png]))
 		self.export_card_back(svg, "export-rect-bleed",
-				os.path.join(*[dir, self.options['card_png_bleed_dir'], card_back_png]))
+				os.path.join(*[self.dir, self.options['card_png_bleed_dir'], card_back_png]))
 
 	def export_card_back(self, svg, export_id, png):
 		actions = InkscapeActions()
@@ -104,10 +111,10 @@ class ShinjukuCardGenerator:
 
 	# Export 18-up pages for PrintPlayGames.
 	
-	def export_18up(self, dir):
-		src_svg = os.path.join(dir, self.options['ppg_18up_svg'])
+	def export_18up(self):
+		src_svg = os.path.join(self.dir, self.options['ppg_18up_svg'])
 	
-		outdir = os.path.join(dir, self.options['ppg_18up_dir'])
+		outdir = os.path.join(self.dir, self.options['ppg_18up_dir'])
 		if not os.path.isdir(outdir):
 			os.makedirs(outdir);
 	
@@ -128,17 +135,17 @@ class ShinjukuCardGenerator:
 
 	# Export 9-up pages for print-n-play.
 	
-	def export_9up(self, dir):
+	def export_9up(self):
 		pdf_basename = self.options['card_out_pdf_basename']
-		self.export_9up_type(dir, pdf_basename, "letter")
-		self.export_9up_type(dir, pdf_basename, "a4")
+		self.export_9up_type(pdf_basename, "letter")
+		self.export_9up_type(pdf_basename, "a4")
 
-	def export_9up_type(self, dir, pdf_basename, type):
+	def export_9up_type(self, pdf_basename, type):
 		card_dir = self.options['card_dir']
-		src_svg = os.path.join(dir, card_dir, f'pnp-9up-{type}.svg')
-		out_pdf = os.path.join(dir, card_dir, f'{pdf_basename}-{type}.pdf')
+		src_svg = os.path.join(self.dir, card_dir, f'pnp-9up-{type}.svg')
+		out_pdf = os.path.join(self.dir, card_dir, f'{pdf_basename}-{type}.pdf')
 
-		outdir = os.path.join(dir, card_dir, f'pnp-9up-{type}-pdf')
+		outdir = os.path.join(self.dir, card_dir, f'pnp-9up-{type}-pdf')
 		if not os.path.isdir(outdir):
 			os.makedirs(outdir);
 	
@@ -149,7 +156,7 @@ class ShinjukuCardGenerator:
 			page_out_pdf = os.path.join(outdir, f'{page}.pdf')
 			self.export_9up_page(src_svg, page, page_out_pdf)
 		print("Combining 9up pages")
-		self.combine_9up(dir, outdir, out_pdf)
+		self.combine_9up(outdir, out_pdf)
 
 	def export_9up_page(self, svg, name, pdf):
 		actions = InkscapeActions()
@@ -161,9 +168,9 @@ class ShinjukuCardGenerator:
 		actions.exportDo()
 		Inkscape.run_actions(svg, actions)
 
-	def combine_9up(self, dir, in_pdf_dir, out_pdf):
-		out_pdf = os.path.join(dir, out_pdf)
+	def combine_9up(self, in_pdf_dir, out_pdf):
+		out_pdf = os.path.join(self.dir, out_pdf)
 		in_pdfs = []
 		for pdf in [f'page{x:02}.pdf' for x in range(1,9)]:
-			in_pdfs.append(os.path.join(dir, in_pdf_dir, pdf))
+			in_pdfs.append(os.path.join(self.dir, in_pdf_dir, pdf))
 		GhostScript.combine_pdfs(out_pdf, in_pdfs)

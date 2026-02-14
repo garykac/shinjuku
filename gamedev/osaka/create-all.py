@@ -86,12 +86,17 @@ options = {
 print("Generating Shinjuku - Osaka files...")
 dir = os.getcwd()
 
-cardgen = ShinjukuCardGenerator(options)
-cardgen.export_cards(dir)
-cardgen.export_card_backs(dir)
-cardgen.export_18up(dir)
-cardgen.export_9up(dir)
+def generate_cards(dir, options):
+	cardgen = ShinjukuCardGenerator(dir, options)
+	cardgen.export_cards()
+	cardgen.export_card_backs()
+	cardgen.export_18up()
+	cardgen.export_9up()
 
-mapgen = ShinjukuMapGenerator(options)
-mapgen.export_map(dir)
-mapgen.export_split_pdf(dir)
+def generate_map(dir, options):
+	mapgen = ShinjukuMapGenerator(options)
+	mapgen.export_map(dir)
+	mapgen.export_split_pdf(dir)
+
+generate_cards(dir, options)
+#generate_map(dir, options)
