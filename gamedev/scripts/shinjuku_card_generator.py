@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import getopt
 import os
-import platform
-import re
-import subprocess
 import sys
 
 sys.path.append('../../../python-lib')
@@ -171,29 +167,3 @@ class ShinjukuCardGenerator:
 		for pdf in [f'page{x:02}.pdf' for x in range(1,9)]:
 			in_pdfs.append(os.path.join(dir, in_pdf_dir, pdf))
 		GhostScript.combine_pdfs(out_pdf, in_pdfs)
-
-	# Export map.
-	
-	def export_map(self, dir):
-		print("Exporting map...")
-		svg = os.path.join(dir, self.options['map_svg'])
-		png = os.path.join(dir, self.options['map_png'])
-		temp_png = os.path.join(dir, self.options['temp_png'])
-		self.export_map_png(svg, temp_png)
-		ImageMagick.force_300_dpi(temp_png, png)
-		os.remove(temp_png)
-
-	def export_map_png(self, svg, png):
-		actions = InkscapeActions()
-
-		for layer in self.options['map_layers']:
-			actions.layerShow(layer)
-
-		actions.exportFilename(png)
-		if self.options["map_landscape"]:
-			actions.exportSize(6600, 6000)
-		else:
-			actions.exportSize(6000, 6600)
-		actions.exportId(self.options["map_export"])
-		actions.exportDo()
-		Inkscape.run_actions(svg, actions)

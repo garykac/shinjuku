@@ -7,6 +7,7 @@ import sys
 sys.path.append('../scripts')
 
 from shinjuku_card_generator import ShinjukuCardGenerator
+from shinjuku_map_generator import ShinjukuMapGenerator
 
 OSAKA_WARDS = [
 	"abeno",
@@ -36,9 +37,11 @@ OSAKA_WARDS = [
 ]
 
 CARD_DIR = 'cards'
+MAP_DIR = 'map'
 
 options = {
 	'card_svg': 'osaka.svg',
+	'map_svg': 'osaka.svg',
 	'temp_png': '_temp.png',
 
 	'wards': OSAKA_WARDS,
@@ -60,8 +63,9 @@ options = {
 	'ppg_18up_dir': os.path.join(CARD_DIR, 'ppg-18up'),
 
 	# Map
-	'map_svg': 'osaka.svg',
-	'map_png': 'osaka.png',
+	'map_dir': MAP_DIR,
+	'map_png': 'osaka-map.png',
+	'map_base_pdf': 'osaka-map',
 	'map_landscape': True,
 	'map_export': "gameboard-export",
 	'map_layers': [
@@ -82,9 +86,12 @@ options = {
 print("Generating Shinjuku - Osaka files...")
 dir = os.getcwd()
 
-cardgen = ShinjukuCardGenerator(options)
-cardgen.export_cards(dir)
-cardgen.export_card_backs(dir)
-cardgen.export_18up(dir)
-cardgen.export_9up(dir)
-cardgen.export_map(dir)
+#cardgen = ShinjukuCardGenerator(options)
+#cardgen.export_cards(dir)
+#cardgen.export_card_backs(dir)
+#cardgen.export_18up(dir)
+#cardgen.export_9up(dir)
+
+mapgen = ShinjukuMapGenerator(options)
+mapgen.export_map(dir)
+mapgen.export_split_pdf(dir)

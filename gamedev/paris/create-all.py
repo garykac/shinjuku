@@ -7,6 +7,7 @@ import sys
 sys.path.append('../scripts')
 
 from shinjuku_card_generator import ShinjukuCardGenerator
+from shinjuku_map_generator import ShinjukuMapGenerator
 
 PARIS_ARRONDISSEMENTS = [
 	"01-louvre",
@@ -32,9 +33,11 @@ PARIS_ARRONDISSEMENTS = [
 ]
 
 CARD_DIR = 'cards'
+MAP_DIR = 'map'
 
 options = {
 	'card_svg': 'paris-cards.svg',
+	'map_svg': 'paris-map.svg',
 	'temp_png': '_temp.png',
 
 	'wards': PARIS_ARRONDISSEMENTS,
@@ -56,8 +59,9 @@ options = {
 	'ppg_18up_dir': os.path.join(CARD_DIR, 'ppg-18up'),
 
 	# Map
-	'map_svg': 'paris.svg',
-	'map_png': 'paris.png',
+	'map_dir': MAP_DIR,
+	'map_png': 'paris-map.png',
+	'map_base_pdf': 'paris-map',
 	'map_landscape': False,
 	'map_export': "gameboard-export",
 	'map_layers': [],
@@ -70,5 +74,7 @@ cardgen = ShinjukuCardGenerator(options)
 cardgen.export_cards(dir)
 cardgen.export_card_backs(dir)
 cardgen.export_18up(dir)
-#cardgen.export_9up(dir)
-cardgen.export_map(dir)
+
+mapgen = ShinjukuMapGenerator(options)
+mapgen.export_map(dir)
+mapgen.export_split_pdf(dir)
