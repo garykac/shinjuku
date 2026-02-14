@@ -5,6 +5,8 @@
 # Large 18-up images for PPG
 gamedev/osaka/cards/png/*
 gamedev/osaka/cards/png-bleed/*
+gamedev/paris/cards/png/*
+gamedev/paris/cards/png-bleed/*
 
 # Large map images
 tokyo-map*-300dpi.png
