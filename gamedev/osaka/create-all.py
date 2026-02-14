@@ -83,7 +83,6 @@ options = {
 	'card_layers': {},
 	
 	# PrintPlayGames 18up
-	'ppg_18up_svg': 'ppg-18up.svg',
 	'ppg_18up_dir': 'ppg-18up',
 
 	# Map
