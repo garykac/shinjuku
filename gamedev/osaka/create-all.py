@@ -94,9 +94,9 @@ def generate_cards(dir, options):
 	cardgen.export_9up()
 
 def generate_map(dir, options):
-	mapgen = ShinjukuMapGenerator(options)
-	mapgen.export_map(dir)
-	mapgen.export_split_pdf(dir)
+	mapgen = ShinjukuMapGenerator(dir, options)
+	mapgen.export_map()
+	mapgen.export_split_pdf()
 
 generate_cards(dir, options)
-#generate_map(dir, options)
+generate_map(dir, options)
