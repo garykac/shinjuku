@@ -126,6 +126,32 @@ class ShinjukuCardGenerator:
 	
 	def export_18up(self):
 		print("Exporting ppg 18-up:")
+		self.export_18up_back()
+		self.export_18up_pages()
+
+	def export_18up_back(self):
+		# Copy the ppg-18-up template.
+		src_template = os.path.join(self.template_dir, "ppg-18up-flipped.svg")
+		template = os.path.join(self.card_dir, "_template.svg")
+		shutil.copy(src_template, template)
+
+		outdir = os.path.join(self.card_dir, self.options['ppg_18up_dir'])
+		if not os.path.isdir(outdir):
+			os.makedirs(outdir);
+
+		bleed_dir = os.path.join(self.card_dir, self.options['card_png_bleed_dir'])
+		print(f"...back")
+		for x in range(0, 18):
+			src = os.path.join(bleed_dir, "_back.png")
+			dst = os.path.join(self.card_dir, f"_card-{x:02}.png")
+			shutil.copy(src, dst)
+
+		out_png = os.path.join(outdir, 'page-back.png')
+		self.export_page(template, [], out_png)
+
+		self.cleanup_18up_files(template)
+
+	def export_18up_pages(self):
 		# Copy the ppg-18-up template.
 		src_template = os.path.join(self.template_dir, "ppg-18up.svg")
 		template = os.path.join(self.card_dir, "_template.svg")
@@ -149,8 +175,10 @@ class ShinjukuCardGenerator:
 
 			out_png = os.path.join(outdir, f'page-{page:02}.png')
 			self.export_page(template, [], out_png)
-		
-		# Cleanup
+
+		self.cleanup_18up_files(template)
+
+	def cleanup_18up_files(self, template):
 		os.remove(template)
 		for x in range(0, 18):
 			temp = os.path.join(self.card_dir, f"_card-{x:02}.png")
