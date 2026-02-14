@@ -38,16 +38,15 @@ MAP_DIR = 'map'
 options = {
 	'card_svg': 'paris-cards.svg',
 	'map_svg': 'paris-map.svg',
-	'temp_png': '_temp.png',
 
 	'wards': PARIS_ARRONDISSEMENTS,
 
 	# Ward Cards
 	'card_dir': CARD_DIR,
-	'card_png_dir': os.path.join(CARD_DIR, 'png'),
-	'card_png_bleed_dir': os.path.join(CARD_DIR, 'png-bleed'),
+	'card_png_dir': 'png',
+	'card_png_bleed_dir': 'png-bleed',
 	'card_out_pdf_basename': "paris-cards",
-	'card_back_svg': os.path.join(CARD_DIR, 'paris-back.svg'),
+	'card_back_svg': 'paris-back.svg',
 	'card_back_png': '_back.png',
 
 	# Card layers
@@ -55,8 +54,8 @@ options = {
 	'card_layers': {},
 	
 	# PrintPlayGames 18up
-	'ppg_18up_svg': os.path.join(CARD_DIR, 'ppg-18up.svg'),
-	'ppg_18up_dir': os.path.join(CARD_DIR, 'ppg-18up'),
+	'ppg_18up_svg': 'ppg-18up.svg',
+	'ppg_18up_dir': 'ppg-18up',
 
 	# Map
 	'map_dir': MAP_DIR,

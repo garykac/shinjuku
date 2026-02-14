@@ -17,11 +17,13 @@ A4_HEIGHT = 3508
 LETTER_WIDTH = 2550
 LETTER_HEIGHT = 3300
 
+TEMP_PNG = "_temp.png"
+
 class ShinjukuMapGenerator:
 	def __init__(self, dir, options):
 		self.dir = dir
 		self.options = options
-	
+		
 	def export_map(self):
 		print("Exporting map...")
 		svg = os.path.join(self.dir, self.options['map_svg'])
@@ -31,7 +33,7 @@ class ShinjukuMapGenerator:
 			os.makedirs(map_dir);
 
 		png = os.path.join(map_dir, self.options['map_png'])
-		temp_png = os.path.join(map_dir, self.options['temp_png'])
+		temp_png = os.path.join(map_dir, TEMP_PNG)
 		self.export_map_png(svg, temp_png)
 		ImageMagick.force_300_dpi(temp_png, png)
 		os.remove(temp_png)
@@ -59,7 +61,7 @@ class ShinjukuMapGenerator:
 		rotate = self.options["map_landscape"]
 
 		# Add white border padding so each split tile is the same size.
-		print("..padding map image...")
+		print("...padding map image...")
 		ImageMagick.expand_for_splitting(png, padded_png, 6300, 9000, rotate)
 
 		# Split padded into into tiles.
@@ -67,7 +69,7 @@ class ShinjukuMapGenerator:
 		tile_png = os.path.join(map_dir, 'tile.png')
 		ImageMagick.split_into_tiles(padded_png, tile_png, 3, 3)
 		
-		print("..creating pdf pages...")
+		print("...creating pdf pages...")
 		for i in range(0, 9):
 			png = os.path.join(map_dir, f'tile-{i}.png')
 			a4_pdf = os.path.join(map_dir, f'tile-{i}-a4.pdf')
@@ -75,7 +77,7 @@ class ShinjukuMapGenerator:
 			letter_pdf = os.path.join(map_dir, f'tile-{i}-letter.pdf')
 			ImageMagick.create_pdf_page(png, letter_pdf, LETTER_WIDTH, LETTER_HEIGHT, 70, 35)
 
-		print("..combining pdfs...")
+		print("...combining pdfs...")
 		pdf_name = f"{self.options['map_base_pdf']}-a4.pdf"
 		out_pdf = os.path.join(map_dir, pdf_name)
 		in_pdfs = [os.path.join(map_dir, f'tile-{x}-a4.pdf') for x in range(0,9)]
