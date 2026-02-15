@@ -64,16 +64,27 @@ class ShinjukuCardGenerator:
 		if not os.path.isdir(outdir):
 			os.makedirs(outdir);
 
-		card_layers = self.options['card_layers']
 		for w in wards:
 			print(f"...{w}")
 
 			# List of layers to make visible.
-			layers = [f"card-{w}"]
-			layers += self.options['card_layers_common'].copy()
-			if w in card_layers:
-				layers += card_layers[w]
-			
+			layers = self.options['card_layers_common'].copy()
+
+			if 'auto_card_layers' in self.options:
+				layer_prefixes = self.options['auto_card_layers']
+				for layer_prefix in layer_prefixes:
+					layers.append(f"{layer_prefix}{w}")
+				
+			if 'auto_card_layer_count' in self.options:
+				layer_prefix = self.options['auto_card_layer_count']
+				card_count = self.options['ward_counts'][w]
+				layers.append(f"{layer_prefix}{card_count}")
+				
+			if 'auto_card_layer_color' in self.options:
+				layer_prefix = self.options['auto_card_layer_color']
+				card_color = self.options['ward_colors'][w]
+				layers.append(f"{layer_prefix}{card_color}")
+				
 			outpng = os.path.join(outdir, f'{w}.png')
 			self.export_card(src_svg, layers, export_id, width, height, outpng)
 

@@ -80,7 +80,7 @@ options = {
 
 	# Card layers
 	'card_layers_common': ["card-info-layer"],
-	'card_layers': {},
+	'auto_card_layers': [ 'card-' ],
 	
 	# PrintPlayGames 18up
 	'ppg_18up_dir': 'ppg-18up',
