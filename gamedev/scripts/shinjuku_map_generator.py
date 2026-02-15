@@ -41,8 +41,9 @@ class ShinjukuMapGenerator:
 	def export_map_png(self, svg, png):
 		actions = InkscapeActions()
 
-		for layer in self.options['map_layers']:
-			actions.layerShow(layer)
+		if 'map_layers' in self.options:
+			for layer in self.options['map_layers']:
+				actions.layerShow(layer)
 
 		actions.exportFilename(png)
 		if self.options["map_landscape"]:
@@ -65,7 +66,7 @@ class ShinjukuMapGenerator:
 		ImageMagick.expand_for_splitting(png, padded_png, 6300, 9000, rotate)
 
 		# Split padded into into tiles.
-		print("..splitting into tiles...")
+		print("...splitting into tiles...")
 		tile_png = os.path.join(map_dir, 'tile.png')
 		ImageMagick.split_into_tiles(padded_png, tile_png, 3, 3)
 		

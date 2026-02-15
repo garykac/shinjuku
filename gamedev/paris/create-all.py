@@ -83,7 +83,6 @@ options = {
 	'map_base_pdf': 'paris-map',
 	'map_landscape': False,
 	'map_export': "gameboard-export",
-	'map_layers': [],
 }
 
 print("Generating Shinjuku - Paris files...")
