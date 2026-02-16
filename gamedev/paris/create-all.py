@@ -55,12 +55,36 @@ PARIS_ARRONDISSEMENTS_CARD_COUNTS = {
 	"20-menilmontant": 5,
 }
 
+PARIS_ARRONDISSEMENTS_CARD_COLORS = {
+	"01-louvre": "green",
+	"02-bourse": "yellow",
+	"03-temple": "purple",
+	"04-hotel-de-ville": "pink",
+	"05-pantheon": "orange",
+	"06-luxembourg": "purple",
+	"07-palais-bourbon": "yellow",
+	"08-elysee": "pink",
+	"09-opera": "orange",
+	"10-entrepot": "pink",
+	"11-popincourt": "orange",
+	"12-reuilly": "green",
+	"13-gobelins": "purple",
+	"14-observatoire": "pink",
+	"15-vaugirard": "orange",
+	"16-passy": "green",
+	"17-batignolles-monceau": "yellow",
+	"18-butte-montmartre": "purple",
+	"19-buttes-chaumont": "green",
+	"20-menilmontant": "yellow",
+}
+
 options = {
 	'card_svg': 'paris-cards.svg',
 	'map_svg': 'paris-map.svg',
 
 	'wards': PARIS_ARRONDISSEMENTS,
 	'ward_counts': PARIS_ARRONDISSEMENTS_CARD_COUNTS,
+	'ward_colors': PARIS_ARRONDISSEMENTS_CARD_COLORS,
 
 	# Ward Cards
 	'card_dir': 'cards',
@@ -71,8 +95,8 @@ options = {
 	'card_back_png': '_back.png',
 
 	# Card layers
-	'card_layers_common': ["card-info-layer"],
-	'auto_card_layers': [ 'card-' ],
+	'auto_card_layers': [ 'card-', 'card-map-' ],
+	'auto_card_layer_color': 'card-color-',
 	
 	# PrintPlayGames 18up
 	'ppg_18up_dir': 'ppg-18up',
