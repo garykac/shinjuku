@@ -94,8 +94,14 @@ options = {
 	'card_back_svg': 'paris-back.svg',
 	'card_back_png': '_back.png',
 
+	'wards_with_dept_store': [
+		"01-louvre", "04-hotel-de-ville", "07-palais-bourbon", "08-elysee", "09-opera",
+		"10-entrepot", "12-reuilly", "13-gobelins", "14-observatoire",
+	],
+	
 	# Card layers
 	'auto_card_layers': [ 'card-', 'card-map-' ],
+	'auto_card_layer_count': 'card-count-',
 	'auto_card_layer_color': 'card-color-',
 	
 	# PrintPlayGames 18up
@@ -124,4 +130,4 @@ def generate_map(dir, options):
 	mapgen.export_split_pdf()
 
 generate_cards(dir, options)
-generate_map(dir, options)
+#generate_map(dir, options)

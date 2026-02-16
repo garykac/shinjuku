@@ -450,17 +450,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3085748"
-     inkscape:cx="74.288258"
-     inkscape:cy="187.34502"
+     inkscape:zoom="3.4174389"
+     inkscape:cx="42.86836"
+     inkscape:cy="104.90312"
      inkscape:document-units="mm"
-     inkscape:current-layer="g159"
+     inkscape:current-layer="g170"
      showgrid="false"
      units="in"
      inkscape:window-width="2096"
      inkscape:window-height="1124"
-     inkscape:window-x="134"
-     inkscape:window-y="1570"
+     inkscape:window-x="49"
+     inkscape:window-y="1624"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -493,7 +493,7 @@
      style="display:inline;opacity:1"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:#d9eff9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#d2eef9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.198425;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7620"
        width="285.53116"
        height="366.32901"
@@ -658,125 +658,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccscccsccccccccssss"
        inkscape:label="1 Louvre" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer38"
-     inkscape:label="Text Align Ref"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       style="display:inline"
-       id="g43-3"
-       transform="translate(-330.66072,-0.017885)"
-       inkscape:label="card count 5">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect38-0"
-         width="20"
-         height="28"
-         x="115.78571"
-         y="285.64288"
-         rx="3.5999999"
-         ry="3.5999999" />
-      <rect
-         ry="3.5999999"
-         rx="3.5999999"
-         y="285.64288"
-         x="121.78571"
-         height="28"
-         width="20"
-         id="rect39-3"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect40-3"
-         width="20"
-         height="28"
-         x="127.78571"
-         y="285.64288"
-         rx="3.5999999"
-         ry="3.5999999" />
-      <rect
-         ry="3.5999999"
-         rx="3.5999999"
-         y="285.64288"
-         x="133.78571"
-         height="28"
-         width="20"
-         id="rect41-4"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect42-2"
-         width="20"
-         height="28"
-         x="139.78571"
-         y="285.64288"
-         rx="3.5999999"
-         ry="3.5999999" />
-      <flowRoot
-         transform="translate(10.318909,7.7051548)"
-         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot43-7"
-         xml:space="preserve"><flowRegion
-           id="flowRegion43-3"><rect
-             y="282.86115"
-             x="133.65504"
-             height="48.33437"
-             width="40.348694"
-             id="rect43-1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-           id="flowPara43-7">5</flowPara></flowRoot>
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2"
-       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       transform="translate(-352.63477,31.932757)"
-       inkscape:label="title"><flowRegion
-         id="flowRegion1"
-         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
-           id="rect1"
-           width="227.85713"
-           height="110.71429"
-           x="43.57143"
-           y="223.21428"
-           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
-         id="flowPara2"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">Batig-14pt</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       transform="translate(-352.63477,-0.75)"
-       inkscape:label="number"><flowRegion
-         id="flowRegion2"
-         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
-           id="rect2"
-           width="227.85713"
-           height="110.71429"
-           x="43.57143"
-           y="223.21428"
-           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
-         id="flowPara4"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">LXVII</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot213"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       transform="translate(-465.13477,30.793965)"
-       inkscape:label="title"><flowRegion
-         id="flowRegion213"
-         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
-           id="rect213"
-           width="227.85713"
-           height="110.71429"
-           x="43.57143"
-           y="223.21428"
-           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
-         id="flowPara213"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">Batig-16pt</flowPara></flowRoot>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3239,7 +3120,8 @@
        style="display:none"
        inkscape:label="2 Bourse"
        id="card-map-02-bourse"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       transform="translate(18.75,-18.75)">
       <g
          id="g24"
          inkscape:label="Arrondissement">
@@ -3619,71 +3501,7 @@
       <g
          id="g10"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-14.03571,-9.392885)"
-           id="g8"
-           style="display:inline;opacity:1"
-           inkscape:label="Card counts 5">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="115.78571"
-             height="28"
-             width="20"
-             id="rect3"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect4"
-             width="20"
-             height="28"
-             x="121.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect5"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect6"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect7"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot8"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.7051548)"><flowRegion
-               id="flowRegion8"><rect
-                 id="rect8"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara8"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot9"
@@ -3719,10 +3537,11 @@
       </g>
       <g
          id="g170"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g169"
-           transform="translate(0,13.125)"
+           transform="translate(0,15)"
            inkscape:label="Index dots">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -3767,7 +3586,7 @@
              id="tspan169"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Ménilmontant - XX</tspan></text>
+             y="31.135262">XX - Ménilmontant</tspan></text>
       </g>
     </g>
     <g
@@ -3778,71 +3597,7 @@
       <g
          id="g178"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g176"
-           transform="translate(-14.03571,-9.392885)"
-           inkscape:label="Card count 5">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect171"
-             width="20"
-             height="28"
-             x="115.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect172"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect173"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect174"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect175"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.7051548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot176"
-             xml:space="preserve"><flowRegion
-               id="flowRegion176"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect176" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara176">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot177"
@@ -3878,10 +3633,11 @@
       </g>
       <g
          id="g188"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g187"
-           transform="translate(0,36.805382)"
+           transform="translate(0,38.680382)"
            inkscape:label="Index dots"
            style="display:inline">
           <circle
@@ -3927,7 +3683,7 @@
              id="tspan187"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Buttes-Chaumont - XIX</tspan></text>
+             y="31.135262">XIX - Buttes-Chaumont</tspan></text>
       </g>
     </g>
     <g
@@ -3938,71 +3694,7 @@
       <g
          id="g196"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g194"
-           transform="translate(-14.03571,-9.392885)"
-           inkscape:label="Card count 5">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect189"
-             width="20"
-             height="28"
-             x="115.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect190"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect191"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect192"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect193"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.7051548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot194"
-             xml:space="preserve"><flowRegion
-               id="flowRegion194"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect194" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara194">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot195"
@@ -4038,10 +3730,11 @@
       </g>
       <g
          id="g210"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g209"
-           transform="translate(0,43.125)"
+           transform="translate(0,45)"
            inkscape:label="Index dots"
            style="display:inline">
           <circle
@@ -4087,7 +3780,7 @@
              id="tspan209"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Butte-Montmartre - XVIII</tspan></text>
+             y="31.135262">XVIII - Butte-Montmartre</tspan></text>
       </g>
     </g>
     <g
@@ -4098,71 +3791,7 @@
       <g
          id="g220"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g218"
-           transform="translate(-14.03571,-9.392885)"
-           inkscape:label="Card count 5">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect211"
-             width="20"
-             height="28"
-             x="115.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect212"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect214"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect216"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect217"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.7051548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot218"
-             xml:space="preserve"><flowRegion
-               id="flowRegion218"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect218" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara218">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot219"
@@ -4198,10 +3827,11 @@
       </g>
       <g
          id="g230"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g229"
-           transform="translate(0,58.125)"
+           transform="translate(0,60)"
            inkscape:label="Index dots"
            style="display:inline">
           <circle
@@ -4247,7 +3877,7 @@
              id="tspan229"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-36.249821"
-             y="31.135262">Batignolles-Monceau - XVII</tspan></text>
+             y="31.135262">XVII - Batignolles-Monceau</tspan></text>
       </g>
     </g>
     <g
@@ -4258,62 +3888,7 @@
       <g
          id="g237"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-17.03571,-9.392885)"
-           id="g235"
-           style="display:inline;opacity:1"
-           inkscape:label="Card count 4">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect231"
-             width="20"
-             height="28"
-             x="121.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect232"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect233"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect234"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot235"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion235"><rect
-                 id="rect235"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara235"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot236"
@@ -4349,7 +3924,8 @@
       </g>
       <g
          id="g246"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <text
            xml:space="preserve"
            style="font-size:11.25px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:end;text-anchor:end;display:inline;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -4362,12 +3938,12 @@
              id="tspan242"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Passy - XVI</tspan></text>
+             y="31.135262">XVI - Passy</tspan></text>
         <g
            id="g245"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-23.680382)">
+           transform="translate(0,-21.805382)">
           <circle
              style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle242"
@@ -4403,71 +3979,7 @@
       <g
          id="g254"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g252"
-           transform="translate(-14.03571,-9.392885)"
-           inkscape:label="Card count 5">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect247"
-             width="20"
-             height="28"
-             x="115.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect248"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect249"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect250"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect251"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.7051548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot252"
-             xml:space="preserve"><flowRegion
-               id="flowRegion252"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect252" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara252">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot253"
@@ -4503,12 +4015,13 @@
       </g>
       <g
          id="g266"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g265"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-7.5)">
+           transform="translate(0,-5.625)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle261"
@@ -4552,7 +4065,7 @@
              id="tspan265"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Vaugirard - XV</tspan></text>
+             y="31.135262">XV - Vaugirard</tspan></text>
       </g>
     </g>
     <g
@@ -4563,62 +4076,7 @@
       <g
          id="g273"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g271"
-           transform="translate(-17.03571,-9.392885)"
-           inkscape:label="Card count 4">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect267"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect268"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect269"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect270"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.8101548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot271"
-             xml:space="preserve"><flowRegion
-               id="flowRegion271"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect271" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara271">4</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot272"
@@ -4654,10 +4112,11 @@
       </g>
       <g
          id="g284"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g283"
-           transform="translate(0,12.856392)"
+           transform="translate(0,14.731392)"
            inkscape:label="Index dots"
            style="display:inline">
           <circle
@@ -4697,24 +4156,7 @@
              id="tspan283"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Observatoire - XIV</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path283"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">XIV - Observatoire</tspan></text>
       </g>
     </g>
     <g
@@ -4725,71 +4167,7 @@
       <g
          id="g292"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g290"
-           transform="translate(-14.03571,-9.392885)"
-           inkscape:label="Card count 5">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect285"
-             width="20"
-             height="28"
-             x="115.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect286"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect287"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect288"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect289"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.7051548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot290"
-             xml:space="preserve"><flowRegion
-               id="flowRegion290"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect290" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara290">5</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot291"
@@ -4825,12 +4203,13 @@
       </g>
       <g
          id="g306"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g305"
            inkscape:label="card count dots 5"
            style="display:inline"
-           transform="translate(0,-9.375)">
+           transform="translate(0,-7.5)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle301"
@@ -4874,24 +4253,7 @@
              id="tspan305"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Gobelins - XIII</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path305"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">XIII - Gobelins</tspan></text>
       </g>
     </g>
     <g
@@ -4902,62 +4264,7 @@
       <g
          id="g313"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-17.03571,-9.392885)"
-           id="g311"
-           style="display:inline;opacity:1"
-           inkscape:label="Card count 4">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect307"
-             width="20"
-             height="28"
-             x="121.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect308"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect309"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect310"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot311"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion311"><rect
-                 id="rect311"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara311"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">4</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot312"
@@ -4993,12 +4300,13 @@
       </g>
       <g
          id="g327"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g326"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-24.187902)">
+           transform="translate(0,-22.312902)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle323"
@@ -5036,24 +4344,7 @@
              id="tspan326"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Reuilly - XII</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path326"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">XII - Reuilly</tspan></text>
       </g>
     </g>
     <g
@@ -5064,62 +4355,7 @@
       <g
          id="g334"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline;opacity:1"
-           id="g332"
-           transform="translate(-17.03571,-9.392885)"
-           inkscape:label="Card count 4">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="121.78571"
-             height="28"
-             width="20"
-             id="rect328"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect329"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect330"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect331"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.8101548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot332"
-             xml:space="preserve"><flowRegion
-               id="flowRegion332"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect332" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara332">4</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot333"
@@ -5155,12 +4391,13 @@
       </g>
       <g
          id="g343"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g342"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-5.625)">
+           transform="translate(0,-3.75)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle339"
@@ -5198,7 +4435,7 @@
              id="tspan342"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Popincourt - XI</tspan></text>
+             y="31.135262">XI - Popincourt</tspan></text>
       </g>
     </g>
     <g
@@ -5209,53 +4446,7 @@
       <g
          id="g349"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline"
-           id="g347"
-           transform="translate(-20.03571,-9.392885)"
-           inkscape:label="Card counts 3">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect344"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect345"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect346"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.8101548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot347"
-             xml:space="preserve"><flowRegion
-               id="flowRegion347"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect347" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara347">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot348"
@@ -5291,12 +4482,13 @@
       </g>
       <g
          id="g363"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g362"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-21.258592)">
+           transform="translate(0,-19.383592)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle360"
@@ -5328,24 +4520,7 @@
              id="tspan362"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Entrepôt - X</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path362"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">X - Entrepôt</tspan></text>
       </g>
     </g>
     <g
@@ -5356,53 +4531,7 @@
       <g
          id="g369"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-20.03571,-9.392885)"
-           id="g367"
-           style="display:inline"
-           inkscape:label="Card count 3">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect364"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect365"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect366"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot367"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion367"><rect
-                 id="rect367"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara367"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot368"
@@ -5438,12 +4567,13 @@
       </g>
       <g
          id="g377"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g376"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-32.495704)">
+           transform="translate(0,-30.620704)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle374"
@@ -5475,24 +4605,7 @@
              id="tspan376"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Opéra - IX</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path376"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">IX - Opéra</tspan></text>
       </g>
     </g>
     <g
@@ -5503,53 +4616,7 @@
       <g
          id="g383"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-20.03571,-9.392885)"
-           id="g381"
-           style="display:inline"
-           inkscape:label="Card count 3">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect378"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect379"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect380"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot381"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion381"><rect
-                 id="rect381"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara381"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot382"
@@ -5585,12 +4652,13 @@
       </g>
       <g
          id="g400"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g399"
            inkscape:label="card count dots 3"
            style="display:inline"
-           transform="translate(0,-21.086068)">
+           transform="translate(0,-19.211068)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle397"
@@ -5622,24 +4690,7 @@
              id="tspan399"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Élysée - VIII</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path399"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">VIII - Élysée</tspan></text>
       </g>
     </g>
     <g
@@ -5650,53 +4701,7 @@
       <g
          id="g406"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-20.03571,-9.392885)"
-           id="g404"
-           style="display:inline"
-           inkscape:label="Card count 3">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect401"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect402"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect403"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot404"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion404"><rect
-                 id="rect404"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara404"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot405"
@@ -5732,10 +4737,11 @@
       </g>
       <g
          id="g417"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g416"
-           transform="translate(0,21.655018)"
+           transform="translate(0,23.530018)"
            inkscape:label="Index dots"
            style="display:inline">
           <circle
@@ -5769,24 +4775,7 @@
              id="tspan416"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Palais-Bourbon - VII</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path416"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">VII - Palais-Bourbon</tspan></text>
       </g>
     </g>
     <g
@@ -5797,44 +4786,8 @@
       <g
          id="g422"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-23.035706,-9.392885)"
-           id="g420"
-           style="display:inline"
-           inkscape:label="Card counts 2">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect418"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect419"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot420"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.386409,7.8926548)"><flowRegion
-               id="flowRegion420"><rect
-                 id="rect420"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara420"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)"
+         style="display:inline">
         <flowRoot
            xml:space="preserve"
            id="flowRoot421"
@@ -5870,12 +4823,14 @@
       </g>
       <g
          id="g428"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)"
+         style="display:inline">
         <g
            id="g427"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,3.75)">
+           transform="translate(0,5.625)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle426"
@@ -5901,7 +4856,7 @@
              id="tspan427"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Luxembourg - VI</tspan></text>
+             y="31.135262">VI - Luxembourg</tspan></text>
       </g>
     </g>
     <g
@@ -5912,53 +4867,8 @@
       <g
          id="g434"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline"
-           id="g432"
-           transform="translate(-20.03571,-9.392885)"
-           inkscape:label="Card counts 3">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect429"
-             width="20"
-             height="28"
-             x="127.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect430"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect431"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.318909,7.8101548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot432"
-             xml:space="preserve"><flowRegion
-               id="flowRegion432"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect432" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara432">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)"
+         style="display:inline">
         <flowRoot
            xml:space="preserve"
            id="flowRoot433"
@@ -5994,12 +4904,14 @@
       </g>
       <g
          id="g443"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)"
+         style="display:inline">
         <g
            id="g442"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-16.017696)">
+           transform="translate(0,-14.142696)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle440"
@@ -6031,7 +4943,7 @@
              id="tspan442"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Panthéon - V</tspan></text>
+             y="31.135262">V - Panthéon</tspan></text>
       </g>
     </g>
     <g
@@ -6042,53 +4954,7 @@
       <g
          id="g449"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-20.03571,-9.392885)"
-           id="g447"
-           style="display:inline"
-           inkscape:label="Card count 3">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="127.78571"
-             height="28"
-             width="20"
-             id="rect444"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect445"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect446"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot447"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.318909,7.8101548)"><flowRegion
-               id="flowRegion447"><rect
-                 id="rect447"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara447"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">3</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot448"
@@ -6124,7 +4990,8 @@
       </g>
       <g
          id="g457"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <text
            xml:space="preserve"
            style="font-size:11.25px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:end;text-anchor:end;display:inline;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -6137,50 +5004,31 @@
              id="tspan454"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Hôtel-de-Ville - IV</tspan></text>
-        <circle
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="circle454"
-           cx="27.559429"
-           cy="127.80725"
-           r="1.7832795"
-           transform="translate(0,7.5)" />
-        <circle
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="circle455"
-           cx="27.559429"
-           cy="135.30725"
-           r="1.7832795"
-           transform="translate(0,7.5)" />
-        <circle
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="circle456"
-           cx="27.559429"
-           cy="142.80725"
-           r="1.7832795"
-           transform="translate(0,7.5)" />
+             y="31.135262">IV - Hôtel-de-Ville</tspan></text>
         <g
            id="g456"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,7.5)" />
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path456"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+           transform="translate(0,9.375)">
+          <circle
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle454"
+             cx="27.559429"
+             cy="127.80725"
+             r="1.7832795" />
+          <circle
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle455"
+             cx="27.559429"
+             cy="135.30725"
+             r="1.7832795" />
+          <circle
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             id="circle456"
+             cx="27.559429"
+             cy="142.80725"
+             r="1.7832795" />
+        </g>
       </g>
     </g>
     <g
@@ -6191,44 +5039,7 @@
       <g
          id="g462"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline"
-           id="g460"
-           transform="translate(-23.035706,-9.392885)"
-           inkscape:label="Card count 2">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect458"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect459"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.386409,7.8926548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot460"
-             xml:space="preserve"><flowRegion
-               id="flowRegion460"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect460" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara460">2</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot461"
@@ -6264,12 +5075,13 @@
       </g>
       <g
          id="g471"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g470"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-26.851148)">
+           transform="translate(0,-24.976148)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle469"
@@ -6295,7 +5107,7 @@
              id="tspan470"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Temple - III</tspan></text>
+             y="31.135262">III - Temple</tspan></text>
       </g>
     </g>
     <g
@@ -6306,44 +5118,7 @@
       <g
          id="g476"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           style="display:inline"
-           id="g474"
-           transform="translate(-23.035706,-9.392885)"
-           inkscape:label="Card count 2">
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="133.78571"
-             height="28"
-             width="20"
-             id="rect472"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect473"
-             width="20"
-             height="28"
-             x="139.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <flowRoot
-             transform="translate(10.386409,7.8926548)"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot474"
-             xml:space="preserve"><flowRegion
-               id="flowRegion474"><rect
-                 y="282.86115"
-                 x="133.65504"
-                 height="48.33437"
-                 width="40.348694"
-                 id="rect474" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
-               id="flowPara474">2</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot475"
@@ -6379,12 +5154,13 @@
       </g>
       <g
          id="g483"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <g
            id="g482"
            inkscape:label="Index dots"
            style="display:inline"
-           transform="translate(0,-29.4851)">
+           transform="translate(0,-27.6101)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle481"
@@ -6400,7 +5176,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:end;text-anchor:end;display:inline;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           style="font-size:11.25px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:end;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.87441;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
            x="-42.249821"
            y="31.135262"
            id="text482"
@@ -6408,9 +5184,9 @@
            inkscape:label="Index"><tspan
              sodipodi:role="line"
              id="tspan482"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.87441;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Bourse - II</tspan></text>
+             y="31.135262">II - Bourse</tspan></text>
       </g>
     </g>
     <g
@@ -6421,44 +5197,7 @@
       <g
          id="g488"
          inkscape:label="Title"
-         transform="translate(0,9.375)">
-        <g
-           transform="translate(-23.035706,-9.392885)"
-           id="g486"
-           style="display:inline"
-           inkscape:label="Card count -2">
-          <rect
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect484"
-             width="20"
-             height="28"
-             x="133.78571"
-             y="285.64288"
-             rx="3.5999999"
-             ry="3.5999999" />
-          <rect
-             ry="3.5999999"
-             rx="3.5999999"
-             y="285.64288"
-             x="139.78571"
-             height="28"
-             width="20"
-             id="rect485"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot486"
-             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="translate(10.386409,7.8926548)"><flowRegion
-               id="flowRegion486"><rect
-                 id="rect486"
-                 width="40.348694"
-                 height="48.33437"
-                 x="133.65504"
-                 y="282.86115" /></flowRegion><flowPara
-               id="flowPara486"
-               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'">2</flowPara></flowRoot>
-        </g>
+         transform="translate(0,5.625)">
         <flowRoot
            xml:space="preserve"
            id="flowRoot487"
@@ -6494,7 +5233,8 @@
       </g>
       <g
          id="g502"
-         inkscape:label="Index">
+         inkscape:label="Index"
+         transform="translate(-1.875)">
         <text
            xml:space="preserve"
            style="font-size:11.25px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:end;text-anchor:end;display:inline;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -6507,29 +5247,12 @@
              id="tspan500"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:end;text-anchor:end;stroke:#ffffff;stroke-width:1.875;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              x="-42.249821"
-             y="31.135262">Louvre - I</tspan></text>
-        <path
-           sodipodi:type="star"
-           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.1472;stroke-dasharray:none;stroke-opacity:1"
-           id="path500"
-           inkscape:flatsided="true"
-           sodipodi:sides="6"
-           sodipodi:cx="831.0434"
-           sodipodi:cy="651.68469"
-           sodipodi:r1="37.712234"
-           sodipodi:r2="32.659756"
-           sodipodi:arg1="0.52359878"
-           sodipodi:arg2="1.0471976"
-           inkscape:rounded="-8.6736174e-17"
-           inkscape:randomized="0"
-           d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
-           transform="matrix(0.11578888,0.06685073,-0.06685073,0.11578888,-25.068728,-104.37882)"
-           inkscape:label="Dept Store Hex" />
+             y="31.135262">I - Louvre</tspan></text>
         <g
            id="g501"
            inkscape:label="card count dots 2"
            style="display:inline;stroke-width:1.875;stroke-dasharray:none;paint-order:stroke fill markers"
-           transform="translate(0,-33.75)">
+           transform="translate(0,-31.875)">
           <circle
              style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
              id="circle500"
@@ -6544,6 +5267,229 @@
              r="1.7832795" />
         </g>
       </g>
+    </g>
+  </g>
+  <g
+     id="g2"
+     inkscape:label="Card Counts"
+     transform="matrix(0.17596063,0,0,0.17596063,-193.23137,-120.67181)"
+     style="display:inline"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       style="display:none"
+       id="card-count-5"
+       transform="matrix(4.3654861,0,0,4.3654861,542.94989,976.92648)"
+       inkscape:label="Cards 5">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect38-0-4"
+         width="26.036457"
+         height="36.451042"
+         x="259.634"
+         y="297.81958"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <rect
+         ry="4.6865625"
+         rx="4.6865625"
+         y="297.81958"
+         x="267.44495"
+         height="36.451042"
+         width="26.036457"
+         id="rect39-3-2"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect40-3-4"
+         width="26.036457"
+         height="36.451042"
+         x="275.25589"
+         y="297.81958"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <rect
+         ry="4.6865625"
+         rx="4.6865625"
+         y="297.81958"
+         x="283.0668"
+         height="36.451042"
+         width="26.036457"
+         id="rect41-4-0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect42-2-6"
+         width="26.036457"
+         height="36.451042"
+         x="290.87775"
+         y="297.81958"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <path
+         style="font-weight:800;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;stroke-width:1.30182px"
+         d="m 301.8749,311.3567 h 4.53035 c 1.24975,0 2.14801,0.0391 3.18295,0.13669 v -3.41728 c -0.78109,0.0976 -1.5036,0.13669 -3.22201,0.13669 h -5.83867 c -0.93732,0 -1.13259,0 -1.95274,-0.0391 -0.0195,0.74204 -0.039,1.21069 -0.0781,1.62077 l -0.52723,6.09253 c -0.0586,0.54676 -0.11717,1.01542 -0.19528,1.60124 l 3.63209,0.35149 c 0.4296,-0.95684 1.23022,-1.44502 2.46044,-1.44502 1.6403,0 2.69478,1.01542 2.69478,2.57761 0,1.56218 -1.09353,2.59713 -2.73383,2.59713 -1.40597,0 -2.22612,-0.60534 -2.55808,-1.89415 l -3.925,0.60535 c 0.29291,1.01542 0.52724,1.58171 0.97637,2.18706 1.13258,1.56219 3.06579,2.40186 5.52624,2.40186 4.13979,0 6.60024,-2.22611 6.60024,-5.97536 0,-1.6403 -0.48819,-2.90958 -1.46455,-3.90547 -1.03495,-1.05448 -2.46045,-1.60124 -4.19838,-1.60124 -1.26928,0 -2.2847,0.29291 -3.16343,0.93731 0.039,-0.33197 0.0586,-0.52724 0.0586,-0.62488 z"
+         id="flowRoot43-7-7"
+         aria-label="5" />
+    </g>
+    <g
+       style="display:none"
+       id="card-count-4"
+       transform="matrix(4.3654861,0,0,4.3654861,1018.9543,1477.7488)"
+       inkscape:label="Cards 4">
+      <rect
+         ry="4.6865625"
+         rx="4.6865625"
+         y="183.09644"
+         x="154.50134"
+         height="36.451042"
+         width="26.036457"
+         id="rect39-3-4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect40-3-44"
+         width="26.036457"
+         height="36.451042"
+         x="162.31229"
+         y="183.09644"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <rect
+         ry="4.6865625"
+         rx="4.6865625"
+         y="183.09644"
+         x="170.12321"
+         height="36.451042"
+         width="26.036457"
+         id="rect41-4-4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect42-2-3"
+         width="26.036457"
+         height="36.451042"
+         x="177.93414"
+         y="183.09644"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <path
+         style="font-weight:800;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;stroke-width:1.30182px"
+         d="m 183.77608,206.41678 c 0.72252,-0.0586 1.26928,-0.0781 2.53856,-0.0781 h 5.52624 v 0.95684 c 0,0.95684 -0.0586,1.77699 -0.15622,2.44091 h 4.02263 c -0.11716,-0.74203 -0.15622,-1.30833 -0.15622,-2.40186 v -0.97637 h 0.58582 c 0.60535,0 1.32786,0.0391 1.91368,0.11717 v -3.55398 c -0.68346,0.0976 -1.32786,0.15622 -1.93321,0.15622 h -0.56629 v -6.34639 c 0,-1.30833 0.0391,-2.08942 0.15622,-3.24154 h -4.0031 c -0.50772,0.76157 -0.87874,1.24975 -1.81605,2.32376 l -4.23743,4.95994 c -0.9959,1.17164 -0.9959,1.17164 -1.87463,2.14801 z m 8.08432,-3.30012 h -3.94452 l 2.85099,-3.47587 c 0.52724,-0.66393 0.82015,-1.05448 1.2107,-1.60124 -0.0781,0.8592 -0.11717,1.9332 -0.11717,2.81193 z"
+         id="flowRoot43-7-5"
+         aria-label="4" />
+    </g>
+    <g
+       style="display:none"
+       id="card-count-3"
+       transform="matrix(4.3654861,0,0,4.3654861,988.8086,1477.7488)"
+       inkscape:label="Cards 3">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect40-3-0"
+         width="26.036457"
+         height="36.451042"
+         x="165.31229"
+         y="183.09644"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <rect
+         ry="4.6865625"
+         rx="4.6865625"
+         y="183.09644"
+         x="173.12321"
+         height="36.451042"
+         width="26.036457"
+         id="rect41-4-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.95273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect42-2-62"
+         width="26.036457"
+         height="36.451042"
+         x="180.93414"
+         y="183.09644"
+         rx="4.6865625"
+         ry="4.6865625" />
+      <path
+         style="font-weight:800;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;stroke-width:1.30182px"
+         d="m 187.06899,205.49899 c 0.1367,0.50771 0.21481,0.76157 0.33197,1.03495 0.4296,1.074 1.11306,1.93321 2.01132,2.51903 1.03494,0.68345 2.79241,1.09353 4.54987,1.09353 1.46455,0 3.04626,-0.29291 4.06168,-0.76157 0.72252,-0.33196 1.40597,-0.87873 1.83557,-1.46455 0.50772,-0.68346 0.7811,-1.60124 0.7811,-2.59713 0,-1.13259 -0.46866,-2.14801 -1.28881,-2.89005 -0.68345,-0.58582 -1.32786,-0.8592 -2.51902,-1.03495 2.24564,-0.52724 3.3587,-1.81604 3.3587,-3.88594 0,-1.11306 -0.37102,-2.05037 -1.09353,-2.77289 -1.11306,-1.074 -2.87052,-1.65982 -4.999,-1.65982 -2.38234,0 -4.17885,0.66393 -5.37002,1.95274 -0.62488,0.68345 -0.93731,1.26927 -1.30833,2.47997 l 4.2179,0.60535 c 0.29291,-1.24975 0.9959,-1.79652 2.38234,-1.79652 1.2888,0 2.03084,0.60535 2.03084,1.65982 0,1.24975 -0.91778,1.87463 -2.77288,1.87463 -0.76157,0 -1.40597,-0.0391 -2.0699,-0.11717 v 3.35871 c 0.76157,-0.0781 1.6403,-0.11717 2.40186,-0.11717 0.76157,0 1.36692,0.0976 1.81605,0.25386 0.66393,0.25385 1.05447,0.87873 1.05447,1.67935 0,1.19117 -0.95684,1.95274 -2.47997,1.95274 -0.93731,0 -1.7184,-0.29291 -2.24564,-0.83968 -0.31244,-0.33197 -0.4296,-0.60535 -0.54677,-1.24975 z"
+         id="flowRoot43-7-58"
+         aria-label="3" />
+    </g>
+    <g
+       id="card-count-2"
+       inkscape:label="Cards 2"
+       style="display:none"
+       transform="matrix(1.9999961,0,0,1.9999961,1129.9848,1532.5074)">
+      <rect
+         ry="10.229581"
+         rx="10.229581"
+         y="372.27386"
+         x="298.77136"
+         height="79.563408"
+         width="56.831005"
+         id="rect41-4-40"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.26233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.26233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect42-2-5"
+         width="56.831005"
+         height="79.563408"
+         x="315.82065"
+         y="372.27386"
+         rx="10.229581"
+         ry="10.229581" />
+      <path
+         style="font-weight:800;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold';letter-spacing:0px;word-spacing:0px;stroke-width:2.84155px"
+         d="m 351.0772,430.4222 c 3.02625,0 4.81643,0.0853 7.28858,0.29836 v -8.05579 c -1.66231,0.21311 -3.62298,0.29836 -6.81972,0.29836 h -9.93122 c 0.98034,-1.87542 2.5574,-3.36724 6.26562,-5.92463 4.34757,-3.02625 4.7738,-3.32462 6.18037,-4.56069 2.64264,-2.17379 3.92134,-4.81643 3.92134,-7.92793 0,-1.8328 -0.46885,-3.4951 -1.40657,-4.98692 -2.13116,-3.45248 -6.52135,-5.37053 -12.27549,-5.37053 -4.98692,0 -8.86564,1.53444 -11.29517,4.3902 -1.70493,2.00329 -2.47214,3.87871 -3.11149,7.58694 l 8.95088,0.93771 c 0.21312,-1.79018 0.46886,-2.64264 1.06558,-3.58035 0.93771,-1.4492 2.3869,-2.13117 4.43282,-2.13117 2.72789,0 4.56069,1.36395 4.56069,3.40986 0,1.96067 -0.89509,3.06888 -4.56069,5.54103 -4.34757,2.941 -5.96726,4.17707 -7.58694,5.66889 -2.98363,2.77051 -5.02954,6.00988 -6.13775,9.54761 -0.51148,1.6623 -0.72459,2.941 -0.89509,5.02954 1.57706,-0.12787 2.5574,-0.17049 6.39349,-0.17049 z"
+         id="flowRoot43-7-8"
+         aria-label="2" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Department Store Hex Index"
+     transform="matrix(3.543307,0,0,3.543307,-72.246672,30.708169)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="dept-store-hex-index"
+       transform="matrix(0.14149532,0,0,0.14149532,7.5849329,51.883934)"
+       inkscape:label="Department Store Hex"
+       style="display:none">
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.5041;stroke-dasharray:none;stroke-opacity:1"
+         id="path10-4-35"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="831.0434"
+         sodipodi:cy="651.68469"
+         sodipodi:r1="37.712234"
+         sodipodi:r2="32.659756"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="-8.6736174e-17"
+         inkscape:randomized="0"
+         d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
+         transform="matrix(0.23307126,0.13456374,-0.13456374,0.23307126,35.789119,-638.52478)"
+         inkscape:label="Hex" />
+      <circle
+         r="7.129806"
+         cy="-374.80753"
+         cx="141.78831"
+         id="circle4881-43-9-3-4-81"
+         style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.32157;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Circle for centering" />
+      <circle
+         r="2.2603831"
+         cy="-374.80753"
+         cx="141.78831"
+         id="circle632-5-638"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.418982;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Center dot" />
     </g>
   </g>
   <g
@@ -6632,8 +5578,121 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Registration Marks"
+     inkscape:label="Registration and Alignment Marks"
+     style="display:inline"
      sodipodi:insensitive="true">
+    <g
+       style="display:inline"
+       id="g43-3"
+       transform="translate(-330.66072,-5.642885)"
+       inkscape:label="card count 5">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect38-0"
+         width="20"
+         height="28"
+         x="115.78571"
+         y="285.64288"
+         rx="3.5999999"
+         ry="3.5999999" />
+      <rect
+         ry="3.5999999"
+         rx="3.5999999"
+         y="285.64288"
+         x="121.78571"
+         height="28"
+         width="20"
+         id="rect39-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect40-3"
+         width="20"
+         height="28"
+         x="127.78571"
+         y="285.64288"
+         rx="3.5999999"
+         ry="3.5999999" />
+      <rect
+         ry="3.5999999"
+         rx="3.5999999"
+         y="285.64288"
+         x="133.78571"
+         height="28"
+         width="20"
+         id="rect41-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect42-2"
+         width="20"
+         height="28"
+         x="139.78571"
+         y="285.64288"
+         rx="3.5999999"
+         ry="3.5999999" />
+      <flowRoot
+         transform="translate(10.318909,7.7051548)"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot43-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion43-3"><rect
+             y="282.86115"
+             x="133.65504"
+             height="48.33437"
+             width="40.348694"
+             id="rect43-1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Hiragino Kaku Gothic Std';-inkscape-font-specification:'Hiragino Kaku Gothic Std Ultra-Bold'"
+           id="flowPara43-7">5</flowPara></flowRoot>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       transform="translate(-352.63477,28.182757)"
+       inkscape:label="title"><flowRegion
+         id="flowRegion1"
+         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
+           id="rect1"
+           width="227.85713"
+           height="110.71429"
+           x="43.57143"
+           y="223.21428"
+           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
+         id="flowPara2"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">Batig-14pt</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       transform="translate(-352.63477,-4.5)"
+       inkscape:label="number"><flowRegion
+         id="flowRegion2"
+         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
+           id="rect2"
+           width="227.85713"
+           height="110.71429"
+           x="43.57143"
+           y="223.21428"
+           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
+         id="flowPara4"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">LXVII</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot213"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       transform="translate(-465.13477,27.043965)"
+       inkscape:label="title"><flowRegion
+         id="flowRegion213"
+         style="line-height:100%;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><rect
+           id="rect213"
+           width="227.85713"
+           height="110.71429"
+           x="43.57143"
+           y="223.21428"
+           style="text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;line-height:100%" /></flowRegion><flowPara
+         id="flowPara213"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Heavy';stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">Batig-16pt</flowPara></flowRoot>
     <rect
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06299;stroke-linecap:round;stroke-linejoin:round"
        id="rect1-23"
@@ -6641,7 +5700,8 @@
        height="28.748634"
        x="198.04877"
        y="-217.5"
-       transform="translate(-99.375,86.318054)" />
+       transform="translate(-99.375,86.318054)"
+       inkscape:label="Registration top" />
     <rect
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06299;stroke-linecap:round;stroke-linejoin:round"
        id="rect2-18"
@@ -6649,6 +5709,25 @@
        height="28.748634"
        x="55.367115"
        y="-596.51819"
-       transform="rotate(90,-92.846525,-6.5284743)" />
+       transform="rotate(90,-92.846525,-6.5284743)"
+       inkscape:label="Registration right" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.684429,-80.000657 v 56.447164"
+       id="path1"
+       inkscape:label="Index Center align" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M -58.580222,26.634878 H -115.02739"
+       id="path2"
+       inkscape:label="Index Dept Store hex align" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="14.742432"
+       height="14.742434"
+       x="-94.175018"
+       y="35.729801"
+       inkscape:label="Index text end align" />
   </g>
 </svg>

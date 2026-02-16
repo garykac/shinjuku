@@ -104,6 +104,9 @@ class ShinjukuCardGenerator:
 				layer_prefix = self.options['auto_card_layer_color']
 				card_color = self.options['ward_colors'][w]
 				layers.append(f"{layer_prefix}{card_color}")
+			
+			if w in self.options['wards_with_dept_store']:
+				layers.append("dept-store-hex-index")
 				
 			outpng = os.path.join(outdir, f'{w}.png')
 			self.export_card(src_svg, layers, export_id, width, height, outpng)
