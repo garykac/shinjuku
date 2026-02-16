@@ -130,4 +130,4 @@ def generate_map(dir, options):
 	mapgen.export_split_pdf()
 
 generate_cards(dir, options)
-#generate_map(dir, options)
+generate_map(dir, options)
