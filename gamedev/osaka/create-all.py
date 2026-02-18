@@ -63,12 +63,40 @@ OSAKA_WARD_CARD_COUNTS = {
 	"yodogawa": 4,
 }
 
+OSAKA_WARD_CARD_COLORS = {
+	"abeno": "green",
+	"asahi": "green",
+	"chuo": "purple",
+	"fukushima": "pink",
+	"higashi-sumiyoshi": "pink",
+	"higashi-yodogawa": "pink",
+	"higashinari": "green",
+	"hirano": "purple",
+	"ikuno": "yellow",
+	"joto": "orange",
+	"kita": "orange",
+	"konohana": "yellow",
+	"minato": "purple",
+	"miyakojima": "yellow",
+	"naniwa": "pink",
+	"nishi-yodogawa": "green",
+	"nishi": "green",
+	"nishinari": "yellow",
+	"suminoe": "pink",
+	"sumiyoshi": "orange",
+	"taisho": "orange",
+	"tennoji": "orange",
+	"tsurumi": "purple",
+	"yodogawa": "purple",
+}
+
 options = {
-	'card_svg': 'osaka.svg',
+	'card_svg': 'osaka-cards.svg',
 	'map_svg': 'osaka.svg',
 
 	'wards': OSAKA_WARDS,
 	'ward_counts': OSAKA_WARD_CARD_COUNTS,
+	'ward_colors': OSAKA_WARD_CARD_COLORS,
 
 	# Ward Cards
 	'card_dir': 'cards',
@@ -78,9 +106,15 @@ options = {
 	'card_back_svg': 'osaka-back.svg',
 	'card_back_png': '_back.png',
 
+	'wards_with_dept_store': [
+		"abeno", "chuo", "ikuno", "kita", "konohana", "minato", "miyakojima", "naniwa",
+		"nishinari", "tennoji", "yodogawa",
+	],
+
 	# Card layers
-	'card_layers_common': ["card-info-layer"],
-	'auto_card_layers': [ 'card-' ],
+	'auto_card_layers': [ 'card-', 'card-map-' ],
+	'auto_card_layer_count': 'card-count-',
+	'auto_card_layer_color': 'card-color-',
 	
 	# PrintPlayGames 18up
 	'ppg_18up_dir': 'ppg-18up',
