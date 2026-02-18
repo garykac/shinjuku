@@ -91,7 +91,7 @@ OSAKA_WARD_CARD_COLORS = {
 
 options = {
 	'card_svg': 'osaka-cards.svg',
-	'map_svg': 'osaka.svg',
+	'map_svg': 'osaka-map.svg',
 
 	'wards': OSAKA_WARDS,
 	'ward_counts': OSAKA_WARD_CARD_COUNTS,
@@ -124,19 +124,7 @@ options = {
 	'map_base_pdf': 'osaka-map',
 	'map_landscape': True,
 	'map_export': "gameboard-export",
-	'map_layers': [
-		"gameboard-outline",
-		"gameboard-title",
-		"station-labels",
-		"stations-overlay",
-		"stations",
-		"stations-underlay",
-		"connections",
-		"stations-shadow",
-		"ward-names",
-		"osaka-bay-label",
-		"ward-outlines",
-	],
+	'map_layers': [],
 }
 
 print("Generating Shinjuku - Osaka files...")
