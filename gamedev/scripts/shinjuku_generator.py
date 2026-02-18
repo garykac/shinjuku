@@ -40,7 +40,7 @@ class ShinjukuGenerator():
 			cardgen.export_cards()
 			cardgen.export_card_backs()
 			cardgen.export_18up()
-			#cardgen.export_9up()
+			cardgen.export_9up()
 
 		if gen_map:
 			mapgen = ShinjukuMapGenerator(self.dir, self.options)

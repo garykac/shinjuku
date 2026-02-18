@@ -41,9 +41,15 @@ class ShinjukuCardGenerator:
 			os.makedirs(subdir)
 		return subdir
 
+	def copy_template(self, template, dir, temp_template):
+		src_template = os.path.join(self.template_dir, template)
+		t = os.path.join(dir, temp_template)
+		shutil.copy(src_template, t)
+		return t
+
 	# Export svg page to png.
 	# Entire page is exported unless |export_id| is specified.
-	def export_page(self, svg, layers, png, export_id = None):
+	def export_page_png(self, svg, layers, png, export_id = None):
 		actions = InkscapeActions()
 		actions.exportFilename(png)
 		for layer in layers:
@@ -53,6 +59,17 @@ class ShinjukuCardGenerator:
 			actions.exportId(export_id)
 		else:
 			actions.exportAreaPage()
+		actions.exportDo()
+		Inkscape.run_actions(svg, actions)
+
+	def export_page_pdf(self, svg, layers, pdf):
+		actions = InkscapeActions()
+		actions.exportFilename(pdf)
+		for layer in layers:
+			actions.layerShow(layer)
+		actions.exportDpi(300)
+		actions.exportAreaPage()
+		actions.exportTextToPath()
 		actions.exportDo()
 		Inkscape.run_actions(svg, actions)
 
@@ -143,10 +160,10 @@ class ShinjukuCardGenerator:
 		print("Exporting card backs")
 		svg = os.path.join(self.card_dir, self.options['card_back_svg'])
 		card_back_png = self.options['card_back_png']
-		self.export_page(svg, [],
+		self.export_page_png(svg, [],
 				os.path.join(*[self.card_dir, self.options['card_png_dir'], card_back_png]),
 				"export-rect")
-		self.export_page(svg, [],
+		self.export_page_png(svg, [],
 				os.path.join(*[self.card_dir, self.options['card_png_bleed_dir'], card_back_png]),
 				"export-rect-bleed")
 
@@ -158,7 +175,7 @@ class ShinjukuCardGenerator:
 		self.export_18up_pages()
 
 	def export_18up_back(self):
-		template = self.copy_18up_template("ppg-18up-flipped.svg")
+		template = self.copy_template("ppg-18up-flipped.svg", self.card_dir, "_template.svg")
 
 		outdir = self.make_card_subdir(self.options['ppg_18up_dir'])
 		bleed_dir = self.make_card_subdir(self.options['card_png_bleed_dir'])
@@ -170,15 +187,15 @@ class ShinjukuCardGenerator:
 			shutil.copy(src, dst)
 
 		out_png = os.path.join(outdir, 'page-back.png')
-		self.export_page(template, [], out_png)
+		self.export_page_png(template, [], out_png)
 
 		self.cleanup_18up_files(template)
 
 	def export_18up_pages(self):
-		template = self.copy_18up_template("ppg-18up.svg")
+		template = self.copy_template("ppg-18up.svg", self.card_dir, "_template.svg")
 		
 		outdir = self.make_card_subdir(self.options['ppg_18up_dir'])
-		bleed_dir = self.make_card_subdir(self.options['card_png_bleed_dir'])
+		bleed_dir = os.path.join(self.card_dir, self.options['card_png_bleed_dir'])
 		
 		# Copy batch of card images for template.
 		ppg18_deck = self.deck.copy()
@@ -191,15 +208,9 @@ class ShinjukuCardGenerator:
 				shutil.copy(src, dst)
 
 			out_png = os.path.join(outdir, f'page-{page:02}.png')
-			self.export_page(template, [], out_png)
+			self.export_page_png(template, [], out_png)
 
 		self.cleanup_18up_files(template)
-
-	def copy_18up_template(self, template):
-		src_template = os.path.join(self.template_dir, template)
-		t = os.path.join(self.card_dir, "_template.svg")
-		shutil.copy(src_template, t)
-		return t
 
 	def cleanup_18up_files(self, template):
 		os.remove(template)
@@ -210,41 +221,47 @@ class ShinjukuCardGenerator:
 	# Export 9-up pages for print-n-play.
 	
 	def export_9up(self):
+		print("Exporting pnp 9up:")
 		pdf_basename = self.options['card_out_pdf_basename']
-		self.export_9up_type(pdf_basename, "letter")
-		self.export_9up_type(pdf_basename, "a4")
+		xdir = self.make_card_subdir("_pnp9up")
+		outdir = self.make_card_subdir("pnp-9up")
+		t_letter = self.copy_template("pnp-9up-letter.svg", xdir, "_template_letter.svg")
+		t_a4 = self.copy_template("pnp-9up-a4.svg", xdir, "_template_a4.svg")
+		png_dir = os.path.join(self.card_dir, self.options['card_png_dir'])
 
-	def export_9up_type(self, pdf_basename, type):
-		card_dir = self.options['card_dir']
-		src_svg = os.path.join(self.dir, card_dir, f'pnp-9up-{type}.svg')
-		out_pdf = os.path.join(self.dir, card_dir, f'{pdf_basename}-{type}.pdf')
+		# Copy card back images for templates.
+		print(f"...back")
+		for x in range(0, 9):
+			src = os.path.join(png_dir, f"_back.png")
+			dst = os.path.join(xdir, f"_card-{x:02}.png")
+			shutil.copy(src, dst)
+		out_pdf = os.path.join(outdir, f'{pdf_basename}-a4-back.pdf')
+		self.export_page_pdf(t_a4, [], out_pdf)
+		out_pdf = os.path.join(outdir, f'{pdf_basename}-letter-back.pdf')
+		self.export_page_pdf(t_letter, [], out_pdf)
+		
+		# Copy batch of card images for templates.
+		pnp9_deck = self.deck.copy()
+		for page in range(1, 9):
+			print(f"...page {page}")
+			for x in range(0, 9):
+				ward = pnp9_deck.pop(0)
+				src = os.path.join(png_dir, f"{ward}.png")
+				dst = os.path.join(xdir, f"_card-{x:02}.png")
+				shutil.copy(src, dst)
 
-		outdir = os.path.join(self.dir, card_dir, f'pnp-9up-{type}-pdf')
-		if not os.path.isdir(outdir):
-			os.makedirs(outdir);
-	
-		print(f"Exporting pnp 9up ({type}):")
-		pages = [f'page{x:02}' for x in range(1,9)]
-		for page in ['_back', *pages]:
-			print(f"...{page}")
-			page_out_pdf = os.path.join(outdir, f'{page}.pdf')
-			self.export_9up_page(src_svg, page, page_out_pdf)
+			out_pdf = os.path.join(xdir, f'a4-page-{page:02}.pdf')
+			self.export_page_pdf(t_a4, [], out_pdf)
+
+			out_pdf = os.path.join(xdir, f'letter-page-{page:02}.pdf')
+			self.export_page_pdf(t_letter, [], out_pdf)
+
 		print("Combining 9up pages")
-		self.combine_9up(outdir, out_pdf)
+		for type in [ "a4", "letter" ]:
+			out_pdf = os.path.join(outdir, f'{pdf_basename}-{type}.pdf')
+			in_pdfs = []
+			for pdf in [f'{type}-page-{x:02}.pdf' for x in range(1,9)]:
+				in_pdfs.append(os.path.join(xdir, pdf))
+			GhostScript.combine_pdfs(out_pdf, in_pdfs)
 
-	def export_9up_page(self, svg, name, pdf):
-		actions = InkscapeActions()
-		actions.exportFilename(pdf)
-		actions.layerShow(name)
-		actions.exportDpi(300)
-		actions.exportAreaPage()
-		actions.exportTextToPath()
-		actions.exportDo()
-		Inkscape.run_actions(svg, actions)
-
-	def combine_9up(self, in_pdf_dir, out_pdf):
-		out_pdf = os.path.join(self.dir, out_pdf)
-		in_pdfs = []
-		for pdf in [f'page{x:02}.pdf' for x in range(1,9)]:
-			in_pdfs.append(os.path.join(self.dir, in_pdf_dir, pdf))
-		GhostScript.combine_pdfs(out_pdf, in_pdfs)
+		shutil.rmtree(xdir)
