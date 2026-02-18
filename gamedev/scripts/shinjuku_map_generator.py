@@ -41,10 +41,6 @@ class ShinjukuMapGenerator:
 	def export_map_png(self, svg, png):
 		actions = InkscapeActions()
 
-		if 'map_layers' in self.options:
-			for layer in self.options['map_layers']:
-				actions.layerShow(layer)
-
 		actions.exportFilename(png)
 		if self.options["map_landscape"]:
 			actions.exportSize(6600, 6000)

@@ -124,7 +124,6 @@ options = {
 	'map_base_pdf': 'osaka-map',
 	'map_landscape': True,
 	'map_export': "gameboard-export",
-	'map_layers': [],
 }
 
 print("Generating Shinjuku - Osaka files...")
