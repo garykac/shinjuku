@@ -2,27 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import os
-import platform
-import subprocess
 import sys
 
-sys.path.append('../../../inkscape-lib')
+sys.path.append('../scripts')
 
-from inkscape import Inkscape, InkscapeActions
-from shutil import copyfile
-
-CARD_DIR = 'cards'
-CARD_PNG_DIR = os.path.join(CARD_DIR, 'png')
-CARD_PNG_BLEED_DIR = os.path.join(CARD_DIR, 'png-bleed')
-CARD_SVG = os.path.join(CARD_DIR, 'paris-cards.svg')
-CARD_BACK_SVG = os.path.join(CARD_DIR, 'paris-back.svg')
-CARD_BACK_PNG = '_back.png'
-# PrintPlayGames 18up
-PPG_18UP_SVG = os.path.join(CARD_DIR, 'ppg-18up.svg')
-PPG_18UP_DIR = os.path.join(CARD_DIR, 'ppg-18up')
-# Map
-PARIS_MAP_SVG = 'paris.svg'
-PARIS_MAP_PNG = 'paris.png'
+from shinjuku_card_generator import ShinjukuCardGenerator
+from shinjuku_map_generator import ShinjukuMapGenerator
 
 PARIS_ARRONDISSEMENTS = [
 	"01-louvre",
@@ -47,98 +32,96 @@ PARIS_ARRONDISSEMENTS = [
 	"20-menilmontant",
 ]
 
-def export_card(svg, layer_id, export_id, png):
-	actions = InkscapeActions()
+PARIS_ARRONDISSEMENTS_CARD_COUNTS = {
+	"01-louvre": 2,
+	"02-bourse": 2,
+	"03-temple": 2,
+	"04-hotel-de-ville": 3,
+	"05-pantheon": 3,
+	"06-luxembourg": 2,
+	"07-palais-bourbon": 3,
+	"08-elysee": 3,
+	"09-opera": 3,
+	"10-entrepot": 3,
+	"11-popincourt": 4,
+	"12-reuilly": 4,
+	"13-gobelins": 5,
+	"14-observatoire": 4,
+	"15-vaugirard": 5,
+	"16-passy": 4,
+	"17-batignolles-monceau": 5,
+	"18-butte-montmartre": 5,
+	"19-buttes-chaumont": 5,
+	"20-menilmontant": 5,
+}
 
-	actions.layerShow(layer_id)
+PARIS_ARRONDISSEMENTS_CARD_COLORS = {
+	"01-louvre": "green",
+	"02-bourse": "yellow",
+	"03-temple": "purple",
+	"04-hotel-de-ville": "pink",
+	"05-pantheon": "orange",
+	"06-luxembourg": "purple",
+	"07-palais-bourbon": "yellow",
+	"08-elysee": "pink",
+	"09-opera": "orange",
+	"10-entrepot": "pink",
+	"11-popincourt": "orange",
+	"12-reuilly": "green",
+	"13-gobelins": "purple",
+	"14-observatoire": "pink",
+	"15-vaugirard": "orange",
+	"16-passy": "green",
+	"17-batignolles-monceau": "yellow",
+	"18-butte-montmartre": "purple",
+	"19-buttes-chaumont": "green",
+	"20-menilmontant": "yellow",
+}
 
-	actions.exportFilename(png)
-	actions.exportDpi(300)
-	actions.exportId(export_id)
-	actions.exportDo()
-	Inkscape.run_actions(svg, actions)
+options = {
+	'card_svg': 'paris-cards.svg',
+	'map_svg': 'paris-map.svg',
 
-# dir: Working directory
-# export_id: Id of svg element to export
-# output_dirname: Target dir where exported files will be written
-# arrs: Array of arrondissement names
-def export_arrondissement_cards(dir, export_id, output_dirname, arrs):
-	src_svg = os.path.join(dir, CARD_SVG)
+	'wards': PARIS_ARRONDISSEMENTS,
+	'ward_counts': PARIS_ARRONDISSEMENTS_CARD_COUNTS,
+	'ward_colors': PARIS_ARRONDISSEMENTS_CARD_COLORS,
 
-	outdir = os.path.join(dir, output_dirname)
-	if not os.path.isdir(outdir):
-		os.makedirs(outdir);
+	# Ward Cards
+	'card_dir': 'cards',
+	'card_png_dir': 'png',
+	'card_png_bleed_dir': 'png-bleed',
+	'card_out_pdf_basename': "paris-cards",
+	'card_back_svg': 'paris-back.svg',
+	'card_back_png': '_back.png',
 
-	for arr in arrs:
-		print(f"...{arr}")
-		out_png = os.path.join(outdir, f'{arr}.png')
-		export_card(src_svg, arr, export_id, out_png)
-
-def export_arrondissements_png(dir, arr):
-	print("Exporting png:")
-	export_arrondissement_cards(dir, 'card-export', CARD_PNG_DIR, arr)
-
-def export_arrondissements_png_bleed(dir, arr):
-	print("Exporting png-bleed:")
-	export_arrondissement_cards(dir, 'card-export-bleed', CARD_PNG_BLEED_DIR, arr)
-
-def export_cards(dir, arr):
-	export_arrondissements_png(dir, arr)
-	export_arrondissements_png_bleed(dir, arr)
-
-def export_card_back(svg, export_id, png):
-	actions = InkscapeActions()
-	actions.exportFilename(png)
-	actions.exportDpi(300)
-	actions.exportId(export_id)
-	actions.exportDo()
-	Inkscape.run_actions(svg, actions)
-
-def export_card_backs(dir):
-	print("Exporting card backs")
-	svg = os.path.join(dir, CARD_BACK_SVG)
-	export_card_back(svg, "export-rect", os.path.join(*[dir, CARD_PNG_DIR, CARD_BACK_PNG]))
-	export_card_back(svg, "export-rect-bleed", os.path.join(*[dir, CARD_PNG_BLEED_DIR, CARD_BACK_PNG]))
-
-def export_18up_page(svg, name, png):
-	actions = InkscapeActions()
-	actions.exportFilename(png)
-	actions.layerShow(f"sheet-{name}")
-	actions.exportDpi(300)
-	actions.exportAreaPage()
-	actions.exportDo()
-	Inkscape.run_actions(svg, actions)
-
-def export_18up(dir):
-	src_svg = os.path.join(dir, PPG_18UP_SVG)
+	# Card layers
+	'auto_card_layers': [ 'card-', 'card-map-' ],
+	'auto_card_layer_color': 'card-color-',
 	
-	outdir = os.path.join(dir, PPG_18UP_DIR)
-	if not os.path.isdir(outdir):
-		os.makedirs(outdir);
-	
-	print("Exporting ppg 18-up:")
-	for page in ['_back', 'page01', 'page02', 'page03', 'page04']:
-		print(f"...{page}")
-		out_png = os.path.join(outdir, f'{page}.png')
-		export_18up_page(src_svg, page, out_png)
+	# PrintPlayGames 18up
+	'ppg_18up_dir': 'ppg-18up',
 
-def export_map_png(svg, png):
-	actions = InkscapeActions()
-	actions.exportFilename(png)
-	actions.exportDpi(300)
-	actions.exportId("gameboard-export")
-	actions.exportDo()
-	Inkscape.run_actions(svg, actions)
-
-def export_map(dir):
-	print("Exporting map...")
-	svg = os.path.join(dir, PARIS_MAP_SVG)
-	png = os.path.join(dir, PARIS_MAP_PNG)
-	export_map_png(svg, png)
+	# Map
+	'map_dir': 'map',
+	'map_png': 'paris-map.png',
+	'map_base_pdf': 'paris-map',
+	'map_landscape': False,
+	'map_export': "gameboard-export",
+}
 
 print("Generating Shinjuku - Paris files...")
 dir = os.getcwd()
-export_cards(dir, PARIS_ARRONDISSEMENTS)
-export_card_backs(dir)
-export_18up(dir)
-export_map(dir)
+
+def generate_cards(dir, options):
+	cardgen = ShinjukuCardGenerator(dir, options)
+	cardgen.export_cards()
+	cardgen.export_card_backs()
+	cardgen.export_18up()
+
+def generate_map(dir, options):
+	mapgen = ShinjukuMapGenerator(dir, options)
+	mapgen.export_map()
+	mapgen.export_split_pdf()
+
+generate_cards(dir, options)
+generate_map(dir, options)

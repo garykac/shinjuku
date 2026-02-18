@@ -3,9 +3,12 @@
 *.blend1
 
 # Large 18-up images for PPG
-*-18.png
+gamedev/osaka/cards/png/*
+gamedev/osaka/cards/png-bleed/*
+gamedev/paris/cards/png/*
+gamedev/paris/cards/png-bleed/*
 
-# Large images
+# Large map images
 tokyo-map*-300dpi.png
 tokyo-map*-300dpi.jpg
 map/map*-150dpi.png
@@ -14,6 +17,7 @@ ref/*
 gamedev/london/_ref/*
 gamedev/osaka/_ref/*
 gamedev/paris/_ref/*
+gamedev/seoul/*
 
 # Temp files for generating PNP files
 pnp/cards-bw/*
