@@ -6,8 +6,7 @@ import sys
 
 sys.path.append('../scripts')
 
-from shinjuku_card_generator import ShinjukuCardGenerator
-from shinjuku_map_generator import ShinjukuMapGenerator
+from shinjuku_generator import ShinjukuGenerator
 
 OSAKA_WARDS = [
 	"abeno",
@@ -143,17 +142,5 @@ options = {
 print("Generating Shinjuku - Osaka files...")
 dir = os.getcwd()
 
-def generate_cards(dir, options):
-	cardgen = ShinjukuCardGenerator(dir, options)
-	cardgen.export_cards()
-	cardgen.export_card_backs()
-	cardgen.export_18up()
-	cardgen.export_9up()
-
-def generate_map(dir, options):
-	mapgen = ShinjukuMapGenerator(dir, options)
-	mapgen.export_map()
-	mapgen.export_split_pdf()
-
-generate_cards(dir, options)
-generate_map(dir, options)
+gen = ShinjukuGenerator(dir, options)
+gen.Generate()
