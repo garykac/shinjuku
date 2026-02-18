@@ -1,0 +1,57 @@
+Shinjuku map/card colors:
+
+Green: d4efd2ff
+Orange: f2ddcaff
+Yellow: e9eac3ff
+Purple: dadbf1ff
+Pink: efe1eeff
+
+Gray: e6e6e6ff
+
+Card sizes
+==========
+
+Card count squares (for index)
+   ▪︎ ▪︎ ▪︎ ▪︎ ▪︎  
+one space between and two spaces before the ward name
+
+
+Card index text
+---------------
+Seoul: 10pt - Ultra Bold  - Apple SD Gothic Neo
+	stroke white .55mm behind fill
+Paris: 9pt - Bold - Arial (smaller text because some titles are long)
+	stroke white .529 behind fill
+Osaka: 8pt - Normal - Hiragino Kaku Gothic Std
+	stroke white .55mm behind fill
+
+Card Title text
+---------------
+Seoul: 18pt - Heavy - Apple SD Gothic Neo
+	stroke white .85mm behind fill
+Paris: 16pt - Heavy - Arial Black (Roman numerals: 20pt, Long text 14pt)
+	stroke white .847 behind fill
+Osaka: 16pt - Normal - Hiragino Kaku Gothic Std (Normal/Bold/Ultra-Bold all the same)
+	stroke white .85mm behind fill
+
+Card ward map
+-------------
+(Seoul, Paris, Osaka)
+Background:
+	fill e6e6e6ff
+	outline white .2mm
+	stroke behind fill
+Current ward:
+	fill: color
+	outline black .3mm
+	stroke in front of fill
+
+Card ward map station text
+--------------------------
+Seoul: 8pt - Heavy - Apple SD Gothic Neo
+	stroke white .65mm behind fill
+Paris: 8pt - Heavy - Arial Black
+	stroke white .65mm behind fill
+Osaka: 6pt - Normal - Hiragino Kaku Gothic Std
+	stroke white .65mm behind fill
+
