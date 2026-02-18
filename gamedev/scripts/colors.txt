@@ -1,12 +1,29 @@
 Shinjuku map/card colors:
 
-Green: d4efd2ff
-Orange: f2ddcaff
-Yellow: e9eac3ff
-Purple: dadbf1ff
-Pink: efe1eeff
+         Light      Dark
+ Green: d4efd2ff   aed7adff
+Orange: f2ddcaff   ddc1a8ff
+Yellow: e9eac3ff   d2d4a4ff
+Purple: dadbf1ff   c1c3e4ff
+  Pink: efe1eeff   dac6d8ff
 
-Gray: e6e6e6ff
+  Gray: e6e6e6ff              Background
+
+  Blue: d2eef9ff              Water
+
+Map sizes
+=========
+
+Ward borders:
+	stroke white 1.75mm, fill over stroke
+
+Ward internal borders (rivers)
+	stroke DARK .5mm, fill over stroke
+
+Water dividing line clones:
+	63bde2b2 2px dotted stroke, pattern 3 3
+	e0f2f9b2 4px stroke
+
 
 Card sizes
 ==========
