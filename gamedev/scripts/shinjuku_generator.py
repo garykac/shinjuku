@@ -17,32 +17,47 @@ class ShinjukuGenerator():
 		try:
 			opts, args = getopt.getopt(sys.argv[1:],
 				'cm',
-				['cards', 'map'])
+				['cards', 'map', "pnp", "ppg"])
 		except getopt.GetoptError:
 			usage()
 
+		# Primary options.
 		gen_cards = False
 		gen_map = False
+
+		# Generate 18-up cards for PPG.
+		gen_ppg = False
+		# Generate 9-up cards and map for PnP.
+		gen_pnp = False
 	
 		for opt, arg in opts:
 			if opt in ('-c', '--cards'):
 				gen_cards = True
 			if opt in ('-m', '--map'):
 				gen_map = True
-	
-		# By default, generate everything.
+			if opt in ('--pnp'):
+				gen_pnp = True
+			if opt in ('--ppg'):
+				gen_ppg = True
+
+		# If no primary options are specified, generate everything.
 		if not gen_cards and not gen_map:
 			gen_cards = True
 			gen_map = True
+			gen_pnp = True
+			gen_ppg = True
 
 		if gen_cards:
 			cardgen = ShinjukuCardGenerator(self.dir, self.options)
 			cardgen.export_cards()
 			cardgen.export_card_backs()
-			cardgen.export_18up()
-			cardgen.export_9up()
+			if gen_pnp:
+				cardgen.export_9up()
+			if gen_ppg:
+				cardgen.export_18up()
 
 		if gen_map:
 			mapgen = ShinjukuMapGenerator(self.dir, self.options)
 			mapgen.export_map()
-			mapgen.export_split_pdf()
+			if gen_pnp:
+				mapgen.export_split_pdf()
