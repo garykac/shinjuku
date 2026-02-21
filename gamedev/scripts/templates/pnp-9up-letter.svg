@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
-   sodipodi:docname="_template_letter.svg"
+   sodipodi:docname="pnp-9up-letter.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -31,7 +31,7 @@
      inkscape:window-width="1600"
      inkscape:window-height="987"
      inkscape:window-x="285"
-     inkscape:window-y="1642"
+     inkscape:window-y="1614"
      inkscape:window-maximized="0"
      inkscape:current-layer="page01" /><defs
      id="defs2" /><g
@@ -124,7 +124,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Lines"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><g
        id="g821"
        transform="translate(2.8838617,-8.7999793)"><path
