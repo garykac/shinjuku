@@ -70,9 +70,9 @@ class ShinjukuMapGenerator:
 		for i in range(0, 9):
 			png = os.path.join(map_dir, f'tile-{i}.png')
 			a4_pdf = os.path.join(map_dir, f'tile-{i}-a4.pdf')
-			ImageMagick.create_pdf_page(png, a4_pdf, A4_WIDTH, A4_HEIGHT, 45, 65)
+			ImageMagick.create_pdf_page(png, a4_pdf, A4_WIDTH, A4_HEIGHT, 45, 60)
 			letter_pdf = os.path.join(map_dir, f'tile-{i}-letter.pdf')
-			ImageMagick.create_pdf_page(png, letter_pdf, LETTER_WIDTH, LETTER_HEIGHT, 70, 35)
+			ImageMagick.create_pdf_page(png, letter_pdf, LETTER_WIDTH, LETTER_HEIGHT, 55, 35)
 
 		print("...combining pdfs...")
 		pdf_name = f"{self.options['map_base_pdf']}-a4.pdf"
