@@ -24,6 +24,28 @@ Water dividing line clones:
 	63bde2b2 2px dotted stroke, pattern 3 3
 	e0f2f9b2 4px stroke
 
+Stations
+15mm diameter w 1mm black stroke
+Shadow:
+	15x15mm circle with 5mm DARK stroke
+	
+Dept Store Hexes
+Hex 20.299 x 17.579mm (without border)
+	22.608 x 19.579 with 2mm black stroke added
+Center dot: 5x5mm black circle (no stroke)
+Shadow:
+	same size with 6mm DARK stroke
+	
+
+Track
+White stroke 1.5mm wide
+"Clone original path (LPE)"
+Paste pattern
+Clone black fill with no stroke
+
+Customer Queue card rectangles
+2.5x3.5" with 1.5mm black stroke
+
 
 Card sizes
 ==========
