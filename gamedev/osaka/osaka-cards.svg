@@ -29,10 +29,10 @@
      inkscape:cy="148.75"
      inkscape:window-width="2288"
      inkscape:window-height="1182"
-     inkscape:window-x="1127"
-     inkscape:window-y="1623"
+     inkscape:window-x="1152"
+     inkscape:window-y="1501"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="g939"
      showguides="false" /><defs
      id="defs1"><inkscape:path-effect
        effect="clone_original"
@@ -4056,7 +4056,8 @@
      inkscape:groupmode="layer"
      id="g970"
      inkscape:label="Ward Map Overlay"
-     style="display:inline;opacity:1"><g
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true"><g
        id="card-map-yodogawa"
        inkscape:label="Yodogawa"
        style="display:none"
