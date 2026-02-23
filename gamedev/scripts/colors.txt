@@ -7,9 +7,10 @@ Yellow: e9eac3ff   d2d4a4ff
 Purple: dadbf1ff   c1c3e4ff
   Pink: efe1eeff   dac6d8ff
 
-  Gray: e6e6e6ff              Background
+  Gray: e6e6e6ff   bfbfbfff   Background
+                   666666ff   Station Label text
 
-  Blue: d2eef9ff              Water
+  Blue: d2eef9ff   9fd6edff   Water
 
 Map sizes
 =========
@@ -17,34 +18,64 @@ Map sizes
 Ward borders:
 	stroke white 1.75mm, fill over stroke
 
-Ward internal borders (rivers)
+Ward internal borders (for rivers)
 	stroke DARK .5mm, fill over stroke
 
 Water dividing line clones:
-	63bde2b2 2px dotted stroke, pattern 3 3
-	e0f2f9b2 4px stroke
+	87cce9ff  2px dotted stroke, pattern 3 3
+	dbf1f9ff  4px stroke
+
+Water text Labels
+	fill: 87cce9ff
+	stroke: dbf1f9ff 1mm - stroke behind fill
+Paris: Arial Narrow - Bold Italic - 12pt
+Osaka: Hiragino Kaku Gothic Std - Normal - 10pt
+Seoul: Apple SD Gothic Neo - Ultra Bold - 10pt
 
 Stations
-15mm diameter w 1mm black stroke
-Shadow:
-	15x15mm circle with 5mm DARK stroke
+	15mm diameter w 1mm black stroke
+	Shadow:
+		15x15mm circle with 5mm DARK stroke
 	
 Dept Store Hexes
-Hex 20.299 x 17.579mm (without border)
-	22.608 x 19.579 with 2mm black stroke added
-Center dot: 5x5mm black circle (no stroke)
-Shadow:
-	same size with 6mm DARK stroke
+	Hex 20.299 x 17.579mm (without border)
+		22.608 x 19.579 with 2mm black stroke added
+	Center dot: 5x5mm black circle (no stroke)
+	Shadow:
+		same size with 6mm DARK stroke
 	
-
 Track
-White stroke 1.5mm wide
-"Clone original path (LPE)"
-Paste pattern
-Clone black fill with no stroke
+	White stroke 1.5mm wide
+	"Clone original path (LPE)"
+	Add Path Effect: "Pattern Along Path"
+	Paste pattern onto new cloned path
+	Clone: black fill with no stroke
+	Lock clone
 
+Permanent track between stations:
+	Draw 2 lines between center points of connected stations:
+	Overlay:
+		2pt white stroke
+	Underlay:
+		4pt black stroke of connecting 2 regular stations
+		5pt black if connecting a department store
+	
 Customer Queue card rectangles
-2.5x3.5" with 1.5mm black stroke
+	2.5 x 3.5" with 1.5mm black stroke
+	rect radius (in SVG) is rx=22.5, ry=22.5
+
+Ward Label text
+black text with 1mm white border
+Paris: Arial Black - Heavy - 20pt Roman Numerals, 18pt name
+Seoul: Apple SD Gothic Neo - Ultra Bold - 22pt
+Osaka: Hiragino Kaku Gothic Std - Normal - 18pt
+
+Station Label text
+fill text 666666ff with 1mm white border
+Paris: Arial Black - Heavy - 14pt
+Seoul: Apple SD Gothic Neo - Ultra Bold - 14pt
+Osaka: Hiragino Kaku Gothic Std - Normal - 11pt
+
 
 
 Card sizes
@@ -57,20 +88,20 @@ one space between and two spaces before the ward name
 
 Card index text
 ---------------
-Seoul: 10pt - Ultra Bold  - Apple SD Gothic Neo
+Seoul: Apple SD Gothic Neo - Ultra Bold - 10pt
 	stroke white .55mm behind fill
-Paris: 9pt - Bold - Arial (smaller text because some titles are long)
+Paris: Arial - Bold - 9pt (smaller text because some titles are long)
 	stroke white .529 behind fill
-Osaka: 8pt - Normal - Hiragino Kaku Gothic Std
+Osaka: Hiragino Kaku Gothic Std - Normal - 8pt
 	stroke white .55mm behind fill
 
 Card Title text
 ---------------
-Seoul: 18pt - Heavy - Apple SD Gothic Neo
+Seoul: Apple SD Gothic Neo - Heavy - 18pt
 	stroke white .85mm behind fill
-Paris: 16pt - Heavy - Arial Black (Roman numerals: 20pt, Long text 14pt)
+Paris: Arial Black - Heavy - 16pt (Roman numerals: 20pt, Long text 14pt)
 	stroke white .847 behind fill
-Osaka: 16pt - Normal - Hiragino Kaku Gothic Std (Normal/Bold/Ultra-Bold all the same)
+Osaka: Hiragino Kaku Gothic Std - Normal - 16pt (Normal/Bold/Ultra-Bold all the same)
 	stroke white .85mm behind fill
 
 Card ward map
@@ -87,10 +118,32 @@ Current ward:
 
 Card ward map station text
 --------------------------
-Seoul: 8pt - Heavy - Apple SD Gothic Neo
+Seoul: Apple SD Gothic Neo - Heavy - 8pt
 	stroke white .65mm behind fill
-Paris: 8pt - Heavy - Arial Black
+Paris: Arial Black - Heavy - 8pt
 	stroke white .65mm behind fill
-Osaka: 6pt - Normal - Hiragino Kaku Gothic Std
+Osaka: Hiragino Kaku Gothic Std - Normal - 6pt
 	stroke white .65mm behind fill
+
+
+Layers in Map file
+==================
+
+Reference objects
+Gameboard outline
+Title
+Card Queue
+Bonus Tokens
+Station Labels
+Ward Labels
+Card counts
+Direct Connections Over
+Stations
+Direct Connections Underlay
+Track
+Station Shadows
+Ward outlines
+Water
+Background
+
 
