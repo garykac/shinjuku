@@ -17,6 +17,8 @@ TEMPLATE_DIR = "templates"
 TEMP_DIR = "_combined"
 TEMP_PNG = "_temp.png"
 
+PPG_18UP_DIR = 'ppg-18up'
+
 class ShinjukuCardGenerator:
 	def __init__(self, dir, options):
 		self.dir = dir
@@ -177,7 +179,7 @@ class ShinjukuCardGenerator:
 	def export_18up_back(self):
 		template = self.copy_template("ppg-18up-flipped.svg", self.card_dir, "_template.svg")
 
-		outdir = self.make_card_subdir(self.options['ppg_18up_dir'])
+		outdir = self.make_card_subdir(PPG_18UP_DIR)
 		bleed_dir = self.make_card_subdir(self.options['card_png_bleed_dir'])
 
 		print(f"...back")
@@ -194,7 +196,7 @@ class ShinjukuCardGenerator:
 	def export_18up_pages(self):
 		template = self.copy_template("ppg-18up.svg", self.card_dir, "_template.svg")
 		
-		outdir = self.make_card_subdir(self.options['ppg_18up_dir'])
+		outdir = self.make_card_subdir(PPG_18UP_DIR)
 		bleed_dir = os.path.join(self.card_dir, self.options['card_png_bleed_dir'])
 		
 		# Copy batch of card images for template.

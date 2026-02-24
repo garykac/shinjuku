@@ -115,9 +115,6 @@ options = {
 	'auto_card_layer_count': 'card-count-',
 	'auto_card_layer_color': 'card-color-',
 	
-	# PrintPlayGames 18up
-	'ppg_18up_dir': 'ppg-18up',
-
 	# Map
 	'map_dir': 'map',
 	'map_png': 'osaka-map.png',
