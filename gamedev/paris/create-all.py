@@ -105,8 +105,7 @@ options = {
 	
 	# Map
 	'map_dir': 'map',
-	'map_png': 'paris-map.png',
-	'map_base_pdf': 'paris-map',
+	'map_basename': 'paris-map',
 	'map_landscape': False,
 	'map_export': "gameboard-export",
 }

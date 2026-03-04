@@ -32,10 +32,12 @@ class ShinjukuMapGenerator:
 		if not os.path.isdir(map_dir):
 			os.makedirs(map_dir);
 
-		png = os.path.join(map_dir, self.options['map_png'])
+		png = os.path.join(map_dir, f"{self.options['map_basename']}.png")
+		jpg = os.path.join(map_dir, f"{self.options['map_basename']}.jpg")
 		temp_png = os.path.join(map_dir, TEMP_PNG)
 		self.export_map_png(svg, temp_png)
 		ImageMagick.force_300_dpi(temp_png, png)
+		ImageMagick.png_to_jpg(png, 80, jpg)
 		os.remove(temp_png)
 
 	def export_map_png(self, svg, png):
@@ -53,7 +55,7 @@ class ShinjukuMapGenerator:
 	def export_split_pdf(self):
 		print("Exporting map into split pdf files...")
 		map_dir = os.path.join(self.dir, self.options['map_dir'])
-		png = os.path.join(map_dir, self.options['map_png'])
+		png = os.path.join(map_dir, f"{self.options['map_basename']}.png")
 		padded_png = os.path.join(map_dir, 'map_pad.png')
 		rotate = self.options["map_landscape"]
 
@@ -75,12 +77,12 @@ class ShinjukuMapGenerator:
 			ImageMagick.create_pdf_page(png, letter_pdf, LETTER_WIDTH, LETTER_HEIGHT, 55, 35)
 
 		print("...combining pdfs...")
-		pdf_name = f"{self.options['map_base_pdf']}-a4.pdf"
+		pdf_name = f"{self.options['map_basename']}-a4.pdf"
 		out_pdf = os.path.join(map_dir, pdf_name)
 		in_pdfs = [os.path.join(map_dir, f'tile-{x}-a4.pdf') for x in range(0,9)]
 		GhostScript.combine_pdfs(out_pdf, in_pdfs)
 				
-		pdf_name = f"{self.options['map_base_pdf']}-letter.pdf"
+		pdf_name = f"{self.options['map_basename']}-letter.pdf"
 		out_pdf = os.path.join(map_dir, pdf_name)
 		in_pdfs = [os.path.join(map_dir, f'tile-{x}-letter.pdf') for x in range(0,9)]
 		GhostScript.combine_pdfs(out_pdf, in_pdfs)

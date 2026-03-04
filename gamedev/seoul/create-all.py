@@ -119,8 +119,7 @@ options = {
 	
 	# Map
 	'map_dir': 'map',
-	'map_png': 'seoul-map.png',
-	'map_base_pdf': 'seoul-map',
+	'map_basename': 'seoul-map',
 	'map_landscape': True,
 	'map_export': "gameboard-export",
 }

@@ -117,8 +117,7 @@ options = {
 	
 	# Map
 	'map_dir': 'map',
-	'map_png': 'osaka-map.png',
-	'map_base_pdf': 'osaka-map',
+	'map_basename': 'osaka-map',
 	'map_landscape': True,
 	'map_export': "gameboard-export",
 }
