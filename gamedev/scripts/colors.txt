@@ -70,12 +70,12 @@ Map text labels:
 		black text with 1mm white border
 		Paris: Arial Black - Heavy - 20pt Roman Numerals, 18pt name
 		Seoul: Apple SD Gothic Neo - Ultra Bold - 22pt
-		Osaka: Hiragino Kaku Gothic Std - Normal - 18pt
+		Osaka: Hiragino Kaku Gothic Std - Normal - 22pt Japanese / 18pt Roman
 
 	Station Label text
 		fill text 666666ff with 1mm white border
 		Paris: Arial Black - Heavy - 14pt
-		Seoul: Apple SD Gothic Neo - Ultra Bold - 14pt
+		Seoul: Apple SD Gothic Neo - Ultra Bold - 13pt
 		Osaka: Hiragino Kaku Gothic Std - Normal - 11pt
 
 	Water text Labels
