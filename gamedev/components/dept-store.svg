@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.607832mm"
+   height="19.579313mm"
+   viewBox="0 0 22.607831 19.579314"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="dept-store.svg"
+   inkscape:export-filename="dept-store.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9158765"
+     inkscape:cx="46.975889"
+     inkscape:cy="28.44651"
+     inkscape:window-width="1344"
+     inkscape:window-height="639"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.741755,-46.301954)">
+    <g
+       id="g74"
+       transform="matrix(0.99999806,0,0,0.99999806,-80.74229,430.89847)"
+       inkscape:label="Department Store Station"
+       style="display:inline">
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.43144;stroke-dasharray:none;stroke-opacity:1"
+         id="path10-67"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="831.0434"
+         sodipodi:cy="651.68469"
+         sodipodi:r1="37.712234"
+         sodipodi:r2="32.659756"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="-8.6736174e-17"
+         inkscape:randomized="0"
+         d="m 863.70315,670.54081 -32.65975,18.85612 -32.65976,-18.85612 0,-37.71224 32.65976,-18.85611 32.65975,18.85612 z"
+         transform="matrix(0.23307126,0.13456374,-0.13456374,0.23307126,35.789119,-638.52478)"
+         inkscape:label="hex outline" />
+      <circle
+         cy="-374.80753"
+         cx="141.78831"
+         id="circle4881-43-9"
+         style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="7.5000148"
+         inkscape:label="station circle size" />
+      <circle
+         cy="-374.8075"
+         cx="141.78831"
+         id="circle632"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.442405;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="center dot"
+         r="2.500005" />
+    </g>
+  </g>
+</svg>
