@@ -13,13 +13,23 @@ class ShinjukuGenerator():
 		self.dir = dir
 		self.options = options
 
+	def usage(self):
+		print(f"Usage: {sys.argv[0]} <options>")
+		print("where <options> are:")
+		print("  --help [-?]")
+		print("  --cards")
+		print("  --map")
+		print("  --png")
+		print("  --ppg")
+		exit()
+
 	def Generate(self):
 		try:
 			opts, args = getopt.getopt(sys.argv[1:],
-				'cm',
-				['cards', 'map', "pnp", "ppg"])
+				'?cm',
+				['help', 'cards', 'map', "pnp", "ppg"])
 		except getopt.GetoptError:
-			usage()
+			self.usage()
 
 		# Primary options.
 		gen_cards = False
@@ -31,6 +41,8 @@ class ShinjukuGenerator():
 		gen_pnp = False
 	
 		for opt, arg in opts:
+			if opt in ('-?', '--help'):
+				self.usage()
 			if opt in ('-c', '--cards'):
 				gen_cards = True
 			if opt in ('-m', '--map'):
